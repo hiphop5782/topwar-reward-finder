@@ -1,6 +1,45 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-10T07:57:57.922Z",
-  "count": 0,
-  "locations": []
+  "updatedAt": "2026-08-10T12:06:07.148Z",
+  "count": 2,
+  "locations": [
+    {
+      "serverId": 3453,
+      "x": 522,
+      "y": 496,
+      "uid": "549096720171",
+      "username": "Zohaib",
+      "level": 100,
+      "allianceId": "500338883",
+      "allianceTag": "53~E",
+      "pointId": 254214,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4790526011472804353",
+        "players": [],
+        "num": 1,
+        "endTimeMilli": 1786365001201
+      },
+      "foundAt": "2026-08-10T12:05:23.859Z"
+    },
+    {
+      "serverId": 3453,
+      "x": 524,
+      "y": 462,
+      "uid": "559805428781",
+      "username": "성인콜라텍",
+      "level": 100,
+      "allianceId": "500338883",
+      "allianceTag": "53~E",
+      "pointId": 236807,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4790514355619428865",
+        "players": [],
+        "num": 75,
+        "endTimeMilli": 1786364306458
+      },
+      "foundAt": "2026-08-10T12:05:23.859Z"
+    }
+  ]
 }
