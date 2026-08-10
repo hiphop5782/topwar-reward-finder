@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-10T19:58:35.354Z",
-  "count": 13,
+  "updatedAt": "2026-08-10T20:00:00.908Z",
+  "count": 14,
   "locations": [
     {
       "serverId": 1378,
@@ -204,26 +204,6 @@
       "foundAt": "2026-08-10T19:22:44.796Z"
     },
     {
-      "serverId": 3526,
-      "x": 442,
-      "y": 302,
-      "uid": "8211631115647",
-      "username": "KK",
-      "level": 100,
-      "allianceId": "500350572",
-      "allianceTag": "fAfO",
-      "pointId": 154846,
-      "cityReward": {
-        "itemId": 260617002,
-        "instanceId": "4790943483518749703",
-        "players": [],
-        "num": 21,
-        "endTimeMilli": 1786389884474
-      },
-      "cityRewardSeenAt": "2026-08-10T19:19:19.113Z",
-      "foundAt": "2026-08-10T19:19:19.113Z"
-    },
-    {
       "serverId": 3532,
       "x": 428,
       "y": 628,
@@ -262,6 +242,46 @@
       },
       "cityRewardSeenAt": "2026-08-10T19:57:35.422Z",
       "foundAt": "2026-08-10T19:57:35.422Z"
+    },
+    {
+      "serverId": 4327,
+      "x": 429,
+      "y": 655,
+      "uid": "9392340799719",
+      "username": "Epsilon",
+      "level": 100,
+      "allianceId": "500437620",
+      "allianceTag": "x27s",
+      "pointId": 335575,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4791002398038543880",
+        "players": [],
+        "num": 9,
+        "endTimeMilli": 1786393396053
+      },
+      "cityRewardSeenAt": "2026-08-10T19:59:36.492Z",
+      "foundAt": "2026-08-10T19:59:36.492Z"
+    },
+    {
+      "serverId": 4327,
+      "x": 451,
+      "y": 655,
+      "uid": "9390810697959",
+      "username": "Grissom",
+      "level": 100,
+      "allianceId": "500437620",
+      "allianceTag": "x27s",
+      "pointId": 335586,
+      "cityReward": {
+        "itemId": 260617003,
+        "instanceId": "4791006935470165512",
+        "players": [],
+        "num": 5,
+        "endTimeMilli": 1786393666505
+      },
+      "cityRewardSeenAt": "2026-08-10T19:59:36.492Z",
+      "foundAt": "2026-08-10T19:59:36.492Z"
     }
   ]
 }
