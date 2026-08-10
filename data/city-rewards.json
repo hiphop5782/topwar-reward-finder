@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-10T19:57:10.013Z",
-  "count": 11,
+  "updatedAt": "2026-08-10T19:58:35.354Z",
+  "count": 13,
   "locations": [
     {
       "serverId": 1378,
@@ -222,6 +222,46 @@
       },
       "cityRewardSeenAt": "2026-08-10T19:19:19.113Z",
       "foundAt": "2026-08-10T19:19:19.113Z"
+    },
+    {
+      "serverId": 3532,
+      "x": 428,
+      "y": 628,
+      "uid": "8148988366173",
+      "username": "Simba",
+      "level": 100,
+      "allianceId": "500352885",
+      "allianceTag": "BT32",
+      "pointId": 321751,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4790990397563967489",
+        "players": [],
+        "num": 25,
+        "endTimeMilli": 1786392680769
+      },
+      "cityRewardSeenAt": "2026-08-10T19:58:10.981Z",
+      "foundAt": "2026-08-10T19:58:10.981Z"
+    },
+    {
+      "serverId": 3532,
+      "x": 433,
+      "y": 293,
+      "uid": "343737615211",
+      "username": "željko",
+      "level": 100,
+      "allianceId": "500352906",
+      "allianceTag": "32PI",
+      "pointId": 150233,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4791002148930033667",
+        "players": [],
+        "num": 10,
+        "endTimeMilli": 1786393381205
+      },
+      "cityRewardSeenAt": "2026-08-10T19:57:35.422Z",
+      "foundAt": "2026-08-10T19:57:35.422Z"
     }
   ]
 }
