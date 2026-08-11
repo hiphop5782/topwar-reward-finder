@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-11T07:47:32.988Z",
+  "updatedAt": "2026-08-11T07:49:16.376Z",
   "count": 11,
   "locations": [
     {
@@ -184,6 +184,26 @@
       "foundAt": "2026-08-11T07:12:20.488Z"
     },
     {
+      "serverId": 2988,
+      "x": 388,
+      "y": 550,
+      "uid": "899173407280",
+      "username": "yas109",
+      "level": 100,
+      "allianceId": "500292665",
+      "allianceTag": ".GFC",
+      "pointId": 281795,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4791713073928296456",
+        "players": [],
+        "num": 8,
+        "endTimeMilli": 1786435755637
+      },
+      "cityRewardSeenAt": "2026-08-11T07:48:39.428Z",
+      "foundAt": "2026-08-11T07:48:39.428Z"
+    },
+    {
       "serverId": 3436,
       "x": 388,
       "y": 396,
@@ -202,26 +222,6 @@
       },
       "cityRewardSeenAt": "2026-08-11T07:18:50.682Z",
       "foundAt": "2026-08-11T07:18:50.682Z"
-    },
-    {
-      "serverId": 3885,
-      "x": 460,
-      "y": 438,
-      "uid": "565207803724",
-      "username": "KONFUZ",
-      "level": 100,
-      "allianceId": "500380757",
-      "allianceTag": "TFMs",
-      "pointId": 224487,
-      "cityReward": {
-        "itemId": 260617002,
-        "instanceId": "4791672565307169280",
-        "players": [],
-        "num": 5,
-        "endTimeMilli": 1786433341135
-      },
-      "cityRewardSeenAt": "2026-08-11T07:08:22.678Z",
-      "foundAt": "2026-08-11T07:08:22.678Z"
     }
   ]
 }
