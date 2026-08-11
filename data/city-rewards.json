@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-11T15:28:30.266Z",
-  "count": 9,
+  "updatedAt": "2026-08-11T15:30:16.033Z",
+  "count": 10,
   "locations": [
     {
       "serverId": 200,
@@ -42,26 +42,6 @@
       },
       "cityRewardSeenAt": "2026-08-11T15:04:32.741Z",
       "foundAt": "2026-08-11T15:04:32.741Z"
-    },
-    {
-      "serverId": 650,
-      "x": 130,
-      "y": 170,
-      "uid": "453400322698",
-      "username": "妄言回しモトヤ",
-      "level": 100,
-      "allianceId": "375043",
-      "allianceTag": "MAME",
-      "pointId": 87106,
-      "cityReward": {
-        "itemId": 260617002,
-        "instanceId": "4792128478718006278",
-        "players": [],
-        "num": 7,
-        "endTimeMilli": 1786460515692
-      },
-      "cityRewardSeenAt": "2026-08-11T14:49:59.546Z",
-      "foundAt": "2026-08-11T14:49:59.546Z"
     },
     {
       "serverId": 742,
@@ -182,6 +162,46 @@
       },
       "cityRewardSeenAt": "2026-08-11T15:12:01.523Z",
       "foundAt": "2026-08-11T15:12:01.523Z"
+    },
+    {
+      "serverId": 3604,
+      "x": 384,
+      "y": 430,
+      "uid": "7899869285504",
+      "username": "二代目黒猫",
+      "level": 100,
+      "allianceId": "500357952",
+      "allianceTag": "S^F",
+      "pointId": 220353,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4792178750019872768",
+        "players": [],
+        "num": 8,
+        "endTimeMilli": 1786463512095
+      },
+      "cityRewardSeenAt": "2026-08-11T15:29:20.736Z",
+      "foundAt": "2026-08-11T15:29:20.736Z"
+    },
+    {
+      "serverId": 3604,
+      "x": 414,
+      "y": 412,
+      "uid": "7899856047232",
+      "username": "SEESAN",
+      "level": 100,
+      "allianceId": "500357952",
+      "allianceTag": "S^F",
+      "pointId": 211152,
+      "cityReward": {
+        "itemId": 260617003,
+        "instanceId": "4792167188974544904",
+        "players": [],
+        "num": 42,
+        "endTimeMilli": 1786462823003
+      },
+      "cityRewardSeenAt": "2026-08-11T15:29:20.736Z",
+      "foundAt": "2026-08-11T15:29:20.736Z"
     }
   ]
 }
