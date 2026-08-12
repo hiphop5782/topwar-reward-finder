@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-12T17:52:08.804Z",
+  "updatedAt": "2026-08-12T17:57:50.828Z",
   "count": 71,
   "locations": [
     {
@@ -1344,6 +1344,26 @@
       "foundAt": "2026-08-12T17:30:49.857Z"
     },
     {
+      "serverId": 4208,
+      "x": 173,
+      "y": 91,
+      "uid": "8983828533189",
+      "username": "Khaleesi",
+      "level": 100,
+      "allianceId": "500418355",
+      "allianceTag": "C_08",
+      "pointId": 46679,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4793758801111080967",
+        "players": [],
+        "num": 13,
+        "endTimeMilli": 1786557690479
+      },
+      "cityRewardSeenAt": "2026-08-12T17:56:23.863Z",
+      "foundAt": "2026-08-12T17:56:23.863Z"
+    },
+    {
       "serverId": 4256,
       "x": 462,
       "y": 434,
@@ -1402,26 +1422,6 @@
       },
       "cityRewardSeenAt": "2026-08-12T17:17:56.950Z",
       "foundAt": "2026-08-12T17:17:56.950Z"
-    },
-    {
-      "serverId": 4300,
-      "x": 484,
-      "y": 454,
-      "uid": "9341548728524",
-      "username": "moinmoin",
-      "level": 100,
-      "allianceId": "500432082",
-      "allianceTag": "UA|J",
-      "pointId": 232691,
-      "cityReward": {
-        "itemId": 260617002,
-        "instanceId": "4793732306296739849",
-        "players": [],
-        "num": 14,
-        "endTimeMilli": 1786556111265
-      },
-      "cityRewardSeenAt": "2026-08-12T17:17:46.473Z",
-      "foundAt": "2026-08-12T17:17:46.473Z"
     }
   ]
 }
