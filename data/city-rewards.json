@@ -1,8 +1,28 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-12T23:03:31.635Z",
-  "count": 39,
+  "updatedAt": "2026-08-12T23:04:26.929Z",
+  "count": 37,
   "locations": [
+    {
+      "serverId": 78,
+      "x": 421,
+      "y": 225,
+      "uid": "111917994104",
+      "username": "熱気バサラ",
+      "level": 100,
+      "allianceId": "58268",
+      "allianceTag": "HAd",
+      "pointId": 115411,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4794067836538493959",
+        "players": [],
+        "num": 8,
+        "endTimeMilli": 1786576110426
+      },
+      "cityRewardSeenAt": "2026-08-12T23:03:05.446Z",
+      "foundAt": "2026-08-12T23:03:05.446Z"
+    },
     {
       "serverId": 341,
       "x": 391,
@@ -722,66 +742,6 @@
       },
       "cityRewardSeenAt": "2026-08-12T22:58:43.668Z",
       "foundAt": "2026-08-12T22:58:43.668Z"
-    },
-    {
-      "serverId": 4208,
-      "x": 383,
-      "y": 383,
-      "uid": "9020766719961",
-      "username": "JOJO",
-      "level": 100,
-      "allianceId": "500418355",
-      "allianceTag": "C_08",
-      "pointId": 196288,
-      "cityReward": {
-        "itemId": 260617004,
-        "instanceId": "4794055483845566468",
-        "players": [],
-        "num": 24,
-        "endTimeMilli": 1786575374148
-      },
-      "cityRewardSeenAt": "2026-08-12T22:31:03.957Z",
-      "foundAt": "2026-08-12T22:31:03.957Z"
-    },
-    {
-      "serverId": 4208,
-      "x": 392,
-      "y": 372,
-      "uid": "9017002266585",
-      "username": "MobyD",
-      "level": 100,
-      "allianceId": "500418355",
-      "allianceTag": "C_08",
-      "pointId": 190661,
-      "cityReward": {
-        "itemId": 260617004,
-        "instanceId": "4794055691530723332",
-        "players": [],
-        "num": 47,
-        "endTimeMilli": 1786575386527
-      },
-      "cityRewardSeenAt": "2026-08-12T22:31:04.820Z",
-      "foundAt": "2026-08-12T22:31:04.820Z"
-    },
-    {
-      "serverId": 4208,
-      "x": 394,
-      "y": 366,
-      "uid": "9230316376176",
-      "username": "K9",
-      "level": 100,
-      "allianceId": "500418355",
-      "allianceTag": "C_08",
-      "pointId": 187590,
-      "cityReward": {
-        "itemId": 260617004,
-        "instanceId": "4794033075591897097",
-        "players": [],
-        "num": 167,
-        "endTimeMilli": 1786574038512
-      },
-      "cityRewardSeenAt": "2026-08-12T22:31:04.820Z",
-      "foundAt": "2026-08-12T22:31:04.820Z"
     }
   ]
 }
