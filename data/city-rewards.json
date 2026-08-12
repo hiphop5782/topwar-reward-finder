@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-12T20:32:11.289Z",
-  "count": 25,
+  "updatedAt": "2026-08-12T20:32:31.791Z",
+  "count": 24,
   "locations": [
     {
       "serverId": 1173,
@@ -244,6 +244,26 @@
       "foundAt": "2026-08-12T20:21:18.920Z"
     },
     {
+      "serverId": 2696,
+      "x": 422,
+      "y": 302,
+      "uid": "579855398841",
+      "username": "aula",
+      "level": 100,
+      "allianceId": "500244139",
+      "allianceTag": "Arv",
+      "pointId": 154836,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4793914118670454789",
+        "players": [],
+        "num": 15,
+        "endTimeMilli": 1786566948127
+      },
+      "cityRewardSeenAt": "2026-08-12T20:31:19.259Z",
+      "foundAt": "2026-08-12T20:31:19.259Z"
+    },
+    {
       "serverId": 2735,
       "x": 359,
       "y": 613,
@@ -462,46 +482,6 @@
       },
       "cityRewardSeenAt": "2026-08-12T20:18:59.024Z",
       "foundAt": "2026-08-12T20:18:59.024Z"
-    },
-    {
-      "serverId": 3922,
-      "x": 449,
-      "y": 617,
-      "uid": "355937248188",
-      "username": "FSale",
-      "level": 100,
-      "allianceId": "500382725",
-      "allianceTag": "S.An",
-      "pointId": 316129,
-      "cityReward": {
-        "itemId": 260617004,
-        "instanceId": "4793887711400207363",
-        "players": [],
-        "num": 36,
-        "endTimeMilli": 1786565374131
-      },
-      "cityRewardSeenAt": "2026-08-12T19:58:38.565Z",
-      "foundAt": "2026-08-12T19:58:38.565Z"
-    },
-    {
-      "serverId": 3922,
-      "x": 459,
-      "y": 623,
-      "uid": "8823665037099",
-      "username": "marjory",
-      "level": 100,
-      "allianceId": "500382725",
-      "allianceTag": "S.An",
-      "pointId": 319206,
-      "cityReward": {
-        "itemId": 260617004,
-        "instanceId": "4793905946271065097",
-        "players": [],
-        "num": 5,
-        "endTimeMilli": 1786566461014
-      },
-      "cityRewardSeenAt": "2026-08-12T19:58:38.565Z",
-      "foundAt": "2026-08-12T19:58:38.565Z"
     }
   ]
 }
