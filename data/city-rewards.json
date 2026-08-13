@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-13T13:23:38.827Z",
-  "count": 13,
+  "updatedAt": "2026-08-13T13:25:21.032Z",
+  "count": 14,
   "locations": [
     {
       "serverId": 500,
@@ -244,24 +244,44 @@
       "foundAt": "2026-08-13T13:18:05.435Z"
     },
     {
-      "serverId": 3277,
-      "x": 422,
-      "y": 286,
-      "uid": "7955438374093",
-      "username": "destroye",
+      "serverId": 2014,
+      "x": 414,
+      "y": 634,
+      "uid": "832081487224",
+      "username": "なつの",
       "level": 100,
-      "allianceId": "500318342",
-      "allianceTag": "JTr",
-      "pointId": 146644,
+      "allianceId": "400174636",
+      "allianceTag": "S2I4",
+      "pointId": 324816,
+      "cityReward": {
+        "itemId": 260617004,
+        "instanceId": "4794940601173785609",
+        "players": [],
+        "num": 27,
+        "endTimeMilli": 1786628131252
+      },
+      "cityRewardSeenAt": "2026-08-13T13:24:51.808Z",
+      "foundAt": "2026-08-13T13:24:51.808Z"
+    },
+    {
+      "serverId": 2014,
+      "x": 443,
+      "y": 291,
+      "uid": "814406879395",
+      "username": "パーフィニー",
+      "level": 100,
+      "allianceId": "400174563",
+      "allianceTag": "U214",
+      "pointId": 149214,
       "cityReward": {
         "itemId": 260617002,
-        "instanceId": "4794911417425304065",
+        "instanceId": "4794944351787531272",
         "players": [],
-        "num": 8,
-        "endTimeMilli": 1786626391765
+        "num": 16,
+        "endTimeMilli": 1786628354806
       },
-      "cityRewardSeenAt": "2026-08-13T12:51:07.009Z",
-      "foundAt": "2026-08-13T12:51:07.009Z"
+      "cityRewardSeenAt": "2026-08-13T13:24:09.873Z",
+      "foundAt": "2026-08-13T13:24:09.873Z"
     }
   ]
 }
