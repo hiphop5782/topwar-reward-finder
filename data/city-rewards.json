@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-14T23:18:19.940Z",
-  "count": 7,
+  "updatedAt": "2026-08-14T23:19:27.206Z",
+  "count": 6,
   "locations": [
     {
       "serverId": 542,
@@ -42,6 +42,26 @@
       },
       "cityRewardSeenAt": "2026-08-14T22:53:03.046Z",
       "foundAt": "2026-08-14T22:53:03.046Z"
+    },
+    {
+      "serverId": 1805,
+      "x": 365,
+      "y": 469,
+      "uid": "338034762578",
+      "username": "Woody🌳",
+      "level": 100,
+      "allianceId": "500015361",
+      "allianceTag": "05T",
+      "pointId": 240311,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4797005182943500808",
+        "players": [],
+        "num": 2,
+        "endTimeMilli": 1786751189915
+      },
+      "cityRewardSeenAt": "2026-08-14T23:18:41.210Z",
+      "foundAt": "2026-08-14T23:18:41.210Z"
     },
     {
       "serverId": 2953,
@@ -102,46 +122,6 @@
       },
       "cityRewardSeenAt": "2026-08-14T23:15:08.097Z",
       "foundAt": "2026-08-14T23:15:08.097Z"
-    },
-    {
-      "serverId": 4183,
-      "x": 390,
-      "y": 528,
-      "uid": "9189036888151",
-      "username": "JaCkC✦",
-      "level": 100,
-      "allianceId": "500413603",
-      "allianceTag": "EU83",
-      "pointId": 270532,
-      "cityReward": {
-        "itemId": 260617003,
-        "instanceId": "4796951898775137798",
-        "players": [],
-        "num": 25,
-        "endTimeMilli": 1786748013931
-      },
-      "cityRewardSeenAt": "2026-08-14T22:45:52.326Z",
-      "foundAt": "2026-08-14T22:45:52.326Z"
-    },
-    {
-      "serverId": 4183,
-      "x": 414,
-      "y": 536,
-      "uid": "9139343560763",
-      "username": "sniper",
-      "level": 100,
-      "allianceId": "500413603",
-      "allianceTag": "EU83",
-      "pointId": 274640,
-      "cityReward": {
-        "itemId": 260617002,
-        "instanceId": "4796956572622302724",
-        "players": [],
-        "num": 18,
-        "endTimeMilli": 1786748292514
-      },
-      "cityRewardSeenAt": "2026-08-14T22:46:00.837Z",
-      "foundAt": "2026-08-14T22:46:00.837Z"
     }
   ]
 }
