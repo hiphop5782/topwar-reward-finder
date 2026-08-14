@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-14T21:33:57.948Z",
-  "count": 10,
+  "updatedAt": "2026-08-14T21:34:01.479Z",
+  "count": 11,
   "locations": [
     {
       "serverId": 1337,
@@ -202,6 +202,26 @@
       },
       "cityRewardSeenAt": "2026-08-14T21:16:00.776Z",
       "foundAt": "2026-08-14T21:16:00.776Z"
+    },
+    {
+      "serverId": 4281,
+      "x": 409,
+      "y": 385,
+      "uid": "9324137910473",
+      "username": "Raerae",
+      "level": 100,
+      "allianceId": "500428143",
+      "allianceTag": "FSOD",
+      "pointId": 197325,
+      "cityReward": {
+        "itemId": 260617003,
+        "instanceId": "4796893184072446466",
+        "players": [],
+        "num": 6,
+        "endTimeMilli": 1786744514262
+      },
+      "cityRewardSeenAt": "2026-08-14T21:33:06.766Z",
+      "foundAt": "2026-08-14T21:33:06.766Z"
     }
   ]
 }
