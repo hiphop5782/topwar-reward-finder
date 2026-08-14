@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-14T22:28:28.853Z",
-  "count": 9,
+  "updatedAt": "2026-08-14T22:29:19.066Z",
+  "count": 8,
   "locations": [
     {
       "serverId": 193,
@@ -42,6 +42,26 @@
       },
       "cityRewardSeenAt": "2026-08-14T21:59:28.636Z",
       "foundAt": "2026-08-14T21:59:28.636Z"
+    },
+    {
+      "serverId": 1552,
+      "x": 395,
+      "y": 293,
+      "uid": "552540509168",
+      "username": "李湖ʚ🍅ɞ",
+      "level": 100,
+      "allianceId": "771513",
+      "allianceTag": "KisS",
+      "pointId": 150214,
+      "cityReward": {
+        "itemId": 260617004,
+        "instanceId": "4796944721396899841",
+        "players": [],
+        "num": 9,
+        "endTimeMilli": 1786747586126
+      },
+      "cityRewardSeenAt": "2026-08-14T22:28:06.341Z",
+      "foundAt": "2026-08-14T22:28:06.341Z"
     },
     {
       "serverId": 2587,
@@ -142,46 +162,6 @@
       },
       "cityRewardSeenAt": "2026-08-14T22:09:36.180Z",
       "foundAt": "2026-08-14T22:09:36.180Z"
-    },
-    {
-      "serverId": 4356,
-      "x": 388,
-      "y": 532,
-      "uid": "9450211447044",
-      "username": "Scuzz",
-      "level": 100,
-      "allianceId": "500443583",
-      "allianceTag": "Xcon",
-      "pointId": 272579,
-      "cityReward": {
-        "itemId": 260617004,
-        "instanceId": "4796906673927227395",
-        "players": [],
-        "num": 53,
-        "endTimeMilli": 1786745318320
-      },
-      "cityRewardSeenAt": "2026-08-14T21:55:40.542Z",
-      "foundAt": "2026-08-14T21:55:40.542Z"
-    },
-    {
-      "serverId": 4356,
-      "x": 398,
-      "y": 536,
-      "uid": "9442167361789",
-      "username": "HIM",
-      "level": 100,
-      "allianceId": "500443583",
-      "allianceTag": "Xcon",
-      "pointId": 274632,
-      "cityReward": {
-        "itemId": 260617002,
-        "instanceId": "4796896865631209472",
-        "players": [],
-        "num": 61,
-        "endTimeMilli": 1786744733700
-      },
-      "cityRewardSeenAt": "2026-08-14T21:55:49.449Z",
-      "foundAt": "2026-08-14T21:55:49.449Z"
     }
   ]
 }
