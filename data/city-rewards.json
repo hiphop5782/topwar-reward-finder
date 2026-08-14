@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-14T05:36:32.691Z",
-  "count": 18,
+  "updatedAt": "2026-08-14T05:36:39.140Z",
+  "count": 20,
   "locations": [
     {
       "serverId": 193,
@@ -362,6 +362,46 @@
       },
       "cityRewardSeenAt": "2026-08-14T05:34:52.594Z",
       "foundAt": "2026-08-14T05:34:52.594Z"
+    },
+    {
+      "serverId": 3407,
+      "x": 360,
+      "y": 506,
+      "uid": "813950474403",
+      "username": "소주Master",
+      "level": 100,
+      "allianceId": "500332947",
+      "allianceTag": "07_S",
+      "pointId": 259253,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4795931838220246537",
+        "players": [],
+        "num": 12,
+        "endTimeMilli": 1786687213584
+      },
+      "cityRewardSeenAt": "2026-08-14T05:35:49.833Z",
+      "foundAt": "2026-08-14T05:35:49.833Z"
+    },
+    {
+      "serverId": 3407,
+      "x": 444,
+      "y": 462,
+      "uid": "356565812153",
+      "username": "REDMAN",
+      "level": 100,
+      "allianceId": "500333065",
+      "allianceTag": "07_N",
+      "pointId": 236767,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4795920611444170242",
+        "players": [],
+        "num": 14,
+        "endTimeMilli": 1786686544416
+      },
+      "cityRewardSeenAt": "2026-08-14T05:35:50.720Z",
+      "foundAt": "2026-08-14T05:35:50.720Z"
     }
   ]
 }
