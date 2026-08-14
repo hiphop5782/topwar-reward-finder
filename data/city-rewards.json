@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-14T00:15:00.783Z",
-  "count": 48,
+  "updatedAt": "2026-08-14T00:15:58.632Z",
+  "count": 49,
   "locations": [
     {
       "serverId": 184,
@@ -644,26 +644,6 @@
       "foundAt": "2026-08-13T23:55:42.821Z"
     },
     {
-      "serverId": 2939,
-      "x": 410,
-      "y": 332,
-      "uid": "900730841648",
-      "username": "ガングリオン",
-      "level": 100,
-      "allianceId": "500285869",
-      "allianceTag": "MtFJ",
-      "pointId": 170190,
-      "cityReward": {
-        "itemId": 260617004,
-        "instanceId": "4795569687013815810",
-        "players": [],
-        "num": 36,
-        "endTimeMilli": 1786665627690
-      },
-      "cityRewardSeenAt": "2026-08-13T23:42:57.854Z",
-      "foundAt": "2026-08-13T23:42:57.854Z"
-    },
-    {
       "serverId": 3051,
       "x": 340,
       "y": 462,
@@ -962,6 +942,46 @@
       },
       "cityRewardSeenAt": "2026-08-13T23:48:36.406Z",
       "foundAt": "2026-08-13T23:48:36.406Z"
+    },
+    {
+      "serverId": 3627,
+      "x": 423,
+      "y": 315,
+      "uid": "8449004244523",
+      "username": "コン",
+      "level": 100,
+      "allianceId": "500360093",
+      "allianceTag": "ZinT",
+      "pointId": 161492,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4795612758187726339",
+        "players": [],
+        "num": 2,
+        "endTimeMilli": 1786668194932
+      },
+      "cityRewardSeenAt": "2026-08-14T00:14:54.445Z",
+      "foundAt": "2026-08-14T00:14:54.445Z"
+    },
+    {
+      "serverId": 3627,
+      "x": 427,
+      "y": 291,
+      "uid": "9092094496794",
+      "username": "カール",
+      "level": 100,
+      "allianceId": "500360093",
+      "allianceTag": "ZinT",
+      "pointId": 149206,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4795601143790851588",
+        "players": [],
+        "num": 9,
+        "endTimeMilli": 1786667502660
+      },
+      "cityRewardSeenAt": "2026-08-14T00:14:45.919Z",
+      "foundAt": "2026-08-14T00:14:45.919Z"
     }
   ]
 }
