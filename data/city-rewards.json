@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-15T00:29:00.401Z",
-  "count": 44,
+  "updatedAt": "2026-08-15T00:29:00.638Z",
+  "count": 47,
   "locations": [
     {
       "serverId": 184,
@@ -422,6 +422,66 @@
       },
       "cityRewardSeenAt": "2026-08-15T00:19:18.375Z",
       "foundAt": "2026-08-15T00:19:18.375Z"
+    },
+    {
+      "serverId": 285,
+      "x": 440,
+      "y": 308,
+      "uid": "295855391012",
+      "username": "インペリアル",
+      "level": 100,
+      "allianceId": "100017395",
+      "allianceTag": "melo",
+      "pointId": 157917,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4797061257901521415",
+        "players": [],
+        "num": 13,
+        "endTimeMilli": 1786754532243
+      },
+      "cityRewardSeenAt": "2026-08-15T00:27:48.611Z",
+      "foundAt": "2026-08-15T00:27:48.611Z"
+    },
+    {
+      "serverId": 285,
+      "x": 444,
+      "y": 304,
+      "uid": "297623445851",
+      "username": "ヴィンランド",
+      "level": 100,
+      "allianceId": "100017395",
+      "allianceTag": "melo",
+      "pointId": 155871,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4797070919833106948",
+        "players": [],
+        "num": 9,
+        "endTimeMilli": 1786755108139
+      },
+      "cityRewardSeenAt": "2026-08-15T00:27:48.611Z",
+      "foundAt": "2026-08-15T00:27:48.611Z"
+    },
+    {
+      "serverId": 285,
+      "x": 584,
+      "y": 284,
+      "uid": "268251189533",
+      "username": "コールテン3",
+      "level": 83,
+      "allianceId": "100002600",
+      "allianceTag": "pocd",
+      "pointId": 145701,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4797048624624318984",
+        "players": [],
+        "num": 39,
+        "endTimeMilli": 1786753779241
+      },
+      "cityRewardSeenAt": "2026-08-15T00:27:47.777Z",
+      "foundAt": "2026-08-15T00:27:47.777Z"
     },
     {
       "serverId": 386,
