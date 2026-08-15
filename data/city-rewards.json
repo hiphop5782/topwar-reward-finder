@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-15T03:14:52.223Z",
+  "updatedAt": "2026-08-15T03:15:40.763Z",
   "count": 29,
   "locations": [
     {
@@ -324,6 +324,26 @@
       "foundAt": "2026-08-15T03:09:35.505Z"
     },
     {
+      "serverId": 2244,
+      "x": 397,
+      "y": 359,
+      "uid": "363790652394",
+      "username": "NACHO",
+      "level": 100,
+      "allianceId": "500225746",
+      "allianceTag": "Lb01",
+      "pointId": 184007,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4797227295717820423",
+        "players": [],
+        "num": 7,
+        "endTimeMilli": 1786764428868
+      },
+      "cityRewardSeenAt": "2026-08-15T03:14:38.545Z",
+      "foundAt": "2026-08-15T03:14:38.545Z"
+    },
+    {
       "serverId": 2698,
       "x": 334,
       "y": 502,
@@ -562,26 +582,6 @@
       },
       "cityRewardSeenAt": "2026-08-15T02:56:12.651Z",
       "foundAt": "2026-08-15T02:56:12.651Z"
-    },
-    {
-      "serverId": 4421,
-      "x": 412,
-      "y": 262,
-      "uid": "9603801059653",
-      "username": "Sean143",
-      "level": 99,
-      "allianceId": "500461270",
-      "allianceTag": "FCMX",
-      "pointId": 134351,
-      "cityReward": {
-        "itemId": 260617004,
-        "instanceId": "4797208520034519558",
-        "players": [],
-        "num": 15,
-        "endTimeMilli": 1786763309750
-      },
-      "cityRewardSeenAt": "2026-08-15T02:41:56.993Z",
-      "foundAt": "2026-08-15T02:41:56.993Z"
     }
   ]
 }
