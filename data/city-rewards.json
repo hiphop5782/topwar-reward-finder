@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-15T16:01:43.331Z",
-  "count": 49,
+  "updatedAt": "2026-08-15T16:02:46.586Z",
+  "count": 48,
   "locations": [
     {
       "serverId": 73,
@@ -362,6 +362,26 @@
       },
       "cityRewardSeenAt": "2026-08-15T16:00:52.494Z",
       "foundAt": "2026-08-15T16:00:52.494Z"
+    },
+    {
+      "serverId": 1132,
+      "x": 370,
+      "y": 328,
+      "uid": "388796581055",
+      "username": "Glemglem",
+      "level": 100,
+      "allianceId": "200129704",
+      "allianceTag": "noOb",
+      "pointId": 168122,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4798015616965990406",
+        "players": [],
+        "num": 2,
+        "endTimeMilli": 1786811416476
+      },
+      "cityRewardSeenAt": "2026-08-15T16:01:41.745Z",
+      "foundAt": "2026-08-15T16:01:41.745Z"
     },
     {
       "serverId": 1175,
@@ -942,46 +962,6 @@
       },
       "cityRewardSeenAt": "2026-08-15T15:29:52.715Z",
       "foundAt": "2026-08-15T15:29:52.715Z"
-    },
-    {
-      "serverId": 4368,
-      "x": 489,
-      "y": 385,
-      "uid": "9490156327184",
-      "username": "★彡Gala彡★",
-      "level": 97,
-      "allianceId": "500481934",
-      "allianceTag": "La'r",
-      "pointId": 197365,
-      "cityReward": {
-        "itemId": 260617004,
-        "instanceId": "4797981763414663171",
-        "players": [],
-        "num": 9,
-        "endTimeMilli": 1786809398647
-      },
-      "cityRewardSeenAt": "2026-08-15T15:29:18.736Z",
-      "foundAt": "2026-08-15T15:29:18.736Z"
-    },
-    {
-      "serverId": 4368,
-      "x": 495,
-      "y": 385,
-      "uid": "9493321421072",
-      "username": "AhmdAbba",
-      "level": 100,
-      "allianceId": "500481934",
-      "allianceTag": "La'r",
-      "pointId": 197368,
-      "cityReward": {
-        "itemId": 260617004,
-        "instanceId": "4797982047436152839",
-        "players": [],
-        "num": 10,
-        "endTimeMilli": 1786809415576
-      },
-      "cityRewardSeenAt": "2026-08-15T15:29:18.736Z",
-      "foundAt": "2026-08-15T15:29:18.736Z"
     }
   ]
 }
