@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-16T21:05:17.784Z",
-  "count": 7,
+  "updatedAt": "2026-08-16T21:06:44.264Z",
+  "count": 8,
   "locations": [
     {
       "serverId": 174,
@@ -142,6 +142,43 @@
       },
       "cityRewardSeenAt": "2026-08-16T21:03:13.403Z",
       "foundAt": "2026-08-16T21:03:13.403Z"
+    },
+    {
+      "serverId": 4526,
+      "x": 431,
+      "y": 293,
+      "uid": "9864857489838",
+      "username": "Bogey",
+      "level": 67,
+      "allianceId": "500496715",
+      "allianceTag": "[ENX",
+      "pointId": 150232,
+      "cityReward": {
+        "itemId": 260617001,
+        "instanceId": "4799759924200692736",
+        "players": [
+          {
+            "frameId": 159,
+            "playerInfo": "{\"nationalflag\":95,\"gender\":0,\"avatarurl\":\"hero_icon1115_new_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"madara\"}"
+          },
+          {
+            "frameId": 1,
+            "playerInfo": "{\"nationalflag\":10,\"gender\":0,\"avatarurl\":\"hero_icon007_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"fenixrlz\"}"
+          },
+          {
+            "frameId": 0,
+            "playerInfo": "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/819b358563af471feb5e4de4016ed987_1786242808.png?v=1786242810546\"],\"nationalflag\":38,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/819b358563af471feb5e4de4016ed987_1786242808.png?v=1786242810546\",\"username\":\"Kass\"}"
+          },
+          {
+            "frameId": 0,
+            "playerInfo": "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/9bea54f7d4e811028e094f271826eef1_1785275994.png?v=1785275998749\",\"https://knight-cdn.akamaized.net/headimg/9bea54f7d4e811028e094f271826eef1_1785474884.png?v=1785474885273\",\"https://knight-cdn.akamaized.net/headimg/9bea54f7d4e811028e094f271826eef1_1785648250.png?v=1785648251475\"],\"nationalflag\":177,\"gender\":0,\"avatarurl\":\"hero_icon308_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/9bea54f7d4e811028e094f271826eef1_1785474884.png?v=1785474885273\",\"username\":\"Haji\"}"
+          }
+        ],
+        "num": 24,
+        "endTimeMilli": 1786915385289
+      },
+      "cityRewardSeenAt": "2026-08-16T21:05:43.031Z",
+      "foundAt": "2026-08-16T21:05:43.031Z"
     }
   ]
 }
