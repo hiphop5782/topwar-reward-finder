@@ -1,8 +1,28 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-16T04:06:24.424Z",
-  "count": 16,
+  "updatedAt": "2026-08-16T04:07:27.043Z",
+  "count": 14,
   "locations": [
+    {
+      "serverId": 383,
+      "x": 649,
+      "y": 475,
+      "uid": "337358111104",
+      "username": "たぱぱ",
+      "level": 100,
+      "allianceId": "100019275",
+      "allianceTag": "s383",
+      "pointId": 243525,
+      "cityReward": {
+        "itemId": 260617003,
+        "instanceId": "4798734237706681858",
+        "players": [],
+        "num": 11,
+        "endTimeMilli": 1786854249610
+      },
+      "cityRewardSeenAt": "2026-08-16T04:06:41.899Z",
+      "foundAt": "2026-08-16T04:06:41.899Z"
+    },
     {
       "serverId": 466,
       "x": 549,
@@ -102,66 +122,6 @@
       },
       "cityRewardSeenAt": "2026-08-16T03:59:33.729Z",
       "foundAt": "2026-08-16T03:59:33.729Z"
-    },
-    {
-      "serverId": 1379,
-      "x": 423,
-      "y": 631,
-      "uid": "433036694952",
-      "username": "snɨᵽɇɍ🎖",
-      "level": 100,
-      "allianceId": "120200874",
-      "allianceTag": "LoCO",
-      "pointId": 323284,
-      "cityReward": {
-        "itemId": 260617002,
-        "instanceId": "4798692854153790981",
-        "players": [],
-        "num": 13,
-        "endTimeMilli": 1786851782958
-      },
-      "cityRewardSeenAt": "2026-08-16T03:33:41.209Z",
-      "foundAt": "2026-08-16T03:33:41.209Z"
-    },
-    {
-      "serverId": 1379,
-      "x": 450,
-      "y": 618,
-      "uid": "464885405190",
-      "username": "Wookie🌺",
-      "level": 100,
-      "allianceId": "120200874",
-      "allianceTag": "LoCO",
-      "pointId": 316642,
-      "cityReward": {
-        "itemId": 260617002,
-        "instanceId": "4798686586722764292",
-        "players": [],
-        "num": 13,
-        "endTimeMilli": 1786851409390
-      },
-      "cityRewardSeenAt": "2026-08-16T03:33:41.209Z",
-      "foundAt": "2026-08-16T03:33:41.209Z"
-    },
-    {
-      "serverId": 1379,
-      "x": 463,
-      "y": 635,
-      "uid": "393020789978",
-      "username": "Ogopogo",
-      "level": 100,
-      "allianceId": "120200874",
-      "allianceTag": "LoCO",
-      "pointId": 325352,
-      "cityReward": {
-        "itemId": 260617002,
-        "instanceId": "4798705567911298565",
-        "players": [],
-        "num": 8,
-        "endTimeMilli": 1786852540757
-      },
-      "cityRewardSeenAt": "2026-08-16T03:33:41.209Z",
-      "foundAt": "2026-08-16T03:33:41.209Z"
     },
     {
       "serverId": 1444,
