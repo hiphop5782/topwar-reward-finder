@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-16T17:36:37.621Z",
-  "count": 27,
+  "updatedAt": "2026-08-16T17:37:18.020Z",
+  "count": 29,
   "locations": [
     {
       "serverId": 1547,
@@ -587,6 +587,63 @@
       },
       "cityRewardSeenAt": "2026-08-16T17:27:57.494Z",
       "foundAt": "2026-08-16T17:27:57.494Z"
+    },
+    {
+      "serverId": 4380,
+      "x": 412,
+      "y": 608,
+      "uid": "9521434693916",
+      "username": "Zaphod",
+      "level": 91,
+      "allianceId": "500449845",
+      "allianceTag": "EVND",
+      "pointId": 311503,
+      "cityReward": {
+        "itemId": 260617001,
+        "instanceId": "4799560465449629704",
+        "players": [
+          {
+            "frameId": 4,
+            "playerInfo": "{\"nationalflag\":36,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"DSS\"}"
+          },
+          {
+            "frameId": 4,
+            "playerInfo": "{\"nationalflag\":110,\"gender\":0,\"avatarurl\":\"hero_icon009_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Mastino\"}"
+          },
+          {
+            "frameId": 0,
+            "playerInfo": "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"WWG1WGA\"}"
+          },
+          {
+            "frameId": 0,
+            "playerInfo": "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"hero_icon017_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Respect\"}"
+          }
+        ],
+        "num": 5,
+        "endTimeMilli": 1786903496621
+      },
+      "cityRewardSeenAt": "2026-08-16T17:36:45.866Z",
+      "foundAt": "2026-08-16T17:36:45.866Z"
+    },
+    {
+      "serverId": 4380,
+      "x": 511,
+      "y": 805,
+      "uid": "9518356042012",
+      "username": "Maciej",
+      "level": 75,
+      "allianceId": "500450078",
+      "allianceTag": "+v16",
+      "pointId": 412416,
+      "cityReward": {
+        "itemId": 260617003,
+        "instanceId": "4799556354159294471",
+        "players": [],
+        "num": 9,
+        "endTimeMilli": 1786903251569
+      },
+      "cityRewardSeenAt": "2026-08-16T17:37:06.818Z",
+      "foundAt": "2026-08-16T17:37:06.818Z"
     },
     {
       "serverId": 4381,
