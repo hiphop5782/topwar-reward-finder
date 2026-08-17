@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-17T13:18:42.003Z",
-  "count": 34,
+  "updatedAt": "2026-08-17T13:18:53.424Z",
+  "count": 35,
   "locations": [
     {
       "serverId": 216,
@@ -616,6 +616,43 @@
       },
       "cityRewardSeenAt": "2026-08-17T13:01:57.972Z",
       "foundAt": "2026-08-17T13:01:57.972Z"
+    },
+    {
+      "serverId": 4209,
+      "x": 389,
+      "y": 613,
+      "uid": "9039433666542",
+      "username": "LoryLory",
+      "level": 100,
+      "allianceId": "500418911",
+      "allianceTag": "RF1_",
+      "pointId": 314051,
+      "cityReward": {
+        "itemId": 260617001,
+        "instanceId": "4800729578582630913",
+        "players": [
+          {
+            "frameId": 154,
+            "playerInfo": "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"hero_icon002_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"flitzer\"}"
+          },
+          {
+            "frameId": 0,
+            "playerInfo": "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/eba3bd7d76c5cfb7f065c112742ab3bb_1761726913.png?v=1761726914150\",\"https://knight-cdn.akamaized.net/headimg/eba3bd7d76c5cfb7f065c112742ab3bb_1786845500.png?v=1786845501200\",\"https://knight-cdn.akamaized.net/headimg/eba3bd7d76c5cfb7f065c112742ab3bb_1775546186.png?v=1775546187282\",\"https://knight-cdn.akamaized.net/headimg/eba3bd7d76c5cfb7f065c112742ab3bb_1782020321.png?v=1782020321476\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/eba3bd7d76c5cfb7f065c112742ab3bb_1786845500.png?v=1786845501200\",\"username\":\"kojiro\"}"
+          },
+          {
+            "frameId": 0,
+            "playerInfo": "{\"nationalflag\":200,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Rodders\"}"
+          },
+          {
+            "frameId": 1,
+            "playerInfo": "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"hero_icon006_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Aureole\"}"
+          }
+        ],
+        "num": 19,
+        "endTimeMilli": 1786973181194
+      },
+      "cityRewardSeenAt": "2026-08-17T13:18:09.127Z",
+      "foundAt": "2026-08-17T13:18:09.127Z"
     },
     {
       "serverId": 4327,
