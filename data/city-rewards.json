@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-17T04:44:12.992Z",
-  "count": 38,
+  "updatedAt": "2026-08-17T04:44:17.814Z",
+  "count": 39,
   "locations": [
     {
       "serverId": 154,
@@ -716,6 +716,43 @@
       },
       "cityRewardSeenAt": "2026-08-17T04:16:33.388Z",
       "foundAt": "2026-08-17T04:16:33.388Z"
+    },
+    {
+      "serverId": 4256,
+      "x": 472,
+      "y": 432,
+      "uid": "9152205951047",
+      "username": "LuoFeng",
+      "level": 100,
+      "allianceId": "500423763",
+      "allianceTag": "BMG`",
+      "pointId": 221421,
+      "cityReward": {
+        "itemId": 260617001,
+        "instanceId": "4800222199768236036",
+        "players": [
+          {
+            "frameId": 1,
+            "playerInfo": "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/6e7ced379b9bcd7c6bcb4f7bd3a3a90b_1735897728.jpg?v=1735897729921\",\"https://knight-cdn.akamaized.net/headimg/6e7ced379b9bcd7c6bcb4f7bd3a3a90b_1769122348.png?v=1769122349384\",\"https://knight-cdn.akamaized.net/headimg/6e7ced379b9bcd7c6bcb4f7bd3a3a90b_1785077610.png?v=1785077611686\"],\"nationalflag\":158,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/6e7ced379b9bcd7c6bcb4f7bd3a3a90b_1769122348.png?v=1769122349384\",\"username\":\"Tipsy🐻\"}"
+          },
+          {
+            "frameId": 0,
+            "playerInfo": "{\"nationalflag\":166,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Vasya\"}"
+          },
+          {
+            "frameId": 159,
+            "playerInfo": "{\"nationalflag\":95,\"gender\":0,\"avatarurl\":\"hero_icon017_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"birdXbow\"}"
+          },
+          {
+            "frameId": 0,
+            "playerInfo": "{\"nationalflag\":75,\"gender\":0,\"avatarurl\":\"hero_icon215_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Obélix\"}"
+          }
+        ],
+        "num": 11,
+        "endTimeMilli": 1786942939060
+      },
+      "cityRewardSeenAt": "2026-08-17T04:43:21.625Z",
+      "foundAt": "2026-08-17T04:43:21.625Z"
     },
     {
       "serverId": 4418,
