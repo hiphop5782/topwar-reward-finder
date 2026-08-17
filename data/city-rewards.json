@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-17T11:12:36.191Z",
-  "count": 25,
+  "updatedAt": "2026-08-17T11:12:45.347Z",
+  "count": 27,
   "locations": [
     {
       "serverId": 188,
@@ -82,6 +82,63 @@
       },
       "cityRewardSeenAt": "2026-08-17T10:42:01.712Z",
       "foundAt": "2026-08-17T10:42:01.712Z"
+    },
+    {
+      "serverId": 1219,
+      "x": 425,
+      "y": 671,
+      "uid": "590968870103",
+      "username": "KRISH",
+      "level": 100,
+      "allianceId": "634574",
+      "allianceTag": ">Z0Z",
+      "pointId": 343765,
+      "cityReward": {
+        "itemId": 260617002,
+        "instanceId": "4800607771748304387",
+        "players": [],
+        "num": 8,
+        "endTimeMilli": 1786965920941
+      },
+      "cityRewardSeenAt": "2026-08-17T11:12:01.154Z",
+      "foundAt": "2026-08-17T11:12:01.154Z"
+    },
+    {
+      "serverId": 1219,
+      "x": 435,
+      "y": 659,
+      "uid": "624176731493",
+      "username": "Takezo🐾",
+      "level": 100,
+      "allianceId": "634574",
+      "allianceTag": ">Z0Z",
+      "pointId": 337626,
+      "cityReward": {
+        "itemId": 260617001,
+        "instanceId": "4800605867534288387",
+        "players": [
+          {
+            "frameId": 0,
+            "playerInfo": "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/586010875075.jpg?v=1632792861140\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"hero_icon160_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/586010875075.jpg?v=1632792861140\",\"username\":\"백호\"}"
+          },
+          {
+            "frameId": 4,
+            "playerInfo": "{\"nationalflag\":95,\"gender\":0,\"avatarurl\":\"hero_icon174_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"吉吉\"}"
+          },
+          {
+            "frameId": 0,
+            "playerInfo": "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/779564816414.jpg?v=1668435197005\",\"username\":\"seream🍅\"}"
+          },
+          {
+            "frameId": 49,
+            "playerInfo": "{\"nationalflag\":105,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/5a00a1249122ec175ac38b769ca2e71e_1728552645.jpg?v=1728552647085\",\"username\":\"KRISH\"}"
+          }
+        ],
+        "num": 7,
+        "endTimeMilli": 1786965807441
+      },
+      "cityRewardSeenAt": "2026-08-17T11:12:01.154Z",
+      "foundAt": "2026-08-17T11:12:01.154Z"
     },
     {
       "serverId": 1389,
