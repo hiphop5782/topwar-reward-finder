@@ -1,8 +1,37 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-17T04:04:22.784Z",
-  "count": 30,
+  "updatedAt": "2026-08-17T04:04:37.560Z",
+  "count": 31,
   "locations": [
+    {
+      "serverId": 884,
+      "x": 400,
+      "y": 280,
+      "uid": "343326061428",
+      "username": "RobC",
+      "level": 100,
+      "allianceId": "100149373",
+      "allianceTag": "=UC=",
+      "pointId": 143561,
+      "cityReward": {
+        "itemId": 260617001,
+        "instanceId": "4800170634942801921",
+        "players": [
+          {
+            "frameId": 69,
+            "playerInfo": "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon310_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Dave\"}"
+          },
+          {
+            "frameId": 0,
+            "playerInfo": "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"hero_icon129_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Hunter99\"}"
+          }
+        ],
+        "num": 12,
+        "endTimeMilli": 1786939865557
+      },
+      "cityRewardSeenAt": "2026-08-17T04:03:24.194Z",
+      "foundAt": "2026-08-17T04:03:24.194Z"
+    },
     {
       "serverId": 926,
       "x": 396,
