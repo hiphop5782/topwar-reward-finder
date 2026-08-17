@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-17T14:16:00.892Z",
-  "count": 25,
+  "updatedAt": "2026-08-17T14:16:10.831Z",
+  "count": 27,
   "locations": [
     {
       "serverId": 341,
@@ -42,6 +42,63 @@
       },
       "cityRewardSeenAt": "2026-08-17T13:46:32.311Z",
       "foundAt": "2026-08-17T13:46:32.311Z"
+    },
+    {
+      "serverId": 502,
+      "x": 424,
+      "y": 604,
+      "uid": "609132926245",
+      "username": "かきなお",
+      "level": 100,
+      "allianceId": "331434",
+      "allianceTag": "GEK",
+      "pointId": 309461,
+      "cityReward": {
+        "itemId": 260617001,
+        "instanceId": "4800788896273394690",
+        "players": [
+          {
+            "frameId": 0,
+            "playerInfo": "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/301096505846.jpg?v=1674355570070\",\"username\":\"ちびぼんびー\"}"
+          },
+          {
+            "frameId": 114,
+            "playerInfo": "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/386738680391.jpg?v=1674355340435\",\"username\":\"みにぼんびー\"}"
+          },
+          {
+            "frameId": 0,
+            "playerInfo": "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_7_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"username\":\"すなっぴっぴ\"}"
+          },
+          {
+            "frameId": 159,
+            "playerInfo": "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_8_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"むーみん\"}"
+          }
+        ],
+        "num": 16,
+        "endTimeMilli": 1786976716804
+      },
+      "cityRewardSeenAt": "2026-08-17T14:15:12.861Z",
+      "foundAt": "2026-08-17T14:15:12.861Z"
+    },
+    {
+      "serverId": 502,
+      "x": 435,
+      "y": 315,
+      "uid": "283087950326",
+      "username": "こくまろMILK",
+      "level": 100,
+      "allianceId": "100044333",
+      "allianceTag": "346N",
+      "pointId": 161498,
+      "cityReward": {
+        "itemId": 260617003,
+        "instanceId": "4800807104200043522",
+        "players": [],
+        "num": 6,
+        "endTimeMilli": 1786977802081
+      },
+      "cityRewardSeenAt": "2026-08-17T14:14:34.584Z",
+      "foundAt": "2026-08-17T14:14:34.584Z"
     },
     {
       "serverId": 738,
