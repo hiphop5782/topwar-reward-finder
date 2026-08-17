@@ -1,8 +1,28 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-17T07:49:56.338Z",
-  "count": 26,
+  "updatedAt": "2026-08-17T07:50:30.870Z",
+  "count": 24,
   "locations": [
+    {
+      "serverId": 348,
+      "x": 419,
+      "y": 411,
+      "uid": "441440072012",
+      "username": "আলিবাবাএবং40ডাকাত",
+      "level": 100,
+      "allianceId": "100030557",
+      "allianceTag": "SIN<",
+      "pointId": 210642,
+      "cityReward": {
+        "itemId": 260617004,
+        "instanceId": "4800412137547806722",
+        "players": [],
+        "num": 3,
+        "endTimeMilli": 1786954260234
+      },
+      "cityRewardSeenAt": "2026-08-17T07:49:35.242Z",
+      "foundAt": "2026-08-17T07:49:35.242Z"
+    },
     {
       "serverId": 723,
       "x": 440,
@@ -345,66 +365,6 @@
       },
       "cityRewardSeenAt": "2026-08-17T07:44:38.753Z",
       "foundAt": "2026-08-17T07:44:38.753Z"
-    },
-    {
-      "serverId": 3396,
-      "x": 390,
-      "y": 416,
-      "uid": "853341493587",
-      "username": "VelvetLG",
-      "level": 100,
-      "allianceId": "500331035",
-      "allianceTag": "96X",
-      "pointId": 213188,
-      "cityReward": {
-        "itemId": 260617002,
-        "instanceId": "4800382838339438598",
-        "players": [],
-        "num": 27,
-        "endTimeMilli": 1786952513865
-      },
-      "cityRewardSeenAt": "2026-08-17T07:17:08.745Z",
-      "foundAt": "2026-08-17T07:17:08.745Z"
-    },
-    {
-      "serverId": 3396,
-      "x": 408,
-      "y": 548,
-      "uid": "455214084749",
-      "username": "카르페디엠🍌",
-      "level": 100,
-      "allianceId": "500330742",
-      "allianceTag": "96Y",
-      "pointId": 280781,
-      "cityReward": {
-        "itemId": 260617003,
-        "instanceId": "4800367081782151175",
-        "players": [],
-        "num": 120,
-        "endTimeMilli": 1786951574701
-      },
-      "cityRewardSeenAt": "2026-08-17T07:17:22.361Z",
-      "foundAt": "2026-08-17T07:17:22.361Z"
-    },
-    {
-      "serverId": 3396,
-      "x": 412,
-      "y": 394,
-      "uid": "907695729224",
-      "username": "아차산",
-      "level": 100,
-      "allianceId": "500331035",
-      "allianceTag": "96X",
-      "pointId": 201935,
-      "cityReward": {
-        "itemId": 260617004,
-        "instanceId": "4800366614184364035",
-        "players": [],
-        "num": 105,
-        "endTimeMilli": 1786951546830
-      },
-      "cityRewardSeenAt": "2026-08-17T07:17:08.745Z",
-      "foundAt": "2026-08-17T07:17:08.745Z"
     },
     {
       "serverId": 3604,
