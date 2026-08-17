@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-17T09:41:17.684Z",
-  "count": 22,
+  "updatedAt": "2026-08-17T09:41:42.469Z",
+  "count": 23,
   "locations": [
     {
       "serverId": 1756,
@@ -87,6 +87,31 @@
       },
       "cityRewardSeenAt": "2026-08-17T09:14:53.137Z",
       "foundAt": "2026-08-17T09:14:53.137Z"
+    },
+    {
+      "serverId": 2311,
+      "x": 418,
+      "y": 352,
+      "uid": "890142485011",
+      "username": "Edward",
+      "level": 100,
+      "allianceId": "500172876",
+      "allianceTag": "KeC",
+      "pointId": 180434,
+      "cityReward": {
+        "itemId": 260617001,
+        "instanceId": "4800512799418748421",
+        "players": [
+          {
+            "frameId": 124,
+            "playerInfo": "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/a7146c8bdd323c538838894dd0bc1ba9_1783039428.png?v=1783039431484\",\"https://knight-cdn.akamaized.net/headimg/a7146c8bdd323c538838894dd0bc1ba9_1785417047.png?v=1785417050710\",\"https://knight-cdn.akamaized.net/headimg/a7146c8bdd323c538838894dd0bc1ba9_1783521079.png?v=1783521084252\",\"https://knight-cdn.akamaized.net/headimg/a7146c8bdd323c538838894dd0bc1ba9_1783645321.png?v=1783645322776\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/a7146c8bdd323c538838894dd0bc1ba9_1785417047.png?v=1785417050710\",\"username\":\"Edward\"}"
+          }
+        ],
+        "num": 7,
+        "endTimeMilli": 1786960260149
+      },
+      "cityRewardSeenAt": "2026-08-17T09:40:11.666Z",
+      "foundAt": "2026-08-17T09:40:11.666Z"
     },
     {
       "serverId": 3223,
