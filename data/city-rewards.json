@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-17T10:33:55.745Z",
-  "count": 21,
+  "updatedAt": "2026-08-17T10:33:57.446Z",
+  "count": 22,
   "locations": [
     {
       "serverId": 591,
@@ -456,6 +456,43 @@
       },
       "cityRewardSeenAt": "2026-08-17T10:06:31.158Z",
       "foundAt": "2026-08-17T10:06:31.158Z"
+    },
+    {
+      "serverId": 4409,
+      "x": 395,
+      "y": 583,
+      "uid": "9580083614009",
+      "username": "Prophet",
+      "level": 96,
+      "allianceId": "500458052",
+      "allianceTag": "*UC*",
+      "pointId": 298694,
+      "cityReward": {
+        "itemId": 260617001,
+        "instanceId": "4800571422636405253",
+        "players": [
+          {
+            "frameId": 4,
+            "playerInfo": "{\"nationalflag\":101,\"gender\":0,\"avatarurl\":\"hero_icon140_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"TaMSKER\"}"
+          },
+          {
+            "frameId": 163,
+            "playerInfo": "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"hero_icon118_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Rage\"}"
+          },
+          {
+            "frameId": 0,
+            "playerInfo": "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/da2d32954e8f86075b4edb6f2a04833e_1780543832.png?v=1780543833847\"],\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/da2d32954e8f86075b4edb6f2a04833e_1780543832.png?v=1780543833847\",\"username\":\"BìnhPhùi\"}"
+          },
+          {
+            "frameId": 159,
+            "playerInfo": "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/46f29693727a9f10be61b790f5c8e538_1779354927.png?v=1779354931614\",\"https://knight-cdn.akamaized.net/headimg/46f29693727a9f10be61b790f5c8e538_1779386963.png?v=1779386965791\",\"https://knight-cdn.akamaized.net/headimg/46f29693727a9f10be61b790f5c8e538_1782802377.png?v=1782802379480\",\"https://knight-cdn.akamaized.net/headimg/46f29693727a9f10be61b790f5c8e538_1782722677.png?v=1782722682945\"],\"nationalflag\":70,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/46f29693727a9f10be61b790f5c8e538_1782802377.png?v=1782802379480\",\"username\":\"LarryFox\"}"
+          }
+        ],
+        "num": 17,
+        "endTimeMilli": 1786963754365
+      },
+      "cityRewardSeenAt": "2026-08-17T10:33:00.985Z",
+      "foundAt": "2026-08-17T10:33:00.985Z"
     }
   ]
 }
