@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-17T11:17:37.182Z",
-  "count": 27,
+  "updatedAt": "2026-08-17T11:17:46.014Z",
+  "count": 28,
   "locations": [
     {
       "serverId": 188,
@@ -576,6 +576,43 @@
       },
       "cityRewardSeenAt": "2026-08-17T11:14:01.750Z",
       "foundAt": "2026-08-17T11:14:01.750Z"
+    },
+    {
+      "serverId": 4479,
+      "x": 401,
+      "y": 339,
+      "uid": "9739764371839",
+      "username": "Chubi",
+      "level": 78,
+      "allianceId": "500479625",
+      "allianceTag": "BTC,",
+      "pointId": 173769,
+      "cityReward": {
+        "itemId": 260617001,
+        "instanceId": "4800600261563448838",
+        "players": [
+          {
+            "frameId": 8,
+            "playerInfo": "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon009_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"zhe\"}"
+          },
+          {
+            "frameId": 8,
+            "playerInfo": "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"フォレストガンプ\"}"
+          },
+          {
+            "frameId": 159,
+            "playerInfo": "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/b3247cf6984cdc117b28351422882ff2_1781610446.png?v=1781610448809\"],\"nationalflag\":225,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b3247cf6984cdc117b28351422882ff2_1781610446.png?v=1781610448809\",\"username\":\"Pipet\"}"
+          },
+          {
+            "frameId": 1,
+            "playerInfo": "{\"nationalflag\":218,\"gender\":0,\"avatarurl\":\"hero_icon336_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Donut\"}"
+          }
+        ],
+        "num": 27,
+        "endTimeMilli": 1786965473299
+      },
+      "cityRewardSeenAt": "2026-08-17T11:16:17.771Z",
+      "foundAt": "2026-08-17T11:16:17.771Z"
     }
   ]
 }
