@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-17T07:15:58.547Z",
-  "count": 10,
+  "updatedAt": "2026-08-17T07:16:29.133Z",
+  "count": 11,
   "locations": [
     {
       "serverId": 1753,
@@ -219,6 +219,43 @@
       },
       "cityRewardSeenAt": "2026-08-17T06:51:33.575Z",
       "foundAt": "2026-08-17T06:51:33.575Z"
+    },
+    {
+      "serverId": 4502,
+      "x": 357,
+      "y": 399,
+      "uid": "9790272770454",
+      "username": "Vaynard",
+      "level": 80,
+      "allianceId": "500487093",
+      "allianceTag": "SOL'",
+      "pointId": 204467,
+      "cityReward": {
+        "itemId": 260617001,
+        "instanceId": "4800383528688888841",
+        "players": [
+          {
+            "frameId": 0,
+            "playerInfo": "{\"nationalflag\":36,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Gurd\"}"
+          },
+          {
+            "frameId": 119,
+            "playerInfo": "{\"nationalflag\":108,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"sinam59\"}"
+          },
+          {
+            "frameId": 0,
+            "playerInfo": "{\"nationalflag\":101,\"gender\":0,\"avatarurl\":\"hero_icon021_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"NEOALICE\"}"
+          },
+          {
+            "frameId": 159,
+            "playerInfo": "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Vaynard\"}"
+          }
+        ],
+        "num": 12,
+        "endTimeMilli": 1786952555013
+      },
+      "cityRewardSeenAt": "2026-08-17T07:15:43.199Z",
+      "foundAt": "2026-08-17T07:15:43.199Z"
     }
   ]
 }
