@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T15:32:58.325426300Z",
-  "count" : 8,
+  "updatedAt" : "2026-08-18T15:35:26.822542600Z",
+  "count" : 10,
   "locations" : [ {
+    "serverId" : 158,
+    "x" : 423,
+    "y" : 321,
+    "uid" : "154299433118",
+    "username" : "プレセア",
+    "level" : 100,
+    "allianceId" : "101264",
+    "allianceTag" : "NaSS",
+    "pointId" : 164564,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4802323675288255495",
+      "players" : [ ],
+      "num" : 34,
+      "endTimeMilli" : 1787068196762
+    },
+    "cityRewardSeenAt" : "2026-08-18T15:33:27.714Z",
+    "foundAt" : "2026-08-18T15:33:27.714Z"
+  }, {
     "serverId" : 619,
     "x" : 422,
     "y" : 626,
@@ -178,5 +197,24 @@
     },
     "cityRewardSeenAt" : "2026-08-18T15:16:43.931Z",
     "foundAt" : "2026-08-18T15:16:43.931Z"
+  }, {
+    "serverId" : 4358,
+    "x" : 441,
+    "y" : 351,
+    "uid" : "9464907174150",
+    "username" : "BlaqSnow",
+    "level" : 89,
+    "allianceId" : "500444746",
+    "allianceTag" : "`ONE",
+    "pointId" : 179933,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4802326265038244868",
+      "players" : [ ],
+      "num" : 19,
+      "endTimeMilli" : 1787068351123
+    },
+    "cityRewardSeenAt" : "2026-08-18T15:33:35.328Z",
+    "foundAt" : "2026-08-18T15:33:35.328Z"
   } ]
 }
