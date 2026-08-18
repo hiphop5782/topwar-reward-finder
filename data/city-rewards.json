@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T08:56:18.286672900Z",
+  "updatedAt" : "2026-08-18T08:58:46.611575300Z",
   "count" : 8,
   "locations" : [ {
     "serverId" : 485,
@@ -53,6 +53,31 @@
     "cityRewardSeenAt" : "2026-08-18T08:32:09.194Z",
     "foundAt" : "2026-08-18T08:32:09.194Z"
   }, {
+    "serverId" : 2087,
+    "x" : 440,
+    "y" : 430,
+    "uid" : "602328831246",
+    "username" : "DisneyUK",
+    "level" : 100,
+    "allianceId" : "400214012",
+    "allianceTag" : "2N87",
+    "pointId" : 220381,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4801935956444728836",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon134_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"ケロロ軍曹\"}"
+      }, {
+        "frameId" : 54,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/602328831246.jpg?v=1698084159654\"],\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"hero_icon315_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/602328831246.jpg?v=1698084159654\",\"username\":\"DisneyUK\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1787045086918
+    },
+    "cityRewardSeenAt" : "2026-08-18T08:57:03.322Z",
+    "foundAt" : "2026-08-18T08:57:03.322Z"
+  }, {
     "serverId" : 2097,
     "x" : 406,
     "y" : 404,
@@ -83,25 +108,6 @@
     },
     "cityRewardSeenAt" : "2026-08-18T08:34:53.973Z",
     "foundAt" : "2026-08-18T08:34:53.973Z"
-  }, {
-    "serverId" : 2842,
-    "x" : 360,
-    "y" : 450,
-    "uid" : "443092309431",
-    "username" : "pająk🕷️",
-    "level" : 100,
-    "allianceId" : "500270549",
-    "allianceTag" : "E$O",
-    "pointId" : 230581,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4801873547500073988",
-      "players" : [ ],
-      "num" : 99,
-      "endTimeMilli" : 1787041367055
-    },
-    "cityRewardSeenAt" : "2026-08-18T08:22:13.900Z",
-    "foundAt" : "2026-08-18T08:22:13.900Z"
   }, {
     "serverId" : 3491,
     "x" : 433,
