@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T05:06:51.150115100Z",
-  "count" : 16,
+  "updatedAt" : "2026-08-18T05:08:57.183692600Z",
+  "count" : 17,
   "locations" : [ {
     "serverId" : 111,
     "x" : 321,
@@ -268,6 +268,25 @@
     },
     "cityRewardSeenAt" : "2026-08-18T04:36:14.115Z",
     "foundAt" : "2026-08-18T04:36:14.115Z"
+  }, {
+    "serverId" : 4208,
+    "x" : 332,
+    "y" : 156,
+    "uid" : "9230164299888",
+    "username" : "abc",
+    "level" : 97,
+    "allianceId" : "500423576",
+    "allianceTag" : ".P&N",
+    "pointId" : 80039,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4801676544984539142",
+      "players" : [ ],
+      "num" : 70,
+      "endTimeMilli" : 1787029624790
+    },
+    "cityRewardSeenAt" : "2026-08-18T05:06:46.691Z",
+    "foundAt" : "2026-08-18T05:06:46.691Z"
   }, {
     "serverId" : 4343,
     "x" : 355,
