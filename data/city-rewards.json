@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T18:43:47.241080100Z",
-  "count" : 17,
+  "updatedAt" : "2026-08-18T18:44:57.895312900Z",
+  "count" : 18,
   "locations" : [ {
     "serverId" : 795,
     "x" : 419,
@@ -230,6 +230,37 @@
     },
     "cityRewardSeenAt" : "2026-08-18T18:18:51.231Z",
     "foundAt" : "2026-08-18T18:18:51.231Z"
+  }, {
+    "serverId" : 4240,
+    "x" : 410,
+    "y" : 372,
+    "uid" : "9263994933392",
+    "username" : "MystBlad",
+    "level" : 100,
+    "allianceId" : "500422440",
+    "allianceTag" : "Ntr.",
+    "pointId" : 190670,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4802500060755599368",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_1_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Helper06\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_1_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Helper05\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_1_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Helper04\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_1_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Helper03\"}"
+      } ],
+      "num" : 11,
+      "endTimeMilli" : 1787078710155
+    },
+    "cityRewardSeenAt" : "2026-08-18T18:43:14.441Z",
+    "foundAt" : "2026-08-18T18:43:14.441Z"
   }, {
     "serverId" : 4310,
     "x" : 79,
