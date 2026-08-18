@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T18:52:40.919919900Z",
-  "count" : 12,
+  "updatedAt" : "2026-08-18T18:55:07.145042900Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 795,
     "x" : 419,
@@ -117,25 +117,6 @@
     "cityRewardSeenAt" : "2026-08-18T18:40:50.984Z",
     "foundAt" : "2026-08-18T18:40:50.984Z"
   }, {
-    "serverId" : 3649,
-    "x" : 464,
-    "y" : 424,
-    "uid" : "333860799295",
-    "username" : "макс50",
-    "level" : 100,
-    "allianceId" : "500364032",
-    "allianceTag" : "ECLP",
-    "pointId" : 217321,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4802475029887222280",
-      "players" : [ ],
-      "num" : 32,
-      "endTimeMilli" : 1787077218199
-    },
-    "cityRewardSeenAt" : "2026-08-18T18:18:51.231Z",
-    "foundAt" : "2026-08-18T18:18:51.231Z"
-  }, {
     "serverId" : 4240,
     "x" : 410,
     "y" : 372,
@@ -223,33 +204,5 @@
     },
     "cityRewardSeenAt" : "2026-08-18T18:45:57.387Z",
     "foundAt" : "2026-08-18T18:45:57.387Z"
-  }, {
-    "serverId" : 4435,
-    "x" : 378,
-    "y" : 400,
-    "uid" : "9634886324563",
-    "username" : "WarKing",
-    "level" : 80,
-    "allianceId" : "500467370",
-    "allianceTag" : "TlSM",
-    "pointId" : 204990,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4802503354660070920",
-      "players" : [ {
-        "frameId" : 20,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/fa3ff6935e649fe17fe9aaac60b17d12_1781942550.png?v=1781942551627\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/fa3ff6935e649fe17fe9aaac60b17d12_1781942550.png?v=1781942551627\",\"username\":\"ChicZero\"}"
-      }, {
-        "frameId" : 4,
-        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon002_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"WTW\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/e8b8317986a66e0675d928ec58c69af9_1780791808.png?v=1780791810594\",\"https://knight-cdn.akamaized.net/headimg/e8b8317986a66e0675d928ec58c69af9_1781654111.png?v=1781654113137\",\"https://knight-cdn.akamaized.net/headimg/e8b8317986a66e0675d928ec58c69af9_1785382785.png?v=1785382787932\",\"https://knight-cdn.akamaized.net/headimg/e8b8317986a66e0675d928ec58c69af9_1786449527.png?v=1786449529747\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/e8b8317986a66e0675d928ec58c69af9_1786449527.png?v=1786449529747\",\"username\":\"WarKing\"}"
-      } ],
-      "num" : 3,
-      "endTimeMilli" : 1787078906487
-    },
-    "cityRewardSeenAt" : "2026-08-18T18:18:52.773Z",
-    "foundAt" : "2026-08-18T18:18:52.773Z"
   } ]
 }
