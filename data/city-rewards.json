@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T09:26:26.495558100Z",
-  "count" : 6,
+  "updatedAt" : "2026-08-18T09:28:54.370587500Z",
+  "count" : 8,
   "locations" : [ {
     "serverId" : 2087,
     "x" : 440,
@@ -27,6 +27,25 @@
     },
     "cityRewardSeenAt" : "2026-08-18T08:57:03.322Z",
     "foundAt" : "2026-08-18T08:57:03.322Z"
+  }, {
+    "serverId" : 3052,
+    "x" : 390,
+    "y" : 406,
+    "uid" : "538568831913",
+    "username" : "CHP",
+    "level" : 100,
+    "allianceId" : "500301229",
+    "allianceTag" : "S1AM",
+    "pointId" : 208068,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4801940139340716034",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1787045336238
+    },
+    "cityRewardSeenAt" : "2026-08-18T09:26:00.064Z",
+    "foundAt" : "2026-08-18T09:26:00.064Z"
   }, {
     "serverId" : 3322,
     "x" : 403,
@@ -108,6 +127,37 @@
     },
     "cityRewardSeenAt" : "2026-08-18T09:19:21.794Z",
     "foundAt" : "2026-08-18T09:19:21.794Z"
+  }, {
+    "serverId" : 4406,
+    "x" : 411,
+    "y" : 667,
+    "uid" : "9559443018038",
+    "username" : "AvgUrsus",
+    "level" : 100,
+    "allianceId" : "500455630",
+    "allianceTag" : "^RA^",
+    "pointId" : 341710,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4801949731362335751",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon167_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"ಠಿ_ಠ\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":79,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"daviti\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":174,\"gender\":0,\"avatarurl\":\"hero_icon308_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"io\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":65,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Cezar\"}"
+      } ],
+      "num" : 17,
+      "endTimeMilli" : 1787045907967
+    },
+    "cityRewardSeenAt" : "2026-08-18T09:27:15.921Z",
+    "foundAt" : "2026-08-18T09:27:15.921Z"
   }, {
     "serverId" : 4423,
     "x" : 419,
