@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T13:17:34.195641300Z",
-  "count" : 54,
+  "updatedAt" : "2026-08-18T13:19:33.304250600Z",
+  "count" : 51,
   "locations" : [ {
     "serverId" : 193,
     "x" : 537,
@@ -332,6 +332,25 @@
     },
     "cityRewardSeenAt" : "2026-08-18T13:12:00.031Z",
     "foundAt" : "2026-08-18T13:12:00.031Z"
+  }, {
+    "serverId" : 1389,
+    "x" : 431,
+    "y" : 379,
+    "uid" : "120352940161",
+    "username" : "アストロ",
+    "level" : 100,
+    "allianceId" : "705323",
+    "allianceTag" : "M-kn",
+    "pointId" : 194264,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4802187756669950469",
+      "players" : [ ],
+      "num" : 39,
+      "endTimeMilli" : 1787060095381
+    },
+    "cityRewardSeenAt" : "2026-08-18T13:17:32.313Z",
+    "foundAt" : "2026-08-18T13:17:32.313Z"
   }, {
     "serverId" : 1611,
     "x" : 328,
@@ -736,94 +755,6 @@
     },
     "cityRewardSeenAt" : "2026-08-18T12:58:53.515Z",
     "foundAt" : "2026-08-18T12:58:53.515Z"
-  }, {
-    "serverId" : 2607,
-    "x" : 375,
-    "y" : 341,
-    "uid" : "918048787073",
-    "username" : "Cabbage",
-    "level" : 100,
-    "allianceId" : "500211185",
-    "allianceTag" : "yOLO",
-    "pointId" : 174780,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4802165303252639237",
-      "players" : [ ],
-      "num" : 7,
-      "endTimeMilli" : 1787058757053
-    },
-    "cityRewardSeenAt" : "2026-08-18T12:43:18.242Z",
-    "foundAt" : "2026-08-18T12:43:18.242Z"
-  }, {
-    "serverId" : 3258,
-    "x" : 467,
-    "y" : 457,
-    "uid" : "892539398685",
-    "username" : "Platinum",
-    "level" : 100,
-    "allianceId" : "500316513",
-    "allianceTag" : "NtHS",
-    "pointId" : 234218,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4802146983489401861",
-      "players" : [ ],
-      "num" : 31,
-      "endTimeMilli" : 1787057665110
-    },
-    "cityRewardSeenAt" : "2026-08-18T12:43:54.385Z",
-    "foundAt" : "2026-08-18T12:43:54.385Z"
-  }, {
-    "serverId" : 3258,
-    "x" : 472,
-    "y" : 482,
-    "uid" : "7907362081942",
-    "username" : "クーペリア",
-    "level" : 100,
-    "allianceId" : "500316513",
-    "allianceTag" : "NtHS",
-    "pointId" : 247021,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4802146667322766338",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/5714d5b5baf2033f63e3e710e207aec6_1741123510.jpg?v=1741123512948\",\"https://knight-cdn.akamaized.net/headimg/5714d5b5baf2033f63e3e710e207aec6_1747399624.jpg?v=1747399625472\",\"https://knight-cdn.akamaized.net/headimg/5714d5b5baf2033f63e3e710e207aec6_1758886359.jpg?v=1758886360821\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/5714d5b5baf2033f63e3e710e207aec6_1747399624.jpg?v=1747399625472\",\"username\":\"グラン\"}"
-      }, {
-        "frameId" : 3,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon321\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"ロウリュ\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon211\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"たまごボーロ🐣\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_tachie2257_Fairy\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"🍬ななな🍬\"}"
-      } ],
-      "num" : 42,
-      "endTimeMilli" : 1787057646265
-    },
-    "cityRewardSeenAt" : "2026-08-18T12:44:09.986Z",
-    "foundAt" : "2026-08-18T12:44:09.986Z"
-  }, {
-    "serverId" : 3258,
-    "x" : 494,
-    "y" : 486,
-    "uid" : "8733229584058",
-    "username" : "ccwu",
-    "level" : 100,
-    "allianceId" : "500316513",
-    "allianceTag" : "NtHS",
-    "pointId" : 249080,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4802151392139113479",
-      "players" : [ ],
-      "num" : 28,
-      "endTimeMilli" : 1787057927886
-    },
-    "cityRewardSeenAt" : "2026-08-18T12:44:09.986Z",
-    "foundAt" : "2026-08-18T12:44:09.986Z"
   }, {
     "serverId" : 3345,
     "x" : 122,
