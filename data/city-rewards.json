@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T03:48:15.424541700Z",
-  "count" : 14,
+  "updatedAt" : "2026-08-18T03:50:46.725373100Z",
+  "count" : 16,
   "locations" : [ {
     "serverId" : 864,
     "x" : 437,
@@ -43,6 +43,63 @@
     },
     "cityRewardSeenAt" : "2026-08-18T03:19:22.168Z",
     "foundAt" : "2026-08-18T03:19:22.168Z"
+  }, {
+    "serverId" : 1951,
+    "x" : 408,
+    "y" : 544,
+    "uid" : "333000340277",
+    "username" : "TackleMP",
+    "level" : 100,
+    "allianceId" : "500047173",
+    "allianceTag" : "JDL.",
+    "pointId" : 278733,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4801607616059883009",
+      "players" : [ ],
+      "num" : 31,
+      "endTimeMilli" : 1787025516306
+    },
+    "cityRewardSeenAt" : "2026-08-18T03:49:22.552Z",
+    "foundAt" : "2026-08-18T03:49:22.552Z"
+  }, {
+    "serverId" : 1951,
+    "x" : 412,
+    "y" : 554,
+    "uid" : "332904407861",
+    "username" : "Jateladj",
+    "level" : 100,
+    "allianceId" : "500047173",
+    "allianceTag" : "JDL.",
+    "pointId" : 283855,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4801622826938220040",
+      "players" : [ ],
+      "num" : 19,
+      "endTimeMilli" : 1787026422945
+    },
+    "cityRewardSeenAt" : "2026-08-18T03:49:22.552Z",
+    "foundAt" : "2026-08-18T03:49:22.552Z"
+  }, {
+    "serverId" : 1951,
+    "x" : 422,
+    "y" : 694,
+    "uid" : "567046932349",
+    "username" : "里厚",
+    "level" : 100,
+    "allianceId" : "500047161",
+    "allianceTag" : "lDL",
+    "pointId" : 355540,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4801612584011644416",
+      "players" : [ ],
+      "num" : 29,
+      "endTimeMilli" : 1787025812419
+    },
+    "cityRewardSeenAt" : "2026-08-18T03:49:48.047Z",
+    "foundAt" : "2026-08-18T03:49:48.047Z"
   }, {
     "serverId" : 2616,
     "x" : 397,
@@ -264,24 +321,5 @@
     },
     "cityRewardSeenAt" : "2026-08-18T03:31:05.174Z",
     "foundAt" : "2026-08-18T03:31:05.174Z"
-  }, {
-    "serverId" : 4486,
-    "x" : 439,
-    "y" : 279,
-    "uid" : "9736460833158",
-    "username" : "minetaka",
-    "level" : 80,
-    "allianceId" : "500480748",
-    "allianceTag" : "BERQ",
-    "pointId" : 143068,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4801582961724165120",
-      "players" : [ ],
-      "num" : 54,
-      "endTimeMilli" : 1787024046793
-    },
-    "cityRewardSeenAt" : "2026-08-18T03:13:51.428Z",
-    "foundAt" : "2026-08-18T03:13:51.428Z"
   } ]
 }
