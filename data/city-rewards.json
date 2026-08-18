@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T04:14:20.324339300Z",
+  "updatedAt" : "2026-08-18T04:16:45.796724600Z",
   "count" : 10,
   "locations" : [ {
     "serverId" : 1951,
@@ -151,25 +151,6 @@
     "cityRewardSeenAt" : "2026-08-18T04:03:12.214Z",
     "foundAt" : "2026-08-18T04:03:12.214Z"
   }, {
-    "serverId" : 3752,
-    "x" : 428,
-    "y" : 396,
-    "uid" : "8698756763306",
-    "username" : "McKardy",
-    "level" : 100,
-    "allianceId" : "500373884",
-    "allianceTag" : "@DMS",
-    "pointId" : 202967,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4801595923666653191",
-      "players" : [ ],
-      "num" : 13,
-      "endTimeMilli" : 1787024819385
-    },
-    "cityRewardSeenAt" : "2026-08-18T03:40:55.978Z",
-    "foundAt" : "2026-08-18T03:40:55.978Z"
-  }, {
     "serverId" : 4256,
     "x" : 448,
     "y" : 448,
@@ -207,5 +188,30 @@
     },
     "cityRewardSeenAt" : "2026-08-18T03:53:55.464Z",
     "foundAt" : "2026-08-18T03:53:55.464Z"
+  }, {
+    "serverId" : 4369,
+    "x" : 451,
+    "y" : 447,
+    "uid" : "9494877311249",
+    "username" : "ⓈⓌⒾⓏⓏⒾ",
+    "level" : 100,
+    "allianceId" : "500447316",
+    "allianceTag" : "dawN",
+    "pointId" : 229090,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4801631994530374148",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"hero_icon119_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"DinhKS\"}"
+      }, {
+        "frameId" : 8,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"シャビ\"}"
+      } ],
+      "num" : 9,
+      "endTimeMilli" : 1787026969376
+    },
+    "cityRewardSeenAt" : "2026-08-18T04:14:01.847Z",
+    "foundAt" : "2026-08-18T04:14:01.847Z"
   } ]
 }
