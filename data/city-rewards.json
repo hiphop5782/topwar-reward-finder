@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T04:46:50.222015700Z",
-  "count" : 16,
+  "updatedAt" : "2026-08-18T04:48:51.562121900Z",
+  "count" : 17,
   "locations" : [ {
     "serverId" : 386,
     "x" : 383,
@@ -324,5 +324,30 @@
     },
     "cityRewardSeenAt" : "2026-08-18T04:14:01.847Z",
     "foundAt" : "2026-08-18T04:14:01.847Z"
+  }, {
+    "serverId" : 4392,
+    "x" : 447,
+    "y" : 465,
+    "uid" : "9547085386024",
+    "username" : "BossLady",
+    "level" : 100,
+    "allianceId" : "500453203",
+    "allianceTag" : ".CW",
+    "pointId" : 238304,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4801685281736642569",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/70ad03a2e2476bf0db72ba4cfa47fd54_1778205666.png?v=1778205668113\",\"https://knight-cdn.akamaized.net/headimg/70ad03a2e2476bf0db72ba4cfa47fd54_1779144013.png?v=1779144015914\",\"https://knight-cdn.akamaized.net/headimg/70ad03a2e2476bf0db72ba4cfa47fd54_1785905730.png?v=1785905732817\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon119_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/70ad03a2e2476bf0db72ba4cfa47fd54_1785905730.png?v=1785905732817\",\"username\":\"Lala11\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/c260f115bf970072dfeffc714b030e8d_1773883186.png?v=1773883188645\",\"https://knight-cdn.akamaized.net/headimg/c260f115bf970072dfeffc714b030e8d_1785588703.png?v=1785588705306\",\"https://knight-cdn.akamaized.net/headimg/c260f115bf970072dfeffc714b030e8d_1774379325.png?v=1774379327270\",\"https://knight-cdn.akamaized.net/headimg/c260f115bf970072dfeffc714b030e8d_1785375432.png?v=1785375433773\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/c260f115bf970072dfeffc714b030e8d_1773883186.png?v=1773883188645\",\"username\":\"BossLady\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1787030145541
+    },
+    "cityRewardSeenAt" : "2026-08-18T04:45:56.120Z",
+    "foundAt" : "2026-08-18T04:45:56.120Z"
   } ]
 }
