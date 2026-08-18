@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T08:40:45.311797300Z",
-  "count" : 10,
+  "updatedAt" : "2026-08-18T08:42:51.364807200Z",
+  "count" : 12,
   "locations" : [ {
+    "serverId" : 485,
+    "x" : 420,
+    "y" : 434,
+    "uid" : "279020196333",
+    "username" : "フィノ",
+    "level" : 100,
+    "allianceId" : "100037200",
+    "allianceTag" : "S485",
+    "pointId" : 222419,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4801898312984939017",
+      "players" : [ ],
+      "num" : 30,
+      "endTimeMilli" : 1787042843193
+    },
+    "cityRewardSeenAt" : "2026-08-18T08:39:58.263Z",
+    "foundAt" : "2026-08-18T08:39:58.263Z"
+  }, {
     "serverId" : 742,
     "x" : 450,
     "y" : 462,
@@ -228,5 +247,36 @@
     },
     "cityRewardSeenAt" : "2026-08-18T08:37:11.168Z",
     "foundAt" : "2026-08-18T08:37:11.168Z"
+  }, {
+    "serverId" : 4434,
+    "x" : 364,
+    "y" : 446,
+    "uid" : "9632765022546",
+    "username" : "Bintang",
+    "level" : 86,
+    "allianceId" : "500466280",
+    "allianceTag" : "ACCM",
+    "pointId" : 228535,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4801916539620205576",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":110,\"gender\":0,\"avatarurl\":\"hero_icon022_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"ColMirko\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/3a44edaa09a7a526fecbdc66bf8b0a40_1783177529.png?v=1783177530931\",\"https://knight-cdn.akamaized.net/headimg/3a44edaa09a7a526fecbdc66bf8b0a40_1783357858.png?v=1783357859474\",\"https://knight-cdn.akamaized.net/headimg/3a44edaa09a7a526fecbdc66bf8b0a40_1783757508.png?v=1783757508984\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/3a44edaa09a7a526fecbdc66bf8b0a40_1783757508.png?v=1783757508984\",\"username\":\"てんてん\"}"
+      }, {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":101,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Bintang\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon167_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"月あかり\"}"
+      } ],
+      "num" : 6,
+      "endTimeMilli" : 1787043929585
+    },
+    "cityRewardSeenAt" : "2026-08-18T08:41:29.990Z",
+    "foundAt" : "2026-08-18T08:41:29.990Z"
   } ]
 }
