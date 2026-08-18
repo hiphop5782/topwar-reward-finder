@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T03:22:35.519504100Z",
-  "count" : 13,
+  "updatedAt" : "2026-08-18T03:24:55.504163800Z",
+  "count" : 11,
   "locations" : [ {
     "serverId" : 800,
     "x" : 407,
@@ -93,25 +93,6 @@
     },
     "cityRewardSeenAt" : "2026-08-18T03:19:22.168Z",
     "foundAt" : "2026-08-18T03:19:22.168Z"
-  }, {
-    "serverId" : 2253,
-    "x" : 283,
-    "y" : 381,
-    "uid" : "837617412336",
-    "username" : "ヒロ",
-    "level" : 100,
-    "allianceId" : "500131378",
-    "allianceTag" : "SNOQ",
-    "pointId" : 195214,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4801539047662131718",
-      "players" : [ ],
-      "num" : 15,
-      "endTimeMilli" : 1787021429311
-    },
-    "cityRewardSeenAt" : "2026-08-18T02:48:23.318Z",
-    "foundAt" : "2026-08-18T02:48:23.318Z"
   }, {
     "serverId" : 2781,
     "x" : 402,
@@ -269,36 +250,5 @@
     },
     "cityRewardSeenAt" : "2026-08-18T03:13:51.428Z",
     "foundAt" : "2026-08-18T03:13:51.428Z"
-  }, {
-    "serverId" : 4537,
-    "x" : 416,
-    "y" : 330,
-    "uid" : "9892977054137",
-    "username" : "ALThЕeB",
-    "level" : 59,
-    "allianceId" : "500500456",
-    "allianceTag" : "WMRS",
-    "pointId" : 169169,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4801561302606770692",
-      "players" : [ {
-        "frameId" : 159,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/178390b2f7c45de37e5ec4476907291e_1786622488.png?v=1786622489019\",\"https://knight-cdn.akamaized.net/headimg/178390b2f7c45de37e5ec4476907291e_1786752679.png?v=1786752683411\",\"https://knight-cdn.akamaized.net/headimg/178390b2f7c45de37e5ec4476907291e_1786816152.png?v=1786816156287\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/178390b2f7c45de37e5ec4476907291e_1786622488.png?v=1786622489019\",\"username\":\"Glock\"}"
-      }, {
-        "frameId" : 1,
-        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"hero_icon1115_new_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Miracle\"}"
-      }, {
-        "frameId" : 1,
-        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"icon_felman01_0\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"킹사우린\"}"
-      }, {
-        "frameId" : 165,
-        "playerInfo" : "{\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"hero_icon1115_new_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"TranNgoc\"}"
-      } ],
-      "num" : 10,
-      "endTimeMilli" : 1787022755809
-    },
-    "cityRewardSeenAt" : "2026-08-18T02:49:17.748Z",
-    "foundAt" : "2026-08-18T02:49:17.748Z"
   } ]
 }
