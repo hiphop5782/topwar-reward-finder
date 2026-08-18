@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T08:46:17.066425500Z",
-  "count" : 10,
+  "updatedAt" : "2026-08-18T08:48:45.438166200Z",
+  "count" : 11,
   "locations" : [ {
     "serverId" : 485,
     "x" : 420,
@@ -240,5 +240,24 @@
     },
     "cityRewardSeenAt" : "2026-08-18T08:41:29.990Z",
     "foundAt" : "2026-08-18T08:41:29.990Z"
+  }, {
+    "serverId" : 4489,
+    "x" : 686,
+    "y" : 136,
+    "uid" : "9746210427273",
+    "username" : "Tanuj",
+    "level" : 60,
+    "allianceId" : "500482607",
+    "allianceTag" : "RAWe",
+    "pointId" : 69976,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4801902744722149895",
+      "players" : [ ],
+      "num" : 39,
+      "endTimeMilli" : 1787043107345
+    },
+    "cityRewardSeenAt" : "2026-08-18T08:45:24.586Z",
+    "foundAt" : "2026-08-18T08:45:24.586Z"
   } ]
 }
