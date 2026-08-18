@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T13:35:45.392741800Z",
-  "count" : 32,
+  "updatedAt" : "2026-08-18T13:37:17.923580300Z",
+  "count" : 31,
   "locations" : [ {
     "serverId" : 529,
     "x" : 466,
@@ -369,6 +369,25 @@
     "cityRewardSeenAt" : "2026-08-18T13:11:13.280Z",
     "foundAt" : "2026-08-18T13:11:13.280Z"
   }, {
+    "serverId" : 2253,
+    "x" : 283,
+    "y" : 381,
+    "uid" : "837617412336",
+    "username" : "ヒロ",
+    "level" : 100,
+    "allianceId" : "500131378",
+    "allianceTag" : "SNOQ",
+    "pointId" : 195214,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4802194004035869186",
+      "players" : [ ],
+      "num" : 44,
+      "endTimeMilli" : 1787060467753
+    },
+    "cityRewardSeenAt" : "2026-08-18T13:34:37.904Z",
+    "foundAt" : "2026-08-18T13:34:37.904Z"
+  }, {
     "serverId" : 3437,
     "x" : 417,
     "y" : 627,
@@ -456,47 +475,6 @@
     },
     "cityRewardSeenAt" : "2026-08-18T13:21:09.226Z",
     "foundAt" : "2026-08-18T13:21:09.226Z"
-  }, {
-    "serverId" : 3768,
-    "x" : 374,
-    "y" : 428,
-    "uid" : "8722757521080",
-    "username" : "COSMO",
-    "level" : 100,
-    "allianceId" : "500375049",
-    "allianceTag" : ":Dl:",
-    "pointId" : 219324,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4802181443606114313",
-      "players" : [ ],
-      "num" : 3,
-      "endTimeMilli" : 1787059719093
-    },
-    "cityRewardSeenAt" : "2026-08-18T13:01:05.395Z",
-    "foundAt" : "2026-08-18T13:01:05.395Z"
-  }, {
-    "serverId" : 3768,
-    "x" : 387,
-    "y" : 445,
-    "uid" : "8708591750827",
-    "username" : "금태양",
-    "level" : 100,
-    "allianceId" : "500375049",
-    "allianceTag" : ":Dl:",
-    "pointId" : 228034,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4802157076360818688",
-      "players" : [ {
-        "frameId" : 4,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d4bf3f34465b1d5a76d429aa5d219689_1745157338.jpg?v=1745157339841\",\"https://knight-cdn.akamaized.net/headimg/d4bf3f34465b1d5a76d429aa5d219689_1781614317.png?v=1781614318942\",\"https://knight-cdn.akamaized.net/headimg/d4bf3f34465b1d5a76d429aa5d219689_1785600486.png?v=1785600487431\",\"https://knight-cdn.akamaized.net/headimg/d4bf3f34465b1d5a76d429aa5d219689_1781193727.png?v=1781193729597\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d4bf3f34465b1d5a76d429aa5d219689_1781193727.png?v=1781193729597\",\"username\":\"COSMO\"}"
-      } ],
-      "num" : 14,
-      "endTimeMilli" : 1787058266692
-    },
-    "cityRewardSeenAt" : "2026-08-18T13:01:05.395Z",
-    "foundAt" : "2026-08-18T13:01:05.395Z"
   }, {
     "serverId" : 4197,
     "x" : 413,
