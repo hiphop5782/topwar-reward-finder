@@ -1,8 +1,39 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T08:32:57.706693300Z",
+  "updatedAt" : "2026-08-18T08:33:49.802289500Z",
   "count" : 10,
   "locations" : [ {
+    "serverId" : 742,
+    "x" : 450,
+    "y" : 462,
+    "uid" : "280762892784",
+    "username" : "ウォルター",
+    "level" : 100,
+    "allianceId" : "445272",
+    "allianceTag" : "BNN2",
+    "pointId" : 236770,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4801896208081996800",
+      "players" : [ {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/312319566320.jpg?v=1675082118923\",\"username\":\"ぱぴてく\"}"
+      }, {
+        "frameId" : 52,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/302173237744.jpg?v=1675081797083\",\"username\":\"ローテク\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/280857633264.jpg?v=1675005019161\",\"username\":\"はいてく\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon2143\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"username\":\"ジェラルディーナ\"}"
+      } ],
+      "num" : 23,
+      "endTimeMilli" : 1787042717731
+    },
+    "cityRewardSeenAt" : "2026-08-18T08:32:09.194Z",
+    "foundAt" : "2026-08-18T08:32:09.194Z"
+  }, {
     "serverId" : 2050,
     "x" : 456,
     "y" : 430,
@@ -97,25 +128,6 @@
     },
     "cityRewardSeenAt" : "2026-08-18T08:22:13.900Z",
     "foundAt" : "2026-08-18T08:22:13.900Z"
-  }, {
-    "serverId" : 3355,
-    "x" : 433,
-    "y" : 631,
-    "uid" : "631338780025",
-    "username" : "Neng🚀",
-    "level" : 100,
-    "allianceId" : "500327049",
-    "allianceTag" : "-B3-",
-    "pointId" : 323289,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4801855073050834434",
-      "players" : [ ],
-      "num" : 29,
-      "endTimeMilli" : 1787040265892
-    },
-    "cityRewardSeenAt" : "2026-08-18T07:58:10.613Z",
-    "foundAt" : "2026-08-18T07:58:10.613Z"
   }, {
     "serverId" : 3491,
     "x" : 433,
