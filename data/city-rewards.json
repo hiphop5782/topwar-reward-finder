@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T11:25:39.063284100Z",
-  "count" : 33,
+  "updatedAt" : "2026-08-18T11:27:46.041406900Z",
+  "count" : 32,
   "locations" : [ {
     "serverId" : 158,
     "x" : 361,
@@ -626,44 +626,6 @@
     "cityRewardSeenAt" : "2026-08-18T10:52:46.226Z",
     "foundAt" : "2026-08-18T10:52:46.226Z"
   }, {
-    "serverId" : 3352,
-    "x" : 415,
-    "y" : 533,
-    "uid" : "8085955022133",
-    "username" : "こはく",
-    "level" : 90,
-    "allianceId" : "500327063",
-    "allianceTag" : "GKnU",
-    "pointId" : 273104,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4802032981887299588",
-      "players" : [ ],
-      "num" : 24,
-      "endTimeMilli" : 1787050870085
-    },
-    "cityRewardSeenAt" : "2026-08-18T10:52:34.012Z",
-    "foundAt" : "2026-08-18T10:52:34.012Z"
-  }, {
-    "serverId" : 3352,
-    "x" : 592,
-    "y" : 520,
-    "uid" : "8098537737525",
-    "username" : "kurio",
-    "level" : 100,
-    "allianceId" : "500330115",
-    "allianceTag" : "u&BT",
-    "pointId" : 266537,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4802025499282518021",
-      "players" : [ ],
-      "num" : 12,
-      "endTimeMilli" : 1787050424087
-    },
-    "cityRewardSeenAt" : "2026-08-18T10:52:36.419Z",
-    "foundAt" : "2026-08-18T10:52:36.419Z"
-  }, {
     "serverId" : 3477,
     "x" : 412,
     "y" : 620,
@@ -701,5 +663,24 @@
     },
     "cityRewardSeenAt" : "2026-08-18T11:24:20.160Z",
     "foundAt" : "2026-08-18T11:24:20.160Z"
+  }, {
+    "serverId" : 4060,
+    "x" : 421,
+    "y" : 527,
+    "uid" : "9032343850972",
+    "username" : "LKHS",
+    "level" : 100,
+    "allianceId" : "500394081",
+    "allianceTag" : "F60s",
+    "pointId" : 270035,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4802059201002059785",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1787052432866
+    },
+    "cityRewardSeenAt" : "2026-08-18T11:25:39.259Z",
+    "foundAt" : "2026-08-18T11:25:39.259Z"
   } ]
 }
