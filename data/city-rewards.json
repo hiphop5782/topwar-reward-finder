@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-18T05:54:48.434866700Z",
+  "updatedAt" : "2026-08-18T05:56:59.824642300Z",
   "count" : 9,
   "locations" : [ {
     "serverId" : 341,
@@ -40,6 +40,25 @@
     },
     "cityRewardSeenAt" : "2026-08-18T05:24:04.097Z",
     "foundAt" : "2026-08-18T05:24:04.097Z"
+  }, {
+    "serverId" : 2147,
+    "x" : 452,
+    "y" : 698,
+    "uid" : "842889337117",
+    "username" : "yoshy🌱",
+    "level" : 100,
+    "allianceId" : "400257393",
+    "allianceTag" : "SGSG",
+    "pointId" : 357603,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4801749762935145987",
+      "players" : [ ],
+      "num" : 16,
+      "endTimeMilli" : 1787033988920
+    },
+    "cityRewardSeenAt" : "2026-08-18T05:55:57.947Z",
+    "foundAt" : "2026-08-18T05:55:57.947Z"
   }, {
     "serverId" : 3469,
     "x" : 419,
@@ -163,24 +182,5 @@
     },
     "cityRewardSeenAt" : "2026-08-18T05:28:23.296Z",
     "foundAt" : "2026-08-18T05:28:23.296Z"
-  }, {
-    "serverId" : 4480,
-    "x" : 395,
-    "y" : 687,
-    "uid" : "9736173883776",
-    "username" : "Bebe",
-    "level" : 79,
-    "allianceId" : "500480266",
-    "allianceTag" : "DiV1",
-    "pointId" : 351942,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4801702262728753159",
-      "players" : [ ],
-      "num" : 22,
-      "endTimeMilli" : 1787031157687
-    },
-    "cityRewardSeenAt" : "2026-08-18T05:21:23.344Z",
-    "foundAt" : "2026-08-18T05:21:23.344Z"
   } ]
 }
