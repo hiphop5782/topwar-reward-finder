@@ -1,8 +1,58 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T10:54:23.964522900Z",
-  "count" : 1,
+  "updatedAt" : "2026-08-19T10:56:51.242940600Z",
+  "count" : 3,
   "locations" : [ {
+    "serverId" : 619,
+    "x" : 425,
+    "y" : 649,
+    "uid" : "279664013808",
+    "username" : "のんた",
+    "level" : 100,
+    "allianceId" : "368552",
+    "allianceTag" : "NBRK",
+    "pointId" : 332501,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4803495265510413830",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":197,\"gender\":0,\"avatarurl\":\"hero_icon214_summer\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"4hrs\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"hero_icon237\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"来孫にゃんこGX\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":242,\"gender\":0,\"avatarurl\":\"hero_icon121\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"曾孫にゃんこFX\"}"
+      }, {
+        "frameId" : 45,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon102_newyear\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"こにゃんこEX\"}"
+      } ],
+      "num" : 49,
+      "endTimeMilli" : 1787138028981
+    },
+    "cityRewardSeenAt" : "2026-08-19T10:55:33.642Z",
+    "foundAt" : "2026-08-19T10:55:33.642Z"
+  }, {
+    "serverId" : 619,
+    "x" : 432,
+    "y" : 522,
+    "uid" : "478767485566",
+    "username" : "ＹＯＳＨＩ",
+    "level" : 100,
+    "allianceId" : "360338",
+    "allianceTag" : "YSTT",
+    "pointId" : 267481,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4803486471229330953",
+      "players" : [ ],
+      "num" : 99,
+      "endTimeMilli" : 1787137504801
+    },
+    "cityRewardSeenAt" : "2026-08-19T10:55:08.038Z",
+    "foundAt" : "2026-08-19T10:55:08.038Z"
+  }, {
     "serverId" : 2644,
     "x" : 396,
     "y" : 318,
