@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T02:30:51.223889200Z",
-  "count" : 11,
+  "updatedAt" : "2026-08-19T02:32:59.506904500Z",
+  "count" : 12,
   "locations" : [ {
+    "serverId" : 1001,
+    "x" : 409,
+    "y" : 409,
+    "uid" : "383370142701",
+    "username" : "Job2",
+    "level" : 100,
+    "allianceId" : "100208423",
+    "allianceTag" : "BzLa",
+    "pointId" : 209613,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4802975809197822466",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1787107066972
+    },
+    "cityRewardSeenAt" : "2026-08-19T02:31:02.778Z",
+    "foundAt" : "2026-08-19T02:31:02.778Z"
+  }, {
     "serverId" : 1313,
     "x" : 431,
     "y" : 311,
