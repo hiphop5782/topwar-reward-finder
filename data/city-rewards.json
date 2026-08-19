@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T02:42:53.239289800Z",
-  "count" : 9,
+  "updatedAt" : "2026-08-19T02:44:36.109402100Z",
+  "count" : 8,
   "locations" : [ {
     "serverId" : 1001,
     "x" : 409,
@@ -166,30 +166,5 @@
     },
     "cityRewardSeenAt" : "2026-08-19T02:36:23.157Z",
     "foundAt" : "2026-08-19T02:36:23.157Z"
-  }, {
-    "serverId" : 4519,
-    "x" : 417,
-    "y" : 275,
-    "uid" : "9854580167079",
-    "username" : "Siren",
-    "level" : 69,
-    "allianceId" : "500495211",
-    "allianceTag" : "19DW",
-    "pointId" : 141009,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4802963495998148097",
-      "players" : [ {
-        "frameId" : 165,
-        "playerInfo" : "{\"nationalflag\":95,\"gender\":0,\"avatarurl\":\"hero_icon241_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Suteibu\"}"
-      }, {
-        "frameId" : 119,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Cat\"}"
-      } ],
-      "num" : 14,
-      "endTimeMilli" : 1787106333048
-    },
-    "cityRewardSeenAt" : "2026-08-19T02:09:03.438Z",
-    "foundAt" : "2026-08-19T02:09:03.438Z"
   } ]
 }
