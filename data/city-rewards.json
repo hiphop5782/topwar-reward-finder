@@ -1,8 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T03:45:58.326468800Z",
+  "updatedAt" : "2026-08-19T03:47:39.358101100Z",
   "count" : 12,
   "locations" : [ {
+    "serverId" : 1302,
+    "x" : 325,
+    "y" : 303,
+    "uid" : "273487540705",
+    "username" : "TomHawk",
+    "level" : 100,
+    "allianceId" : "100250006",
+    "allianceTag" : "WopA",
+    "pointId" : 155299,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4803058235223976969",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1787111979946
+    },
+    "cityRewardSeenAt" : "2026-08-19T03:44:15.157Z",
+    "foundAt" : "2026-08-19T03:44:15.157Z"
+  }, {
+    "serverId" : 1302,
+    "x" : 349,
+    "y" : 317,
+    "uid" : "296454631745",
+    "username" : "Ruby",
+    "level" : 100,
+    "allianceId" : "100250006",
+    "allianceTag" : "WopA",
+    "pointId" : 162479,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4803061624909474817",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1787112181987
+    },
+    "cityRewardSeenAt" : "2026-08-19T03:44:24.843Z",
+    "foundAt" : "2026-08-19T03:44:24.843Z"
+  }, {
     "serverId" : 2287,
     "x" : 290,
     "y" : 566,
@@ -204,55 +242,5 @@
     },
     "cityRewardSeenAt" : "2026-08-19T03:26:33.982Z",
     "foundAt" : "2026-08-19T03:26:33.982Z"
-  }, {
-    "serverId" : 4370,
-    "x" : 371,
-    "y" : 517,
-    "uid" : "9498910626066",
-    "username" : "JuanYolo",
-    "level" : 100,
-    "allianceId" : "500447791",
-    "allianceTag" : "VaL$",
-    "pointId" : 264890,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4803017695096349703",
-      "players" : [ ],
-      "num" : 11,
-      "endTimeMilli" : 1787109563566
-    },
-    "cityRewardSeenAt" : "2026-08-19T03:11:11.534Z",
-    "foundAt" : "2026-08-19T03:11:11.534Z"
-  }, {
-    "serverId" : 4370,
-    "x" : 382,
-    "y" : 508,
-    "uid" : "9502954918162",
-    "username" : "SAE",
-    "level" : 100,
-    "allianceId" : "500447791",
-    "allianceTag" : "VaL$",
-    "pointId" : 260288,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4803013743021794310",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/b649917403b9c0b605125a9dcc3fcd96_1785721744.png?v=1785721745739\",\"https://knight-cdn.akamaized.net/headimg/b649917403b9c0b605125a9dcc3fcd96_1774297376.png?v=1774297378132\",\"https://knight-cdn.akamaized.net/headimg/b649917403b9c0b605125a9dcc3fcd96_1781877564.png?v=1781877566158\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b649917403b9c0b605125a9dcc3fcd96_1774297376.png?v=1774297378132\",\"username\":\"Bobby\"}"
-      }, {
-        "frameId" : 1,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"meru\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/9c8dfa0e9b3335f0e2de9a96de18235c_1777308492.png?v=1777308494628\"],\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/9c8dfa0e9b3335f0e2de9a96de18235c_1777308492.png?v=1777308494628\",\"username\":\"Leo\"}"
-      }, {
-        "frameId" : 1,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/f2a18456af25b7381244877814415574_1776264739.png?v=1776264740447\",\"https://knight-cdn.akamaized.net/headimg/f2a18456af25b7381244877814415574_1776284033.png?v=1776284033683\",\"https://knight-cdn.akamaized.net/headimg/f2a18456af25b7381244877814415574_1776382157.png?v=1776382158600\",\"https://knight-cdn.akamaized.net/headimg/f2a18456af25b7381244877814415574_1776398592.png?v=1776398594522\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/f2a18456af25b7381244877814415574_1776284033.png?v=1776284033683\",\"username\":\"Aidena\"}"
-      } ],
-      "num" : 11,
-      "endTimeMilli" : 1787109328004
-    },
-    "cityRewardSeenAt" : "2026-08-19T03:11:11.534Z",
-    "foundAt" : "2026-08-19T03:11:11.534Z"
   } ]
 }
