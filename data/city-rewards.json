@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T16:07:44.339979800Z",
-  "count" : 11,
+  "updatedAt" : "2026-08-19T16:10:10.805524600Z",
+  "count" : 12,
   "locations" : [ {
     "serverId" : 1096,
     "x" : 317,
@@ -211,5 +211,24 @@
     },
     "cityRewardSeenAt" : "2026-08-19T16:00:50.508Z",
     "foundAt" : "2026-08-19T16:00:50.508Z"
+  }, {
+    "serverId" : 4393,
+    "x" : 408,
+    "y" : 530,
+    "uid" : "9549876957481",
+    "username" : "騎士Knight",
+    "level" : 100,
+    "allianceId" : "500453980",
+    "allianceTag" : "FDP5",
+    "pointId" : 271565,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4803820320331026947",
+      "players" : [ ],
+      "num" : 25,
+      "endTimeMilli" : 1787157403758
+    },
+    "cityRewardSeenAt" : "2026-08-19T16:08:49.750Z",
+    "foundAt" : "2026-08-19T16:08:49.750Z"
   } ]
 }
