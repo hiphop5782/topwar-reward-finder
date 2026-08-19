@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T07:14:57.532707Z",
-  "count" : 9,
+  "updatedAt" : "2026-08-19T07:17:25.756989100Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 1669,
     "x" : 390,
@@ -191,5 +191,36 @@
     },
     "cityRewardSeenAt" : "2026-08-19T07:10:46.155Z",
     "foundAt" : "2026-08-19T07:10:46.155Z"
+  }, {
+    "serverId" : 4385,
+    "x" : 389,
+    "y" : 319,
+    "uid" : "9545788002593",
+    "username" : "Tsurugi",
+    "level" : 100,
+    "allianceId" : "500451783",
+    "allianceTag" : "UN85",
+    "pointId" : 163523,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4803257407002264069",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_5_1\",\"nickname\":\"wy.9543529206049\",\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"日本の夜明け\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon004_summer\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"ゾルディック\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_10_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"chu300\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon234\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"三日月\"}"
+      } ],
+      "num" : 10,
+      "endTimeMilli" : 1787123851509
+    },
+    "cityRewardSeenAt" : "2026-08-19T07:15:52.986Z",
+    "foundAt" : "2026-08-19T07:15:52.986Z"
   } ]
 }
