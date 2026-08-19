@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T06:59:55.794067900Z",
-  "count" : 14,
+  "updatedAt" : "2026-08-19T07:01:56.222842500Z",
+  "count" : 15,
   "locations" : [ {
     "serverId" : 1035,
     "x" : 690,
@@ -52,6 +52,31 @@
     },
     "cityRewardSeenAt" : "2026-08-19T06:30:22.956Z",
     "foundAt" : "2026-08-19T06:30:22.956Z"
+  }, {
+    "serverId" : 1669,
+    "x" : 390,
+    "y" : 672,
+    "uid" : "893536594468",
+    "username" : "clauderx",
+    "level" : 100,
+    "allianceId" : "300092751",
+    "allianceTag" : "1Bad",
+    "pointId" : 344260,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4803248460013570564",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/422291895692.jpg?v=1718652240025\",\"https://knight-cdn.akamaized.net/headimg/7f3e0fab0a212df5b7b9fe9f644dc52c_1784565790.png?v=1784565791662\",\"https://knight-cdn.akamaized.net/headimg/7f3e0fab0a212df5b7b9fe9f644dc52c_1785103936.png?v=1785103936856\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/422291895692.jpg?v=1718652240025\",\"username\":\"HULKSMSH\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":49,\"gender\":0,\"avatarurl\":\"hero_icon151_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"nando\"}"
+      } ],
+      "num" : 5,
+      "endTimeMilli" : 1787123318227
+    },
+    "cityRewardSeenAt" : "2026-08-19T07:01:14.575Z",
+    "foundAt" : "2026-08-19T07:01:14.575Z"
   }, {
     "serverId" : 2050,
     "x" : 457,
