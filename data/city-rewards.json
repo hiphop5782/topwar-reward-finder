@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T05:19:40.429229900Z",
+  "updatedAt" : "2026-08-19T05:21:18.418265200Z",
   "count" : 6,
   "locations" : [ {
+    "serverId" : 511,
+    "x" : 386,
+    "y" : 304,
+    "uid" : "509845328647",
+    "username" : "kingKhan",
+    "level" : 100,
+    "allianceId" : "438092",
+    "allianceTag" : "51IM",
+    "pointId" : 155842,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4803164166749945352",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1787118293957
+    },
+    "cityRewardSeenAt" : "2026-08-19T05:18:52.027Z",
+    "foundAt" : "2026-08-19T05:18:52.027Z"
+  }, {
     "serverId" : 2622,
     "x" : 541,
     "y" : 473,
@@ -59,25 +78,6 @@
     },
     "cityRewardSeenAt" : "2026-08-19T04:52:13.680Z",
     "foundAt" : "2026-08-19T04:52:13.680Z"
-  }, {
-    "serverId" : 3436,
-    "x" : 431,
-    "y" : 529,
-    "uid" : "861454190972",
-    "username" : "dalp🐱",
-    "level" : 100,
-    "allianceId" : "500336352",
-    "allianceTag" : "NepL",
-    "pointId" : 271064,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4803123873431869444",
-      "players" : [ ],
-      "num" : 23,
-      "endTimeMilli" : 1787115892288
-    },
-    "cityRewardSeenAt" : "2026-08-19T04:45:52.751Z",
-    "foundAt" : "2026-08-19T04:45:52.751Z"
   }, {
     "serverId" : 4209,
     "x" : 379,
