@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T17:30:22.610471Z",
-  "count" : 17,
+  "updatedAt" : "2026-08-19T17:32:49.569889100Z",
+  "count" : 21,
   "locations" : [ {
     "serverId" : 341,
     "x" : 419,
@@ -234,6 +234,63 @@
     "cityRewardSeenAt" : "2026-08-19T17:29:14.368Z",
     "foundAt" : "2026-08-19T17:29:14.368Z"
   }, {
+    "serverId" : 3522,
+    "x" : 401,
+    "y" : 213,
+    "uid" : "386794935467",
+    "username" : "Mac",
+    "level" : 100,
+    "allianceId" : "500348242",
+    "allianceTag" : "PxR.",
+    "pointId" : 109257,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4803884677412389893",
+      "players" : [ ],
+      "num" : 40,
+      "endTimeMilli" : 1787161239739
+    },
+    "cityRewardSeenAt" : "2026-08-19T17:30:03.980Z",
+    "foundAt" : "2026-08-19T17:30:03.980Z"
+  }, {
+    "serverId" : 3522,
+    "x" : 401,
+    "y" : 697,
+    "uid" : "8321003818435",
+    "username" : "CptPete",
+    "level" : 100,
+    "allianceId" : "500347969",
+    "allianceTag" : "sBS",
+    "pointId" : 357065,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4803902714161103881",
+      "players" : [ ],
+      "num" : 26,
+      "endTimeMilli" : 1787162314813
+    },
+    "cityRewardSeenAt" : "2026-08-19T17:31:30.942Z",
+    "foundAt" : "2026-08-19T17:31:30.942Z"
+  }, {
+    "serverId" : 3522,
+    "x" : 424,
+    "y" : 690,
+    "uid" : "7700976962477",
+    "username" : "CAKAL",
+    "level" : 100,
+    "allianceId" : "500347969",
+    "allianceTag" : "sBS",
+    "pointId" : 353493,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4803903354195117064",
+      "players" : [ ],
+      "num" : 19,
+      "endTimeMilli" : 1787162352962
+    },
+    "cityRewardSeenAt" : "2026-08-19T17:31:30.942Z",
+    "foundAt" : "2026-08-19T17:31:30.942Z"
+  }, {
     "serverId" : 3715,
     "x" : 476,
     "y" : 460,
@@ -421,5 +478,30 @@
     },
     "cityRewardSeenAt" : "2026-08-19T17:19:04.351Z",
     "foundAt" : "2026-08-19T17:19:04.351Z"
+  }, {
+    "serverId" : 4503,
+    "x" : 417,
+    "y" : 573,
+    "uid" : "9799111348631",
+    "username" : "Anthrgrl",
+    "level" : 67,
+    "allianceId" : "500487827",
+    "allianceTag" : "Cia-",
+    "pointId" : 293585,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4803898001089310209",
+      "players" : [ {
+        "frameId" : 119,
+        "playerInfo" : "{\"nationalflag\":48,\"gender\":0,\"avatarurl\":\"hero_icon214_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"心眼挺毒\"}"
+      }, {
+        "frameId" : 119,
+        "playerInfo" : "{\"nationalflag\":184,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Spodzor\"}"
+      } ],
+      "num" : 20,
+      "endTimeMilli" : 1787162033892
+    },
+    "cityRewardSeenAt" : "2026-08-19T17:31:57.988Z",
+    "foundAt" : "2026-08-19T17:31:57.988Z"
   } ]
 }
