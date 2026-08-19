@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T13:44:10.391660200Z",
-  "count" : 16,
+  "updatedAt" : "2026-08-19T13:46:40.973697Z",
+  "count" : 18,
   "locations" : [ {
     "serverId" : 926,
     "x" : 422,
@@ -306,5 +306,43 @@
     },
     "cityRewardSeenAt" : "2026-08-19T13:19:21.891Z",
     "foundAt" : "2026-08-19T13:19:21.891Z"
+  }, {
+    "serverId" : 4382,
+    "x" : 398,
+    "y" : 522,
+    "uid" : "9528284123422",
+    "username" : "CEmays",
+    "level" : 86,
+    "allianceId" : "500450726",
+    "allianceTag" : "TNS!",
+    "pointId" : 267464,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4803665252617174024",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1787148161002
+    },
+    "cityRewardSeenAt" : "2026-08-19T13:44:35.977Z",
+    "foundAt" : "2026-08-19T13:44:35.977Z"
+  }, {
+    "serverId" : 4382,
+    "x" : 452,
+    "y" : 462,
+    "uid" : "9528379740446",
+    "username" : "kishi_to",
+    "level" : 97,
+    "allianceId" : "500451079",
+    "allianceTag" : "FTS8",
+    "pointId" : 236771,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4803648148245462025",
+      "players" : [ ],
+      "num" : 31,
+      "endTimeMilli" : 1787147141502
+    },
+    "cityRewardSeenAt" : "2026-08-19T13:44:35.977Z",
+    "foundAt" : "2026-08-19T13:44:35.977Z"
   } ]
 }
