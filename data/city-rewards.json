@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T18:04:36.469328600Z",
-  "count" : 11,
+  "updatedAt" : "2026-08-19T18:06:49.003808Z",
+  "count" : 9,
   "locations" : [ {
+    "serverId" : 795,
+    "x" : 422,
+    "y" : 600,
+    "uid" : "274878890277",
+    "username" : "marcel",
+    "level" : 100,
+    "allianceId" : "456333",
+    "allianceTag" : "S795",
+    "pointId" : 307412,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4803916452250138114",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1787163133667
+    },
+    "cityRewardSeenAt" : "2026-08-19T18:04:29.289Z",
+    "foundAt" : "2026-08-19T18:04:29.289Z"
+  }, {
     "serverId" : 3436,
     "x" : 388,
     "y" : 396,
@@ -83,63 +102,6 @@
     },
     "cityRewardSeenAt" : "2026-08-19T17:37:51.564Z",
     "foundAt" : "2026-08-19T17:37:51.564Z"
-  }, {
-    "serverId" : 3522,
-    "x" : 401,
-    "y" : 213,
-    "uid" : "386794935467",
-    "username" : "Mac",
-    "level" : 100,
-    "allianceId" : "500348242",
-    "allianceTag" : "PxR.",
-    "pointId" : 109257,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4803884677412389893",
-      "players" : [ ],
-      "num" : 40,
-      "endTimeMilli" : 1787161239739
-    },
-    "cityRewardSeenAt" : "2026-08-19T17:30:03.980Z",
-    "foundAt" : "2026-08-19T17:30:03.980Z"
-  }, {
-    "serverId" : 3522,
-    "x" : 401,
-    "y" : 697,
-    "uid" : "8321003818435",
-    "username" : "CptPete",
-    "level" : 100,
-    "allianceId" : "500347969",
-    "allianceTag" : "sBS",
-    "pointId" : 357065,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4803902714161103881",
-      "players" : [ ],
-      "num" : 26,
-      "endTimeMilli" : 1787162314813
-    },
-    "cityRewardSeenAt" : "2026-08-19T17:31:30.942Z",
-    "foundAt" : "2026-08-19T17:31:30.942Z"
-  }, {
-    "serverId" : 3522,
-    "x" : 424,
-    "y" : 690,
-    "uid" : "7700976962477",
-    "username" : "CAKAL",
-    "level" : 100,
-    "allianceId" : "500347969",
-    "allianceTag" : "sBS",
-    "pointId" : 353493,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4803903354195117064",
-      "players" : [ ],
-      "num" : 19,
-      "endTimeMilli" : 1787162352962
-    },
-    "cityRewardSeenAt" : "2026-08-19T17:31:30.942Z",
-    "foundAt" : "2026-08-19T17:31:30.942Z"
   }, {
     "serverId" : 3688,
     "x" : 374,
