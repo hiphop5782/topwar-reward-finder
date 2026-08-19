@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T09:07:47.092617700Z",
-  "count" : 4,
+  "updatedAt" : "2026-08-19T09:09:32.210815600Z",
+  "count" : 6,
   "locations" : [ {
+    "serverId" : 1803,
+    "x" : 314,
+    "y" : 716,
+    "uid" : "574997936005",
+    "username" : "JojoVajo",
+    "level" : 94,
+    "allianceId" : "500047601",
+    "allianceTag" : "(SwE",
+    "pointId" : 366750,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4803377712004470274",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1787131022246
+    },
+    "cityRewardSeenAt" : "2026-08-19T09:08:51.385Z",
+    "foundAt" : "2026-08-19T09:08:51.385Z"
+  }, {
     "serverId" : 2682,
     "x" : 408,
     "y" : 406,
@@ -40,6 +59,25 @@
     },
     "cityRewardSeenAt" : "2026-08-19T08:45:53.357Z",
     "foundAt" : "2026-08-19T08:45:53.357Z"
+  }, {
+    "serverId" : 3053,
+    "x" : 457,
+    "y" : 319,
+    "uid" : "180739362996",
+    "username" : "妖狐",
+    "level" : 100,
+    "allianceId" : "500301377",
+    "allianceTag" : "ReUN",
+    "pointId" : 163557,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4803372245149276673",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1787130696396
+    },
+    "cityRewardSeenAt" : "2026-08-19T09:08:02.768Z",
+    "foundAt" : "2026-08-19T09:08:02.768Z"
   }, {
     "serverId" : 3258,
     "x" : 365,
