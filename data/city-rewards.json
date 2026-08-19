@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T11:04:23.009886500Z",
-  "count" : 4,
+  "updatedAt" : "2026-08-19T11:06:51.497426500Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 619,
     "x" : 425,
@@ -90,5 +90,43 @@
     },
     "cityRewardSeenAt" : "2026-08-19T11:02:16.118Z",
     "foundAt" : "2026-08-19T11:02:16.118Z"
+  }, {
+    "serverId" : 3700,
+    "x" : 417,
+    "y" : 317,
+    "uid" : "596207641579",
+    "username" : "《MĄŅĐŘƏ§",
+    "level" : 100,
+    "allianceId" : "500369407",
+    "allianceTag" : "ANKT",
+    "pointId" : 162513,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4803507343949883400",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1787138748912
+    },
+    "cityRewardSeenAt" : "2026-08-19T11:05:20.683Z",
+    "foundAt" : "2026-08-19T11:05:20.683Z"
+  }, {
+    "serverId" : 3700,
+    "x" : 423,
+    "y" : 319,
+    "uid" : "8591225163380",
+    "username" : "HH22",
+    "level" : 100,
+    "allianceId" : "500369407",
+    "allianceTag" : "ANKT",
+    "pointId" : 163540,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4803503563120371720",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1787138523557
+    },
+    "cityRewardSeenAt" : "2026-08-19T11:05:20.683Z",
+    "foundAt" : "2026-08-19T11:05:20.683Z"
   } ]
 }
