@@ -1,8 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T13:50:40.216469300Z",
+  "updatedAt" : "2026-08-19T13:52:35.861049500Z",
   "count" : 19,
   "locations" : [ {
+    "serverId" : 225,
+    "x" : 435,
+    "y" : 619,
+    "uid" : "272176943395",
+    "username" : "キリスケ",
+    "level" : 100,
+    "allianceId" : "100003583",
+    "allianceTag" : "VIOI",
+    "pointId" : 317146,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4803666009619808769",
+      "players" : [ ],
+      "num" : 22,
+      "endTimeMilli" : 1787148206123
+    },
+    "cityRewardSeenAt" : "2026-08-19T13:50:56.817Z",
+    "foundAt" : "2026-08-19T13:50:56.817Z"
+  }, {
+    "serverId" : 225,
+    "x" : 436,
+    "y" : 616,
+    "uid" : "319998738657",
+    "username" : "🐄牛🐮",
+    "level" : 100,
+    "allianceId" : "100003583",
+    "allianceTag" : "VIOI",
+    "pointId" : 315611,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4803663750769000961",
+      "players" : [ ],
+      "num" : 25,
+      "endTimeMilli" : 1787148071485
+    },
+    "cityRewardSeenAt" : "2026-08-19T13:50:56.817Z",
+    "foundAt" : "2026-08-19T13:50:56.817Z"
+  }, {
     "serverId" : 926,
     "x" : 422,
     "y" : 322,
@@ -116,44 +154,6 @@
     },
     "cityRewardSeenAt" : "2026-08-19T13:39:45.408Z",
     "foundAt" : "2026-08-19T13:39:45.408Z"
-  }, {
-    "serverId" : 1525,
-    "x" : 458,
-    "y" : 430,
-    "uid" : "841312495093",
-    "username" : "あすまる",
-    "level" : 100,
-    "allianceId" : "765165",
-    "allianceTag" : "I525",
-    "pointId" : 220390,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4803641276061444613",
-      "players" : [ ],
-      "num" : 36,
-      "endTimeMilli" : 1787146731888
-    },
-    "cityRewardSeenAt" : "2026-08-19T13:16:51.215Z",
-    "foundAt" : "2026-08-19T13:16:51.215Z"
-  }, {
-    "serverId" : 1525,
-    "x" : 482,
-    "y" : 440,
-    "uid" : "473765770769",
-    "username" : "LEVE",
-    "level" : 100,
-    "allianceId" : "765165",
-    "allianceTag" : "I525",
-    "pointId" : 225522,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4803624408097483266",
-      "players" : [ ],
-      "num" : 57,
-      "endTimeMilli" : 1787145726479
-    },
-    "cityRewardSeenAt" : "2026-08-19T13:16:51.215Z",
-    "foundAt" : "2026-08-19T13:16:51.215Z"
   }, {
     "serverId" : 2501,
     "x" : 394,
