@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T08:55:05.688194800Z",
-  "count" : 5,
+  "updatedAt" : "2026-08-19T08:57:36.000457700Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 1607,
     "x" : 408,
@@ -97,5 +97,24 @@
     },
     "cityRewardSeenAt" : "2026-08-19T08:45:53.357Z",
     "foundAt" : "2026-08-19T08:45:53.357Z"
+  }, {
+    "serverId" : 3603,
+    "x" : 424,
+    "y" : 546,
+    "uid" : "8419814837779",
+    "username" : "亞魯",
+    "level" : 100,
+    "allianceId" : "500359752",
+    "allianceTag" : "RxHs",
+    "pointId" : 279765,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4803372079709431298",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1787130686535
+    },
+    "cityRewardSeenAt" : "2026-08-19T08:56:39.288Z",
+    "foundAt" : "2026-08-19T08:56:39.288Z"
   } ]
 }
