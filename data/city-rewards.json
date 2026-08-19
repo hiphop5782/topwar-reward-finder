@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T21:08:24.099924800Z",
-  "count" : 2,
+  "updatedAt" : "2026-08-19T21:10:47.120027700Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 1444,
     "x" : 407,
@@ -40,5 +40,36 @@
     },
     "cityRewardSeenAt" : "2026-08-19T20:42:48.039Z",
     "foundAt" : "2026-08-19T20:42:48.039Z"
+  }, {
+    "serverId" : 4502,
+    "x" : 348,
+    "y" : 370,
+    "uid" : "9788822032790",
+    "username" : "ANDARNA",
+    "level" : 80,
+    "allianceId" : "500487093",
+    "allianceTag" : "SOL'",
+    "pointId" : 189615,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4804101512460708868",
+      "players" : [ {
+        "frameId" : 119,
+        "playerInfo" : "{\"nationalflag\":46,\"gender\":0,\"avatarurl\":\"hero_icon004_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"LuisChil\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":166,\"gender\":0,\"avatarurl\":\"hero_icon174_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"mier\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":20,\"gender\":0,\"avatarurl\":\"hero_icon009_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Skelfie\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":225,\"gender\":0,\"avatarurl\":\"hero_icon169_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"Seda\"}"
+      } ],
+      "num" : 25,
+      "endTimeMilli" : 1787174164115
+    },
+    "cityRewardSeenAt" : "2026-08-19T21:09:20.331Z",
+    "foundAt" : "2026-08-19T21:09:20.331Z"
   } ]
 }
