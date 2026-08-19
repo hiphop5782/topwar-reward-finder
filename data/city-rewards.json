@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T01:14:41.675041700Z",
-  "count" : 9,
+  "updatedAt" : "2026-08-19T01:17:08.999000100Z",
+  "count" : 11,
   "locations" : [ {
     "serverId" : 1386,
     "x" : 380,
@@ -242,5 +242,43 @@
     },
     "cityRewardSeenAt" : "2026-08-19T01:06:05.329Z",
     "foundAt" : "2026-08-19T01:06:05.329Z"
+  }, {
+    "serverId" : 4434,
+    "x" : 75,
+    "y" : 815,
+    "uid" : "9631332077906",
+    "username" : "morphy",
+    "level" : 64,
+    "allianceId" : "500467182",
+    "allianceTag" : "Z327",
+    "pointId" : 417318,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4802896294020555783",
+      "players" : [ ],
+      "num" : 40,
+      "endTimeMilli" : 1787102327498
+    },
+    "cityRewardSeenAt" : "2026-08-19T01:16:46.286Z",
+    "foundAt" : "2026-08-19T01:16:46.286Z"
+  }, {
+    "serverId" : 4434,
+    "x" : 396,
+    "y" : 424,
+    "uid" : "9632752275794",
+    "username" : "지나니니",
+    "level" : 88,
+    "allianceId" : "500465344",
+    "allianceTag" : "34FF",
+    "pointId" : 217287,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4802900715857159171",
+      "players" : [ ],
+      "num" : 41,
+      "endTimeMilli" : 1787102591060
+    },
+    "cityRewardSeenAt" : "2026-08-19T01:15:51.636Z",
+    "foundAt" : "2026-08-19T01:15:51.636Z"
   } ]
 }
