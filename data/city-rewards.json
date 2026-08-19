@@ -1,6 +1,28 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T00:23:03.580828Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-08-19T00:25:30.714434500Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 1547,
+    "x" : 400,
+    "y" : 434,
+    "uid" : "614892123451",
+    "username" : "vic",
+    "level" : 100,
+    "allianceId" : "760688",
+    "allianceTag" : "3sir",
+    "pointId" : 222409,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4802870826758837764",
+      "players" : [ {
+        "frameId" : 8,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/58cff0db89e319fab61efabb9b1bbd25_1782482408.png?v=1782482409446\",\"https://knight-cdn.akamaized.net/headimg/58cff0db89e319fab61efabb9b1bbd25_1745736905.jpg?v=1745736905997\",\"https://knight-cdn.akamaized.net/headimg/58cff0db89e319fab61efabb9b1bbd25_1764296355.png?v=1764296356582\",\"https://knight-cdn.akamaized.net/headimg/58cff0db89e319fab61efabb9b1bbd25_1783995460.png?v=1783995462072\"],\"nationalflag\":198,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/58cff0db89e319fab61efabb9b1bbd25_1745736905.jpg?v=1745736905997\",\"username\":\"vic\"}"
+      } ],
+      "num" : 1,
+      "endTimeMilli" : 1787100809531
+    },
+    "cityRewardSeenAt" : "2026-08-19T00:24:03.059Z",
+    "foundAt" : "2026-08-19T00:24:03.059Z"
+  } ]
 }
