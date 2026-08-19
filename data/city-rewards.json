@@ -1,8 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T02:44:36.109402100Z",
-  "count" : 8,
+  "updatedAt" : "2026-08-19T02:45:39.122002200Z",
+  "count" : 10,
   "locations" : [ {
+    "serverId" : 126,
+    "x" : 498,
+    "y" : 342,
+    "uid" : "163808510119",
+    "username" : "ベニマル",
+    "level" : 100,
+    "allianceId" : "110210",
+    "allianceTag" : "OTA",
+    "pointId" : 175354,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4802992062662245382",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1787108035754
+    },
+    "cityRewardSeenAt" : "2026-08-19T02:43:51.931Z",
+    "foundAt" : "2026-08-19T02:43:51.931Z"
+  }, {
+    "serverId" : 126,
+    "x" : 500,
+    "y" : 344,
+    "uid" : "787621007486",
+    "username" : "シンモン",
+    "level" : 100,
+    "allianceId" : "110210",
+    "allianceTag" : "OTA",
+    "pointId" : 176379,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4802987805510794243",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1787107782008
+    },
+    "cityRewardSeenAt" : "2026-08-19T02:43:51.931Z",
+    "foundAt" : "2026-08-19T02:43:51.931Z"
+  }, {
     "serverId" : 1001,
     "x" : 409,
     "y" : 409,
