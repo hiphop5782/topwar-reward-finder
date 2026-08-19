@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-19T16:40:15.054720600Z",
-  "count" : 45,
+  "updatedAt" : "2026-08-19T16:42:47.480622900Z",
+  "count" : 46,
   "locations" : [ {
     "serverId" : 499,
     "x" : 330,
@@ -890,6 +890,37 @@
     },
     "cityRewardSeenAt" : "2026-08-19T16:21:26.650Z",
     "foundAt" : "2026-08-19T16:21:26.650Z"
+  }, {
+    "serverId" : 4207,
+    "x" : 417,
+    "y" : 407,
+    "uid" : "9220747333742",
+    "username" : "Thumper5",
+    "level" : 100,
+    "allianceId" : "500417739",
+    "allianceTag" : "A0S",
+    "pointId" : 208593,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4803837414434987524",
+      "players" : [ {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon140_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"JDS58\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":65,\"gender\":0,\"avatarurl\":\"hero_icon170_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"hussam25\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/b3d9516d061759e23cbd3456c5e63989_1760125298.jpg?v=1760125300557\",\"https://knight-cdn.akamaized.net/headimg/b3d9516d061759e23cbd3456c5e63989_1765754303.png?v=1765754304215\"],\"nationalflag\":230,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b3d9516d061759e23cbd3456c5e63989_1760125298.jpg?v=1760125300557\",\"username\":\"Comprach\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":184,\"gender\":0,\"avatarurl\":\"hero_icon004_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"SMMS\"}"
+      } ],
+      "num" : 19,
+      "endTimeMilli" : 1787158422646
+    },
+    "cityRewardSeenAt" : "2026-08-19T16:41:01.287Z",
+    "foundAt" : "2026-08-19T16:41:01.287Z"
   }, {
     "serverId" : 4393,
     "x" : 408,
