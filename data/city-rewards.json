@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T23:47:03.348979800Z",
-  "count" : 15,
+  "updatedAt" : "2026-08-20T23:48:23.484828600Z",
+  "count" : 16,
   "locations" : [ {
     "serverId" : 184,
     "x" : 381,
@@ -323,5 +323,24 @@
     },
     "cityRewardSeenAt" : "2026-08-20T23:45:51.236Z",
     "foundAt" : "2026-08-20T23:45:51.236Z"
+  }, {
+    "serverId" : 4369,
+    "x" : 336,
+    "y" : 474,
+    "uid" : "9496820945169",
+    "username" : "B",
+    "level" : 100,
+    "allianceId" : "500447349",
+    "allianceTag" : "WEMS",
+    "pointId" : 242857,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4805730444876325376",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1787271256053
+    },
+    "cityRewardSeenAt" : "2026-08-20T23:46:45.362Z",
+    "foundAt" : "2026-08-20T23:46:45.362Z"
   } ]
 }
