@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T02:09:46.884139Z",
-  "count" : 14,
+  "updatedAt" : "2026-08-20T02:11:24.839707100Z",
+  "count" : 15,
   "locations" : [ {
     "serverId" : 1444,
     "x" : 421,
@@ -297,6 +297,31 @@
     },
     "cityRewardSeenAt" : "2026-08-20T01:39:56.566Z",
     "foundAt" : "2026-08-20T01:39:56.566Z"
+  }, {
+    "serverId" : 4284,
+    "x" : 427,
+    "y" : 545,
+    "uid" : "923808094892",
+    "username" : "TOMMY117",
+    "level" : 100,
+    "allianceId" : "500429253",
+    "allianceTag" : "S.F!",
+    "pointId" : 279254,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4804422190002960389",
+      "players" : [ {
+        "frameId" : 154,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d0fdd240d0633b1f1d316ad1b5082aa6_1783777665.png?v=1783777668285\",\"https://knight-cdn.akamaized.net/headimg/d0fdd240d0633b1f1d316ad1b5082aa6_1768856657.png?v=1768856660227\",\"https://knight-cdn.akamaized.net/headimg/d0fdd240d0633b1f1d316ad1b5082aa6_1785680842.png?v=1785680847919\",\"https://knight-cdn.akamaized.net/headimg/d0fdd240d0633b1f1d316ad1b5082aa6_1782484205.png?v=1782484208429\"],\"nationalflag\":193,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d0fdd240d0633b1f1d316ad1b5082aa6_1785680842.png?v=1785680847919\",\"username\":\"Angeℓ❥\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":218,\"gender\":0,\"avatarurl\":\"hero_icon008_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"LoVe\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1787193277986
+    },
+    "cityRewardSeenAt" : "2026-08-20T02:09:50.482Z",
+    "foundAt" : "2026-08-20T02:09:50.482Z"
   }, {
     "serverId" : 4377,
     "x" : 428,
