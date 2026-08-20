@@ -1,36 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T08:21:29.212457300Z",
+  "updatedAt" : "2026-08-20T08:22:39.625638700Z",
   "count" : 3,
   "locations" : [ {
-    "serverId" : 126,
-    "x" : 269,
-    "y" : 633,
-    "uid" : "163676881063",
-    "username" : "HALX999",
-    "level" : 100,
-    "allianceId" : "112106",
-    "allianceTag" : "Mont",
-    "pointId" : 324231,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4804752848476765192",
-      "players" : [ {
-        "frameId" : 100,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/368201363623.jpg?v=1674922521386\",\"username\":\"つき\"}"
-      }, {
-        "frameId" : 153,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":\"wy.166243958951\",\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/a0ed9ebbd7f2afa43bb5a46084dc831e.jpg?v=1723033542822\",\"username\":\"にじ\"}"
-      }, {
-        "frameId" : 163,
-        "playerInfo" : "{\"nationalflag\":9,\"gender\":0,\"avatarurl\":\"hero_icon335\",\"nickname\":\"wy.163676881063\",\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"HALX999\"}"
-      } ],
-      "num" : 3,
-      "endTimeMilli" : 1787212986767
-    },
-    "cityRewardSeenAt" : "2026-08-20T07:47:27.735Z",
-    "foundAt" : "2026-08-20T07:47:27.735Z"
-  }, {
     "serverId" : 2097,
     "x" : 409,
     "y" : 617,
@@ -49,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-08-20T08:16:57.631Z",
     "foundAt" : "2026-08-20T08:16:57.631Z"
+  }, {
+    "serverId" : 2256,
+    "x" : 406,
+    "y" : 534,
+    "uid" : "551049377586",
+    "username" : "온달장군",
+    "level" : 100,
+    "allianceId" : "500196794",
+    "allianceTag" : "SNAX",
+    "pointId" : 273612,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4804773505357946886",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1787214218013
+    },
+    "cityRewardSeenAt" : "2026-08-20T08:21:33.934Z",
+    "foundAt" : "2026-08-20T08:21:33.934Z"
   }, {
     "serverId" : 4319,
     "x" : 355,
