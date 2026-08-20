@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T16:28:10.087599300Z",
-  "count" : 41,
+  "updatedAt" : "2026-08-20T16:30:37.038973600Z",
+  "count" : 43,
   "locations" : [ {
     "serverId" : 1067,
     "x" : 413,
@@ -513,6 +513,56 @@
     },
     "cityRewardSeenAt" : "2026-08-20T16:21:53.448Z",
     "foundAt" : "2026-08-20T16:21:53.448Z"
+  }, {
+    "serverId" : 2655,
+    "x" : 415,
+    "y" : 295,
+    "uid" : "913330457183",
+    "username" : "Amadeus",
+    "level" : 100,
+    "allianceId" : "500234335",
+    "allianceTag" : "NpNp",
+    "pointId" : 151248,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4805281687851548169",
+      "players" : [ {
+        "frameId" : 121,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"hero_icon236_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"〽️ra⚡ad⚡\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":179,\"gender\":0,\"avatarurl\":\"hero_icon019_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"Musssasi\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":98,\"gender\":0,\"avatarurl\":\"hero_icon125_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"zadrugar\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/565208966988.jpg?v=1662279167646\",\"https://knight-cdn.akamaized.net/headimg/d07db5e1cd71b5bbfc459f9a4329d524_1762193795.png?v=1762193798619\"],\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d07db5e1cd71b5bbfc459f9a4329d524_1762193795.png?v=1762193798619\",\"username\":\"Rommel\"}"
+      } ],
+      "num" : 23,
+      "endTimeMilli" : 1787244508050
+    },
+    "cityRewardSeenAt" : "2026-08-20T16:28:53.845Z",
+    "foundAt" : "2026-08-20T16:28:53.845Z"
+  }, {
+    "serverId" : 2655,
+    "x" : 425,
+    "y" : 297,
+    "uid" : "329870005030",
+    "username" : "Eli",
+    "level" : 100,
+    "allianceId" : "500234335",
+    "allianceTag" : "NpNp",
+    "pointId" : 152277,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4805277367097671170",
+      "players" : [ ],
+      "num" : 27,
+      "endTimeMilli" : 1787244250513
+    },
+    "cityRewardSeenAt" : "2026-08-20T16:28:53.845Z",
+    "foundAt" : "2026-08-20T16:28:53.845Z"
   }, {
     "serverId" : 3469,
     "x" : 416,
