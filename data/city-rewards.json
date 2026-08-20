@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T17:49:09.206639800Z",
-  "count" : 18,
+  "updatedAt" : "2026-08-20T17:51:39.805913700Z",
+  "count" : 17,
   "locations" : [ {
     "serverId" : 1909,
     "x" : 428,
@@ -388,36 +388,5 @@
     },
     "cityRewardSeenAt" : "2026-08-20T17:41:46.706Z",
     "foundAt" : "2026-08-20T17:41:46.706Z"
-  }, {
-    "serverId" : 4520,
-    "x" : 363,
-    "y" : 297,
-    "uid" : "9862593384872",
-    "username" : "max",
-    "level" : 69,
-    "allianceId" : "500495999",
-    "allianceTag" : "J_MH",
-    "pointId" : 152246,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4805310222625361925",
-      "players" : [ {
-        "frameId" : 119,
-        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon214_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"DarkLord\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":108,\"gender\":0,\"avatarurl\":\"hero_icon006_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Giant\"}"
-      }, {
-        "frameId" : 20,
-        "playerInfo" : "{\"nationalflag\":65,\"gender\":0,\"avatarurl\":\"icon_alb_male_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"ALEXLORD\"}"
-      }, {
-        "frameId" : 119,
-        "playerInfo" : "{\"nationalflag\":75,\"gender\":0,\"avatarurl\":\"icon_felman01_0\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Tower\"}"
-      } ],
-      "num" : 41,
-      "endTimeMilli" : 1787246208855
-    },
-    "cityRewardSeenAt" : "2026-08-20T17:15:46.220Z",
-    "foundAt" : "2026-08-20T17:15:46.220Z"
   } ]
 }
