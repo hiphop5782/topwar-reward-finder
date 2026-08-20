@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T23:48:23.484828600Z",
-  "count" : 16,
+  "updatedAt" : "2026-08-20T23:49:27.218292300Z",
+  "count" : 18,
   "locations" : [ {
     "serverId" : 184,
     "x" : 381,
@@ -342,5 +342,64 @@
     },
     "cityRewardSeenAt" : "2026-08-20T23:46:45.362Z",
     "foundAt" : "2026-08-20T23:46:45.362Z"
+  }, {
+    "serverId" : 4406,
+    "x" : 415,
+    "y" : 675,
+    "uid" : "9561801330998",
+    "username" : "Brew",
+    "level" : 100,
+    "allianceId" : "500455630",
+    "allianceTag" : "^RA^",
+    "pointId" : 345808,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4805709315432410112",
+      "players" : [ {
+        "frameId" : 165,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/f2e49132f8dc0d92b20ba2b5ff112f3c_1780322559.png?v=1780322560822\",\"https://knight-cdn.akamaized.net/headimg/f2e49132f8dc0d92b20ba2b5ff112f3c_1781266585.png?v=1781266585946\",\"https://knight-cdn.akamaized.net/headimg/f2e49132f8dc0d92b20ba2b5ff112f3c_1781350973.png?v=1781350975165\",\"https://knight-cdn.akamaized.net/headimg/f2e49132f8dc0d92b20ba2b5ff112f3c_1780332199.png?v=1780332201313\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/f2e49132f8dc0d92b20ba2b5ff112f3c_1781266585.png?v=1781266585946\",\"username\":\"✨️夏琳✨️✨️\"}"
+      }, {
+        "frameId" : 163,
+        "playerInfo" : "{\"nationalflag\":212,\"gender\":0,\"avatarurl\":\"hero_icon140_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"SYRIA\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"光頭司令\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":245,\"gender\":0,\"avatarurl\":\"hero_icon119_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"KAREEM\"}"
+      } ],
+      "num" : 23,
+      "endTimeMilli" : 1787269996640
+    },
+    "cityRewardSeenAt" : "2026-08-20T23:48:46.420Z",
+    "foundAt" : "2026-08-20T23:48:46.420Z"
+  }, {
+    "serverId" : 4406,
+    "x" : 417,
+    "y" : 685,
+    "uid" : "9559764930870",
+    "username" : "Eugenia",
+    "level" : 100,
+    "allianceId" : "500455630",
+    "allianceTag" : "^RA^",
+    "pointId" : 350929,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4805719851020741635",
+      "players" : [ {
+        "frameId" : 165,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/f2e49132f8dc0d92b20ba2b5ff112f3c_1780322559.png?v=1780322560822\",\"https://knight-cdn.akamaized.net/headimg/f2e49132f8dc0d92b20ba2b5ff112f3c_1781266585.png?v=1781266585946\",\"https://knight-cdn.akamaized.net/headimg/f2e49132f8dc0d92b20ba2b5ff112f3c_1781350973.png?v=1781350975165\",\"https://knight-cdn.akamaized.net/headimg/f2e49132f8dc0d92b20ba2b5ff112f3c_1780332199.png?v=1780332201313\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/f2e49132f8dc0d92b20ba2b5ff112f3c_1781266585.png?v=1781266585946\",\"username\":\"✨️夏琳✨️✨️\"}"
+      }, {
+        "frameId" : 3,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/ac53a2234a53256851a53c86f2f20bf6_1779111583.png?v=1779111585569\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/ac53a2234a53256851a53c86f2f20bf6_1779111583.png?v=1779111585569\",\"username\":\"Brew\"}"
+      }, {
+        "frameId" : 163,
+        "playerInfo" : "{\"nationalflag\":212,\"gender\":0,\"avatarurl\":\"hero_icon140_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"SYRIA\"}"
+      } ],
+      "num" : 18,
+      "endTimeMilli" : 1787270624610
+    },
+    "cityRewardSeenAt" : "2026-08-20T23:48:58.563Z",
+    "foundAt" : "2026-08-20T23:48:58.563Z"
   } ]
 }
