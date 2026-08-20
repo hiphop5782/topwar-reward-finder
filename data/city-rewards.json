@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T08:56:26.034473400Z",
+  "updatedAt" : "2026-08-20T08:58:02.893053200Z",
   "count" : 11,
   "locations" : [ {
+    "serverId" : 341,
+    "x" : 265,
+    "y" : 459,
+    "uid" : "177790255278",
+    "username" : "じじ",
+    "level" : 100,
+    "allianceId" : "100012387",
+    "allianceTag" : "J341",
+    "pointId" : 235141,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4804816120324467204",
+      "players" : [ ],
+      "num" : 65,
+      "endTimeMilli" : 1787216758063
+    },
+    "cityRewardSeenAt" : "2026-08-20T08:56:23.437Z",
+    "foundAt" : "2026-08-20T08:56:23.437Z"
+  }, {
     "serverId" : 738,
     "x" : 369,
     "y" : 641,
@@ -71,25 +90,6 @@
     },
     "cityRewardSeenAt" : "2026-08-20T08:52:13.108Z",
     "foundAt" : "2026-08-20T08:52:13.108Z"
-  }, {
-    "serverId" : 2256,
-    "x" : 406,
-    "y" : 534,
-    "uid" : "551049377586",
-    "username" : "온달장군",
-    "level" : 100,
-    "allianceId" : "500196794",
-    "allianceTag" : "SNAX",
-    "pointId" : 273612,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4804773505357946886",
-      "players" : [ ],
-      "num" : 3,
-      "endTimeMilli" : 1787214218013
-    },
-    "cityRewardSeenAt" : "2026-08-20T08:21:33.934Z",
-    "foundAt" : "2026-08-20T08:21:33.934Z"
   }, {
     "serverId" : 2474,
     "x" : 429,
