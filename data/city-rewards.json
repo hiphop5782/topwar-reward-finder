@@ -1,8 +1,52 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T17:27:31.813389400Z",
-  "count" : 48,
+  "updatedAt" : "2026-08-20T17:29:58.166388200Z",
+  "count" : 49,
   "locations" : [ {
+    "serverId" : 1909,
+    "x" : 428,
+    "y" : 554,
+    "uid" : "563747997557",
+    "username" : "Kenzui",
+    "level" : 100,
+    "allianceId" : "400116652",
+    "allianceTag" : "U909",
+    "pointId" : 283863,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4805323558581365251",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1787247003740
+    },
+    "cityRewardSeenAt" : "2026-08-20T17:29:04.327Z",
+    "foundAt" : "2026-08-20T17:29:04.327Z"
+  }, {
+    "serverId" : 1909,
+    "x" : 432,
+    "y" : 530,
+    "uid" : "577554278322",
+    "username" : "Ubuntu",
+    "level" : 100,
+    "allianceId" : "400116652",
+    "allianceTag" : "U909",
+    "pointId" : 271577,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4805337897916885509",
+      "players" : [ {
+        "frameId" : 114,
+        "playerInfo" : "{\"nationalflag\":107,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/857243855204.jpg?v=1683640074043\",\"username\":\"Amar\"}"
+      }, {
+        "frameId" : 152,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon335_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Ubuntu\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1787247858431
+    },
+    "cityRewardSeenAt" : "2026-08-20T17:28:51.765Z",
+    "foundAt" : "2026-08-20T17:28:51.765Z"
+  }, {
     "serverId" : 2263,
     "x" : 425,
     "y" : 605,
@@ -721,25 +765,6 @@
     },
     "cityRewardSeenAt" : "2026-08-20T17:17:51.613Z",
     "foundAt" : "2026-08-20T17:17:51.613Z"
-  }, {
-    "serverId" : 2607,
-    "x" : 371,
-    "y" : 345,
-    "uid" : "922470025866",
-    "username" : "Dwight",
-    "level" : 100,
-    "allianceId" : "500211185",
-    "allianceTag" : "yOLO",
-    "pointId" : 176826,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4805302219741355525",
-      "players" : [ ],
-      "num" : 18,
-      "endTimeMilli" : 1787245731846
-    },
-    "cityRewardSeenAt" : "2026-08-20T16:53:45.226Z",
-    "foundAt" : "2026-08-20T16:53:45.226Z"
   }, {
     "serverId" : 2616,
     "x" : 418,
