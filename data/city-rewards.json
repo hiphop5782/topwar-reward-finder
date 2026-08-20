@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T05:25:59.812883900Z",
-  "count" : 6,
+  "updatedAt" : "2026-08-20T05:28:25.352486400Z",
+  "count" : 7,
   "locations" : [ {
     "serverId" : 158,
     "x" : 361,
@@ -134,5 +134,24 @@
     },
     "cityRewardSeenAt" : "2026-08-20T04:59:29.097Z",
     "foundAt" : "2026-08-20T04:59:29.097Z"
+  }, {
+    "serverId" : 4376,
+    "x" : 406,
+    "y" : 490,
+    "uid" : "9506960675096",
+    "username" : "Render",
+    "level" : 100,
+    "allianceId" : "500448382",
+    "allianceTag" : "MiLO",
+    "pointId" : 251084,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4804610638353674244",
+      "players" : [ ],
+      "num" : 17,
+      "endTimeMilli" : 1787204510383
+    },
+    "cityRewardSeenAt" : "2026-08-20T05:26:40.012Z",
+    "foundAt" : "2026-08-20T05:26:40.012Z"
   } ]
 }
