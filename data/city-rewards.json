@@ -1,6 +1,37 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T04:56:11.249749Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-08-20T04:58:43.447089300Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 158,
+    "x" : 361,
+    "y" : 461,
+    "uid" : "151560052894",
+    "username" : "庵歌姫🎀",
+    "level" : 100,
+    "allianceId" : "98245",
+    "allianceTag" : "158S",
+    "pointId" : 236213,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4804575886378613760",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon009\",\"nickname\":\"wy.151860691102\",\"headimgurl\":null,\"usergender\":1,\"username\":\"チロル\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon117\",\"nickname\":\"wy.158467068063\",\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"わこっち\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon019\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"守矢\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon017\",\"nickname\":\"wy.152707436702\",\"headimgurl\":null,\"usergender\":2,\"username\":\"MORIYA\"}"
+      } ],
+      "num" : 5,
+      "endTimeMilli" : 1787202439004
+    },
+    "cityRewardSeenAt" : "2026-08-20T04:57:23.311Z",
+    "foundAt" : "2026-08-20T04:57:23.311Z"
+  } ]
 }
