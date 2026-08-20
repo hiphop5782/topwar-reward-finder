@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T09:06:16.030873Z",
+  "updatedAt" : "2026-08-20T09:08:02.646685700Z",
   "count" : 10,
   "locations" : [ {
     "serverId" : 341,
@@ -78,25 +78,6 @@
     },
     "cityRewardSeenAt" : "2026-08-20T08:52:13.108Z",
     "foundAt" : "2026-08-20T08:52:13.108Z"
-  }, {
-    "serverId" : 2474,
-    "x" : 429,
-    "y" : 405,
-    "uid" : "551330780978",
-    "username" : "とりかい",
-    "level" : 100,
-    "allianceId" : "500173748",
-    "allianceTag" : "10TT",
-    "pointId" : 207575,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4804804762351653891",
-      "players" : [ ],
-      "num" : 11,
-      "endTimeMilli" : 1787216081074
-    },
-    "cityRewardSeenAt" : "2026-08-20T08:31:43.858Z",
-    "foundAt" : "2026-08-20T08:31:43.858Z"
   }, {
     "serverId" : 2501,
     "x" : 384,
@@ -204,5 +185,33 @@
     },
     "cityRewardSeenAt" : "2026-08-20T08:54:22.174Z",
     "foundAt" : "2026-08-20T08:54:22.174Z"
+  }, {
+    "serverId" : 4528,
+    "x" : 431,
+    "y" : 433,
+    "uid" : "9873481666992",
+    "username" : "pup",
+    "level" : 68,
+    "allianceId" : "500497730",
+    "allianceTag" : "TGDs",
+    "pointId" : 221912,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4804846548777394180",
+      "players" : [ {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"ONE\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon001_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"YY\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/e213fd738c764b004b3292585bf66a30_1785334272.png?v=1785334274285\"],\"nationalflag\":13,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/e213fd738c764b004b3292585bf66a30_1785334272.png?v=1785334274285\",\"username\":\"pup\"}"
+      } ],
+      "num" : 3,
+      "endTimeMilli" : 1787218571740
+    },
+    "cityRewardSeenAt" : "2026-08-20T09:06:41.560Z",
+    "foundAt" : "2026-08-20T09:06:41.560Z"
   } ]
 }
