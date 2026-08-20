@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T02:58:55.962693700Z",
-  "count" : 21,
+  "updatedAt" : "2026-08-20T03:00:47.190287900Z",
+  "count" : 19,
   "locations" : [ {
     "serverId" : 819,
     "x" : 354,
@@ -232,25 +232,6 @@
     "cityRewardSeenAt" : "2026-08-20T02:36:40.915Z",
     "foundAt" : "2026-08-20T02:36:40.915Z"
   }, {
-    "serverId" : 2952,
-    "x" : 417,
-    "y" : 401,
-    "uid" : "573880661925",
-    "username" : "akki",
-    "level" : 100,
-    "allianceId" : "500286839",
-    "allianceTag" : "E$L",
-    "pointId" : 205521,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4804420081609543684",
-      "players" : [ ],
-      "num" : 49,
-      "endTimeMilli" : 1787193152316
-    },
-    "cityRewardSeenAt" : "2026-08-20T02:24:11.110Z",
-    "foundAt" : "2026-08-20T02:24:11.110Z"
-  }, {
     "serverId" : 3223,
     "x" : 397,
     "y" : 435,
@@ -424,30 +405,5 @@
     },
     "cityRewardSeenAt" : "2026-08-20T02:52:25.153Z",
     "foundAt" : "2026-08-20T02:52:25.153Z"
-  }, {
-    "serverId" : 4433,
-    "x" : 614,
-    "y" : 364,
-    "uid" : "9627773702481",
-    "username" : "Zeztz",
-    "level" : 95,
-    "allianceId" : "500465968",
-    "allianceTag" : "8u@5",
-    "pointId" : 186676,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4804441026840404485",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon316_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"drum\"}"
-      }, {
-        "frameId" : 159,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_awakeicon169_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Zeztz\"}"
-      } ],
-      "num" : 2,
-      "endTimeMilli" : 1787194400749
-    },
-    "cityRewardSeenAt" : "2026-08-20T02:24:08.661Z",
-    "foundAt" : "2026-08-20T02:24:08.661Z"
   } ]
 }
