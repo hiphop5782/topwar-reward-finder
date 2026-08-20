@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T02:42:32.042714100Z",
+  "updatedAt" : "2026-08-20T02:44:51.736186500Z",
   "count" : 10,
   "locations" : [ {
+    "serverId" : 2091,
+    "x" : 436,
+    "y" : 322,
+    "uid" : "798786308212",
+    "username" : "ばに☘️",
+    "level" : 100,
+    "allianceId" : "400216747",
+    "allianceTag" : "CxC.",
+    "pointId" : 165083,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4804435548591642115",
+      "players" : [ ],
+      "num" : 18,
+      "endTimeMilli" : 1787194074220
+    },
+    "cityRewardSeenAt" : "2026-08-20T02:41:40.339Z",
+    "foundAt" : "2026-08-20T02:41:40.339Z"
+  }, {
     "serverId" : 2102,
     "x" : 394,
     "y" : 520,
@@ -147,31 +166,6 @@
     },
     "cityRewardSeenAt" : "2026-08-20T02:28:05.065Z",
     "foundAt" : "2026-08-20T02:28:05.065Z"
-  }, {
-    "serverId" : 4284,
-    "x" : 427,
-    "y" : 545,
-    "uid" : "923808094892",
-    "username" : "TOMMY117",
-    "level" : 100,
-    "allianceId" : "500429253",
-    "allianceTag" : "S.F!",
-    "pointId" : 279254,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4804422190002960389",
-      "players" : [ {
-        "frameId" : 154,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d0fdd240d0633b1f1d316ad1b5082aa6_1783777665.png?v=1783777668285\",\"https://knight-cdn.akamaized.net/headimg/d0fdd240d0633b1f1d316ad1b5082aa6_1768856657.png?v=1768856660227\",\"https://knight-cdn.akamaized.net/headimg/d0fdd240d0633b1f1d316ad1b5082aa6_1785680842.png?v=1785680847919\",\"https://knight-cdn.akamaized.net/headimg/d0fdd240d0633b1f1d316ad1b5082aa6_1782484205.png?v=1782484208429\"],\"nationalflag\":193,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d0fdd240d0633b1f1d316ad1b5082aa6_1785680842.png?v=1785680847919\",\"username\":\"Angeℓ❥\"}"
-      }, {
-        "frameId" : 1,
-        "playerInfo" : "{\"nationalflag\":218,\"gender\":0,\"avatarurl\":\"hero_icon008_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"LoVe\"}"
-      } ],
-      "num" : 2,
-      "endTimeMilli" : 1787193277986
-    },
-    "cityRewardSeenAt" : "2026-08-20T02:09:50.482Z",
-    "foundAt" : "2026-08-20T02:09:50.482Z"
   }, {
     "serverId" : 4347,
     "x" : 369,
