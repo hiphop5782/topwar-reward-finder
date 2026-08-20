@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T19:10:20.099000800Z",
-  "count" : 13,
+  "updatedAt" : "2026-08-20T19:10:33.583854900Z",
+  "count" : 14,
   "locations" : [ {
     "serverId" : 2681,
     "x" : 345,
@@ -336,5 +336,33 @@
     },
     "cityRewardSeenAt" : "2026-08-20T19:06:24.569Z",
     "foundAt" : "2026-08-20T19:06:24.569Z"
+  }, {
+    "serverId" : 2748,
+    "x" : 427,
+    "y" : 277,
+    "uid" : "927846513340",
+    "username" : "놈놈놈",
+    "level" : 100,
+    "allianceId" : "500253430",
+    "allianceTag" : "+CU+",
+    "pointId" : 142038,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4805449205283125250",
+      "players" : [ {
+        "frameId" : 114,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/936153778946.jpg?v=1713459939228\",\"https://knight-cdn.akamaized.net/headimg/827985720078213d4f73333b8abaa108_1764309350.png?v=1764309351561\",\"https://knight-cdn.akamaized.net/headimg/827985720078213d4f73333b8abaa108_1784551741.png?v=1784551742965\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/936153778946.jpg?v=1713459939228\",\"username\":\"Doogie19\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/458d8c8a6b4a7e220c3d9b23d947bcc4_1744264450.jpg?v=1744264452377\",\"https://knight-cdn.akamaized.net/headimg/458d8c8a6b4a7e220c3d9b23d947bcc4_1745845095.jpg?v=1745845096298\",\"https://knight-cdn.akamaized.net/headimg/458d8c8a6b4a7e220c3d9b23d947bcc4_1748121513.jpg?v=1748121514984\",\"https://knight-cdn.akamaized.net/headimg/458d8c8a6b4a7e220c3d9b23d947bcc4_1764158100.png?v=1764158103738\"],\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/458d8c8a6b4a7e220c3d9b23d947bcc4_1748121513.jpg?v=1748121514984\",\"username\":\"Hulking\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/927846513340.jpg?v=1690435047541\",\"username\":\"놈놈놈\"}"
+      } ],
+      "num" : 3,
+      "endTimeMilli" : 1787254492867
+    },
+    "cityRewardSeenAt" : "2026-08-20T19:08:42.120Z",
+    "foundAt" : "2026-08-20T19:08:42.120Z"
   } ]
 }
