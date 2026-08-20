@@ -1,8 +1,58 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T08:25:04.988187400Z",
-  "count" : 3,
+  "updatedAt" : "2026-08-20T08:25:55.595582900Z",
+  "count" : 5,
   "locations" : [ {
+    "serverId" : 738,
+    "x" : 369,
+    "y" : 641,
+    "uid" : "320555057891",
+    "username" : "Basti",
+    "level" : 100,
+    "allianceId" : "200004778",
+    "allianceTag" : "DlSN",
+    "pointId" : 328377,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4804803645625713666",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/320474342115.jpg?v=1685726780447\",\"username\":\"Mettigel\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/664b9cc3140dd97092c3bf8bfb77a0bb_1733646912.jpg?v=1733646912996\",\"https://knight-cdn.akamaized.net/headimg/664b9cc3140dd97092c3bf8bfb77a0bb_1786098215.png?v=1786098217642\",\"https://knight-cdn.akamaized.net/headimg/664b9cc3140dd97092c3bf8bfb77a0bb_1753520876.jpg?v=1753520878667\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/664b9cc3140dd97092c3bf8bfb77a0bb_1786098215.png?v=1786098217642\",\"username\":\"Mad\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/323276522227.jpg?v=1627496261817\",\"username\":\"DIDI\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"hero_icon330_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/320555057891.jpg?v=1681890542358\",\"username\":\"Basti\"}"
+      } ],
+      "num" : 4,
+      "endTimeMilli" : 1787216014513
+    },
+    "cityRewardSeenAt" : "2026-08-20T08:25:05.907Z",
+    "foundAt" : "2026-08-20T08:25:05.907Z"
+  }, {
+    "serverId" : 738,
+    "x" : 388,
+    "y" : 646,
+    "uid" : "320474342115",
+    "username" : "Mettigel",
+    "level" : 100,
+    "allianceId" : "200004778",
+    "allianceTag" : "DlSN",
+    "pointId" : 330947,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4804797454027703300",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1787215645465
+    },
+    "cityRewardSeenAt" : "2026-08-20T08:25:05.907Z",
+    "foundAt" : "2026-08-20T08:25:05.907Z"
+  }, {
     "serverId" : 2097,
     "x" : 409,
     "y" : 617,
