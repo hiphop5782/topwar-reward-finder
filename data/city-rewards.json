@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T08:53:08.959430Z",
-  "count" : 9,
+  "updatedAt" : "2026-08-20T08:55:20.808407300Z",
+  "count" : 11,
   "locations" : [ {
     "serverId" : 738,
     "x" : 369,
@@ -52,6 +52,25 @@
     },
     "cityRewardSeenAt" : "2026-08-20T08:25:05.907Z",
     "foundAt" : "2026-08-20T08:25:05.907Z"
+  }, {
+    "serverId" : 2036,
+    "x" : 623,
+    "y" : 293,
+    "uid" : "790650476534",
+    "username" : "wy.790650476534",
+    "level" : 100,
+    "allianceId" : "420004509",
+    "allianceTag" : "{m*&",
+    "pointId" : 150328,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4804824559382423553",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1787217261070
+    },
+    "cityRewardSeenAt" : "2026-08-20T08:52:13.108Z",
+    "foundAt" : "2026-08-20T08:52:13.108Z"
   }, {
     "serverId" : 2256,
     "x" : 406,
@@ -197,5 +216,24 @@
     },
     "cityRewardSeenAt" : "2026-08-20T08:47:49.309Z",
     "foundAt" : "2026-08-20T08:47:49.309Z"
+  }, {
+    "serverId" : 4376,
+    "x" : 400,
+    "y" : 546,
+    "uid" : "9508421669144",
+    "username" : "773",
+    "level" : 100,
+    "allianceId" : "500448382",
+    "allianceTag" : "MiLO",
+    "pointId" : 279753,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4804807891974500352",
+      "players" : [ ],
+      "num" : 40,
+      "endTimeMilli" : 1787216267615
+    },
+    "cityRewardSeenAt" : "2026-08-20T08:54:22.174Z",
+    "foundAt" : "2026-08-20T08:54:22.174Z"
   } ]
 }
