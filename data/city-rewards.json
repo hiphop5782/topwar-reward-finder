@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T08:47:45.518066900Z",
-  "count" : 9,
+  "updatedAt" : "2026-08-20T08:49:05.843371500Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 738,
     "x" : 369,
@@ -197,5 +197,24 @@
     },
     "cityRewardSeenAt" : "2026-08-20T08:33:33.490Z",
     "foundAt" : "2026-08-20T08:33:33.490Z"
+  }, {
+    "serverId" : 3438,
+    "x" : 423,
+    "y" : 415,
+    "uid" : "845630740790",
+    "username" : "系統別玩我",
+    "level" : 100,
+    "allianceId" : "500338750",
+    "allianceTag" : "A38S",
+    "pointId" : 212692,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4804816091200805893",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1787216756327
+    },
+    "cityRewardSeenAt" : "2026-08-20T08:47:49.309Z",
+    "foundAt" : "2026-08-20T08:47:49.309Z"
   } ]
 }
