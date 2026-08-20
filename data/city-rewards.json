@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T00:03:47.666403Z",
-  "count" : 7,
+  "updatedAt" : "2026-08-20T00:05:54.590449900Z",
+  "count" : 9,
   "locations" : [ {
     "serverId" : 341,
     "x" : 382,
@@ -171,5 +171,43 @@
     },
     "cityRewardSeenAt" : "2026-08-19T23:37:47.536Z",
     "foundAt" : "2026-08-19T23:37:47.536Z"
+  }, {
+    "serverId" : 4392,
+    "x" : 390,
+    "y" : 410,
+    "uid" : "9545368572200",
+    "username" : "Magenta",
+    "level" : 93,
+    "allianceId" : "500453238",
+    "allianceTag" : "MOLS",
+    "pointId" : 210116,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4804288433866559490",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1787185305499
+    },
+    "cityRewardSeenAt" : "2026-08-20T00:03:22.314Z",
+    "foundAt" : "2026-08-20T00:03:22.314Z"
+  }, {
+    "serverId" : 4392,
+    "x" : 469,
+    "y" : 473,
+    "uid" : "9546699018536",
+    "username" : "AriboS",
+    "level" : 95,
+    "allianceId" : "500453203",
+    "allianceTag" : ".CW",
+    "pointId" : 242411,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4804271029333676039",
+      "players" : [ ],
+      "num" : 19,
+      "endTimeMilli" : 1787184268108
+    },
+    "cityRewardSeenAt" : "2026-08-20T00:03:33.883Z",
+    "foundAt" : "2026-08-20T00:03:33.883Z"
   } ]
 }
