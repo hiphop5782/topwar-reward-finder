@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T05:50:38.405675400Z",
-  "count" : 7,
+  "updatedAt" : "2026-08-20T05:52:46.239873600Z",
+  "count" : 8,
   "locations" : [ {
     "serverId" : 216,
     "x" : 398,
@@ -147,5 +147,24 @@
     },
     "cityRewardSeenAt" : "2026-08-20T05:26:40.012Z",
     "foundAt" : "2026-08-20T05:26:40.012Z"
+  }, {
+    "serverId" : 4392,
+    "x" : 410,
+    "y" : 678,
+    "uid" : "9545959313704",
+    "username" : "ROCKET",
+    "level" : 90,
+    "allianceId" : "500453203",
+    "allianceTag" : ".CW",
+    "pointId" : 347342,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4804633565291761667",
+      "players" : [ ],
+      "num" : 19,
+      "endTimeMilli" : 1787205876935
+    },
+    "cityRewardSeenAt" : "2026-08-20T05:51:17.522Z",
+    "foundAt" : "2026-08-20T05:51:17.522Z"
   } ]
 }
