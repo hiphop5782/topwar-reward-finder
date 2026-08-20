@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T13:03:47.396713500Z",
-  "count" : 52,
+  "updatedAt" : "2026-08-20T13:06:23.060369500Z",
+  "count" : 55,
   "locations" : [ {
     "serverId" : 172,
     "x" : 377,
@@ -71,6 +71,25 @@
     },
     "cityRewardSeenAt" : "2026-08-20T12:47:15.038Z",
     "foundAt" : "2026-08-20T12:47:15.038Z"
+  }, {
+    "serverId" : 225,
+    "x" : 450,
+    "y" : 650,
+    "uid" : "304615297347",
+    "username" : "🐻ゆうクロ🐼",
+    "level" : 100,
+    "allianceId" : "100003583",
+    "allianceTag" : "VIOI",
+    "pointId" : 333026,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4805075530443506182",
+      "players" : [ ],
+      "num" : 14,
+      "endTimeMilli" : 1787232220111
+    },
+    "cityRewardSeenAt" : "2026-08-20T13:04:59.255Z",
+    "foundAt" : "2026-08-20T13:04:59.255Z"
   }, {
     "serverId" : 383,
     "x" : 191,
@@ -1176,23 +1195,61 @@
     "cityRewardSeenAt" : "2026-08-20T12:54:46.299Z",
     "foundAt" : "2026-08-20T12:54:46.299Z"
   }, {
-    "serverId" : 4356,
-    "x" : 409,
-    "y" : 331,
-    "uid" : "9448831783172",
-    "username" : "windscar",
-    "level" : 84,
-    "allianceId" : "500443555",
-    "allianceTag" : "JBIR",
-    "pointId" : 169677,
+    "serverId" : 4377,
+    "x" : 364,
+    "y" : 496,
+    "uid" : "9510458298649",
+    "username" : "꧁mona👠꧂",
+    "level" : 100,
+    "allianceId" : "500449031",
+    "allianceTag" : "_SG",
+    "pointId" : 254135,
     "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4805040130503084040",
+      "itemId" : 260617003,
+      "instanceId" : "4805080146344292867",
       "players" : [ ],
-      "num" : 22,
-      "endTimeMilli" : 1787230110110
+      "num" : 17,
+      "endTimeMilli" : 1787232495240
     },
-    "cityRewardSeenAt" : "2026-08-20T12:29:24.070Z",
-    "foundAt" : "2026-08-20T12:29:24.070Z"
+    "cityRewardSeenAt" : "2026-08-20T13:04:38.476Z",
+    "foundAt" : "2026-08-20T13:04:38.476Z"
+  }, {
+    "serverId" : 4377,
+    "x" : 368,
+    "y" : 494,
+    "uid" : "9508953395481",
+    "username" : "꧁ポンちゃ👠꧂",
+    "level" : 100,
+    "allianceId" : "500449031",
+    "allianceTag" : "_SG",
+    "pointId" : 253113,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4805077023668187653",
+      "players" : [ ],
+      "num" : 21,
+      "endTimeMilli" : 1787232309114
+    },
+    "cityRewardSeenAt" : "2026-08-20T13:04:38.476Z",
+    "foundAt" : "2026-08-20T13:04:38.476Z"
+  }, {
+    "serverId" : 4377,
+    "x" : 453,
+    "y" : 317,
+    "uid" : "9510137958681",
+    "username" : "Gump",
+    "level" : 100,
+    "allianceId" : "500449058",
+    "allianceTag" : "ReSo",
+    "pointId" : 162531,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4805070059093504517",
+      "players" : [ ],
+      "num" : 24,
+      "endTimeMilli" : 1787231893993
+    },
+    "cityRewardSeenAt" : "2026-08-20T13:04:15.659Z",
+    "foundAt" : "2026-08-20T13:04:15.659Z"
   } ]
 }
