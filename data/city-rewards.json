@@ -1,8 +1,39 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T02:50:42.903034200Z",
-  "count" : 16,
+  "updatedAt" : "2026-08-20T02:52:29.793940700Z",
+  "count" : 17,
   "locations" : [ {
+    "serverId" : 819,
+    "x" : 354,
+    "y" : 494,
+    "uid" : "358768042943",
+    "username" : "Aboanad",
+    "level" : 100,
+    "allianceId" : "200073953",
+    "allianceTag" : "GeFI",
+    "pointId" : 253106,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4804444989952517641",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"hero_icon125_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"Oller\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"hero_icon228_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"Werwolf\"}"
+      }, {
+        "frameId" : 8,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/f43e3f5559a577679fd5950be38ba3e8_1745080024.jpg?v=1745080027877\",\"https://knight-cdn.akamaized.net/headimg/f43e3f5559a577679fd5950be38ba3e8_1746737608.jpg?v=1746737612384\",\"https://knight-cdn.akamaized.net/headimg/f43e3f5559a577679fd5950be38ba3e8_1755886848.jpg?v=1755886850563\",\"https://knight-cdn.akamaized.net/headimg/f43e3f5559a577679fd5950be38ba3e8_1758813355.jpg?v=1758813357648\"],\"nationalflag\":179,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/f43e3f5559a577679fd5950be38ba3e8_1746737608.jpg?v=1746737612384\",\"username\":\"Patryk86\"}"
+      }, {
+        "frameId" : 114,
+        "playerInfo" : "{\"nationalflag\":193,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/358768042943.jpg?v=1688395952745\",\"username\":\"Aboanad\"}"
+      } ],
+      "num" : 4,
+      "endTimeMilli" : 1787194636969
+    },
+    "cityRewardSeenAt" : "2026-08-20T02:49:51.887Z",
+    "foundAt" : "2026-08-20T02:49:51.887Z"
+  }, {
     "serverId" : 884,
     "x" : 399,
     "y" : 293,
