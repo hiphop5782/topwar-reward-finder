@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T11:59:18.872178Z",
-  "count" : 23,
+  "updatedAt" : "2026-08-20T11:59:53.353445400Z",
+  "count" : 24,
   "locations" : [ {
     "serverId" : 73,
     "x" : 217,
@@ -580,5 +580,33 @@
     },
     "cityRewardSeenAt" : "2026-08-20T11:36:39.767Z",
     "foundAt" : "2026-08-20T11:36:39.767Z"
+  }, {
+    "serverId" : 4348,
+    "x" : 405,
+    "y" : 327,
+    "uid" : "9477033070844",
+    "username" : "鴨ネギKamo",
+    "level" : 100,
+    "allianceId" : "500442070",
+    "allianceTag" : "TEND",
+    "pointId" : 167627,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4805008466863323139",
+      "players" : [ {
+        "frameId" : 8,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon165\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"アサガオ\"}"
+      }, {
+        "frameId" : 20,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/60d413c429c34e07a74897a9e42ece78_1768734035.png?v=1768734035899\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/60d413c429c34e07a74897a9e42ece78_1768734035.png?v=1768734035899\",\"username\":\"ナノリムル\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon237\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"鴨ネギKamo\"}"
+      } ],
+      "num" : 3,
+      "endTimeMilli" : 1787228222810
+    },
+    "cityRewardSeenAt" : "2026-08-20T11:58:21.637Z",
+    "foundAt" : "2026-08-20T11:58:21.637Z"
   } ]
 }
