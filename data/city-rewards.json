@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T09:59:41.715867700Z",
+  "updatedAt" : "2026-08-20T10:01:45.511488900Z",
   "count" : 7,
   "locations" : [ {
     "serverId" : 285,
@@ -59,25 +59,6 @@
     },
     "cityRewardSeenAt" : "2026-08-20T09:51:19.119Z",
     "foundAt" : "2026-08-20T09:51:19.119Z"
-  }, {
-    "serverId" : 2622,
-    "x" : 251,
-    "y" : 483,
-    "uid" : "358383064007",
-    "username" : "Satan",
-    "level" : 100,
-    "allianceId" : "500219447",
-    "allianceTag" : "ZFkG",
-    "pointId" : 247422,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4804856930651896835",
-      "players" : [ ],
-      "num" : 25,
-      "endTimeMilli" : 1787219190548
-    },
-    "cityRewardSeenAt" : "2026-08-20T09:25:06.254Z",
-    "foundAt" : "2026-08-20T09:25:06.254Z"
   }, {
     "serverId" : 2699,
     "x" : 401,
@@ -147,5 +128,36 @@
     },
     "cityRewardSeenAt" : "2026-08-20T09:30:26.747Z",
     "foundAt" : "2026-08-20T09:30:26.747Z"
+  }, {
+    "serverId" : 4493,
+    "x" : 421,
+    "y" : 337,
+    "uid" : "9776557003149",
+    "username" : "凱亞峰",
+    "level" : 77,
+    "allianceId" : "500484964",
+    "allianceTag" : "GFT_",
+    "pointId" : 172755,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4804888491263728134",
+      "players" : [ {
+        "frameId" : 165,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon022_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"mucky\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":113,\"gender\":0,\"avatarurl\":\"hero_icon119_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"OsamaHab\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"凱亞峰\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":193,\"gender\":0,\"avatarurl\":\"hero_icon009_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"pes\"}"
+      } ],
+      "num" : 10,
+      "endTimeMilli" : 1787221071707
+    },
+    "cityRewardSeenAt" : "2026-08-20T09:59:40.069Z",
+    "foundAt" : "2026-08-20T09:59:40.069Z"
   } ]
 }
