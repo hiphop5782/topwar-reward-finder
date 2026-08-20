@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T11:34:23.213010100Z",
-  "count" : 15,
+  "updatedAt" : "2026-08-20T11:35:41.700149100Z",
+  "count" : 17,
   "locations" : [ {
+    "serverId" : 73,
+    "x" : 217,
+    "y" : 201,
+    "uid" : "549975752803",
+    "username" : "ハマーン・カーン",
+    "level" : 100,
+    "allianceId" : "57220",
+    "allianceTag" : "HFA",
+    "pointId" : 103021,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4804984951713862153",
+      "players" : [ ],
+      "num" : 18,
+      "endTimeMilli" : 1787226821198
+    },
+    "cityRewardSeenAt" : "2026-08-20T11:32:42.856Z",
+    "foundAt" : "2026-08-20T11:32:42.856Z"
+  }, {
     "serverId" : 1175,
     "x" : 429,
     "y" : 625,
@@ -71,6 +90,25 @@
     },
     "cityRewardSeenAt" : "2026-08-20T11:09:07.746Z",
     "foundAt" : "2026-08-20T11:09:07.746Z"
+  }, {
+    "serverId" : 2642,
+    "x" : 484,
+    "y" : 304,
+    "uid" : "7555649964860",
+    "username" : "ばーちー",
+    "level" : 100,
+    "allianceId" : "500227070",
+    "allianceTag" : "TFtS",
+    "pointId" : 155891,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4804993182701233153",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1787227311803
+    },
+    "cityRewardSeenAt" : "2026-08-20T11:33:15.494Z",
+    "foundAt" : "2026-08-20T11:33:15.494Z"
   }, {
     "serverId" : 2830,
     "x" : 398,
