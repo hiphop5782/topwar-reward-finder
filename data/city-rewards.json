@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T01:11:24.532934300Z",
-  "count" : 9,
+  "updatedAt" : "2026-08-20T01:13:55.667032700Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 529,
     "x" : 125,
@@ -40,6 +40,31 @@
     },
     "cityRewardSeenAt" : "2026-08-20T01:01:23.794Z",
     "foundAt" : "2026-08-20T01:01:23.794Z"
+  }, {
+    "serverId" : 1175,
+    "x" : 279,
+    "y" : 455,
+    "uid" : "262515790267",
+    "username" : "Chief80",
+    "level" : 100,
+    "allianceId" : "200138011",
+    "allianceTag" : "NX75",
+    "pointId" : 233100,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4804356733156273666",
+      "players" : [ {
+        "frameId" : 2,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/42b3eea3c52a3cff5a66bdcbed20151b_1744472997.jpg?v=1744472998755\",\"https://knight-cdn.akamaized.net/headimg/42b3eea3c52a3cff5a66bdcbed20151b_1744674449.jpg?v=1744674450898\"],\"nationalflag\":38,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/42b3eea3c52a3cff5a66bdcbed20151b_1744472997.jpg?v=1744472998755\",\"username\":\"SteveSho\"}"
+      }, {
+        "frameId" : 8,
+        "playerInfo" : "{\"nationalflag\":187,\"gender\":0,\"avatarurl\":\"hero_icon009_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"IGRIS\"}"
+      } ],
+      "num" : 12,
+      "endTimeMilli" : 1787189376454
+    },
+    "cityRewardSeenAt" : "2026-08-20T01:11:51.755Z",
+    "foundAt" : "2026-08-20T01:11:51.755Z"
   }, {
     "serverId" : 2842,
     "x" : 433,
