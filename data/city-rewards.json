@@ -1,6 +1,37 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T15:58:33.405446800Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-08-20T16:01:02.756024400Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 2087,
+    "x" : 442,
+    "y" : 422,
+    "uid" : "481235146302",
+    "username" : "deukdo",
+    "level" : 100,
+    "allianceId" : "400214012",
+    "allianceTag" : "2N87",
+    "pointId" : 216286,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4805249412178660869",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/548912882670.jpg?v=1682883132030\",\"username\":\"복숭아\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"hero_icon154_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Cain\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"hero_icon165_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/781426714663.jpg?v=1713285010037\",\"username\":\"블베\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/b691153b7546fb6f986f6d6c1c1ec51a_1753978481.jpg?v=1753978482482\",\"https://knight-cdn.akamaized.net/headimg/b691153b7546fb6f986f6d6c1c1ec51a_1753966588.jpg?v=1753966589871\",\"https://knight-cdn.akamaized.net/headimg/b691153b7546fb6f986f6d6c1c1ec51a_1784107416.png?v=1784107416936\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b691153b7546fb6f986f6d6c1c1ec51a_1784107416.png?v=1784107416936\",\"username\":\"☆여명☆\"}"
+      } ],
+      "num" : 11,
+      "endTimeMilli" : 1787242584270
+    },
+    "cityRewardSeenAt" : "2026-08-20T15:58:44.357Z",
+    "foundAt" : "2026-08-20T15:58:44.357Z"
+  } ]
 }
