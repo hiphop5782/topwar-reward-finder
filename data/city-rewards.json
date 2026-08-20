@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-20T05:12:54.088868100Z",
-  "count" : 3,
+  "updatedAt" : "2026-08-20T05:13:37.420854500Z",
+  "count" : 4,
   "locations" : [ {
     "serverId" : 158,
     "x" : 361,
@@ -52,6 +52,31 @@
     },
     "cityRewardSeenAt" : "2026-08-20T04:59:30.510Z",
     "foundAt" : "2026-08-20T04:59:30.510Z"
+  }, {
+    "serverId" : 564,
+    "x" : 415,
+    "y" : 289,
+    "uid" : "413426266687",
+    "username" : "Revenger",
+    "level" : 100,
+    "allianceId" : "330578",
+    "allianceTag" : "BFOX",
+    "pointId" : 148176,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4804606300485085187",
+      "players" : [ {
+        "frameId" : 72,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon009\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"username\":\"varihiro\"}"
+      }, {
+        "frameId" : 165,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon2150\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Revenger\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1787204251826
+    },
+    "cityRewardSeenAt" : "2026-08-20T05:11:21.231Z",
+    "foundAt" : "2026-08-20T05:11:21.231Z"
   }, {
     "serverId" : 2781,
     "x" : 392,
