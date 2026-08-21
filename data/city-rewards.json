@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T05:38:12.210476900Z",
-  "count" : 16,
+  "updatedAt" : "2026-08-21T05:40:28.014416Z",
+  "count" : 17,
   "locations" : [ {
     "serverId" : 811,
     "x" : 422,
@@ -375,5 +375,36 @@
     },
     "cityRewardSeenAt" : "2026-08-21T05:35:51.278Z",
     "foundAt" : "2026-08-21T05:35:51.278Z"
+  }, {
+    "serverId" : 4495,
+    "x" : 423,
+    "y" : 629,
+    "uid" : "9783681847695",
+    "username" : "Montecri",
+    "level" : 61,
+    "allianceId" : "500485765",
+    "allianceTag" : "GM95",
+    "pointId" : 322260,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4806084113773829641",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/9d51be807f38b43ea71ecc5f31fcd5f3_1786687306.png?v=1786687306933\",\"https://knight-cdn.akamaized.net/headimg/9d51be807f38b43ea71ecc5f31fcd5f3_1786804504.png?v=1786804505946\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/9d51be807f38b43ea71ecc5f31fcd5f3_1786804504.png?v=1786804505946\",\"username\":\"junstar\"}"
+      }, {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":247,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Muppet\"}"
+      }, {
+        "frameId" : 3,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon117_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"さく\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon122_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"滷肉咖\"}"
+      } ],
+      "num" : 10,
+      "endTimeMilli" : 1787292336362
+    },
+    "cityRewardSeenAt" : "2026-08-21T05:38:54.344Z",
+    "foundAt" : "2026-08-21T05:38:54.344Z"
   } ]
 }
