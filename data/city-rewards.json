@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T19:17:56.392311100Z",
-  "count" : 4,
+  "updatedAt" : "2026-08-21T19:20:25.082259200Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 4198,
     "x" : 412,
@@ -114,5 +114,24 @@
     },
     "cityRewardSeenAt" : "2026-08-21T18:52:14.294Z",
     "foundAt" : "2026-08-21T18:52:14.294Z"
+  }, {
+    "serverId" : 4421,
+    "x" : 432,
+    "y" : 656,
+    "uid" : "9601097732421",
+    "username" : "jav",
+    "level" : 99,
+    "allianceId" : "500461260",
+    "allianceTag" : "cfas",
+    "pointId" : 336089,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4806893840015460866",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1787340599807
+    },
+    "cityRewardSeenAt" : "2026-08-21T19:19:42.764Z",
+    "foundAt" : "2026-08-21T19:19:42.764Z"
   } ]
 }
