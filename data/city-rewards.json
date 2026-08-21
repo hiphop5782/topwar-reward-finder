@@ -1,39 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T13:40:38.628416700Z",
+  "updatedAt" : "2026-08-21T13:42:47.663749500Z",
   "count" : 23,
   "locations" : [ {
-    "serverId" : 594,
-    "x" : 379,
-    "y" : 337,
-    "uid" : "443031425653",
-    "username" : "Ots",
-    "level" : 100,
-    "allianceId" : "366057",
-    "allianceTag" : "YMM3",
-    "pointId" : 172734,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4806517752460518409",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/262a31e8e32e50e949c2f6c94061a74f.jpg?v=1705111801060\",\"username\":\"灰かぶり猫\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/170dc7b3c162f67af7482310ccf153fe.jpg?v=1705047739666\",\"username\":\"白雪猫\"}"
-      }, {
-        "frameId" : 159,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/73778fad4e8f186103ff9c9ba3b68fe3.jpg?v=1705049588306\",\"username\":\"NyankoOP\"}"
-      }, {
-        "frameId" : 40,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon008\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"守宮\"}"
-      } ],
-      "num" : 12,
-      "endTimeMilli" : 1787318183242
-    },
-    "cityRewardSeenAt" : "2026-08-21T13:07:41.380Z",
-    "foundAt" : "2026-08-21T13:07:41.380Z"
-  }, {
     "serverId" : 1389,
     "x" : 420,
     "y" : 632,
@@ -446,6 +415,25 @@
     },
     "cityRewardSeenAt" : "2026-08-21T13:22:24.526Z",
     "foundAt" : "2026-08-21T13:22:24.526Z"
+  }, {
+    "serverId" : 4417,
+    "x" : 331,
+    "y" : 485,
+    "uid" : "9585799663937",
+    "username" : "Mcy",
+    "level" : 99,
+    "allianceId" : "500459566",
+    "allianceTag" : "EKNS",
+    "pointId" : 248486,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4806550644680983048",
+      "players" : [ ],
+      "num" : 36,
+      "endTimeMilli" : 1787320143771
+    },
+    "cityRewardSeenAt" : "2026-08-21T13:40:10.812Z",
+    "foundAt" : "2026-08-21T13:40:10.812Z"
   }, {
     "serverId" : 4421,
     "x" : 403,
