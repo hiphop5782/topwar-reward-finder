@@ -1,8 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T03:41:57.800431500Z",
-  "count" : 6,
+  "updatedAt" : "2026-08-21T03:43:59.519852Z",
+  "count" : 7,
   "locations" : [ {
+    "serverId" : 1453,
+    "x" : 412,
+    "y" : 606,
+    "uid" : "630386890103",
+    "username" : "㍿🦐ひろゆぶん",
+    "level" : 100,
+    "allianceId" : "300098118",
+    "allianceTag" : "Hpmy",
+    "pointId" : 310479,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4805960129642715651",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1787284946332
+    },
+    "cityRewardSeenAt" : "2026-08-21T03:41:44.189Z",
+    "foundAt" : "2026-08-21T03:41:44.189Z"
+  }, {
+    "serverId" : 1453,
+    "x" : 424,
+    "y" : 632,
+    "uid" : "640425047474",
+    "username" : "Rocky69",
+    "level" : 100,
+    "allianceId" : "300098118",
+    "allianceTag" : "Hpmy",
+    "pointId" : 323797,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4805962701908695561",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1787285099651
+    },
+    "cityRewardSeenAt" : "2026-08-21T03:41:56.776Z",
+    "foundAt" : "2026-08-21T03:41:56.776Z"
+  }, {
     "serverId" : 3223,
     "x" : 400,
     "y" : 404,
@@ -79,37 +117,6 @@
     "cityRewardSeenAt" : "2026-08-21T03:36:21.809Z",
     "foundAt" : "2026-08-21T03:36:21.809Z"
   }, {
-    "serverId" : 4024,
-    "x" : 389,
-    "y" : 545,
-    "uid" : "8795653312240",
-    "username" : "Malbert",
-    "level" : 100,
-    "allianceId" : "500388863",
-    "allianceTag" : "UNIv",
-    "pointId" : 279235,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4805909285972176901",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/a4a9c51d1774ea1caa85a144bdc18196_1744293023.jpg?v=1744293025178\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/a4a9c51d1774ea1caa85a144bdc18196_1744293023.jpg?v=1744293025178\",\"username\":\"Creator\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d1e8c59507905b5921c64e86ed0142df_1781618138.png?v=1781618141349\"],\"nationalflag\":65,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d1e8c59507905b5921c64e86ed0142df_1781618138.png?v=1781618141349\",\"username\":\"George0\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/f848f173757687f4df984c8376c79681_1771035055.png?v=1771035055744\",\"https://knight-cdn.akamaized.net/headimg/f848f173757687f4df984c8376c79681_1778502694.png?v=1778502695718\",\"https://knight-cdn.akamaized.net/headimg/f848f173757687f4df984c8376c79681_1786187973.png?v=1786187975255\",\"https://knight-cdn.akamaized.net/headimg/f848f173757687f4df984c8376c79681_1778863755.png?v=1778863756285\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/f848f173757687f4df984c8376c79681_1778502694.png?v=1778502695718\",\"username\":\"𝓜aple🍯\"}"
-      }, {
-        "frameId" : 4,
-        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Chromer\"}"
-      } ],
-      "num" : 6,
-      "endTimeMilli" : 1787281915813
-    },
-    "cityRewardSeenAt" : "2026-08-21T03:07:16.053Z",
-    "foundAt" : "2026-08-21T03:07:16.053Z"
-  }, {
     "serverId" : 4369,
     "x" : 336,
     "y" : 474,
@@ -123,10 +130,10 @@
       "itemId" : 260617004,
       "instanceId" : "4805956859831919108",
       "players" : [ ],
-      "num" : 19,
+      "num" : 30,
       "endTimeMilli" : 1787284751436
     },
-    "cityRewardSeenAt" : "2026-08-21T03:39:08.481Z",
-    "foundAt" : "2026-08-21T03:39:08.481Z"
+    "cityRewardSeenAt" : "2026-08-21T03:41:34.203Z",
+    "foundAt" : "2026-08-21T03:41:34.203Z"
   } ]
 }
