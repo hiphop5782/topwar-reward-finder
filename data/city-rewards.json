@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T15:45:23.158666Z",
-  "count" : 2,
+  "updatedAt" : "2026-08-21T15:47:48.368718100Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 3440,
     "x" : 395,
@@ -40,5 +40,36 @@
     },
     "cityRewardSeenAt" : "2026-08-21T15:16:16.217Z",
     "foundAt" : "2026-08-21T15:16:16.217Z"
+  }, {
+    "serverId" : 4328,
+    "x" : 398,
+    "y" : 428,
+    "uid" : "9426130964730",
+    "username" : "Pøøkıe",
+    "level" : 100,
+    "allianceId" : "500438120",
+    "allianceTag" : "se28",
+    "pointId" : 219336,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4806685719422685190",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":190,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Goku\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"hero_icon119_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Kimơi\"}"
+      }, {
+        "frameId" : 69,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/482212517438.jpg?v=1697771002882\"],\"nationalflag\":241,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/482212517438.jpg?v=1697771002882\",\"username\":\"TáoTàu⚡️\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/7b3fb5aa40e694adb4dfe9db70c44352_1768636064.png?v=1768636067146\",\"https://knight-cdn.akamaized.net/headimg/7b3fb5aa40e694adb4dfe9db70c44352_1784492959.png?v=1784492963692\"],\"nationalflag\":65,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/7b3fb5aa40e694adb4dfe9db70c44352_1784492959.png?v=1784492963692\",\"username\":\"Rekaby2\"}"
+      } ],
+      "num" : 17,
+      "endTimeMilli" : 1787328194853
+    },
+    "cityRewardSeenAt" : "2026-08-21T15:46:32.028Z",
+    "foundAt" : "2026-08-21T15:46:32.028Z"
   } ]
 }
