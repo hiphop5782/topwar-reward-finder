@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T18:21:36.315009300Z",
-  "count" : 7,
+  "updatedAt" : "2026-08-21T18:24:11.746158100Z",
+  "count" : 8,
   "locations" : [ {
     "serverId" : 1951,
     "x" : 388,
@@ -186,5 +186,24 @@
     },
     "cityRewardSeenAt" : "2026-08-21T18:03:06.085Z",
     "foundAt" : "2026-08-21T18:03:06.085Z"
+  }, {
+    "serverId" : 4489,
+    "x" : 689,
+    "y" : 133,
+    "uid" : "9747635900809",
+    "username" : "evil90",
+    "level" : 68,
+    "allianceId" : "500482607",
+    "allianceTag" : "RAWe",
+    "pointId" : 68441,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4806840990862348809",
+      "players" : [ ],
+      "num" : 24,
+      "endTimeMilli" : 1787337449752
+    },
+    "cityRewardSeenAt" : "2026-08-21T18:21:51.296Z",
+    "foundAt" : "2026-08-21T18:21:51.296Z"
   } ]
 }
