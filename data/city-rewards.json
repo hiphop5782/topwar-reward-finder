@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T07:37:28.302231500Z",
+  "updatedAt" : "2026-08-21T07:39:53.805077700Z",
   "count" : 8,
   "locations" : [ {
     "serverId" : 2311,
@@ -40,6 +40,25 @@
     },
     "cityRewardSeenAt" : "2026-08-21T07:17:19.601Z",
     "foundAt" : "2026-08-21T07:17:19.601Z"
+  }, {
+    "serverId" : 2511,
+    "x" : 387,
+    "y" : 437,
+    "uid" : "621199631702",
+    "username" : "ADI",
+    "level" : 100,
+    "allianceId" : "500183672",
+    "allianceTag" : "UWL.",
+    "pointId" : 223938,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4806205268508777991",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1787299557747
+    },
+    "cityRewardSeenAt" : "2026-08-21T07:37:40.403Z",
+    "foundAt" : "2026-08-21T07:37:40.403Z"
   }, {
     "serverId" : 2864,
     "x" : 446,
@@ -135,24 +154,5 @@
     },
     "cityRewardSeenAt" : "2026-08-21T07:20:34.714Z",
     "foundAt" : "2026-08-21T07:20:34.714Z"
-  }, {
-    "serverId" : 4210,
-    "x" : 378,
-    "y" : 298,
-    "uid" : "9233985966194",
-    "username" : "シグナル",
-    "level" : 85,
-    "allianceId" : "500418838",
-    "allianceTag" : "`7Se",
-    "pointId" : 152766,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4806161479741006854",
-      "players" : [ ],
-      "num" : 6,
-      "endTimeMilli" : 1787296947733
-    },
-    "cityRewardSeenAt" : "2026-08-21T07:03:15.918Z",
-    "foundAt" : "2026-08-21T07:03:15.918Z"
   } ]
 }
