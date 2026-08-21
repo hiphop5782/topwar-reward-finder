@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T17:56:41.660581Z",
-  "count" : 5,
+  "updatedAt" : "2026-08-21T18:01:46.105166Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 476,
     "x" : 432,
@@ -83,6 +83,37 @@
     },
     "cityRewardSeenAt" : "2026-08-21T17:43:39.684Z",
     "foundAt" : "2026-08-21T17:43:39.684Z"
+  }, {
+    "serverId" : 4124,
+    "x" : 381,
+    "y" : 571,
+    "uid" : "9100793516060",
+    "username" : "DOORKNOB",
+    "level" : 100,
+    "allianceId" : "500402706",
+    "allianceTag" : "s24*",
+    "pointId" : 292543,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4806808710642939907",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"hero_awakeicon169_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Kuromon\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":202,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Santa\"}"
+      }, {
+        "frameId" : 20,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon174_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Dragon龍\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/be9c4bef2ea919d99271776a464a126b_1782409146.png?v=1782409147217\",\"https://knight-cdn.akamaized.net/headimg/be9c4bef2ea919d99271776a464a126b_1783244911.png?v=1783244912478\",\"https://knight-cdn.akamaized.net/headimg/be9c4bef2ea919d99271776a464a126b_1779975693.png?v=1779975694295\",\"https://knight-cdn.akamaized.net/headimg/be9c4bef2ea919d99271776a464a126b_1777605289.png?v=1777605290854\"],\"nationalflag\":173,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/be9c4bef2ea919d99271776a464a126b_1779975693.png?v=1779975694295\",\"username\":\"NEMESIS\"}"
+      } ],
+      "num" : 9,
+      "endTimeMilli" : 1787335525701
+    },
+    "cityRewardSeenAt" : "2026-08-21T17:58:17.944Z",
+    "foundAt" : "2026-08-21T17:58:17.944Z"
   }, {
     "serverId" : 4360,
     "x" : 384,
