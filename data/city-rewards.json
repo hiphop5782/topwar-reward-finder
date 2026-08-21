@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T14:06:35.484545400Z",
-  "count" : 12,
+  "updatedAt" : "2026-08-21T14:08:12.551927800Z",
+  "count" : 11,
   "locations" : [ {
     "serverId" : 148,
     "x" : 511,
@@ -155,6 +155,25 @@
     "cityRewardSeenAt" : "2026-08-21T13:43:04.169Z",
     "foundAt" : "2026-08-21T13:43:04.169Z"
   }, {
+    "serverId" : 4199,
+    "x" : 541,
+    "y" : 461,
+    "uid" : "9219296235623",
+    "username" : "MANA",
+    "level" : 100,
+    "allianceId" : "500416545",
+    "allianceTag" : "BSVG",
+    "pointId" : 236303,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4806597700443229703",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1787322948513
+    },
+    "cityRewardSeenAt" : "2026-08-21T14:06:36.765Z",
+    "foundAt" : "2026-08-21T14:06:36.765Z"
+  }, {
     "serverId" : 4409,
     "x" : 401,
     "y" : 581,
@@ -195,43 +214,5 @@
     },
     "cityRewardSeenAt" : "2026-08-21T13:40:10.812Z",
     "foundAt" : "2026-08-21T13:40:10.812Z"
-  }, {
-    "serverId" : 4421,
-    "x" : 403,
-    "y" : 245,
-    "uid" : "9603687190853",
-    "username" : "Boboho",
-    "level" : 98,
-    "allianceId" : "500461270",
-    "allianceTag" : "FCMX",
-    "pointId" : 125642,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4806559020689295875",
-      "players" : [ ],
-      "num" : 15,
-      "endTimeMilli" : 1787320643020
-    },
-    "cityRewardSeenAt" : "2026-08-21T13:32:50.620Z",
-    "foundAt" : "2026-08-21T13:32:50.620Z"
-  }, {
-    "serverId" : 4421,
-    "x" : 411,
-    "y" : 257,
-    "uid" : "9601666552133",
-    "username" : "Water",
-    "level" : 100,
-    "allianceId" : "500461270",
-    "allianceTag" : "FCMX",
-    "pointId" : 131790,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4806559819083450888",
-      "players" : [ ],
-      "num" : 12,
-      "endTimeMilli" : 1787320690608
-    },
-    "cityRewardSeenAt" : "2026-08-21T13:32:50.620Z",
-    "foundAt" : "2026-08-21T13:32:50.620Z"
   } ]
 }
