@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T12:24:54.402396500Z",
+  "updatedAt" : "2026-08-21T12:26:48.205159400Z",
   "count" : 41,
   "locations" : [ {
     "serverId" : 158,
@@ -334,6 +334,37 @@
     },
     "cityRewardSeenAt" : "2026-08-21T12:19:10.078Z",
     "foundAt" : "2026-08-21T12:19:10.078Z"
+  }, {
+    "serverId" : 800,
+    "x" : 437,
+    "y" : 411,
+    "uid" : "8566879850090",
+    "username" : "Number2",
+    "level" : 100,
+    "allianceId" : "100130818",
+    "allianceTag" : "~KA",
+    "pointId" : 210651,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4806471532774047746",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/00dcd7eb1190d3d449bb5e527eca614f_1727483252.jpg?v=1727483253995\",\"username\":\"Snotty\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/340625093475.jpg?v=1651445310504\",\"username\":\"Direwolf\"}"
+      }, {
+        "frameId" : 49,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/0e1807195e5659614af790323639041f_1734230534.jpg?v=1734230535882\",\"username\":\"JACK_SPA\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":10,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"TITAN\"}"
+      } ],
+      "num" : 11,
+      "endTimeMilli" : 1787315428334
+    },
+    "cityRewardSeenAt" : "2026-08-21T12:24:26.548Z",
+    "foundAt" : "2026-08-21T12:24:26.548Z"
   }, {
     "serverId" : 1175,
     "x" : 439,
@@ -936,36 +967,5 @@
     },
     "cityRewardSeenAt" : "2026-08-21T12:10:15.320Z",
     "foundAt" : "2026-08-21T12:10:15.320Z"
-  }, {
-    "serverId" : 4327,
-    "x" : 442,
-    "y" : 668,
-    "uid" : "9393022570727",
-    "username" : "いっくん",
-    "level" : 100,
-    "allianceId" : "500437620",
-    "allianceTag" : "x27s",
-    "pointId" : 342238,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4806450518960492034",
-      "players" : [ {
-        "frameId" : 4,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/9baa958da4608f13db891b1a65822f92_1746133303.jpg?v=1746133304706\"],\"nationalflag\":13,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/9baa958da4608f13db891b1a65822f92_1746133303.jpg?v=1746133304706\",\"username\":\"Tnight\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":19,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Skkhan\"}"
-      }, {
-        "frameId" : 159,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/90cc537a6f6523ea25c898ff75f620ab_1781965389.png?v=1781965390544\",\"https://knight-cdn.akamaized.net/headimg/90cc537a6f6523ea25c898ff75f620ab_1771974075.png?v=1771974076077\",\"https://knight-cdn.akamaized.net/headimg/90cc537a6f6523ea25c898ff75f620ab_1781527272.png?v=1781527273845\",\"https://knight-cdn.akamaized.net/headimg/90cc537a6f6523ea25c898ff75f620ab_1772021296.png?v=1772021297127\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/90cc537a6f6523ea25c898ff75f620ab_1781965389.png?v=1781965390544\",\"username\":\"老狐狸\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon116_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"pmax\"}"
-      } ],
-      "num" : 26,
-      "endTimeMilli" : 1787314175813
-    },
-    "cityRewardSeenAt" : "2026-08-21T11:51:18.071Z",
-    "foundAt" : "2026-08-21T11:51:18.071Z"
   } ]
 }
