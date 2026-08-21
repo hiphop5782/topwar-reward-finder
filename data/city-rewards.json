@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T00:25:40.598114200Z",
+  "updatedAt" : "2026-08-21T00:27:13.257926400Z",
   "count" : 19,
   "locations" : [ {
     "serverId" : 1566,
@@ -21,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-08-21T00:09:18.030Z",
     "foundAt" : "2026-08-21T00:09:18.030Z"
+  }, {
+    "serverId" : 2036,
+    "x" : 374,
+    "y" : 624,
+    "uid" : "790539491318",
+    "username" : "マウントテンプル",
+    "level" : 100,
+    "allianceId" : "420004857",
+    "allianceTag" : "#snp",
+    "pointId" : 319676,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4805762021793458182",
+      "players" : [ ],
+      "num" : 16,
+      "endTimeMilli" : 1787273138184
+    },
+    "cityRewardSeenAt" : "2026-08-21T00:26:21.031Z",
+    "foundAt" : "2026-08-21T00:26:21.031Z"
   }, {
     "serverId" : 2616,
     "x" : 397,
@@ -401,27 +420,5 @@
     },
     "cityRewardSeenAt" : "2026-08-20T23:57:06.805Z",
     "foundAt" : "2026-08-20T23:57:06.805Z"
-  }, {
-    "serverId" : 4486,
-    "x" : 392,
-    "y" : 592,
-    "uid" : "9738355085702",
-    "username" : "shiii",
-    "level" : 80,
-    "allianceId" : "500480734",
-    "allianceTag" : "ROPE",
-    "pointId" : 303301,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4805710469855906817",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Nestle\"}"
-      } ],
-      "num" : 7,
-      "endTimeMilli" : 1787270065449
-    },
-    "cityRewardSeenAt" : "2026-08-20T23:52:00.146Z",
-    "foundAt" : "2026-08-20T23:52:00.146Z"
   } ]
 }
