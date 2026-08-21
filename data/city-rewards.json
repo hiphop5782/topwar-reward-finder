@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T09:11:14.292938Z",
-  "count" : 7,
+  "updatedAt" : "2026-08-21T09:13:40.729624200Z",
+  "count" : 8,
   "locations" : [ {
     "serverId" : 930,
     "x" : 444,
@@ -147,5 +147,36 @@
     },
     "cityRewardSeenAt" : "2026-08-21T08:59:59.472Z",
     "foundAt" : "2026-08-21T08:59:59.472Z"
+  }, {
+    "serverId" : 4451,
+    "x" : 383,
+    "y" : 565,
+    "uid" : "9657304060259",
+    "username" : "SlimJim",
+    "level" : 82,
+    "allianceId" : "500469116",
+    "allianceTag" : "s451",
+    "pointId" : 289472,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4806275988350748164",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/68f0030823b74e28abeb36cf875ab821_1777247554.png?v=1777247557385\",\"https://knight-cdn.akamaized.net/headimg/68f0030823b74e28abeb36cf875ab821_1777603392.png?v=1777603396620\"],\"nationalflag\":225,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/68f0030823b74e28abeb36cf875ab821_1777603392.png?v=1777603396620\",\"username\":\"ANB\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/593d63d425da68039df09338f8ebae44_1777914758.png?v=1777914759948\",\"https://knight-cdn.akamaized.net/headimg/593d63d425da68039df09338f8ebae44_1777967700.png?v=1777967703113\"],\"nationalflag\":218,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/593d63d425da68039df09338f8ebae44_1777967700.png?v=1777967703113\",\"username\":\"Adultgum\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"hero_icon014_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Đen\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":2,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Yoyong\"}"
+      } ],
+      "num" : 17,
+      "endTimeMilli" : 1787303772978
+    },
+    "cityRewardSeenAt" : "2026-08-21T09:11:25.647Z",
+    "foundAt" : "2026-08-21T09:11:25.647Z"
   } ]
 }
