@@ -1,27 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T03:19:32.786643700Z",
-  "count" : 10,
+  "updatedAt" : "2026-08-21T03:21:59.805338800Z",
+  "count" : 9,
   "locations" : [ {
-    "serverId" : 262,
-    "x" : 470,
-    "y" : 512,
-    "uid" : "250835554566",
-    "username" : "のら",
-    "level" : 100,
-    "allianceId" : "100000216",
-    "allianceTag" : "UAMD",
-    "pointId" : 262380,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4805893591840984073",
-      "players" : [ ],
-      "num" : 2,
-      "endTimeMilli" : 1787280980370
-    },
-    "cityRewardSeenAt" : "2026-08-21T02:46:05.974Z",
-    "foundAt" : "2026-08-21T02:46:05.974Z"
-  }, {
     "serverId" : 1313,
     "x" : 393,
     "y" : 651,
@@ -66,6 +47,9 @@
       "itemId" : 260617001,
       "instanceId" : "4805919382668127745",
       "players" : [ {
+        "frameId" : 89,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/556119832393.jpg?v=1697846687084\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/556119832393.jpg?v=1697846687084\",\"username\":\"회전그네\"}"
+      }, {
         "frameId" : 159,
         "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/780646144039.jpg?v=1653205285609\",\"username\":\"야옹이납치\"}"
       }, {
@@ -74,15 +58,12 @@
       }, {
         "frameId" : 0,
         "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/589213685726.jpg?v=1655348644364\",\"username\":\"홍블리\"}"
-      }, {
-        "frameId" : 149,
-        "playerInfo" : "{\"nationalflag\":10,\"gender\":0,\"avatarurl\":\"hero_icon329_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"INSOLITO\"}"
       } ],
-      "num" : 18,
+      "num" : 19,
       "endTimeMilli" : 1787282517623
     },
-    "cityRewardSeenAt" : "2026-08-21T03:17:49.627Z",
-    "foundAt" : "2026-08-21T03:17:49.627Z"
+    "cityRewardSeenAt" : "2026-08-21T03:20:16.722Z",
+    "foundAt" : "2026-08-21T03:20:16.722Z"
   }, {
     "serverId" : 3223,
     "x" : 418,
@@ -96,12 +77,15 @@
     "cityReward" : {
       "itemId" : 260617001,
       "instanceId" : "4805923949778644482",
-      "players" : [ ],
-      "num" : 18,
+      "players" : [ {
+        "frameId" : 89,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/556119832393.jpg?v=1697846687084\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/556119832393.jpg?v=1697846687084\",\"username\":\"회전그네\"}"
+      } ],
+      "num" : 19,
       "endTimeMilli" : 1787282789844
     },
-    "cityRewardSeenAt" : "2026-08-21T03:17:49.627Z",
-    "foundAt" : "2026-08-21T03:17:49.627Z"
+    "cityRewardSeenAt" : "2026-08-21T03:20:16.722Z",
+    "foundAt" : "2026-08-21T03:20:16.722Z"
   }, {
     "serverId" : 3223,
     "x" : 422,
@@ -115,21 +99,12 @@
     "cityReward" : {
       "itemId" : 260617001,
       "instanceId" : "4805923507833220615",
-      "players" : [ {
-        "frameId" : 4,
-        "playerInfo" : "{\"nationalflag\":191,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b823530e022c272efb70a1864a1c8671.jpg?v=1684808721773\",\"username\":\"Mavr\"}"
-      }, {
-        "frameId" : 159,
-        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/780646144039.jpg?v=1653205285609\",\"username\":\"야옹이납치\"}"
-      }, {
-        "frameId" : 80,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/594914080770.jpg?v=1682405469883\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"hero_icon230_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/594914080770.jpg?v=1682405469883\",\"username\":\"미생\"}"
-      } ],
-      "num" : 17,
+      "players" : [ ],
+      "num" : 18,
       "endTimeMilli" : 1787282763502
     },
-    "cityRewardSeenAt" : "2026-08-21T03:17:49.627Z",
-    "foundAt" : "2026-08-21T03:17:49.627Z"
+    "cityRewardSeenAt" : "2026-08-21T03:20:16.722Z",
+    "foundAt" : "2026-08-21T03:20:16.722Z"
   }, {
     "serverId" : 3528,
     "x" : 375,
