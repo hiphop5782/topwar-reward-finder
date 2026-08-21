@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T14:18:04.767210200Z",
+  "updatedAt" : "2026-08-21T14:20:29.700733100Z",
   "count" : 12,
   "locations" : [ {
     "serverId" : 148,
@@ -174,6 +174,25 @@
     "cityRewardSeenAt" : "2026-08-21T14:14:44.267Z",
     "foundAt" : "2026-08-21T14:14:44.267Z"
   }, {
+    "serverId" : 3885,
+    "x" : 455,
+    "y" : 459,
+    "uid" : "8831736024877",
+    "username" : "SKY",
+    "level" : 100,
+    "allianceId" : "500380757",
+    "allianceTag" : "TFMs",
+    "pointId" : 235236,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4806606014090467841",
+      "players" : [ ],
+      "num" : 14,
+      "endTimeMilli" : 1787323444045
+    },
+    "cityRewardSeenAt" : "2026-08-21T14:18:52.487Z",
+    "foundAt" : "2026-08-21T14:18:52.487Z"
+  }, {
     "serverId" : 4199,
     "x" : 541,
     "y" : 461,
@@ -211,27 +230,5 @@
     },
     "cityRewardSeenAt" : "2026-08-21T14:16:35.283Z",
     "foundAt" : "2026-08-21T14:16:35.283Z"
-  }, {
-    "serverId" : 4409,
-    "x" : 401,
-    "y" : 581,
-    "uid" : "9575507923257",
-    "username" : "BigTige",
-    "level" : 100,
-    "allianceId" : "500458052",
-    "allianceTag" : "*UC*",
-    "pointId" : 297673,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4806558851709170181",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/92821966055eb9a6385bb70138a6a096_1783026739.png?v=1783026740900\",\"https://knight-cdn.akamaized.net/headimg/92821966055eb9a6385bb70138a6a096_1785423476.png?v=1785423478951\",\"https://knight-cdn.akamaized.net/headimg/92821966055eb9a6385bb70138a6a096_1782918954.png?v=1782918956489\",\"https://knight-cdn.akamaized.net/headimg/92821966055eb9a6385bb70138a6a096_1785441669.png?v=1785441671750\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/92821966055eb9a6385bb70138a6a096_1785441669.png?v=1785441671750\",\"username\":\"ÆŞÖP\"}"
-      } ],
-      "num" : 13,
-      "endTimeMilli" : 1787320632948
-    },
-    "cityRewardSeenAt" : "2026-08-21T13:45:18.763Z",
-    "foundAt" : "2026-08-21T13:45:18.763Z"
   } ]
 }
