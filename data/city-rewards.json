@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T17:36:56.697651800Z",
+  "updatedAt" : "2026-08-21T17:39:26.539941500Z",
   "count" : 9,
   "locations" : [ {
+    "serverId" : 476,
+    "x" : 432,
+    "y" : 434,
+    "uid" : "272383910364",
+    "username" : "JayCee",
+    "level" : 100,
+    "allianceId" : "100033208",
+    "allianceTag" : "7sss",
+    "pointId" : 222425,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4806781469794220039",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1787333902020
+    },
+    "cityRewardSeenAt" : "2026-08-21T17:38:06.587Z",
+    "foundAt" : "2026-08-21T17:38:06.587Z"
+  }, {
     "serverId" : 2622,
     "x" : 251,
     "y" : 499,
@@ -217,36 +236,5 @@
     },
     "cityRewardSeenAt" : "2026-08-21T17:18:22.146Z",
     "foundAt" : "2026-08-21T17:18:22.146Z"
-  }, {
-    "serverId" : 4526,
-    "x" : 416,
-    "y" : 426,
-    "uid" : "9866644132270",
-    "username" : "Adrian89",
-    "level" : 67,
-    "allianceId" : "500496715",
-    "allianceTag" : "[ENX",
-    "pointId" : 218321,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4806771509716802565",
-      "players" : [ {
-        "frameId" : 1,
-        "playerInfo" : "{\"nationalflag\":68,\"gender\":0,\"avatarurl\":\"hero_icon174_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"Carolina\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"hero_icon009_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Ted9871\"}"
-      }, {
-        "frameId" : 159,
-        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon334_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"MjrSpud\"}"
-      }, {
-        "frameId" : 165,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon014_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"マル\"}"
-      } ],
-      "num" : 24,
-      "endTimeMilli" : 1787333308353
-    },
-    "cityRewardSeenAt" : "2026-08-21T17:03:15.933Z",
-    "foundAt" : "2026-08-21T17:03:15.933Z"
   } ]
 }
