@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T18:01:46.105166Z",
-  "count" : 6,
+  "updatedAt" : "2026-08-21T18:04:09.838413400Z",
+  "count" : 8,
   "locations" : [ {
     "serverId" : 476,
     "x" : 432,
@@ -164,5 +164,58 @@
     },
     "cityRewardSeenAt" : "2026-08-21T17:50:25.437Z",
     "foundAt" : "2026-08-21T17:50:25.437Z"
+  }, {
+    "serverId" : 4488,
+    "x" : 341,
+    "y" : 477,
+    "uid" : "9743993901448",
+    "username" : "Fredchiu",
+    "level" : 80,
+    "allianceId" : "500481396",
+    "allianceTag" : "APXA",
+    "pointId" : 244395,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4806828904153288708",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":101,\"gender\":0,\"avatarurl\":\"hero_icon140_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"thef\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon003_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"chillin4\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon214_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"umiumi\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon1115_new_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Iman\"}"
+      } ],
+      "num" : 18,
+      "endTimeMilli" : 1787336729328
+    },
+    "cityRewardSeenAt" : "2026-08-21T18:03:06.085Z",
+    "foundAt" : "2026-08-21T18:03:06.085Z"
+  }, {
+    "serverId" : 4488,
+    "x" : 360,
+    "y" : 470,
+    "uid" : "9743186596232",
+    "username" : "lazyfob",
+    "level" : 77,
+    "allianceId" : "500481396",
+    "allianceTag" : "APXA",
+    "pointId" : 240821,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4806822832663367686",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":101,\"gender\":0,\"avatarurl\":\"hero_icon140_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"thef\"}"
+      } ],
+      "num" : 28,
+      "endTimeMilli" : 1787336367439
+    },
+    "cityRewardSeenAt" : "2026-08-21T18:03:06.085Z",
+    "foundAt" : "2026-08-21T18:03:06.085Z"
   } ]
 }
