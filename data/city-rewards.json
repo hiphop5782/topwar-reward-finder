@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T03:31:52.713359Z",
-  "count" : 4,
+  "updatedAt" : "2026-08-21T03:33:52.126090700Z",
+  "count" : 5,
   "locations" : [ {
+    "serverId" : 3223,
+    "x" : 400,
+    "y" : 404,
+    "uid" : "919289752194",
+    "username" : "대충",
+    "level" : 100,
+    "allianceId" : "500314562",
+    "allianceTag" : "KID:",
+    "pointId" : 207049,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4805958348842806791",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1787284840188
+    },
+    "cityRewardSeenAt" : "2026-08-21T03:32:09.573Z",
+    "foundAt" : "2026-08-21T03:32:09.573Z"
+  }, {
     "serverId" : 3528,
     "x" : 375,
     "y" : 429,
@@ -85,10 +104,10 @@
       "itemId" : 260617004,
       "instanceId" : "4805956859831919108",
       "players" : [ ],
-      "num" : 1,
+      "num" : 3,
       "endTimeMilli" : 1787284751436
     },
-    "cityRewardSeenAt" : "2026-08-21T03:29:25.935Z",
-    "foundAt" : "2026-08-21T03:29:25.935Z"
+    "cityRewardSeenAt" : "2026-08-21T03:31:54.366Z",
+    "foundAt" : "2026-08-21T03:31:54.366Z"
   } ]
 }
