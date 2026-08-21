@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T05:52:58.161707Z",
-  "count" : 13,
+  "updatedAt" : "2026-08-21T05:54:53.479266100Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 811,
     "x" : 422,
@@ -33,25 +33,6 @@
     },
     "cityRewardSeenAt" : "2026-08-21T05:29:09.120Z",
     "foundAt" : "2026-08-21T05:29:09.120Z"
-  }, {
-    "serverId" : 1567,
-    "x" : 433,
-    "y" : 239,
-    "uid" : "592901965784",
-    "username" : "M☣sip☢se",
-    "level" : 100,
-    "allianceId" : "200262053",
-    "allianceTag" : "<GA>",
-    "pointId" : 122585,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4806040289050115587",
-      "players" : [ ],
-      "num" : 12,
-      "endTimeMilli" : 1787289724205
-    },
-    "cityRewardSeenAt" : "2026-08-21T05:18:55.432Z",
-    "foundAt" : "2026-08-21T05:18:55.432Z"
   }, {
     "serverId" : 2287,
     "x" : 421,
@@ -109,6 +90,25 @@
     "cityRewardSeenAt" : "2026-08-21T05:30:41.277Z",
     "foundAt" : "2026-08-21T05:30:41.277Z"
   }, {
+    "serverId" : 2683,
+    "x" : 394,
+    "y" : 540,
+    "uid" : "406968599843",
+    "username" : "Streuner",
+    "level" : 100,
+    "allianceId" : "500234594",
+    "allianceTag" : "B~K~",
+    "pointId" : 276678,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4806101825261729284",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1787293392049
+    },
+    "cityRewardSeenAt" : "2026-08-21T05:53:47.979Z",
+    "foundAt" : "2026-08-21T05:53:47.979Z"
+  }, {
     "serverId" : 2986,
     "x" : 463,
     "y" : 369,
@@ -165,99 +165,6 @@
     },
     "cityRewardSeenAt" : "2026-08-21T05:50:09.169Z",
     "foundAt" : "2026-08-21T05:50:09.169Z"
-  }, {
-    "serverId" : 4327,
-    "x" : 451,
-    "y" : 655,
-    "uid" : "9390810697959",
-    "username" : "Grissom",
-    "level" : 100,
-    "allianceId" : "500437620",
-    "allianceTag" : "x27s",
-    "pointId" : 335586,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4806062093442862599",
-      "players" : [ {
-        "frameId" : 159,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/90cc537a6f6523ea25c898ff75f620ab_1781965389.png?v=1781965390544\",\"https://knight-cdn.akamaized.net/headimg/90cc537a6f6523ea25c898ff75f620ab_1771974075.png?v=1771974076077\",\"https://knight-cdn.akamaized.net/headimg/90cc537a6f6523ea25c898ff75f620ab_1781527272.png?v=1781527273845\",\"https://knight-cdn.akamaized.net/headimg/90cc537a6f6523ea25c898ff75f620ab_1772021296.png?v=1772021297127\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/90cc537a6f6523ea25c898ff75f620ab_1781965389.png?v=1781965390544\",\"username\":\"老狐狸\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d6311b9585adba677d8aef312abedadc_1741663453.jpg?v=1741663454389\",\"https://knight-cdn.akamaized.net/headimg/d6311b9585adba677d8aef312abedadc_1784997000.png?v=1784997002191\",\"https://knight-cdn.akamaized.net/headimg/d6311b9585adba677d8aef312abedadc_1786204907.png?v=1786204915042\",\"https://knight-cdn.akamaized.net/headimg/d6311b9585adba677d8aef312abedadc_1756674762.jpg?v=1756674762861\"],\"nationalflag\":55,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d6311b9585adba677d8aef312abedadc_1786204907.png?v=1786204915042\",\"username\":\"DIDI\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/882087135727.jpg?v=1723911687281\",\"https://knight-cdn.akamaized.net/headimg/6c93c8e3b07db8a78448c6f62abe3e2e_1757156607.jpg?v=1757156609198\",\"https://knight-cdn.akamaized.net/headimg/6c93c8e3b07db8a78448c6f62abe3e2e_1757253426.jpg?v=1757253427164\",\"https://knight-cdn.akamaized.net/headimg/6c93c8e3b07db8a78448c6f62abe3e2e_1770802457.png?v=1770802458101\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/6c93c8e3b07db8a78448c6f62abe3e2e_1757156607.jpg?v=1757156609198\",\"username\":\"幼兒園尹三歲🐻\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/883793259004.jpg?v=1720067225857\",\"username\":\"MOON\"}"
-      } ],
-      "num" : 18,
-      "endTimeMilli" : 1787291023848
-    },
-    "cityRewardSeenAt" : "2026-08-21T05:19:33.734Z",
-    "foundAt" : "2026-08-21T05:19:33.734Z"
-  }, {
-    "serverId" : 4327,
-    "x" : 453,
-    "y" : 683,
-    "uid" : "9024327421915",
-    "username" : "HANA🇯🇵",
-    "level" : 100,
-    "allianceId" : "500437620",
-    "allianceTag" : "x27s",
-    "pointId" : 349923,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4806038808915201545",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/882087135727.jpg?v=1723911687281\",\"https://knight-cdn.akamaized.net/headimg/6c93c8e3b07db8a78448c6f62abe3e2e_1757156607.jpg?v=1757156609198\",\"https://knight-cdn.akamaized.net/headimg/6c93c8e3b07db8a78448c6f62abe3e2e_1757253426.jpg?v=1757253427164\",\"https://knight-cdn.akamaized.net/headimg/6c93c8e3b07db8a78448c6f62abe3e2e_1770802457.png?v=1770802458101\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/6c93c8e3b07db8a78448c6f62abe3e2e_1757156607.jpg?v=1757156609198\",\"username\":\"幼兒園尹三歲🐻\"}"
-      }, {
-        "frameId" : 134,
-        "playerInfo" : "{\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"hero_icon160_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"幼兒園小嘟嘟🐷\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/fbf2888be52298bc582aa2da29621adf_1771818980.png?v=1771818982476\",\"https://knight-cdn.akamaized.net/headimg/fbf2888be52298bc582aa2da29621adf_1786597367.png?v=1786597369215\",\"https://knight-cdn.akamaized.net/headimg/fbf2888be52298bc582aa2da29621adf_1774398342.png?v=1774398344433\",\"https://knight-cdn.akamaized.net/headimg/fbf2888be52298bc582aa2da29621adf_1761568032.png?v=1761568034615\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/fbf2888be52298bc582aa2da29621adf_1786597367.png?v=1786597369215\",\"username\":\"㓜兒園啵啵崽🐹\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":62,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Ten\"}"
-      } ],
-      "num" : 30,
-      "endTimeMilli" : 1787289635982
-    },
-    "cityRewardSeenAt" : "2026-08-21T05:19:33.734Z",
-    "foundAt" : "2026-08-21T05:19:33.734Z"
-  }, {
-    "serverId" : 4327,
-    "x" : 461,
-    "y" : 675,
-    "uid" : "8403654938071",
-    "username" : "mocca",
-    "level" : 100,
-    "allianceId" : "500437620",
-    "allianceTag" : "x27s",
-    "pointId" : 345831,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4806051858988781062",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d6311b9585adba677d8aef312abedadc_1741663453.jpg?v=1741663454389\",\"https://knight-cdn.akamaized.net/headimg/d6311b9585adba677d8aef312abedadc_1784997000.png?v=1784997002191\",\"https://knight-cdn.akamaized.net/headimg/d6311b9585adba677d8aef312abedadc_1786204907.png?v=1786204915042\",\"https://knight-cdn.akamaized.net/headimg/d6311b9585adba677d8aef312abedadc_1756674762.jpg?v=1756674762861\"],\"nationalflag\":55,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d6311b9585adba677d8aef312abedadc_1786204907.png?v=1786204915042\",\"username\":\"DIDI\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/882087135727.jpg?v=1723911687281\",\"https://knight-cdn.akamaized.net/headimg/6c93c8e3b07db8a78448c6f62abe3e2e_1757156607.jpg?v=1757156609198\",\"https://knight-cdn.akamaized.net/headimg/6c93c8e3b07db8a78448c6f62abe3e2e_1757253426.jpg?v=1757253427164\",\"https://knight-cdn.akamaized.net/headimg/6c93c8e3b07db8a78448c6f62abe3e2e_1770802457.png?v=1770802458101\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/6c93c8e3b07db8a78448c6f62abe3e2e_1757156607.jpg?v=1757156609198\",\"username\":\"幼兒園尹三歲🐻\"}"
-      }, {
-        "frameId" : 134,
-        "playerInfo" : "{\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"hero_icon160_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"幼兒園小嘟嘟🐷\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/fbf2888be52298bc582aa2da29621adf_1771818980.png?v=1771818982476\",\"https://knight-cdn.akamaized.net/headimg/fbf2888be52298bc582aa2da29621adf_1786597367.png?v=1786597369215\",\"https://knight-cdn.akamaized.net/headimg/fbf2888be52298bc582aa2da29621adf_1774398342.png?v=1774398344433\",\"https://knight-cdn.akamaized.net/headimg/fbf2888be52298bc582aa2da29621adf_1761568032.png?v=1761568034615\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/fbf2888be52298bc582aa2da29621adf_1786597367.png?v=1786597369215\",\"username\":\"㓜兒園啵啵崽🐹\"}"
-      } ],
-      "num" : 26,
-      "endTimeMilli" : 1787290413827
-    },
-    "cityRewardSeenAt" : "2026-08-21T05:19:33.734Z",
-    "foundAt" : "2026-08-21T05:19:33.734Z"
   }, {
     "serverId" : 4369,
     "x" : 342,
