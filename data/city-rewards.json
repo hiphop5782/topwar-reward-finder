@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T05:01:37.250600200Z",
-  "count" : 9,
+  "updatedAt" : "2026-08-21T05:03:40.024201Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 2275,
     "x" : 346,
@@ -110,6 +110,37 @@
     "foundAt" : "2026-08-21T04:36:26.716Z"
   }, {
     "serverId" : 3223,
+    "x" : 398,
+    "y" : 394,
+    "uid" : "933425933037",
+    "username" : "아이시스💦",
+    "level" : 100,
+    "allianceId" : "500314562",
+    "allianceTag" : "KID:",
+    "pointId" : 201928,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4806047528755211780",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/c6dd02263f1ed7236da50df9ac2e6b0e_1773320202.png?v=1773320203015\",\"https://knight-cdn.akamaized.net/headimg/c6dd02263f1ed7236da50df9ac2e6b0e_1770191272.png?v=1770191274035\",\"https://knight-cdn.akamaized.net/headimg/c6dd02263f1ed7236da50df9ac2e6b0e_1786882088.png?v=1786882090029\",\"https://knight-cdn.akamaized.net/headimg/c6dd02263f1ed7236da50df9ac2e6b0e_1771087316.png?v=1771087317343\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/c6dd02263f1ed7236da50df9ac2e6b0e_1773320202.png?v=1773320203015\",\"username\":\"ho\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/80ade5c8f41f1dcc96d0ec557095531d_1740053790.jpg?v=1740053790700\",\"https://knight-cdn.akamaized.net/headimg/80ade5c8f41f1dcc96d0ec557095531d_1746068407.jpg?v=1746068407522\",\"https://knight-cdn.akamaized.net/headimg/80ade5c8f41f1dcc96d0ec557095531d_1751367282.jpg?v=1751367283504\",\"https://knight-cdn.akamaized.net/headimg/80ade5c8f41f1dcc96d0ec557095531d_1752190425.jpg?v=1752190426443\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/80ade5c8f41f1dcc96d0ec557095531d_1746068407.jpg?v=1746068407522\",\"username\":\"두리\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/475d75d48f47574282de60e3a294cbf5.jpg?v=1698813009602\",\"username\":\"해동\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/bbdce2690d9cf4d1bf7e3c5ef5ef69bb_1743865734.jpg?v=1743865734749\",\"https://knight-cdn.akamaized.net/headimg/bbdce2690d9cf4d1bf7e3c5ef5ef69bb_1764982707.png?v=1764982708402\",\"https://knight-cdn.akamaized.net/headimg/bbdce2690d9cf4d1bf7e3c5ef5ef69bb_1775875984.png?v=1775875986600\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/bbdce2690d9cf4d1bf7e3c5ef5ef69bb_1743865734.jpg?v=1743865734749\",\"username\":\"Boomster\"}"
+      } ],
+      "num" : 12,
+      "endTimeMilli" : 1787290155725
+    },
+    "cityRewardSeenAt" : "2026-08-21T05:00:38.584Z",
+    "foundAt" : "2026-08-21T05:00:38.584Z"
+  }, {
+    "serverId" : 3223,
     "x" : 404,
     "y" : 424,
     "uid" : "8142486768978",
@@ -122,11 +153,11 @@
       "itemId" : 260617002,
       "instanceId" : "4806039387795697161",
       "players" : [ ],
-      "num" : 31,
+      "num" : 59,
       "endTimeMilli" : 1787289670486
     },
-    "cityRewardSeenAt" : "2026-08-21T04:58:09.070Z",
-    "foundAt" : "2026-08-21T04:58:09.070Z"
+    "cityRewardSeenAt" : "2026-08-21T05:00:38.584Z",
+    "foundAt" : "2026-08-21T05:00:38.584Z"
   }, {
     "serverId" : 3526,
     "x" : 427,
@@ -198,10 +229,10 @@
       "itemId" : 260617004,
       "instanceId" : "4806025372177146369",
       "players" : [ ],
-      "num" : 66,
+      "num" : 73,
       "endTimeMilli" : 1787288835090
     },
-    "cityRewardSeenAt" : "2026-08-21T04:58:11.353Z",
-    "foundAt" : "2026-08-21T04:58:11.353Z"
+    "cityRewardSeenAt" : "2026-08-21T05:00:36.872Z",
+    "foundAt" : "2026-08-21T05:00:36.872Z"
   } ]
 }
