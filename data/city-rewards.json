@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T05:30:36.820463900Z",
-  "count" : 13,
+  "updatedAt" : "2026-08-21T05:33:06.028228Z",
+  "count" : 14,
   "locations" : [ {
     "serverId" : 811,
     "x" : 422,
@@ -102,6 +102,31 @@
     },
     "cityRewardSeenAt" : "2026-08-21T05:23:48.395Z",
     "foundAt" : "2026-08-21T05:23:48.395Z"
+  }, {
+    "serverId" : 2655,
+    "x" : 415,
+    "y" : 295,
+    "uid" : "913330457183",
+    "username" : "Amadeus",
+    "level" : 100,
+    "allianceId" : "500234335",
+    "allianceTag" : "NpNp",
+    "pointId" : 151248,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4806069953701920265",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"hero_icon330_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"BRMania\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/fd4eee088bf98edc0e2ddb7775795256_1736872752.jpg?v=1736872754806\",\"https://knight-cdn.akamaized.net/headimg/fd4eee088bf98edc0e2ddb7775795256_1751907188.jpg?v=1751907189651\"],\"nationalflag\":180,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/fd4eee088bf98edc0e2ddb7775795256_1736872752.jpg?v=1736872754806\",\"username\":\"null\"}"
+      } ],
+      "num" : 7,
+      "endTimeMilli" : 1787291492356
+    },
+    "cityRewardSeenAt" : "2026-08-21T05:30:41.277Z",
+    "foundAt" : "2026-08-21T05:30:41.277Z"
   }, {
     "serverId" : 3223,
     "x" : 398,
