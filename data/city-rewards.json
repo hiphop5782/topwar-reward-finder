@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T08:33:59.127030600Z",
-  "count" : 13,
+  "updatedAt" : "2026-08-21T08:35:22.241493900Z",
+  "count" : 14,
   "locations" : [ {
     "serverId" : 1421,
     "x" : 448,
@@ -285,5 +285,36 @@
     },
     "cityRewardSeenAt" : "2026-08-21T08:16:09.485Z",
     "foundAt" : "2026-08-21T08:16:09.485Z"
+  }, {
+    "serverId" : 4540,
+    "x" : 422,
+    "y" : 562,
+    "uid" : "9902326485436",
+    "username" : "JP",
+    "level" : 58,
+    "allianceId" : "500501696",
+    "allianceTag" : "40S",
+    "pointId" : 287956,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4806261434803779589",
+      "players" : [ {
+        "frameId" : 165,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/2a6082d7b7fd921f780547309da48eda_1786703933.png?v=1786703935170\"],\"nationalflag\":57,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/2a6082d7b7fd921f780547309da48eda_1786703933.png?v=1786703935170\",\"username\":\"UltraZ\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":101,\"gender\":0,\"avatarurl\":\"hero_icon122_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Batz\"}"
+      }, {
+        "frameId" : 165,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/4a53bcdfa8272f61893ab9508e6d7f28_1786815266.png?v=1786815268655\",\"https://knight-cdn.akamaized.net/headimg/4a53bcdfa8272f61893ab9508e6d7f28_1786978161.png?v=1786978163853\"],\"nationalflag\":230,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/4a53bcdfa8272f61893ab9508e6d7f28_1786978161.png?v=1786978163853\",\"username\":\"Рома7777\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":12,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Rambo\"}"
+      } ],
+      "num" : 6,
+      "endTimeMilli" : 1787302905519
+    },
+    "cityRewardSeenAt" : "2026-08-21T08:34:02.251Z",
+    "foundAt" : "2026-08-21T08:34:02.251Z"
   } ]
 }
