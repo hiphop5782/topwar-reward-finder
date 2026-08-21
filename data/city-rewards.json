@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T01:09:12.469221700Z",
-  "count" : 23,
+  "updatedAt" : "2026-08-21T01:11:09.457216400Z",
+  "count" : 24,
   "locations" : [ {
     "serverId" : 623,
     "x" : 479,
@@ -235,6 +235,34 @@
     },
     "cityRewardSeenAt" : "2026-08-21T01:00:14.976Z",
     "foundAt" : "2026-08-21T01:00:14.976Z"
+  }, {
+    "serverId" : 3199,
+    "x" : 427,
+    "y" : 595,
+    "uid" : "891720092186",
+    "username" : "BobKuma",
+    "level" : 100,
+    "allianceId" : "500312942",
+    "allianceTag" : "PYi",
+    "pointId" : 304854,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4805816238005091849",
+      "players" : [ {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":157,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/58023fa416a2416c28f33e8f4a976161.jpg?v=1714681719764\",\"username\":\"romf2047\"}"
+      }, {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":179,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/935544105730.jpg?v=1680059581590\",\"username\":\"TRD\"}"
+      }, {
+        "frameId" : 3,
+        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"hero_icon230_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"BobKuma\"}"
+      } ],
+      "num" : 3,
+      "endTimeMilli" : 1787276369722
+    },
+    "cityRewardSeenAt" : "2026-08-21T01:10:01.962Z",
+    "foundAt" : "2026-08-21T01:10:01.962Z"
   }, {
     "serverId" : 3396,
     "x" : 410,
