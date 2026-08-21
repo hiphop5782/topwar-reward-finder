@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T17:02:03.939546400Z",
-  "count" : 18,
+  "updatedAt" : "2026-08-21T17:04:31.604768Z",
+  "count" : 19,
   "locations" : [ {
     "serverId" : 651,
     "x" : 443,
@@ -449,5 +449,36 @@
     },
     "cityRewardSeenAt" : "2026-08-21T16:33:44.607Z",
     "foundAt" : "2026-08-21T16:33:44.607Z"
+  }, {
+    "serverId" : 4526,
+    "x" : 416,
+    "y" : 426,
+    "uid" : "9866644132270",
+    "username" : "Adrian89",
+    "level" : 67,
+    "allianceId" : "500496715",
+    "allianceTag" : "[ENX",
+    "pointId" : 218321,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4806771509716802565",
+      "players" : [ {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":68,\"gender\":0,\"avatarurl\":\"hero_icon174_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"Carolina\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"hero_icon009_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Ted9871\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon334_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"MjrSpud\"}"
+      }, {
+        "frameId" : 165,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon014_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"マル\"}"
+      } ],
+      "num" : 24,
+      "endTimeMilli" : 1787333308353
+    },
+    "cityRewardSeenAt" : "2026-08-21T17:03:15.933Z",
+    "foundAt" : "2026-08-21T17:03:15.933Z"
   } ]
 }
