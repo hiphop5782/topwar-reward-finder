@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T06:29:53.473165800Z",
-  "count" : 13,
+  "updatedAt" : "2026-08-21T06:31:53.193602100Z",
+  "count" : 14,
   "locations" : [ {
     "serverId" : 73,
     "x" : 106,
@@ -21,6 +21,37 @@
     },
     "cityRewardSeenAt" : "2026-08-21T06:02:42.138Z",
     "foundAt" : "2026-08-21T06:02:42.138Z"
+  }, {
+    "serverId" : 850,
+    "x" : 396,
+    "y" : 712,
+    "uid" : "323747607294",
+    "username" : "GRINCH",
+    "level" : 100,
+    "allianceId" : "200035788",
+    "allianceTag" : "bsks",
+    "pointId" : 364743,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4806128712544592903",
+      "players" : [ {
+        "frameId" : 114,
+        "playerInfo" : "{\"nationalflag\":12,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/384115324014.jpg?v=1697743890191\",\"username\":\"Buckaroo\"}"
+      }, {
+        "frameId" : 8,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/334319014722.jpg?v=1723915655761\",\"https://knight-cdn.akamaized.net/headimg/b432441ac35d12a1cb8e4f53b23b0ff4_1764535429.png?v=1764535432102\"],\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/334319014722.jpg?v=1723915655761\",\"username\":\"Blue72\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":10,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/169706b4eef1e60dd4cbed187453a9c1_1737734404.jpg?v=1737734406443\",\"username\":\"Calibre\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/396562203877.jpg?v=1723923636238\",\"username\":\"Superbee\"}"
+      } ],
+      "num" : 10,
+      "endTimeMilli" : 1787294994656
+    },
+    "cityRewardSeenAt" : "2026-08-21T06:30:55.694Z",
+    "foundAt" : "2026-08-21T06:30:55.694Z"
   }, {
     "serverId" : 3324,
     "x" : 456,
