@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T04:52:28.189675100Z",
-  "count" : 5,
+  "updatedAt" : "2026-08-21T04:53:54.432149Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 2275,
     "x" : 346,
@@ -21,6 +21,31 @@
     },
     "cityRewardSeenAt" : "2026-08-21T04:40:17.840Z",
     "foundAt" : "2026-08-21T04:40:17.840Z"
+  }, {
+    "serverId" : 2341,
+    "x" : 435,
+    "y" : 667,
+    "uid" : "349932110746",
+    "username" : "A1🦐",
+    "level" : 100,
+    "allianceId" : "500143711",
+    "allianceTag" : "YkYk",
+    "pointId" : 341722,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4806020137248508417",
+      "players" : [ {
+        "frameId" : 49,
+        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"hero_icon160_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"HAVOC🐼\"}"
+      }, {
+        "frameId" : 3,
+        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/387898721178.jpg?v=1723948753992\",\"username\":\"Meggie\"}"
+      } ],
+      "num" : 5,
+      "endTimeMilli" : 1787288523064
+    },
+    "cityRewardSeenAt" : "2026-08-21T04:52:53.703Z",
+    "foundAt" : "2026-08-21T04:52:53.703Z"
   }, {
     "serverId" : 2699,
     "x" : 401,
