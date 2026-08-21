@@ -1,8 +1,39 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T05:17:53.535769Z",
-  "count" : 10,
+  "updatedAt" : "2026-08-21T05:19:55.389669700Z",
+  "count" : 11,
   "locations" : [ {
+    "serverId" : 811,
+    "x" : 422,
+    "y" : 534,
+    "uid" : "515960533803",
+    "username" : "lam",
+    "level" : 100,
+    "allianceId" : "458030",
+    "allianceTag" : "SWag",
+    "pointId" : 273620,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4806057096414385666",
+      "players" : [ {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon231_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Oscars\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon231_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Papa\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon231_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Kilo\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon231_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Lima\"}"
+      } ],
+      "num" : 30,
+      "endTimeMilli" : 1787290726002
+    },
+    "cityRewardSeenAt" : "2026-08-21T05:19:00.033Z",
+    "foundAt" : "2026-08-21T05:19:00.033Z"
+  }, {
     "serverId" : 1083,
     "x" : 402,
     "y" : 424,
