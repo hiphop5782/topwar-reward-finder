@@ -1,38 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-21T06:02:47.138356900Z",
+  "updatedAt" : "2026-08-21T06:04:58.956832100Z",
   "count" : 10,
   "locations" : [ {
-    "serverId" : 811,
-    "x" : 422,
-    "y" : 534,
-    "uid" : "515960533803",
-    "username" : "lam",
+    "serverId" : 73,
+    "x" : 106,
+    "y" : 454,
+    "uid" : "591036813414",
+    "username" : "別所",
     "level" : 100,
-    "allianceId" : "458030",
-    "allianceTag" : "SWag",
-    "pointId" : 273620,
+    "allianceId" : "32200",
+    "allianceTag" : "y-ma",
+    "pointId" : 232502,
     "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4806057096414385666",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon001_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"username\":\"はな\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/541967553488.jpg?v=1724319003989\",\"username\":\"陌上飄塵\"}"
-      }, {
-        "frameId" : 159,
-        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/516201878315.jpg?v=1636337529728\",\"username\":\"小雨\"}"
-      }, {
-        "frameId" : 1,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/316c20de946257a8fd5c21adbe707078_1782584882.png?v=1782584883854\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/316c20de946257a8fd5c21adbe707078_1782584882.png?v=1782584883854\",\"username\":\"乂煞氣a狂哥乂\"}"
-      } ],
-      "num" : 36,
-      "endTimeMilli" : 1787290726002
+      "itemId" : 260617002,
+      "instanceId" : "4806109105464840708",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1787293825983
     },
-    "cityRewardSeenAt" : "2026-08-21T05:29:09.120Z",
-    "foundAt" : "2026-08-21T05:29:09.120Z"
+    "cityRewardSeenAt" : "2026-08-21T06:02:42.138Z",
+    "foundAt" : "2026-08-21T06:02:42.138Z"
   }, {
     "serverId" : 2655,
     "x" : 415,
@@ -116,25 +104,6 @@
     "cityRewardSeenAt" : "2026-08-21T05:56:54.685Z",
     "foundAt" : "2026-08-21T05:56:54.685Z"
   }, {
-    "serverId" : 4208,
-    "x" : 367,
-    "y" : 363,
-    "uid" : "9230193922160",
-    "username" : "Nirvana",
-    "level" : 100,
-    "allianceId" : "500418355",
-    "allianceTag" : "C_08",
-    "pointId" : 186040,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4806071049221365766",
-      "players" : [ ],
-      "num" : 4,
-      "endTimeMilli" : 1787291557654
-    },
-    "cityRewardSeenAt" : "2026-08-21T05:28:29.893Z",
-    "foundAt" : "2026-08-21T05:28:29.893Z"
-  }, {
     "serverId" : 4210,
     "x" : 389,
     "y" : 299,
@@ -191,6 +160,25 @@
     },
     "cityRewardSeenAt" : "2026-08-21T05:35:51.278Z",
     "foundAt" : "2026-08-21T05:35:51.278Z"
+  }, {
+    "serverId" : 4406,
+    "x" : 415,
+    "y" : 329,
+    "uid" : "9563344081206",
+    "username" : "Cyclonic",
+    "level" : 100,
+    "allianceId" : "500455643",
+    "allianceTag" : "+ST+",
+    "pointId" : 168656,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4806100058403662849",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1787293286736
+    },
+    "cityRewardSeenAt" : "2026-08-21T06:03:31.345Z",
+    "foundAt" : "2026-08-21T06:03:31.345Z"
   }, {
     "serverId" : 4495,
     "x" : 423,
