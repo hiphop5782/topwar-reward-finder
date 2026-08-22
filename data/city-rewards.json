@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-22T23:19:31.231782500Z",
+  "updatedAt" : "2026-08-22T23:21:59.738339200Z",
   "count" : 13,
   "locations" : [ {
     "serverId" : 1313,
@@ -21,25 +21,6 @@
     },
     "cityRewardSeenAt" : "2026-08-22T22:58:41.996Z",
     "foundAt" : "2026-08-22T22:58:41.996Z"
-  }, {
-    "serverId" : 1444,
-    "x" : 428,
-    "y" : 264,
-    "uid" : "525322929837",
-    "username" : "バイクおやじ",
-    "level" : 100,
-    "allianceId" : "720954",
-    "allianceTag" : "k1N9",
-    "pointId" : 135383,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4808568578473936898",
-      "players" : [ ],
-      "num" : 3,
-      "endTimeMilli" : 1787440421998
-    },
-    "cityRewardSeenAt" : "2026-08-22T22:45:00.090Z",
-    "foundAt" : "2026-08-22T22:45:00.090Z"
   }, {
     "serverId" : 2197,
     "x" : 422,
@@ -245,42 +226,67 @@
     "cityRewardSeenAt" : "2026-08-22T23:10:59.015Z",
     "foundAt" : "2026-08-22T23:10:59.015Z"
   }, {
-    "serverId" : 3538,
-    "x" : 417,
-    "y" : 435,
-    "uid" : "913820494458",
-    "username" : "찌니_cozy",
+    "serverId" : 3506,
+    "x" : 402,
+    "y" : 620,
+    "uid" : "856058681698",
+    "username" : "구기³⁵⁰⁶",
     "level" : 100,
-    "allianceId" : "500355157",
-    "allianceTag" : "ESM_",
-    "pointId" : 222929,
+    "allianceId" : "500345480",
+    "allianceTag" : "S0NE",
+    "pointId" : 317642,
     "cityReward" : {
       "itemId" : 260617004,
-      "instanceId" : "4808561148215141377",
+      "instanceId" : "4808601067520222213",
       "players" : [ ],
-      "num" : 4,
-      "endTimeMilli" : 1787439979120
+      "num" : 30,
+      "endTimeMilli" : 1787442358496
     },
-    "cityRewardSeenAt" : "2026-08-22T22:44:42.912Z",
-    "foundAt" : "2026-08-22T22:44:42.912Z"
+    "cityRewardSeenAt" : "2026-08-22T23:20:10.737Z",
+    "foundAt" : "2026-08-22T23:20:10.737Z"
   }, {
-    "serverId" : 3538,
-    "x" : 419,
-    "y" : 437,
-    "uid" : "933991975663",
-    "username" : "민즈",
+    "serverId" : 3506,
+    "x" : 408,
+    "y" : 622,
+    "uid" : "924097399468",
+    "username" : "진인사대천명",
     "level" : 100,
-    "allianceId" : "500355157",
-    "allianceTag" : "ESM_",
-    "pointId" : 223954,
+    "allianceId" : "500345480",
+    "allianceTag" : "S0NE",
+    "pointId" : 318669,
     "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4808543134602208264",
+      "itemId" : 260617003,
+      "instanceId" : "4808600391935288328",
       "players" : [ ],
-      "num" : 7,
-      "endTimeMilli" : 1787438905425
+      "num" : 34,
+      "endTimeMilli" : 1787442318228
     },
-    "cityRewardSeenAt" : "2026-08-22T22:44:42.912Z",
-    "foundAt" : "2026-08-22T22:44:42.912Z"
+    "cityRewardSeenAt" : "2026-08-22T23:20:10.737Z",
+    "foundAt" : "2026-08-22T23:20:10.737Z"
+  }, {
+    "serverId" : 4243,
+    "x" : 366,
+    "y" : 342,
+    "uid" : "9269594394771",
+    "username" : "Play",
+    "level" : 100,
+    "allianceId" : "500422745",
+    "allianceTag" : "cATS",
+    "pointId" : 175288,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4808584851083044356",
+      "players" : [ {
+        "frameId" : 20,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/1ee2b7106e54edf422f9a8e1e6ab3b90_1765858298.png?v=1765858299787\"],\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/1ee2b7106e54edf422f9a8e1e6ab3b90_1765858298.png?v=1765858299787\",\"username\":\"Badger\"}"
+      }, {
+        "frameId" : 100,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/7554591820604.jpg?v=1687740748666\",\"username\":\"愛音樂的穹頂\"}"
+      } ],
+      "num" : 9,
+      "endTimeMilli" : 1787441391921
+    },
+    "cityRewardSeenAt" : "2026-08-22T23:20:24.221Z",
+    "foundAt" : "2026-08-22T23:20:24.221Z"
   } ]
 }
