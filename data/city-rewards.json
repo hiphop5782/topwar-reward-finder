@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-22T16:53:16.369866500Z",
-  "count" : 65,
+  "updatedAt" : "2026-08-22T16:54:24.778374500Z",
+  "count" : 66,
   "locations" : [ {
     "serverId" : 216,
     "x" : 406,
@@ -902,6 +902,47 @@
     "cityRewardSeenAt" : "2026-08-22T16:25:20.882Z",
     "foundAt" : "2026-08-22T16:25:20.882Z"
   }, {
+    "serverId" : 3824,
+    "x" : 344,
+    "y" : 470,
+    "uid" : "8795681558256",
+    "username" : "Hankhill",
+    "level" : 100,
+    "allianceId" : "500378757",
+    "allianceTag" : "dbmn",
+    "pointId" : 240813,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4808189955717062656",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/f24d57ab5af2af775fda0505c070630f_1738826076.jpg?v=1738826077286\",\"https://knight-cdn.akamaized.net/headimg/f24d57ab5af2af775fda0505c070630f_1748530361.jpg?v=1748530362426\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/f24d57ab5af2af775fda0505c070630f_1748530361.jpg?v=1748530362426\",\"username\":\"Nichie\"}"
+      } ],
+      "num" : 30,
+      "endTimeMilli" : 1787417854323
+    },
+    "cityRewardSeenAt" : "2026-08-22T16:52:57.320Z",
+    "foundAt" : "2026-08-22T16:52:57.320Z"
+  }, {
+    "serverId" : 3824,
+    "x" : 354,
+    "y" : 488,
+    "uid" : "8793273241328",
+    "username" : "Nichie",
+    "level" : 100,
+    "allianceId" : "500378757",
+    "allianceTag" : "dbmn",
+    "pointId" : 250034,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4808190975939567622",
+      "players" : [ ],
+      "num" : 91,
+      "endTimeMilli" : 1787417915133
+    },
+    "cityRewardSeenAt" : "2026-08-22T16:52:57.320Z",
+    "foundAt" : "2026-08-22T16:52:57.320Z"
+  }, {
     "serverId" : 3939,
     "x" : 387,
     "y" : 447,
@@ -1083,25 +1124,6 @@
     },
     "cityRewardSeenAt" : "2026-08-22T16:36:00.050Z",
     "foundAt" : "2026-08-22T16:36:00.050Z"
-  }, {
-    "serverId" : 4320,
-    "x" : 428,
-    "y" : 634,
-    "uid" : "9553302294752",
-    "username" : "TOON2",
-    "level" : 87,
-    "allianceId" : "500436614",
-    "allianceTag" : "WBC.",
-    "pointId" : 324823,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4808169448590655491",
-      "players" : [ ],
-      "num" : 38,
-      "endTimeMilli" : 1787416632003
-    },
-    "cityRewardSeenAt" : "2026-08-22T16:18:38.244Z",
-    "foundAt" : "2026-08-22T16:18:38.244Z"
   }, {
     "serverId" : 4346,
     "x" : 404,
