@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-22T23:00:51.535627300Z",
-  "count" : 12,
+  "updatedAt" : "2026-08-22T23:02:25.771072700Z",
+  "count" : 13,
   "locations" : [ {
     "serverId" : 1313,
     "x" : 254,
@@ -153,25 +153,6 @@
     "cityRewardSeenAt" : "2026-08-22T22:45:00.090Z",
     "foundAt" : "2026-08-22T22:45:00.090Z"
   }, {
-    "serverId" : 2014,
-    "x" : 429,
-    "y" : 293,
-    "uid" : "585716700845",
-    "username" : "Batosai",
-    "level" : 100,
-    "allianceId" : "400174563",
-    "allianceTag" : "U214",
-    "pointId" : 150231,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4808541860959075328",
-      "players" : [ ],
-      "num" : 11,
-      "endTimeMilli" : 1787438829510
-    },
-    "cityRewardSeenAt" : "2026-08-22T22:27:21.653Z",
-    "foundAt" : "2026-08-22T22:27:21.653Z"
-  }, {
     "serverId" : 2197,
     "x" : 422,
     "y" : 526,
@@ -199,6 +180,56 @@
     },
     "cityRewardSeenAt" : "2026-08-22T22:50:20.235Z",
     "foundAt" : "2026-08-22T22:50:20.235Z"
+  }, {
+    "serverId" : 2263,
+    "x" : 396,
+    "y" : 614,
+    "uid" : "936053840641",
+    "username" : "ウヴォーギン",
+    "level" : 100,
+    "allianceId" : "400336372",
+    "allianceTag" : "GT63",
+    "pointId" : 314567,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4808581160715267585",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1787441171958
+    },
+    "cityRewardSeenAt" : "2026-08-22T23:00:40.489Z",
+    "foundAt" : "2026-08-22T23:00:40.489Z"
+  }, {
+    "serverId" : 2263,
+    "x" : 410,
+    "y" : 596,
+    "uid" : "637687657873",
+    "username" : "Barclay",
+    "level" : 100,
+    "allianceId" : "400336372",
+    "allianceTag" : "GT63",
+    "pointId" : 305358,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4808581515100401152",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/914264636025.jpg?v=1723984133410\",\"username\":\"Deadpool\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon124_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"よしべぇ\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/ab2a9aa870b33671dfeefabeed4d0a29_1725899837.jpg?v=1725899837695\",\"username\":\"ウヴォーギン\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/0224e9ffa181a661ae1dde0ab466f180_1733663239.jpg?v=1733663239214\",\"https://knight-cdn.akamaized.net/headimg/0224e9ffa181a661ae1dde0ab466f180_1746970354.jpg?v=1746970355625\",\"https://knight-cdn.akamaized.net/headimg/0224e9ffa181a661ae1dde0ab466f180_1746444183.jpg?v=1746444189153\",\"https://knight-cdn.akamaized.net/headimg/0224e9ffa181a661ae1dde0ab466f180_1786538878.png?v=1786538879144\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/0224e9ffa181a661ae1dde0ab466f180_1786538878.png?v=1786538879144\",\"username\":\"磯自慢☆iso\"}"
+      } ],
+      "num" : 7,
+      "endTimeMilli" : 1787441193081
+    },
+    "cityRewardSeenAt" : "2026-08-22T23:00:28.190Z",
+    "foundAt" : "2026-08-22T23:00:28.190Z"
   }, {
     "serverId" : 2344,
     "x" : 425,
