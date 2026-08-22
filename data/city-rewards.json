@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-22T18:03:59.181958500Z",
-  "count" : 28,
+  "updatedAt" : "2026-08-22T18:04:40.963306800Z",
+  "count" : 29,
   "locations" : [ {
     "serverId" : 502,
     "x" : 446,
@@ -627,5 +627,30 @@
     },
     "cityRewardSeenAt" : "2026-08-22T17:52:04.224Z",
     "foundAt" : "2026-08-22T17:52:04.224Z"
+  }, {
+    "serverId" : 4457,
+    "x" : 478,
+    "y" : 758,
+    "uid" : "9698947600745",
+    "username" : "malec",
+    "level" : 80,
+    "allianceId" : "500474148",
+    "allianceTag" : "w'5b",
+    "pointId" : 388336,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4808258461183955461",
+      "players" : [ {
+        "frameId" : 20,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"hero_icon001_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"Amazone\"}"
+      }, {
+        "frameId" : 168,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"hero_icon172_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"malec\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1787421937567
+    },
+    "cityRewardSeenAt" : "2026-08-22T18:04:01.567Z",
+    "foundAt" : "2026-08-22T18:04:01.567Z"
   } ]
 }
