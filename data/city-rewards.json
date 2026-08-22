@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-22T19:37:57.650432Z",
-  "count" : 9,
+  "updatedAt" : "2026-08-22T19:39:45.902407100Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 736,
     "x" : 393,
@@ -52,6 +52,37 @@
     },
     "cityRewardSeenAt" : "2026-08-22T19:22:27.379Z",
     "foundAt" : "2026-08-22T19:22:27.379Z"
+  }, {
+    "serverId" : 819,
+    "x" : 355,
+    "y" : 481,
+    "uid" : "356142416829",
+    "username" : "Sunbeam",
+    "level" : 100,
+    "allianceId" : "200073953",
+    "allianceTag" : "GeFI",
+    "pointId" : 246450,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4808355840220620289",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/358706230219.jpg?v=1722779977154\",\"https://knight-cdn.akamaized.net/headimg/2d0eb946f55da480389de6dc84e436ee_1773526648.png?v=1773526651197\",\"https://knight-cdn.akamaized.net/headimg/2d0eb946f55da480389de6dc84e436ee_1780300578.png?v=1780300580808\"],\"nationalflag\":75,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/2d0eb946f55da480389de6dc84e436ee_1780300578.png?v=1780300580808\",\"username\":\"Manu\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":56,\"gender\":0,\"avatarurl\":\"hero_icon1209_KASTUKAMI_1_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"Mirda007\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/357299876800.jpg?v=1618137666372\",\"username\":\"Jan🍀\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":191,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/356626924477.jpg?v=1666026076848\",\"username\":\"Anton75\"}"
+      } ],
+      "num" : 12,
+      "endTimeMilli" : 1787427741810
+    },
+    "cityRewardSeenAt" : "2026-08-22T19:37:01.161Z",
+    "foundAt" : "2026-08-22T19:37:01.161Z"
   }, {
     "serverId" : 1173,
     "x" : 424,
