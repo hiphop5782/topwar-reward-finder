@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-22T18:11:59.140159800Z",
-  "count" : 31,
+  "updatedAt" : "2026-08-22T18:13:52.422348400Z",
+  "count" : 32,
   "locations" : [ {
     "serverId" : 341,
     "x" : 422,
@@ -618,6 +618,37 @@
     },
     "cityRewardSeenAt" : "2026-08-22T17:41:18.538Z",
     "foundAt" : "2026-08-22T17:41:18.538Z"
+  }, {
+    "serverId" : 4349,
+    "x" : 418,
+    "y" : 622,
+    "uid" : "9436161020155",
+    "username" : "KBS",
+    "level" : 100,
+    "allianceId" : "500442518",
+    "allianceTag" : "FoW-",
+    "pointId" : 318674,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4808265377171765763",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/e484008bb279d01067794c5f9137d7f8_1758768907.jpg?v=1758768909235\",\"https://knight-cdn.akamaized.net/headimg/e484008bb279d01067794c5f9137d7f8_1771629322.png?v=1771629324327\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/e484008bb279d01067794c5f9137d7f8_1758768907.jpg?v=1758768909235\",\"username\":\"Spartan\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/78f4b3c238985357fa55084e5af051b2_1780181072.png?v=1780181074505\"],\"nationalflag\":166,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/78f4b3c238985357fa55084e5af051b2_1780181072.png?v=1780181074505\",\"username\":\"Gameover\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":65,\"gender\":0,\"avatarurl\":\"icon_alb_female_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Dahaa800\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon213_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"MrTaw\"}"
+      } ],
+      "num" : 27,
+      "endTimeMilli" : 1787422349792
+    },
+    "cityRewardSeenAt" : "2026-08-22T18:12:13.584Z",
+    "foundAt" : "2026-08-22T18:12:13.584Z"
   }, {
     "serverId" : 4369,
     "x" : 350,
