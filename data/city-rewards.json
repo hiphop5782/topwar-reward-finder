@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-22T22:56:37.916784300Z",
+  "updatedAt" : "2026-08-22T22:58:22.318933600Z",
   "count" : 11,
   "locations" : [ {
     "serverId" : 1397,
@@ -181,6 +181,25 @@
     "cityRewardSeenAt" : "2026-08-22T22:50:20.235Z",
     "foundAt" : "2026-08-22T22:50:20.235Z"
   }, {
+    "serverId" : 2344,
+    "x" : 425,
+    "y" : 315,
+    "uid" : "867906312617",
+    "username" : "Scythe",
+    "level" : 100,
+    "allianceId" : "500190541",
+    "allianceTag" : "s344",
+    "pointId" : 161493,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4808568734754164745",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1787440431313
+    },
+    "cityRewardSeenAt" : "2026-08-22T22:55:48.485Z",
+    "foundAt" : "2026-08-22T22:55:48.485Z"
+  }, {
     "serverId" : 3538,
     "x" : 417,
     "y" : 435,
@@ -218,25 +237,6 @@
     },
     "cityRewardSeenAt" : "2026-08-22T22:44:42.912Z",
     "foundAt" : "2026-08-22T22:44:42.912Z"
-  }, {
-    "serverId" : 3715,
-    "x" : 418,
-    "y" : 320,
-    "uid" : "8611602206339",
-    "username" : "ドフィー",
-    "level" : 83,
-    "allianceId" : "500370748",
-    "allianceTag" : "3,71",
-    "pointId" : 164050,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4808537596292302336",
-      "players" : [ ],
-      "num" : 6,
-      "endTimeMilli" : 1787438575316
-    },
-    "cityRewardSeenAt" : "2026-08-22T22:22:54.929Z",
-    "foundAt" : "2026-08-22T22:22:54.929Z"
   }, {
     "serverId" : 4343,
     "x" : 360,
