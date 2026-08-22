@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-22T20:58:50.071108Z",
-  "count" : 6,
+  "updatedAt" : "2026-08-22T21:00:43.934157800Z",
+  "count" : 8,
   "locations" : [ {
     "serverId" : 188,
     "x" : 539,
@@ -78,6 +78,53 @@
     },
     "cityRewardSeenAt" : "2026-08-22T20:44:59.595Z",
     "foundAt" : "2026-08-22T20:44:59.595Z"
+  }, {
+    "serverId" : 3545,
+    "x" : 412,
+    "y" : 534,
+    "uid" : "8406500576729",
+    "username" : "Fred",
+    "level" : 100,
+    "allianceId" : "500357121",
+    "allianceTag" : "ELyU",
+    "pointId" : 273615,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4808452900342444550",
+      "players" : [ {
+        "frameId" : 8,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Jason\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Fred\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1787433527044
+    },
+    "cityRewardSeenAt" : "2026-08-22T20:59:24.599Z",
+    "foundAt" : "2026-08-22T20:59:24.599Z"
+  }, {
+    "serverId" : 3722,
+    "x" : 356,
+    "y" : 478,
+    "uid" : "392990102745",
+    "username" : "Skinny",
+    "level" : 100,
+    "allianceId" : "500371335",
+    "allianceTag" : "ROd",
+    "pointId" : 244915,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4808461405300528132",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/392990102745.jpg?v=1701397095018\",\"username\":\"Skinny\"}"
+      } ],
+      "num" : 1,
+      "endTimeMilli" : 1787434033979
+    },
+    "cityRewardSeenAt" : "2026-08-22T20:59:00.693Z",
+    "foundAt" : "2026-08-22T20:59:00.693Z"
   }, {
     "serverId" : 3822,
     "x" : 411,
