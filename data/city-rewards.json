@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-22T15:53:58.347430200Z",
-  "count" : 14,
+  "updatedAt" : "2026-08-22T15:55:52.911618200Z",
+  "count" : 16,
   "locations" : [ {
     "serverId" : 73,
     "x" : 413,
@@ -337,5 +337,43 @@
     },
     "cityRewardSeenAt" : "2026-08-22T15:40:03.778Z",
     "foundAt" : "2026-08-22T15:40:03.778Z"
+  }, {
+    "serverId" : 4283,
+    "x" : 417,
+    "y" : 407,
+    "uid" : "917387704961",
+    "username" : "Macaron",
+    "level" : 100,
+    "allianceId" : "500428679",
+    "allianceTag" : "AmD",
+    "pointId" : 208593,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4808153594910045702",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1787415687050
+    },
+    "cityRewardSeenAt" : "2026-08-22T15:53:18.462Z",
+    "foundAt" : "2026-08-22T15:53:18.462Z"
+  }, {
+    "serverId" : 4283,
+    "x" : 419,
+    "y" : 413,
+    "uid" : "8319464115651",
+    "username" : "修Show",
+    "level" : 100,
+    "allianceId" : "500428679",
+    "allianceTag" : "AmD",
+    "pointId" : 211666,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4808148768994194946",
+      "players" : [ ],
+      "num" : 17,
+      "endTimeMilli" : 1787415399403
+    },
+    "cityRewardSeenAt" : "2026-08-22T15:53:18.462Z",
+    "foundAt" : "2026-08-22T15:53:18.462Z"
   } ]
 }
