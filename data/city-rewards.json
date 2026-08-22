@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-22T20:32:34.760684300Z",
-  "count" : 15,
+  "updatedAt" : "2026-08-22T20:34:28.448823400Z",
+  "count" : 16,
   "locations" : [ {
     "serverId" : 738,
     "x" : 386,
@@ -197,6 +197,37 @@
     },
     "cityRewardSeenAt" : "2026-08-22T20:23:06.131Z",
     "foundAt" : "2026-08-22T20:23:06.131Z"
+  }, {
+    "serverId" : 3822,
+    "x" : 411,
+    "y" : 607,
+    "uid" : "8783251672814",
+    "username" : "Paladin",
+    "level" : 100,
+    "allianceId" : "500378104",
+    "allianceTag" : "IOV!",
+    "pointId" : 310990,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4808434502766287881",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"hero_icon001_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"ちぃ～\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/893888576037.jpg?v=1722030952872\",\"https://knight-cdn.akamaized.net/headimg/e746e7c1f456d292770358b5a90244c8_1777177899.png?v=1777177900687\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/e746e7c1f456d292770358b5a90244c8_1777177899.png?v=1777177900687\",\"username\":\"Gai6🎵\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon170_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Wilmer\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d08b05413fa7e9bea96d1bc50eac87b8_1779533620.png?v=1779533623059\",\"https://knight-cdn.akamaized.net/headimg/d08b05413fa7e9bea96d1bc50eac87b8_1779627679.png?v=1779627681068\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d08b05413fa7e9bea96d1bc50eac87b8_1779627679.png?v=1779627681068\",\"username\":\"Paladin\"}"
+      } ],
+      "num" : 4,
+      "endTimeMilli" : 1787432430463
+    },
+    "cityRewardSeenAt" : "2026-08-22T20:33:35.057Z",
+    "foundAt" : "2026-08-22T20:33:35.057Z"
   }, {
     "serverId" : 3882,
     "x" : 417,
