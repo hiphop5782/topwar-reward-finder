@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T13:24:55.635149600Z",
-  "count" : 26,
+  "updatedAt" : "2026-08-23T13:26:59.706157Z",
+  "count" : 24,
   "locations" : [ {
     "serverId" : 200,
     "x" : 226,
@@ -41,25 +41,6 @@
     "cityRewardSeenAt" : "2026-08-23T12:59:27.032Z",
     "foundAt" : "2026-08-23T12:59:27.032Z"
   }, {
-    "serverId" : 466,
-    "x" : 551,
-    "y" : 311,
-    "uid" : "304387371487",
-    "username" : "吉法師",
-    "level" : 100,
-    "allianceId" : "100035482",
-    "allianceTag" : "PEC.",
-    "pointId" : 159508,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4809417866866828293",
-      "players" : [ ],
-      "num" : 6,
-      "endTimeMilli" : 1787491043531
-    },
-    "cityRewardSeenAt" : "2026-08-23T12:51:36.650Z",
-    "foundAt" : "2026-08-23T12:51:36.650Z"
-  }, {
     "serverId" : 607,
     "x" : 489,
     "y" : 669,
@@ -78,47 +59,6 @@
     },
     "cityRewardSeenAt" : "2026-08-23T13:06:29.746Z",
     "foundAt" : "2026-08-23T13:06:29.746Z"
-  }, {
-    "serverId" : 1389,
-    "x" : 269,
-    "y" : 493,
-    "uid" : "629313172845",
-    "username" : "魯迅",
-    "level" : 100,
-    "allianceId" : "714210",
-    "allianceTag" : "TUBU",
-    "pointId" : 252551,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4809417943941831177",
-      "players" : [ ],
-      "num" : 21,
-      "endTimeMilli" : 1787491048125
-    },
-    "cityRewardSeenAt" : "2026-08-23T12:51:19.001Z",
-    "foundAt" : "2026-08-23T12:51:19.001Z"
-  }, {
-    "serverId" : 1389,
-    "x" : 418,
-    "y" : 612,
-    "uid" : "633058039163",
-    "username" : "Mustapha",
-    "level" : 100,
-    "allianceId" : "717185",
-    "allianceTag" : "TAMB",
-    "pointId" : 313554,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4809403931409701379",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/07f1610db3a5a7de908f29f1e9566d69_1745244524.jpg?v=1745244525144\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/07f1610db3a5a7de908f29f1e9566d69_1745244524.jpg?v=1745244525144\",\"username\":\"拳四朗\"}"
-      } ],
-      "num" : 38,
-      "endTimeMilli" : 1787490212913
-    },
-    "cityRewardSeenAt" : "2026-08-23T12:51:46.382Z",
-    "foundAt" : "2026-08-23T12:51:46.382Z"
   }, {
     "serverId" : 1733,
     "x" : 395,
@@ -521,6 +461,37 @@
     },
     "cityRewardSeenAt" : "2026-08-23T13:10:33.997Z",
     "foundAt" : "2026-08-23T13:10:33.997Z"
+  }, {
+    "serverId" : 4359,
+    "x" : 426,
+    "y" : 652,
+    "uid" : "9475664515335",
+    "username" : "Tauro",
+    "level" : 100,
+    "allianceId" : "500445157",
+    "allianceTag" : "7DS^",
+    "pointId" : 334038,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4809447691423714822",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"COBRA76\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/902046284345.jpg?v=1688565187410\",\"username\":\"狂草\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/6219514f6efafd81addd2a084bb7feb2_1780718597.png?v=1780718598136\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/6219514f6efafd81addd2a084bb7feb2_1780718597.png?v=1780718598136\",\"username\":\"アプリコ\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/931580508895.jpg?v=1683004755201\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/931580508895.jpg?v=1683004755201\",\"username\":\"白起Mutter\"}"
+      } ],
+      "num" : 6,
+      "endTimeMilli" : 1787492821213
+    },
+    "cityRewardSeenAt" : "2026-08-23T13:26:09.586Z",
+    "foundAt" : "2026-08-23T13:26:09.586Z"
   }, {
     "serverId" : 4394,
     "x" : 406,
