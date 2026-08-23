@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T14:47:45.412043800Z",
-  "count" : 14,
+  "updatedAt" : "2026-08-23T14:49:22.486421700Z",
+  "count" : 13,
   "locations" : [ {
     "serverId" : 262,
     "x" : 446,
@@ -21,6 +21,31 @@
     },
     "cityRewardSeenAt" : "2026-08-23T14:34:52.181Z",
     "foundAt" : "2026-08-23T14:34:52.181Z"
+  }, {
+    "serverId" : 593,
+    "x" : 485,
+    "y" : 405,
+    "uid" : "436689416810",
+    "username" : "龍Dragon",
+    "level" : 100,
+    "allianceId" : "581470",
+    "allianceTag" : "EdeN",
+    "pointId" : 207603,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4809534053852422665",
+      "players" : [ {
+        "frameId" : 3,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon118\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"G58改\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/436689416810.jpg?v=1620546692798\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/436689416810.jpg?v=1620546692798\",\"username\":\"龍Dragon\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1787497968815
+    },
+    "cityRewardSeenAt" : "2026-08-23T14:47:35.537Z",
+    "foundAt" : "2026-08-23T14:47:35.537Z"
   }, {
     "serverId" : 761,
     "x" : 642,
@@ -128,50 +153,6 @@
     },
     "cityRewardSeenAt" : "2026-08-23T14:25:39.532Z",
     "foundAt" : "2026-08-23T14:25:39.532Z"
-  }, {
-    "serverId" : 4022,
-    "x" : 365,
-    "y" : 451,
-    "uid" : "8964175400886",
-    "username" : "❤️🧡美羊羊",
-    "level" : 100,
-    "allianceId" : "500388095",
-    "allianceTag" : "THR~",
-    "pointId" : 231095,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4809487869097765892",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/9d4e666f13017355bf3bfb0ba17df441_1775914111.png?v=1775914113155\",\"https://knight-cdn.akamaized.net/headimg/9d4e666f13017355bf3bfb0ba17df441_1778847862.png?v=1778847863786\"],\"nationalflag\":166,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/9d4e666f13017355bf3bfb0ba17df441_1778847862.png?v=1778847863786\",\"username\":\"Totalwar\"}"
-      } ],
-      "num" : 9,
-      "endTimeMilli" : 1787495215989
-    },
-    "cityRewardSeenAt" : "2026-08-23T14:13:40.904Z",
-    "foundAt" : "2026-08-23T14:13:40.904Z"
-  }, {
-    "serverId" : 4022,
-    "x" : 422,
-    "y" : 662,
-    "uid" : "8965112401846",
-    "username" : "mightywo",
-    "level" : 90,
-    "allianceId" : "500388127",
-    "allianceTag" : "B4UC",
-    "pointId" : 339156,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4809504145127992321",
-      "players" : [ {
-        "frameId" : 164,
-        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"hero_icon022_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"mightywo\"}"
-      } ],
-      "num" : 1,
-      "endTimeMilli" : 1787496186116
-    },
-    "cityRewardSeenAt" : "2026-08-23T14:14:19.156Z",
-    "foundAt" : "2026-08-23T14:14:19.156Z"
   }, {
     "serverId" : 4108,
     "x" : 399,
