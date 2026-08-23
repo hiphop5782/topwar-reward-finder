@@ -1,8 +1,39 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T02:59:14.704706700Z",
-  "count" : 11,
+  "updatedAt" : "2026-08-23T03:01:43.071035400Z",
+  "count" : 14,
   "locations" : [ {
+    "serverId" : 2197,
+    "x" : 393,
+    "y" : 439,
+    "uid" : "812545362069",
+    "username" : "H2Odiver",
+    "level" : 100,
+    "allianceId" : "500103137",
+    "allianceTag" : "F4M!",
+    "pointId" : 224965,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4808821512386718210",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/a605679ea14dc71d010a066f1bcd6ebd_1764810719.png?v=1764810721531\",\"https://knight-cdn.akamaized.net/headimg/a605679ea14dc71d010a066f1bcd6ebd_1786095221.png?v=1786095222312\",\"https://knight-cdn.akamaized.net/headimg/a605679ea14dc71d010a066f1bcd6ebd_1784345286.png?v=1784345289268\",\"https://knight-cdn.akamaized.net/headimg/a605679ea14dc71d010a066f1bcd6ebd_1748077085.jpg?v=1748077086761\"],\"nationalflag\":101,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/a605679ea14dc71d010a066f1bcd6ebd_1748077085.jpg?v=1748077086761\",\"username\":\"Brave\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon002_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"Okinawa4\"}"
+      }, {
+        "frameId" : 48,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon156_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"BBR\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/397363926264.jpg?v=1683682917059\",\"username\":\"Jomama\"}"
+      } ],
+      "num" : 10,
+      "endTimeMilli" : 1787455498034
+    },
+    "cityRewardSeenAt" : "2026-08-23T02:59:28.310Z",
+    "foundAt" : "2026-08-23T02:59:28.310Z"
+  }, {
     "serverId" : 2263,
     "x" : 402,
     "y" : 600,
@@ -147,6 +178,44 @@
     },
     "cityRewardSeenAt" : "2026-08-23T02:39:42.543Z",
     "foundAt" : "2026-08-23T02:39:42.543Z"
+  }, {
+    "serverId" : 2365,
+    "x" : 357,
+    "y" : 449,
+    "uid" : "490302194648",
+    "username" : "RênGà",
+    "level" : 100,
+    "allianceId" : "400373334",
+    "allianceTag" : "VBRO",
+    "pointId" : 230067,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4808805467060075012",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1787454541658
+    },
+    "cityRewardSeenAt" : "2026-08-23T03:00:22.158Z",
+    "foundAt" : "2026-08-23T03:00:22.158Z"
+  }, {
+    "serverId" : 2365,
+    "x" : 377,
+    "y" : 447,
+    "uid" : "623416022360",
+    "username" : "vũ",
+    "level" : 100,
+    "allianceId" : "400373334",
+    "allianceTag" : "VBRO",
+    "pointId" : 229053,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4808809476395268611",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1787454780633
+    },
+    "cityRewardSeenAt" : "2026-08-23T03:00:22.158Z",
+    "foundAt" : "2026-08-23T03:00:22.158Z"
   }, {
     "serverId" : 3535,
     "x" : 396,
