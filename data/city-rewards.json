@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T02:22:33.018471Z",
-  "count" : 9,
+  "updatedAt" : "2026-08-23T02:24:59.509307Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 1096,
     "x" : 321,
@@ -209,5 +209,24 @@
     },
     "cityRewardSeenAt" : "2026-08-23T01:58:55.760Z",
     "foundAt" : "2026-08-23T01:58:55.760Z"
+  }, {
+    "serverId" : 3436,
+    "x" : 339,
+    "y" : 491,
+    "uid" : "503612937848",
+    "username" : "작은촛불🔥",
+    "level" : 100,
+    "allianceId" : "500336408",
+    "allianceTag" : "SVal",
+    "pointId" : 251562,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4808761628128106498",
+      "players" : [ ],
+      "num" : 52,
+      "endTimeMilli" : 1787451928654
+    },
+    "cityRewardSeenAt" : "2026-08-23T02:22:50.380Z",
+    "foundAt" : "2026-08-23T02:22:50.380Z"
   } ]
 }
