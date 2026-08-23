@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T08:21:02.028851400Z",
-  "count" : 2,
+  "updatedAt" : "2026-08-23T08:23:24.763426900Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 174,
     "x" : 153,
@@ -52,5 +52,36 @@
     },
     "cityRewardSeenAt" : "2026-08-23T07:59:45.744Z",
     "foundAt" : "2026-08-23T07:59:45.744Z"
+  }, {
+    "serverId" : 4422,
+    "x" : 415,
+    "y" : 679,
+    "uid" : "9607082938694",
+    "username" : "N💣ki",
+    "level" : 96,
+    "allianceId" : "500461968",
+    "allianceTag" : "TL.0",
+    "pointId" : 347856,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4809141639352323072",
+      "players" : [ {
+        "frameId" : 165,
+        "playerInfo" : "{\"nationalflag\":13,\"gender\":0,\"avatarurl\":\"hero_icon022_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"PlayForF\"}"
+      }, {
+        "frameId" : 160,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/013196ce9180cc74ee177f388bced9d9_1775152913.png?v=1775152913962\",\"https://knight-cdn.akamaized.net/headimg/013196ce9180cc74ee177f388bced9d9_1783016470.png?v=1783016471255\"],\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/013196ce9180cc74ee177f388bced9d9_1783016470.png?v=1783016471255\",\"username\":\"Lucas💣\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"icon_felman01_0\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"スランプ\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":23,\"gender\":0,\"avatarurl\":\"icon_alb_male_2\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Robb\"}"
+      } ],
+      "num" : 7,
+      "endTimeMilli" : 1787474579088
+    },
+    "cityRewardSeenAt" : "2026-08-23T08:22:43.824Z",
+    "foundAt" : "2026-08-23T08:22:43.824Z"
   } ]
 }
