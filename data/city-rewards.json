@@ -1,8 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T13:54:07.280348300Z",
-  "count" : 25,
+  "updatedAt" : "2026-08-23T13:54:44.295524Z",
+  "count" : 26,
   "locations" : [ {
+    "serverId" : 174,
+    "x" : 359,
+    "y" : 607,
+    "uid" : "177104105646",
+    "username" : "名もない鳥",
+    "level" : 100,
+    "allianceId" : "133830",
+    "allianceTag" : "prAV",
+    "pointId" : 310964,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4809456396548529159",
+      "players" : [ ],
+      "num" : 46,
+      "endTimeMilli" : 1787493340079
+    },
+    "cityRewardSeenAt" : "2026-08-23T13:53:49.376Z",
+    "foundAt" : "2026-08-23T13:53:49.376Z"
+  }, {
+    "serverId" : 174,
+    "x" : 509,
+    "y" : 297,
+    "uid" : "575455744174",
+    "username" : "カツオの分身",
+    "level" : 100,
+    "allianceId" : "114621",
+    "allianceTag" : "s:c",
+    "pointId" : 152319,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4809469673030638592",
+      "players" : [ ],
+      "num" : 27,
+      "endTimeMilli" : 1787494131419
+    },
+    "cityRewardSeenAt" : "2026-08-23T13:52:58.439Z",
+    "foundAt" : "2026-08-23T13:52:58.439Z"
+  }, {
     "serverId" : 513,
     "x" : 432,
     "y" : 314,
@@ -297,25 +335,6 @@
     },
     "cityRewardSeenAt" : "2026-08-23T13:31:19.834Z",
     "foundAt" : "2026-08-23T13:31:19.834Z"
-  }, {
-    "serverId" : 3396,
-    "x" : 412,
-    "y" : 552,
-    "uid" : "623466992984",
-    "username" : "나보기가",
-    "level" : 100,
-    "allianceId" : "500330742",
-    "allianceTag" : "96Y",
-    "pointId" : 282831,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4809444179398264835",
-      "players" : [ ],
-      "num" : 40,
-      "endTimeMilli" : 1787492611880
-    },
-    "cityRewardSeenAt" : "2026-08-23T13:19:14.082Z",
-    "foundAt" : "2026-08-23T13:19:14.082Z"
   }, {
     "serverId" : 3453,
     "x" : 296,
