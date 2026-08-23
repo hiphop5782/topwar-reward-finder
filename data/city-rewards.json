@@ -1,8 +1,68 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T10:38:03.849057100Z",
-  "count" : 7,
+  "updatedAt" : "2026-08-23T10:40:34.171911Z",
+  "count" : 10,
   "locations" : [ {
+    "serverId" : 864,
+    "x" : 441,
+    "y" : 323,
+    "uid" : "7675227931588",
+    "username" : "Blue2",
+    "level" : 100,
+    "allianceId" : "476339",
+    "allianceTag" : "Hcsc",
+    "pointId" : 165597,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4809279927449206793",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1787482821701
+    },
+    "cityRewardSeenAt" : "2026-08-23T10:38:01.145Z",
+    "foundAt" : "2026-08-23T10:38:01.145Z"
+  }, {
+    "serverId" : 864,
+    "x" : 443,
+    "y" : 323,
+    "uid" : "524697613152",
+    "username" : "Marco",
+    "level" : 100,
+    "allianceId" : "476339",
+    "allianceTag" : "Hcsc",
+    "pointId" : 165598,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4809280615315062789",
+      "players" : [ {
+        "frameId" : 20,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon136_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"藍精靈\"}"
+      } ],
+      "num" : 13,
+      "endTimeMilli" : 1787482862701
+    },
+    "cityRewardSeenAt" : "2026-08-23T10:38:01.145Z",
+    "foundAt" : "2026-08-23T10:38:01.145Z"
+  }, {
+    "serverId" : 1096,
+    "x" : 451,
+    "y" : 635,
+    "uid" : "479638791727",
+    "username" : "ᵐⁱˢˢᴹⁱⁿᶜ",
+    "level" : 100,
+    "allianceId" : "100203642",
+    "allianceTag" : "BUN$",
+    "pointId" : 325346,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4809270336099487744",
+      "players" : [ ],
+      "num" : 16,
+      "endTimeMilli" : 1787482250012
+    },
+    "cityRewardSeenAt" : "2026-08-23T10:39:04.337Z",
+    "foundAt" : "2026-08-23T10:39:04.337Z"
+  }, {
     "serverId" : 1951,
     "x" : 432,
     "y" : 230,
