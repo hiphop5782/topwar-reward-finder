@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T20:11:37.564181Z",
-  "count" : 21,
+  "updatedAt" : "2026-08-23T20:13:35.422412100Z",
+  "count" : 20,
   "locations" : [ {
     "serverId" : 607,
     "x" : 369,
@@ -421,36 +421,5 @@
     },
     "cityRewardSeenAt" : "2026-08-23T20:07:55.831Z",
     "foundAt" : "2026-08-23T20:07:55.831Z"
-  }, {
-    "serverId" : 4495,
-    "x" : 340,
-    "y" : 450,
-    "uid" : "9779059986831",
-    "username" : "Comm",
-    "level" : 77,
-    "allianceId" : "500486416",
-    "allianceTag" : "APX+",
-    "pointId" : 230571,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4809821846325370369",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":22,\"gender\":0,\"avatarurl\":\"hero_icon313_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"1n4\"}"
-      }, {
-        "frameId" : 8,
-        "playerInfo" : "{\"nationalflag\":70,\"gender\":0,\"avatarurl\":\"hero_icon110_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Markus\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"hero_icon122_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"StormDuk\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":166,\"gender\":0,\"avatarurl\":\"hero_icon308_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Rivano98\"}"
-      } ],
-      "num" : 6,
-      "endTimeMilli" : 1787515122583
-    },
-    "cityRewardSeenAt" : "2026-08-23T19:38:25.093Z",
-    "foundAt" : "2026-08-23T19:38:25.093Z"
   } ]
 }
