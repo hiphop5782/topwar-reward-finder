@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T22:53:05.831378100Z",
-  "count" : 27,
+  "updatedAt" : "2026-08-23T22:53:48.325724400Z",
+  "count" : 26,
   "locations" : [ {
     "serverId" : 466,
     "x" : 355,
@@ -78,44 +78,6 @@
     },
     "cityRewardSeenAt" : "2026-08-23T22:34:39.248Z",
     "foundAt" : "2026-08-23T22:34:39.248Z"
-  }, {
-    "serverId" : 1668,
-    "x" : 583,
-    "y" : 443,
-    "uid" : "309050708572",
-    "username" : "jusepe",
-    "level" : 100,
-    "allianceId" : "300091258",
-    "allianceTag" : "A5LM",
-    "pointId" : 227108,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4809970024960559108",
-      "players" : [ ],
-      "num" : 14,
-      "endTimeMilli" : 1787523954718
-    },
-    "cityRewardSeenAt" : "2026-08-23T22:18:47.815Z",
-    "foundAt" : "2026-08-23T22:18:47.815Z"
-  }, {
-    "serverId" : 1668,
-    "x" : 608,
-    "y" : 436,
-    "uid" : "400926274832",
-    "username" : "TariQ",
-    "level" : 100,
-    "allianceId" : "300091258",
-    "allianceTag" : "A5LM",
-    "pointId" : 223537,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4809989712084011017",
-      "players" : [ ],
-      "num" : 5,
-      "endTimeMilli" : 1787525128162
-    },
-    "cityRewardSeenAt" : "2026-08-23T22:18:46.516Z",
-    "foundAt" : "2026-08-23T22:18:46.516Z"
   }, {
     "serverId" : 2607,
     "x" : 389,
@@ -554,5 +516,24 @@
     },
     "cityRewardSeenAt" : "2026-08-23T22:23:42.864Z",
     "foundAt" : "2026-08-23T22:23:42.864Z"
+  }, {
+    "serverId" : 4057,
+    "x" : 373,
+    "y" : 523,
+    "uid" : "9016937320409",
+    "username" : "Mikael",
+    "level" : 100,
+    "allianceId" : "500392415",
+    "allianceTag" : "MtSn",
+    "pointId" : 267963,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4810016484243780096",
+      "players" : [ ],
+      "num" : 18,
+      "endTimeMilli" : 1787526723907
+    },
+    "cityRewardSeenAt" : "2026-08-23T22:52:16.052Z",
+    "foundAt" : "2026-08-23T22:52:16.052Z"
   } ]
 }
