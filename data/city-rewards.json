@@ -1,8 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T12:59:50.082172400Z",
-  "count" : 41,
+  "updatedAt" : "2026-08-23T13:01:25.114814200Z",
+  "count" : 39,
   "locations" : [ {
+    "serverId" : 200,
+    "x" : 226,
+    "y" : 642,
+    "uid" : "203256352973",
+    "username" : "Bサーモン",
+    "level" : 100,
+    "allianceId" : "129517",
+    "allianceTag" : "MaRo",
+    "pointId" : 328818,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4809410944000167943",
+      "players" : [ ],
+      "num" : 56,
+      "endTimeMilli" : 1787490630896
+    },
+    "cityRewardSeenAt" : "2026-08-23T12:59:12.310Z",
+    "foundAt" : "2026-08-23T12:59:12.310Z"
+  }, {
+    "serverId" : 200,
+    "x" : 467,
+    "y" : 697,
+    "uid" : "254116913352",
+    "username" : "アケB",
+    "level" : 100,
+    "allianceId" : "130383",
+    "allianceTag" : "SlT",
+    "pointId" : 357098,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4809415314112614407",
+      "players" : [ ],
+      "num" : 48,
+      "endTimeMilli" : 1787490891375
+    },
+    "cityRewardSeenAt" : "2026-08-23T12:59:27.032Z",
+    "foundAt" : "2026-08-23T12:59:27.032Z"
+  }, {
     "serverId" : 466,
     "x" : 551,
     "y" : 311,
@@ -52,63 +90,6 @@
     },
     "cityRewardSeenAt" : "2026-08-23T12:27:06.839Z",
     "foundAt" : "2026-08-23T12:27:06.839Z"
-  }, {
-    "serverId" : 607,
-    "x" : 413,
-    "y" : 287,
-    "uid" : "429573276255",
-    "username" : "泉水",
-    "level" : 100,
-    "allianceId" : "348885",
-    "allianceTag" : "SLWX",
-    "pointId" : 147151,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4809371358008229376",
-      "players" : [ ],
-      "num" : 40,
-      "endTimeMilli" : 1787488271387
-    },
-    "cityRewardSeenAt" : "2026-08-23T12:26:07.427Z",
-    "foundAt" : "2026-08-23T12:26:07.427Z"
-  }, {
-    "serverId" : 607,
-    "x" : 417,
-    "y" : 283,
-    "uid" : "428899865183",
-    "username" : "三式飛燕六○七",
-    "level" : 100,
-    "allianceId" : "348885",
-    "allianceTag" : "SLWX",
-    "pointId" : 145105,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4809376636355264006",
-      "players" : [ ],
-      "num" : 40,
-      "endTimeMilli" : 1787488586001
-    },
-    "cityRewardSeenAt" : "2026-08-23T12:26:07.427Z",
-    "foundAt" : "2026-08-23T12:26:07.427Z"
-  }, {
-    "serverId" : 607,
-    "x" : 430,
-    "y" : 304,
-    "uid" : "430128898655",
-    "username" : "かかし２００３",
-    "level" : 100,
-    "allianceId" : "348885",
-    "allianceTag" : "SLWX",
-    "pointId" : 155864,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4809372289630256648",
-      "players" : [ ],
-      "num" : 39,
-      "endTimeMilli" : 1787488326916
-    },
-    "cityRewardSeenAt" : "2026-08-23T12:26:07.427Z",
-    "foundAt" : "2026-08-23T12:26:07.427Z"
   }, {
     "serverId" : 607,
     "x" : 482,
@@ -540,25 +521,6 @@
     },
     "cityRewardSeenAt" : "2026-08-23T12:36:34.600Z",
     "foundAt" : "2026-08-23T12:36:34.600Z"
-  }, {
-    "serverId" : 2036,
-    "x" : 391,
-    "y" : 631,
-    "uid" : "790308407286",
-    "username" : "満月",
-    "level" : 100,
-    "allianceId" : "420004857",
-    "allianceTag" : "#snp",
-    "pointId" : 323268,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4809381459050620930",
-      "players" : [ ],
-      "num" : 71,
-      "endTimeMilli" : 1787488873456
-    },
-    "cityRewardSeenAt" : "2026-08-23T12:25:05.492Z",
-    "foundAt" : "2026-08-23T12:25:05.492Z"
   }, {
     "serverId" : 2107,
     "x" : 442,
