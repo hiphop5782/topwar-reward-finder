@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T15:48:29.756637200Z",
-  "count" : 4,
+  "updatedAt" : "2026-08-23T15:50:56.515475800Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 1421,
     "x" : 422,
@@ -90,5 +90,24 @@
     },
     "cityRewardSeenAt" : "2026-08-23T15:38:01.734Z",
     "foundAt" : "2026-08-23T15:38:01.734Z"
+  }, {
+    "serverId" : 3698,
+    "x" : 330,
+    "y" : 492,
+    "uid" : "324570206972",
+    "username" : "SewerRat",
+    "level" : 100,
+    "allianceId" : "500369059",
+    "allianceTag" : "M!lk",
+    "pointId" : 252070,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4809596135442015237",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1787501669166
+    },
+    "cityRewardSeenAt" : "2026-08-23T15:49:48.725Z",
+    "foundAt" : "2026-08-23T15:49:48.725Z"
   } ]
 }
