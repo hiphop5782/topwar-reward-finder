@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T10:56:55.309609600Z",
-  "count" : 16,
+  "updatedAt" : "2026-08-23T10:58:57.284465300Z",
+  "count" : 17,
   "locations" : [ {
     "serverId" : 225,
     "x" : 440,
@@ -348,5 +348,36 @@
     },
     "cityRewardSeenAt" : "2026-08-23T10:46:12.644Z",
     "foundAt" : "2026-08-23T10:46:12.644Z"
+  }, {
+    "serverId" : 4504,
+    "x" : 398,
+    "y" : 430,
+    "uid" : "9805115330968",
+    "username" : "野良猫",
+    "level" : 75,
+    "allianceId" : "500488498",
+    "allianceTag" : "LKVN",
+    "pointId" : 220360,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4809285920054521856",
+      "players" : [ {
+        "frameId" : 2,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/95554b2ac34c75341d84869000205c55_1783251916.png?v=1783251918289\",\"https://knight-cdn.akamaized.net/headimg/95554b2ac34c75341d84869000205c55_1784051741.png?v=1784051744111\",\"https://knight-cdn.akamaized.net/headimg/95554b2ac34c75341d84869000205c55_1785318034.png?v=1785318036162\",\"https://knight-cdn.akamaized.net/headimg/95554b2ac34c75341d84869000205c55_1785792343.png?v=1785792346492\"],\"nationalflag\":75,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/95554b2ac34c75341d84869000205c55_1785318034.png?v=1785318036162\",\"username\":\"Pastabox\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":230,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Kolo\"}"
+      }, {
+        "frameId" : 119,
+        "playerInfo" : "{\"nationalflag\":89,\"gender\":0,\"avatarurl\":\"icon_alb_female_2\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"Lelouda\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/b892609160b28ef11c1f17f99f4d0bad_1783965062.png?v=1783965063936\",\"https://knight-cdn.akamaized.net/headimg/b892609160b28ef11c1f17f99f4d0bad_1786211428.png?v=1786211430747\",\"https://knight-cdn.akamaized.net/headimg/b892609160b28ef11c1f17f99f4d0bad_1787423243.png?v=1787423246389\",\"https://knight-cdn.akamaized.net/headimg/b892609160b28ef11c1f17f99f4d0bad_1785957506.png?v=1785957508786\"],\"nationalflag\":177,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b892609160b28ef11c1f17f99f4d0bad_1787423243.png?v=1787423246389\",\"username\":\"ARISE\"}"
+      } ],
+      "num" : 18,
+      "endTimeMilli" : 1787483178888
+    },
+    "cityRewardSeenAt" : "2026-08-23T10:56:16.729Z",
+    "foundAt" : "2026-08-23T10:56:16.729Z"
   } ]
 }
