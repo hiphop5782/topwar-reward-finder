@@ -1,8 +1,33 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T00:27:49.674645300Z",
-  "count" : 7,
+  "updatedAt" : "2026-08-23T00:29:43.928164300Z",
+  "count" : 8,
   "locations" : [ {
+    "serverId" : 285,
+    "x" : 422,
+    "y" : 770,
+    "uid" : "305223905627",
+    "username" : "ぽんこつ",
+    "level" : 100,
+    "allianceId" : "100010649",
+    "allianceTag" : "PROT",
+    "pointId" : 394452,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4808651611750676995",
+      "players" : [ {
+        "frameId" : 27,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/309550387547.jpg?v=1674294520314\",\"username\":\"🍄ぎんちゃ🍄\"}"
+      }, {
+        "frameId" : 26,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon316\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"🍄舞鶴にゃあ\"}"
+      } ],
+      "num" : 5,
+      "endTimeMilli" : 1787445371167
+    },
+    "cityRewardSeenAt" : "2026-08-23T00:28:21.281Z",
+    "foundAt" : "2026-08-23T00:28:21.281Z"
+  }, {
     "serverId" : 341,
     "x" : 402,
     "y" : 602,
