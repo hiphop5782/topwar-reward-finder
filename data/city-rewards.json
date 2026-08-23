@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T03:18:29.054422600Z",
-  "count" : 11,
+  "updatedAt" : "2026-08-23T03:20:54.718551100Z",
+  "count" : 12,
   "locations" : [ {
     "serverId" : 836,
     "x" : 408,
@@ -247,5 +247,24 @@
     },
     "cityRewardSeenAt" : "2026-08-23T03:02:17.211Z",
     "foundAt" : "2026-08-23T03:02:17.211Z"
+  }, {
+    "serverId" : 4459,
+    "x" : 119,
+    "y" : 717,
+    "uid" : "9682786783595",
+    "username" : "CVS",
+    "level" : 80,
+    "allianceId" : "500473598",
+    "allianceTag" : "U.Di",
+    "pointId" : 367164,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4808835133608220162",
+      "players" : [ ],
+      "num" : 18,
+      "endTimeMilli" : 1787456309922
+    },
+    "cityRewardSeenAt" : "2026-08-23T03:20:21.814Z",
+    "foundAt" : "2026-08-23T03:20:21.814Z"
   } ]
 }
