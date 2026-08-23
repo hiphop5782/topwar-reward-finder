@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T13:28:39.458937300Z",
-  "count" : 25,
+  "updatedAt" : "2026-08-23T13:29:58.864235Z",
+  "count" : 27,
   "locations" : [ {
     "serverId" : 200,
     "x" : 226,
@@ -109,6 +109,25 @@
     },
     "cityRewardSeenAt" : "2026-08-23T13:05:26.416Z",
     "foundAt" : "2026-08-23T13:05:26.416Z"
+  }, {
+    "serverId" : 1781,
+    "x" : 378,
+    "y" : 504,
+    "uid" : "807461840630",
+    "username" : "༒りょんち༒",
+    "level" : 100,
+    "allianceId" : "300110508",
+    "allianceTag" : "rugu",
+    "pointId" : 258238,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4809439943620160002",
+      "players" : [ ],
+      "num" : 25,
+      "endTimeMilli" : 1787492359408
+    },
+    "cityRewardSeenAt" : "2026-08-23T13:28:49.954Z",
+    "foundAt" : "2026-08-23T13:28:49.954Z"
   }, {
     "serverId" : 2097,
     "x" : 396,
@@ -585,5 +604,30 @@
     },
     "cityRewardSeenAt" : "2026-08-23T13:15:58.604Z",
     "foundAt" : "2026-08-23T13:15:58.604Z"
+  }, {
+    "serverId" : 4455,
+    "x" : 422,
+    "y" : 338,
+    "uid" : "9668199911783",
+    "username" : "Mommy♡",
+    "level" : 80,
+    "allianceId" : "500470958",
+    "allianceTag" : "l701",
+    "pointId" : 173268,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4809433267010981385",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":230,\"gender\":0,\"avatarurl\":\"hero_icon022_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Ektor\"}"
+      }, {
+        "frameId" : 20,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/42e4102bda17350f0a23f42f34789299_1782564161.png?v=1782564162242\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/42e4102bda17350f0a23f42f34789299_1782564161.png?v=1782564162242\",\"username\":\"Rado\"}"
+      } ],
+      "num" : 16,
+      "endTimeMilli" : 1787491961451
+    },
+    "cityRewardSeenAt" : "2026-08-23T13:27:45.535Z",
+    "foundAt" : "2026-08-23T13:27:45.535Z"
   } ]
 }
