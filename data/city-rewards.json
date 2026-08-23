@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T21:47:20.719896Z",
-  "count" : 8,
+  "updatedAt" : "2026-08-23T21:48:42.462673400Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 242,
     "x" : 346,
@@ -78,6 +78,56 @@
     },
     "cityRewardSeenAt" : "2026-08-23T21:32:25.228Z",
     "foundAt" : "2026-08-23T21:32:25.228Z"
+  }, {
+    "serverId" : 3223,
+    "x" : 406,
+    "y" : 422,
+    "uid" : "928771414730",
+    "username" : "BS_푸룬하늘",
+    "level" : 100,
+    "allianceId" : "500314562",
+    "allianceTag" : "KID:",
+    "pointId" : 216268,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4809959031824788999",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1787523299476
+    },
+    "cityRewardSeenAt" : "2026-08-23T21:47:21.849Z",
+    "foundAt" : "2026-08-23T21:47:21.849Z"
+  }, {
+    "serverId" : 3223,
+    "x" : 416,
+    "y" : 546,
+    "uid" : "580975495097",
+    "username" : "현보랑",
+    "level" : 100,
+    "allianceId" : "500314490",
+    "allianceTag" : "INF_",
+    "pointId" : 279761,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4809936277524262405",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"hero_icon213_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"아포피스\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/586992953310.jpg?v=1723954797066\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/586992953310.jpg?v=1723954797066\",\"username\":\"K_글쿠나\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"水中天\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/815903770798.jpg?v=1709808976976\",\"username\":\"YEON\"}"
+      } ],
+      "num" : 15,
+      "endTimeMilli" : 1787521943214
+    },
+    "cityRewardSeenAt" : "2026-08-23T21:47:47.738Z",
+    "foundAt" : "2026-08-23T21:47:47.738Z"
   }, {
     "serverId" : 3619,
     "x" : 401,
