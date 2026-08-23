@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T13:26:59.706157Z",
-  "count" : 24,
+  "updatedAt" : "2026-08-23T13:28:39.458937300Z",
+  "count" : 25,
   "locations" : [ {
     "serverId" : 200,
     "x" : 226,
@@ -40,6 +40,37 @@
     },
     "cityRewardSeenAt" : "2026-08-23T12:59:27.032Z",
     "foundAt" : "2026-08-23T12:59:27.032Z"
+  }, {
+    "serverId" : 513,
+    "x" : 432,
+    "y" : 314,
+    "uid" : "286811918849",
+    "username" : "アリベルBEL",
+    "level" : 100,
+    "allianceId" : "100045213",
+    "allianceTag" : "JPNE",
+    "pointId" : 160985,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4809429978372637193",
+      "players" : [ {
+        "frameId" : 92,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon162\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"poaro\"}"
+      }, {
+        "frameId" : 60,
+        "playerInfo" : "{\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"hero_icon170\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"ミカエル\"}"
+      }, {
+        "frameId" : 150,
+        "playerInfo" : "{\"nationalflag\":123,\"gender\":0,\"avatarurl\":\"hero_icon001_summer\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"dai4\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon109_Samuraigirls\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"👓\"}"
+      } ],
+      "num" : 14,
+      "endTimeMilli" : 1787491765433
+    },
+    "cityRewardSeenAt" : "2026-08-23T13:25:53.874Z",
+    "foundAt" : "2026-08-23T13:25:53.874Z"
   }, {
     "serverId" : 607,
     "x" : 489,
