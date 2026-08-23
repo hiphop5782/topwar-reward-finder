@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T04:12:32.765465700Z",
-  "count" : 8,
+  "updatedAt" : "2026-08-23T04:14:25.960358600Z",
+  "count" : 9,
   "locations" : [ {
     "serverId" : 1692,
     "x" : 438,
@@ -166,5 +166,24 @@
     },
     "cityRewardSeenAt" : "2026-08-23T04:03:00.978Z",
     "foundAt" : "2026-08-23T04:03:00.978Z"
+  }, {
+    "serverId" : 4408,
+    "x" : 586,
+    "y" : 510,
+    "uid" : "9573473751352",
+    "username" : "Laros",
+    "level" : 93,
+    "allianceId" : "500458056",
+    "allianceTag" : "InvA",
+    "pointId" : 261414,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4808874070858952705",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1787458630763
+    },
+    "cityRewardSeenAt" : "2026-08-23T04:13:23.568Z",
+    "foundAt" : "2026-08-23T04:13:23.568Z"
   } ]
 }
