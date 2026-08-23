@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T14:41:36.950325200Z",
-  "count" : 14,
+  "updatedAt" : "2026-08-23T14:43:23.547459400Z",
+  "count" : 13,
   "locations" : [ {
     "serverId" : 262,
     "x" : 446,
@@ -40,6 +40,25 @@
     },
     "cityRewardSeenAt" : "2026-08-23T14:11:43.686Z",
     "foundAt" : "2026-08-23T14:11:43.686Z"
+  }, {
+    "serverId" : 761,
+    "x" : 642,
+    "y" : 500,
+    "uid" : "354425942965",
+    "username" : "SgtBull",
+    "level" : 100,
+    "allianceId" : "100126893",
+    "allianceTag" : "FAFo",
+    "pointId" : 256322,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4809525050778972673",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1787497432190
+    },
+    "cityRewardSeenAt" : "2026-08-23T14:41:53.539Z",
+    "foundAt" : "2026-08-23T14:41:53.539Z"
   }, {
     "serverId" : 1035,
     "x" : 448,
@@ -130,25 +149,6 @@
     "foundAt" : "2026-08-23T14:25:39.532Z"
   }, {
     "serverId" : 3522,
-    "x" : 390,
-    "y" : 204,
-    "uid" : "8318168075715",
-    "username" : "Dawg",
-    "level" : 100,
-    "allianceId" : "500348242",
-    "allianceTag" : "PxR.",
-    "pointId" : 104644,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4809473227470111748",
-      "players" : [ ],
-      "num" : 34,
-      "endTimeMilli" : 1787494343280
-    },
-    "cityRewardSeenAt" : "2026-08-23T14:07:11.899Z",
-    "foundAt" : "2026-08-23T14:07:11.899Z"
-  }, {
-    "serverId" : 3522,
     "x" : 402,
     "y" : 712,
     "uid" : "813130324125",
@@ -166,25 +166,6 @@
     },
     "cityRewardSeenAt" : "2026-08-23T14:08:38.635Z",
     "foundAt" : "2026-08-23T14:08:38.635Z"
-  }, {
-    "serverId" : 3620,
-    "x" : 418,
-    "y" : 346,
-    "uid" : "742818752478",
-    "username" : "Oren",
-    "level" : 100,
-    "allianceId" : "500359735",
-    "allianceTag" : "BoF|",
-    "pointId" : 177362,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4809468165767317513",
-      "players" : [ ],
-      "num" : 4,
-      "endTimeMilli" : 1787494041579
-    },
-    "cityRewardSeenAt" : "2026-08-23T14:06:49.027Z",
-    "foundAt" : "2026-08-23T14:06:49.027Z"
   }, {
     "serverId" : 4022,
     "x" : 365,
