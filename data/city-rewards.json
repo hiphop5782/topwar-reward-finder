@@ -1,6 +1,56 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T09:22:26.252430500Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-08-23T09:24:53.195770300Z",
+  "count" : 2,
+  "locations" : [ {
+    "serverId" : 850,
+    "x" : 425,
+    "y" : 721,
+    "uid" : "8071941524192",
+    "username" : "Krümel🍪",
+    "level" : 100,
+    "allianceId" : "200035788",
+    "allianceTag" : "bsks",
+    "pointId" : 369365,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4809195919767938055",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":167,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Bvchjn11\"}"
+      }, {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":68,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/6220243d9af5ede4d1723d214766a6b1.jpg?v=1692380020016\",\"username\":\"AlfaXV\"}"
+      }, {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/c0c5202c5b0694eb714c0dac1be0f38a_1738465938.jpg?v=1738465939518\",\"username\":\"Basti\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/739abb325fd477b6596551b568344934_1726319977.jpg?v=1726319979261\",\"username\":\"Oldman\"}"
+      } ],
+      "num" : 11,
+      "endTimeMilli" : 1787477814453
+    },
+    "cityRewardSeenAt" : "2026-08-23T09:24:23.473Z",
+    "foundAt" : "2026-08-23T09:24:23.473Z"
+  }, {
+    "serverId" : 850,
+    "x" : 431,
+    "y" : 229,
+    "uid" : "345086288766",
+    "username" : "RAB",
+    "level" : 100,
+    "allianceId" : "200046720",
+    "allianceTag" : "#SHP",
+    "pointId" : 117464,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4809183224935130119",
+      "players" : [ ],
+      "num" : 22,
+      "endTimeMilli" : 1787477057782
+    },
+    "cityRewardSeenAt" : "2026-08-23T09:22:57.572Z",
+    "foundAt" : "2026-08-23T09:22:57.572Z"
+  } ]
 }
