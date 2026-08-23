@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T20:51:34.787605400Z",
-  "count" : 12,
+  "updatedAt" : "2026-08-23T20:53:47.342600200Z",
+  "count" : 11,
   "locations" : [ {
     "serverId" : 973,
     "x" : 350,
@@ -52,6 +52,25 @@
     },
     "cityRewardSeenAt" : "2026-08-23T20:29:42.860Z",
     "foundAt" : "2026-08-23T20:29:42.860Z"
+  }, {
+    "serverId" : 1567,
+    "x" : 432,
+    "y" : 256,
+    "uid" : "322105967344",
+    "username" : "Dorien",
+    "level" : 100,
+    "allianceId" : "200262053",
+    "allianceTag" : "<GA>",
+    "pointId" : 131289,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4809902968424644097",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1787519957837
+    },
+    "cityRewardSeenAt" : "2026-08-23T20:52:00.296Z",
+    "foundAt" : "2026-08-23T20:52:00.296Z"
   }, {
     "serverId" : 2091,
     "x" : 441,
@@ -240,43 +259,5 @@
     },
     "cityRewardSeenAt" : "2026-08-23T20:35:04.503Z",
     "foundAt" : "2026-08-23T20:35:04.503Z"
-  }, {
-    "serverId" : 4281,
-    "x" : 409,
-    "y" : 385,
-    "uid" : "9324137910473",
-    "username" : "Raerae",
-    "level" : 100,
-    "allianceId" : "500428143",
-    "allianceTag" : "FSOD",
-    "pointId" : 197325,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4809853573970096646",
-      "players" : [ ],
-      "num" : 11,
-      "endTimeMilli" : 1787517013698
-    },
-    "cityRewardSeenAt" : "2026-08-23T20:17:51.239Z",
-    "foundAt" : "2026-08-23T20:17:51.239Z"
-  }, {
-    "serverId" : 4281,
-    "x" : 413,
-    "y" : 393,
-    "uid" : "9287804326052",
-    "username" : "YELI",
-    "level" : 100,
-    "allianceId" : "500428143",
-    "allianceTag" : "FSOD",
-    "pointId" : 201423,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4809844486775599620",
-      "players" : [ ],
-      "num" : 14,
-      "endTimeMilli" : 1787516472059
-    },
-    "cityRewardSeenAt" : "2026-08-23T20:17:51.239Z",
-    "foundAt" : "2026-08-23T20:17:51.239Z"
   } ]
 }
