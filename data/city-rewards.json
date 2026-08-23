@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T03:01:43.071035400Z",
-  "count" : 14,
+  "updatedAt" : "2026-08-23T03:03:48.165765100Z",
+  "count" : 15,
   "locations" : [ {
     "serverId" : 2197,
     "x" : 393,
@@ -292,5 +292,24 @@
     },
     "cityRewardSeenAt" : "2026-08-23T02:32:45.928Z",
     "foundAt" : "2026-08-23T02:32:45.928Z"
+  }, {
+    "serverId" : 4316,
+    "x" : 413,
+    "y" : 539,
+    "uid" : "9364885508316",
+    "username" : "Buckeye",
+    "level" : 96,
+    "allianceId" : "500434938",
+    "allianceTag" : "DM<",
+    "pointId" : 276175,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4808823733607315463",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1787455630429
+    },
+    "cityRewardSeenAt" : "2026-08-23T03:02:17.211Z",
+    "foundAt" : "2026-08-23T03:02:17.211Z"
   } ]
 }
