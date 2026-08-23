@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T21:52:25.387563400Z",
+  "updatedAt" : "2026-08-23T21:54:56.009398600Z",
   "count" : 10,
   "locations" : [ {
     "serverId" : 242,
@@ -78,6 +78,44 @@
     },
     "cityRewardSeenAt" : "2026-08-23T21:32:25.228Z",
     "foundAt" : "2026-08-23T21:32:25.228Z"
+  }, {
+    "serverId" : 2147,
+    "x" : 429,
+    "y" : 693,
+    "uid" : "794917791843",
+    "username" : "しろ",
+    "level" : 100,
+    "allianceId" : "400257393",
+    "allianceTag" : "SGSG",
+    "pointId" : 355031,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4809945273148163584",
+      "players" : [ ],
+      "num" : 38,
+      "endTimeMilli" : 1787522479395
+    },
+    "cityRewardSeenAt" : "2026-08-23T21:53:11.309Z",
+    "foundAt" : "2026-08-23T21:53:11.309Z"
+  }, {
+    "serverId" : 2939,
+    "x" : 421,
+    "y" : 605,
+    "uid" : "7644793867131",
+    "username" : "やす🦓㌠",
+    "level" : 100,
+    "allianceId" : "500302612",
+    "allianceTag" : "Jpo!",
+    "pointId" : 309971,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4809964171843532294",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1787523605845
+    },
+    "cityRewardSeenAt" : "2026-08-23T21:53:59.641Z",
+    "foundAt" : "2026-08-23T21:53:59.641Z"
   }, {
     "serverId" : 3223,
     "x" : 406,
@@ -166,43 +204,5 @@
     },
     "cityRewardSeenAt" : "2026-08-23T21:25:26.653Z",
     "foundAt" : "2026-08-23T21:25:26.653Z"
-  }, {
-    "serverId" : 4122,
-    "x" : 376,
-    "y" : 334,
-    "uid" : "880539675111",
-    "username" : "PeoGrabb",
-    "level" : 100,
-    "allianceId" : "500402632",
-    "allianceTag" : "4I22",
-    "pointId" : 171197,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4809905749601825793",
-      "players" : [ ],
-      "num" : 32,
-      "endTimeMilli" : 1787520123608
-    },
-    "cityRewardSeenAt" : "2026-08-23T21:17:41.743Z",
-    "foundAt" : "2026-08-23T21:17:41.743Z"
-  }, {
-    "serverId" : 4122,
-    "x" : 418,
-    "y" : 634,
-    "uid" : "411137594679",
-    "username" : "OᗷᐯIOᑌᔕ",
-    "level" : 100,
-    "allianceId" : "500401932",
-    "allianceTag" : "MYRD",
-    "pointId" : 324818,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4809920284593239042",
-      "players" : [ ],
-      "num" : 12,
-      "endTimeMilli" : 1787520989961
-    },
-    "cityRewardSeenAt" : "2026-08-23T21:18:35.172Z",
-    "foundAt" : "2026-08-23T21:18:35.172Z"
   } ]
 }
