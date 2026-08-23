@@ -1,8 +1,39 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T08:05:24.283456700Z",
-  "count" : 1,
+  "updatedAt" : "2026-08-23T08:07:52.812795800Z",
+  "count" : 2,
   "locations" : [ {
+    "serverId" : 174,
+    "x" : 153,
+    "y" : 643,
+    "uid" : "200390627529",
+    "username" : "poppo",
+    "level" : 100,
+    "allianceId" : "115224",
+    "allianceTag" : "#jam",
+    "pointId" : 329293,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4809133187492043785",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon001\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"じーあーる\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_2_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"ジーアール\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon001\",\"nickname\":\"wy.174669426862\",\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/e977801ec84cb03508b419838ac8b78c_1725165043.jpg?v=1725165045133\",\"username\":\"ジョーカー\"}"
+      }, {
+        "frameId" : 3,
+        "playerInfo" : "{\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"headIcon_16_1\",\"nickname\":\"wy.174364041390\",\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/174364041390.jpg?v=1674144797330\",\"username\":\"ジーマ\"}"
+      } ],
+      "num" : 7,
+      "endTimeMilli" : 1787474075318
+    },
+    "cityRewardSeenAt" : "2026-08-23T08:07:06.549Z",
+    "foundAt" : "2026-08-23T08:07:06.549Z"
+  }, {
     "serverId" : 3399,
     "x" : 432,
     "y" : 650,
