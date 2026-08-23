@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T03:09:20.752809Z",
-  "count" : 10,
+  "updatedAt" : "2026-08-23T03:11:08.462Z",
+  "count" : 9,
   "locations" : [ {
     "serverId" : 836,
     "x" : 408,
@@ -21,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-08-23T03:07:18.343Z",
     "foundAt" : "2026-08-23T03:07:18.343Z"
+  }, {
+    "serverId" : 2137,
+    "x" : 431,
+    "y" : 679,
+    "uid" : "821559892059",
+    "username" : "えるち",
+    "level" : 100,
+    "allianceId" : "500117170",
+    "allianceTag" : "isnS",
+    "pointId" : 347864,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4808827339885556231",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1787455845380
+    },
+    "cityRewardSeenAt" : "2026-08-23T03:09:34.054Z",
+    "foundAt" : "2026-08-23T03:09:34.054Z"
   }, {
     "serverId" : 2197,
     "x" : 393,
@@ -52,44 +71,6 @@
     },
     "cityRewardSeenAt" : "2026-08-23T02:59:28.310Z",
     "foundAt" : "2026-08-23T02:59:28.310Z"
-  }, {
-    "serverId" : 2275,
-    "x" : 372,
-    "y" : 456,
-    "uid" : "8564727189096",
-    "username" : "⚔️Sparta",
-    "level" : 100,
-    "allianceId" : "500129309",
-    "allianceTag" : "OP75",
-    "pointId" : 233659,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4808785453770720774",
-      "players" : [ ],
-      "num" : 32,
-      "endTimeMilli" : 1787453348773
-    },
-    "cityRewardSeenAt" : "2026-08-23T02:35:59.723Z",
-    "foundAt" : "2026-08-23T02:35:59.723Z"
-  }, {
-    "serverId" : 2275,
-    "x" : 446,
-    "y" : 450,
-    "uid" : "328243495709",
-    "username" : "Henrry",
-    "level" : 100,
-    "allianceId" : "500142211",
-    "allianceTag" : "SFA-",
-    "pointId" : 230624,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4808787584007390722",
-      "players" : [ ],
-      "num" : 27,
-      "endTimeMilli" : 1787453475745
-    },
-    "cityRewardSeenAt" : "2026-08-23T02:35:58.061Z",
-    "foundAt" : "2026-08-23T02:35:58.061Z"
   }, {
     "serverId" : 2287,
     "x" : 417,
