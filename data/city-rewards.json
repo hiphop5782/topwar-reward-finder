@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-23T05:21:02.099471Z",
-  "count" : 5,
+  "updatedAt" : "2026-08-23T05:23:29.061829Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 1083,
     "x" : 394,
@@ -90,6 +90,34 @@
     },
     "cityRewardSeenAt" : "2026-08-23T04:52:49.330Z",
     "foundAt" : "2026-08-23T04:52:49.330Z"
+  }, {
+    "serverId" : 4002,
+    "x" : 404,
+    "y" : 620,
+    "uid" : "828953303263",
+    "username" : "Badger",
+    "level" : 100,
+    "allianceId" : "500387219",
+    "allianceTag" : "B1$",
+    "pointId" : 317643,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4808949947143504896",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon313_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"トシちゃん\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"hero_icon317_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"midu\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/4e2abe6fb2aab24c4dbb03d0868afb53_1786051243.png?v=1786051244052\",\"https://knight-cdn.akamaized.net/headimg/4e2abe6fb2aab24c4dbb03d0868afb53_1786563572.png?v=1786563573759\",\"https://knight-cdn.akamaized.net/headimg/4e2abe6fb2aab24c4dbb03d0868afb53_1776048914.png?v=1776048915523\",\"https://knight-cdn.akamaized.net/headimg/4e2abe6fb2aab24c4dbb03d0868afb53_1776226690.png?v=1776226691736\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/4e2abe6fb2aab24c4dbb03d0868afb53_1786563572.png?v=1786563573759\",\"username\":\"Kaja\"}"
+      } ],
+      "num" : 13,
+      "endTimeMilli" : 1787463153342
+    },
+    "cityRewardSeenAt" : "2026-08-23T05:21:21.233Z",
+    "foundAt" : "2026-08-23T05:21:21.233Z"
   }, {
     "serverId" : 4345,
     "x" : 402,
