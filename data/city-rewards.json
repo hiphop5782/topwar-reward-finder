@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-24T09:11:24.236600900Z",
+  "updatedAt" : "2026-08-24T09:13:51.808302600Z",
   "count" : 20,
   "locations" : [ {
     "serverId" : 164,
@@ -97,6 +97,44 @@
     },
     "cityRewardSeenAt" : "2026-08-24T09:00:09.412Z",
     "foundAt" : "2026-08-24T09:00:09.412Z"
+  }, {
+    "serverId" : 2937,
+    "x" : 421,
+    "y" : 533,
+    "uid" : "7675538770846",
+    "username" : "ジェイドロバリー",
+    "level" : 100,
+    "allianceId" : "500291368",
+    "allianceTag" : "BARs",
+    "pointId" : 273107,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4810649815439831558",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1787564473388
+    },
+    "cityRewardSeenAt" : "2026-08-24T09:12:03.836Z",
+    "foundAt" : "2026-08-24T09:12:03.836Z"
+  }, {
+    "serverId" : 2937,
+    "x" : 427,
+    "y" : 529,
+    "uid" : "435959485034",
+    "username" : "🍀ド〜ン🏖️",
+    "level" : 100,
+    "allianceId" : "500291368",
+    "allianceTag" : "BARs",
+    "pointId" : 271062,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4810639010006757889",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1787563829334
+    },
+    "cityRewardSeenAt" : "2026-08-24T09:12:03.836Z",
+    "foundAt" : "2026-08-24T09:12:03.836Z"
   }, {
     "serverId" : 2988,
     "x" : 420,
@@ -380,43 +418,5 @@
     },
     "cityRewardSeenAt" : "2026-08-24T08:56:43.841Z",
     "foundAt" : "2026-08-24T08:56:43.841Z"
-  }, {
-    "serverId" : 4319,
-    "x" : 693,
-    "y" : 809,
-    "uid" : "454096176615",
-    "username" : "2026⚡️",
-    "level" : 100,
-    "allianceId" : "500436053",
-    "allianceTag" : "REXN",
-    "pointId" : 414555,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4810604839700643335",
-      "players" : [ ],
-      "num" : 15,
-      "endTimeMilli" : 1787561792625
-    },
-    "cityRewardSeenAt" : "2026-08-24T08:38:13.249Z",
-    "foundAt" : "2026-08-24T08:38:13.249Z"
-  }, {
-    "serverId" : 4319,
-    "x" : 696,
-    "y" : 806,
-    "uid" : "9399130394847",
-    "username" : "Bốthịnh",
-    "level" : 80,
-    "allianceId" : "500436053",
-    "allianceTag" : "REXN",
-    "pointId" : 413021,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4810602041076465161",
-      "players" : [ ],
-      "num" : 15,
-      "endTimeMilli" : 1787561625814
-    },
-    "cityRewardSeenAt" : "2026-08-24T08:38:13.249Z",
-    "foundAt" : "2026-08-24T08:38:13.249Z"
   } ]
 }
