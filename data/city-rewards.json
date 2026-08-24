@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-24T12:35:39.917562100Z",
-  "count" : 73,
+  "updatedAt" : "2026-08-24T12:37:36.928838700Z",
+  "count" : 72,
   "locations" : [ {
     "serverId" : 172,
     "x" : 282,
@@ -266,6 +266,25 @@
     },
     "cityRewardSeenAt" : "2026-08-24T12:20:38.947Z",
     "foundAt" : "2026-08-24T12:20:38.947Z"
+  }, {
+    "serverId" : 529,
+    "x" : 573,
+    "y" : 739,
+    "uid" : "7877701307490",
+    "username" : "SEM",
+    "level" : 100,
+    "allianceId" : "319666",
+    "allianceTag" : "OVRD",
+    "pointId" : 378655,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4810827733619974665",
+      "players" : [ ],
+      "num" : 19,
+      "endTimeMilli" : 1787575078138
+    },
+    "cityRewardSeenAt" : "2026-08-24T12:36:26.120Z",
+    "foundAt" : "2026-08-24T12:36:26.120Z"
   }, {
     "serverId" : 1444,
     "x" : 402,
@@ -727,44 +746,6 @@
     },
     "cityRewardSeenAt" : "2026-08-24T12:06:24.179Z",
     "foundAt" : "2026-08-24T12:06:24.179Z"
-  }, {
-    "serverId" : 2050,
-    "x" : 442,
-    "y" : 424,
-    "uid" : "599603217666",
-    "username" : "Alpha21",
-    "level" : 100,
-    "allianceId" : "400240692",
-    "allianceTag" : "R-ST",
-    "pointId" : 217310,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4810794739279332361",
-      "players" : [ ],
-      "num" : 33,
-      "endTimeMilli" : 1787573111522
-    },
-    "cityRewardSeenAt" : "2026-08-24T12:01:16.751Z",
-    "foundAt" : "2026-08-24T12:01:16.751Z"
-  }, {
-    "serverId" : 2050,
-    "x" : 451,
-    "y" : 427,
-    "uid" : "598778767381",
-    "username" : "山賊",
-    "level" : 100,
-    "allianceId" : "400240692",
-    "allianceTag" : "R-ST",
-    "pointId" : 218850,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4810807505146872837",
-      "players" : [ ],
-      "num" : 24,
-      "endTimeMilli" : 1787573872427
-    },
-    "cityRewardSeenAt" : "2026-08-24T12:01:16.751Z",
-    "foundAt" : "2026-08-24T12:01:16.751Z"
   }, {
     "serverId" : 2091,
     "x" : 419,
