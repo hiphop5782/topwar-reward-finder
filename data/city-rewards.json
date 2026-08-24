@@ -1,8 +1,30 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-24T05:30:59.216176500Z",
+  "updatedAt" : "2026-08-24T05:32:29.332331Z",
   "count" : 11,
   "locations" : [ {
+    "serverId" : 135,
+    "x" : 408,
+    "y" : 402,
+    "uid" : "366532301818",
+    "username" : "Warning",
+    "level" : 100,
+    "allianceId" : "100025697",
+    "allianceTag" : "x135",
+    "pointId" : 206029,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4810413268352962049",
+      "players" : [ {
+        "frameId" : 8,
+        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/367550804986.jpg?v=1698296522066\",\"username\":\"Warníng\"}"
+      } ],
+      "num" : 3,
+      "endTimeMilli" : 1787550374082
+    },
+    "cityRewardSeenAt" : "2026-08-24T05:31:08.825Z",
+    "foundAt" : "2026-08-24T05:31:08.825Z"
+  }, {
     "serverId" : 515,
     "x" : 347,
     "y" : 289,
@@ -21,31 +43,6 @@
     },
     "cityRewardSeenAt" : "2026-08-24T05:13:29.908Z",
     "foundAt" : "2026-08-24T05:13:29.908Z"
-  }, {
-    "serverId" : 1144,
-    "x" : 603,
-    "y" : 677,
-    "uid" : "582196180142",
-    "username" : "MMDGP",
-    "level" : 100,
-    "allianceId" : "599813",
-    "allianceTag" : "$TA$",
-    "pointId" : 346926,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4810376456608215041",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_1_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"肥後竜兵\"}"
-      }, {
-        "frameId" : 8,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon141\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"MMDGP\"}"
-      } ],
-      "num" : 2,
-      "endTimeMilli" : 1787548179932
-    },
-    "cityRewardSeenAt" : "2026-08-24T04:56:29.930Z",
-    "foundAt" : "2026-08-24T04:56:29.930Z"
   }, {
     "serverId" : 1567,
     "x" : 427,
