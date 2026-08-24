@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-24T08:49:09.174666200Z",
-  "count" : 19,
+  "updatedAt" : "2026-08-24T08:51:36.818514100Z",
+  "count" : 20,
   "locations" : [ {
     "serverId" : 164,
     "x" : 647,
@@ -40,6 +40,44 @@
     },
     "cityRewardSeenAt" : "2026-08-24T08:39:27.165Z",
     "foundAt" : "2026-08-24T08:39:27.165Z"
+  }, {
+    "serverId" : 622,
+    "x" : 363,
+    "y" : 687,
+    "uid" : "312755667585",
+    "username" : "ganfly",
+    "level" : 100,
+    "allianceId" : "100122854",
+    "allianceTag" : "<CW>",
+    "pointId" : 351926,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4810607222029868034",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1787561934623
+    },
+    "cityRewardSeenAt" : "2026-08-24T08:50:28.470Z",
+    "foundAt" : "2026-08-24T08:50:28.470Z"
+  }, {
+    "serverId" : 622,
+    "x" : 366,
+    "y" : 688,
+    "uid" : "498050728763",
+    "username" : "👺👺👺",
+    "level" : 100,
+    "allianceId" : "100122854",
+    "allianceTag" : "<CW>",
+    "pointId" : 352440,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4810608095502064646",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1787561986686
+    },
+    "cityRewardSeenAt" : "2026-08-24T08:50:28.470Z",
+    "foundAt" : "2026-08-24T08:50:28.470Z"
   }, {
     "serverId" : 2826,
     "x" : 370,
@@ -344,24 +382,5 @@
     },
     "cityRewardSeenAt" : "2026-08-24T08:38:13.249Z",
     "foundAt" : "2026-08-24T08:38:13.249Z"
-  }, {
-    "serverId" : 4382,
-    "x" : 395,
-    "y" : 517,
-    "uid" : "9528642638110",
-    "username" : "MJ23",
-    "level" : 100,
-    "allianceId" : "500450726",
-    "allianceTag" : "TNS!",
-    "pointId" : 264902,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4810586822245760006",
-      "players" : [ ],
-      "num" : 10,
-      "endTimeMilli" : 1787560718701
-    },
-    "cityRewardSeenAt" : "2026-08-24T08:15:34.357Z",
-    "foundAt" : "2026-08-24T08:15:34.357Z"
   } ]
 }
