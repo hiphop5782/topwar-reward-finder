@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-24T23:41:57.736978200Z",
+  "updatedAt" : "2026-08-24T23:43:40.311090300Z",
   "count" : 40,
   "locations" : [ {
+    "serverId" : 216,
+    "x" : 471,
+    "y" : 629,
+    "uid" : "578669596888",
+    "username" : "TORNEO",
+    "level" : 100,
+    "allianceId" : "152165",
+    "allianceTag" : "216B",
+    "pointId" : 322284,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4811501059619008517",
+      "players" : [ ],
+      "num" : 32,
+      "endTimeMilli" : 1787615211495
+    },
+    "cityRewardSeenAt" : "2026-08-24T23:42:11.200Z",
+    "foundAt" : "2026-08-24T23:42:11.200Z"
+  }, {
     "serverId" : 502,
     "x" : 413,
     "y" : 615,
@@ -40,6 +59,25 @@
     },
     "cityRewardSeenAt" : "2026-08-24T23:12:35.461Z",
     "foundAt" : "2026-08-24T23:12:35.461Z"
+  }, {
+    "serverId" : 1383,
+    "x" : 412,
+    "y" : 430,
+    "uid" : "531888300944",
+    "username" : "loben",
+    "level" : 100,
+    "allianceId" : "700514",
+    "allianceTag" : "I383",
+    "pointId" : 220367,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4811519430100700677",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1787616306461
+    },
+    "cityRewardSeenAt" : "2026-08-24T23:41:14.057Z",
+    "foundAt" : "2026-08-24T23:41:14.057Z"
   }, {
     "serverId" : 2147,
     "x" : 402,
@@ -337,44 +375,6 @@
     },
     "cityRewardSeenAt" : "2026-08-24T23:17:12.229Z",
     "foundAt" : "2026-08-24T23:17:12.229Z"
-  }, {
-    "serverId" : 2747,
-    "x" : 351,
-    "y" : 327,
-    "uid" : "337991451473",
-    "username" : "Kombela",
-    "level" : 100,
-    "allianceId" : "500251793",
-    "allianceTag" : "747N",
-    "pointId" : 167600,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4811466548299789824",
-      "players" : [ ],
-      "num" : 9,
-      "endTimeMilli" : 1787613154460
-    },
-    "cityRewardSeenAt" : "2026-08-24T23:08:24.356Z",
-    "foundAt" : "2026-08-24T23:08:24.356Z"
-  }, {
-    "serverId" : 2747,
-    "x" : 377,
-    "y" : 301,
-    "uid" : "924373428910",
-    "username" : "Titan69",
-    "level" : 100,
-    "allianceId" : "500251793",
-    "allianceTag" : "747N",
-    "pointId" : 154301,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4811463284510520839",
-      "players" : [ ],
-      "num" : 15,
-      "endTimeMilli" : 1787612959923
-    },
-    "cityRewardSeenAt" : "2026-08-24T23:08:15.146Z",
-    "foundAt" : "2026-08-24T23:08:15.146Z"
   }, {
     "serverId" : 2988,
     "x" : 394,
