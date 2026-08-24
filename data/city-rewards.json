@@ -1,8 +1,30 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-24T02:45:33.646231800Z",
+  "updatedAt" : "2026-08-24T02:47:55.473177700Z",
   "count" : 26,
   "locations" : [ {
+    "serverId" : 277,
+    "x" : 331,
+    "y" : 491,
+    "uid" : "300506091846",
+    "username" : "Eric🪓",
+    "level" : 100,
+    "allianceId" : "100009220",
+    "allianceTag" : "Sun",
+    "pointId" : 251558,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4810254674169047554",
+      "players" : [ {
+        "frameId" : 3,
+        "playerInfo" : "{\"nationalflag\":74,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/304287859014.jpg?v=1586767236805\",\"username\":\"Blinds30\"}"
+      } ],
+      "num" : 3,
+      "endTimeMilli" : 1787540921133
+    },
+    "cityRewardSeenAt" : "2026-08-24T02:45:26.979Z",
+    "foundAt" : "2026-08-24T02:45:26.979Z"
+  }, {
     "serverId" : 800,
     "x" : 414,
     "y" : 416,
@@ -280,25 +302,6 @@
     },
     "cityRewardSeenAt" : "2026-08-24T02:13:15.177Z",
     "foundAt" : "2026-08-24T02:13:15.177Z"
-  }, {
-    "serverId" : 3345,
-    "x" : 418,
-    "y" : 414,
-    "uid" : "574769235072",
-    "username" : "磅磅匠",
-    "level" : 100,
-    "allianceId" : "500325012",
-    "allianceTag" : "BaMi",
-    "pointId" : 212178,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4810206536781144583",
-      "players" : [ ],
-      "num" : 13,
-      "endTimeMilli" : 1787538051921
-    },
-    "cityRewardSeenAt" : "2026-08-24T02:12:50.412Z",
-    "foundAt" : "2026-08-24T02:12:50.412Z"
   }, {
     "serverId" : 3522,
     "x" : 393,
