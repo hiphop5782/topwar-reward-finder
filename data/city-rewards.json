@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-24T06:23:57.892889Z",
-  "count" : 8,
+  "updatedAt" : "2026-08-24T06:25:35.338246900Z",
+  "count" : 11,
   "locations" : [ {
     "serverId" : 3342,
     "x" : 395,
@@ -163,5 +163,62 @@
     },
     "cityRewardSeenAt" : "2026-08-24T06:17:18.528Z",
     "foundAt" : "2026-08-24T06:17:18.528Z"
+  }, {
+    "serverId" : 4419,
+    "x" : 424,
+    "y" : 632,
+    "uid" : "9598174007619",
+    "username" : "Aakash",
+    "level" : 100,
+    "allianceId" : "500460671",
+    "allianceTag" : "NRRS",
+    "pointId" : 323797,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4810466143093556736",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1787553525663
+    },
+    "cityRewardSeenAt" : "2026-08-24T06:24:33.722Z",
+    "foundAt" : "2026-08-24T06:24:33.722Z"
+  }, {
+    "serverId" : 4419,
+    "x" : 439,
+    "y" : 627,
+    "uid" : "9597406712131",
+    "username" : "NineWave",
+    "level" : 100,
+    "allianceId" : "500460671",
+    "allianceTag" : "NRRS",
+    "pointId" : 321244,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4810463187501745664",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1787553349496
+    },
+    "cityRewardSeenAt" : "2026-08-24T06:24:33.722Z",
+    "foundAt" : "2026-08-24T06:24:33.722Z"
+  }, {
+    "serverId" : 4431,
+    "x" : 485,
+    "y" : 145,
+    "uid" : "9621537821007",
+    "username" : "ALI",
+    "level" : 67,
+    "allianceId" : "500464681",
+    "allianceTag" : "]l19",
+    "pointId" : 74483,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4810469583446253065",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1787553730724
+    },
+    "cityRewardSeenAt" : "2026-08-24T06:22:08.773Z",
+    "foundAt" : "2026-08-24T06:22:08.773Z"
   } ]
 }
