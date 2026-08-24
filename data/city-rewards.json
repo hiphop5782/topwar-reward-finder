@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-24T09:45:37.071578500Z",
-  "count" : 23,
+  "updatedAt" : "2026-08-24T09:47:43.410448300Z",
+  "count" : 22,
   "locations" : [ {
     "serverId" : 158,
     "x" : 438,
@@ -21,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-08-24T09:25:56.713Z",
     "foundAt" : "2026-08-24T09:25:56.713Z"
+  }, {
+    "serverId" : 208,
+    "x" : 87,
+    "y" : 505,
+    "uid" : "228267725037",
+    "username" : "ラオ",
+    "level" : 100,
+    "allianceId" : "100012265",
+    "allianceTag" : "chat",
+    "pointId" : 258604,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4810676054198951944",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1787566037340
+    },
+    "cityRewardSeenAt" : "2026-08-24T09:46:30.615Z",
+    "foundAt" : "2026-08-24T09:46:30.615Z"
   }, {
     "serverId" : 466,
     "x" : 385,
@@ -251,44 +270,6 @@
     },
     "cityRewardSeenAt" : "2026-08-24T09:19:57.026Z",
     "foundAt" : "2026-08-24T09:19:57.026Z"
-  }, {
-    "serverId" : 2937,
-    "x" : 421,
-    "y" : 533,
-    "uid" : "7675538770846",
-    "username" : "ジェイドロバリー",
-    "level" : 100,
-    "allianceId" : "500291368",
-    "allianceTag" : "BARs",
-    "pointId" : 273107,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4810649815439831558",
-      "players" : [ ],
-      "num" : 2,
-      "endTimeMilli" : 1787564473388
-    },
-    "cityRewardSeenAt" : "2026-08-24T09:12:03.836Z",
-    "foundAt" : "2026-08-24T09:12:03.836Z"
-  }, {
-    "serverId" : 2937,
-    "x" : 427,
-    "y" : 529,
-    "uid" : "435959485034",
-    "username" : "🍀ド〜ン🏖️",
-    "level" : 100,
-    "allianceId" : "500291368",
-    "allianceTag" : "BARs",
-    "pointId" : 271062,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4810639010006757889",
-      "players" : [ ],
-      "num" : 9,
-      "endTimeMilli" : 1787563829334
-    },
-    "cityRewardSeenAt" : "2026-08-24T09:12:03.836Z",
-    "foundAt" : "2026-08-24T09:12:03.836Z"
   }, {
     "serverId" : 3223,
     "x" : 408,
