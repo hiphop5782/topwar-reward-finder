@@ -1,30 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-24T06:04:30.667180900Z",
+  "updatedAt" : "2026-08-24T06:06:36.007191900Z",
   "count" : 8,
   "locations" : [ {
-    "serverId" : 135,
-    "x" : 408,
-    "y" : 402,
-    "uid" : "366532301818",
-    "username" : "Warning",
-    "level" : 100,
-    "allianceId" : "100025697",
-    "allianceTag" : "x135",
-    "pointId" : 206029,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4810413268352962049",
-      "players" : [ {
-        "frameId" : 8,
-        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/367550804986.jpg?v=1698296522066\",\"username\":\"Warníng\"}"
-      } ],
-      "num" : 3,
-      "endTimeMilli" : 1787550374082
-    },
-    "cityRewardSeenAt" : "2026-08-24T05:31:08.825Z",
-    "foundAt" : "2026-08-24T05:31:08.825Z"
-  }, {
     "serverId" : 1720,
     "x" : 407,
     "y" : 561,
@@ -138,6 +116,25 @@
     },
     "cityRewardSeenAt" : "2026-08-24T06:03:12.875Z",
     "foundAt" : "2026-08-24T06:03:12.875Z"
+  }, {
+    "serverId" : 3800,
+    "x" : 444,
+    "y" : 408,
+    "uid" : "8776799915736",
+    "username" : "Malgani6",
+    "level" : 100,
+    "allianceId" : "500377860",
+    "allianceTag" : "CLX$",
+    "pointId" : 209119,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4810445203718385669",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1787552277579
+    },
+    "cityRewardSeenAt" : "2026-08-24T06:04:13.265Z",
+    "foundAt" : "2026-08-24T06:04:13.265Z"
   }, {
     "serverId" : 3905,
     "x" : 554,
