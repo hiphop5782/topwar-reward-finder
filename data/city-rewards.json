@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-24T06:10:54.444890400Z",
-  "count" : 8,
+  "updatedAt" : "2026-08-24T06:13:03.076627800Z",
+  "count" : 9,
   "locations" : [ {
     "serverId" : 1720,
     "x" : 407,
@@ -163,5 +163,24 @@
     },
     "cityRewardSeenAt" : "2026-08-24T06:02:34.672Z",
     "foundAt" : "2026-08-24T06:02:34.672Z"
+  }, {
+    "serverId" : 4319,
+    "x" : 340,
+    "y" : 466,
+    "uid" : "9372285243615",
+    "username" : "Asgina",
+    "level" : 100,
+    "allianceId" : "500436053",
+    "allianceTag" : "REXN",
+    "pointId" : 238763,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4810452077260160517",
+      "players" : [ ],
+      "num" : 17,
+      "endTimeMilli" : 1787552687274
+    },
+    "cityRewardSeenAt" : "2026-08-24T06:10:27.201Z",
+    "foundAt" : "2026-08-24T06:10:27.201Z"
   } ]
 }
