@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-24T05:00:34.741784500Z",
+  "updatedAt" : "2026-08-24T05:02:58.971088600Z",
   "count" : 18,
   "locations" : [ {
+    "serverId" : 515,
+    "x" : 347,
+    "y" : 289,
+    "uid" : "287070462467",
+    "username" : "toshokan",
+    "level" : 100,
+    "allianceId" : "100048307",
+    "allianceTag" : "MoT",
+    "pointId" : 148142,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4810383053392446982",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1787548573131
+    },
+    "cityRewardSeenAt" : "2026-08-24T04:59:29.003Z",
+    "foundAt" : "2026-08-24T04:59:29.003Z"
+  }, {
     "serverId" : 1035,
     "x" : 470,
     "y" : 784,
@@ -343,24 +362,5 @@
     },
     "cityRewardSeenAt" : "2026-08-24T04:52:34.325Z",
     "foundAt" : "2026-08-24T04:52:34.325Z"
-  }, {
-    "serverId" : 4381,
-    "x" : 381,
-    "y" : 507,
-    "uid" : "9522992582941",
-    "username" : "xinon",
-    "level" : 100,
-    "allianceId" : "500450364",
-    "allianceTag" : "wiLL",
-    "pointId" : 259775,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4810362375660255753",
-      "players" : [ ],
-      "num" : 3,
-      "endTimeMilli" : 1787547340642
-    },
-    "cityRewardSeenAt" : "2026-08-24T04:27:04.906Z",
-    "foundAt" : "2026-08-24T04:27:04.906Z"
   } ]
 }
