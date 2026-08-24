@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-24T02:41:32.347415200Z",
+  "updatedAt" : "2026-08-24T02:43:40.677200700Z",
   "count" : 26,
   "locations" : [ {
     "serverId" : 800,
@@ -97,6 +97,25 @@
     },
     "cityRewardSeenAt" : "2026-08-24T02:25:49.761Z",
     "foundAt" : "2026-08-24T02:25:49.761Z"
+  }, {
+    "serverId" : 1552,
+    "x" : 413,
+    "y" : 265,
+    "uid" : "649688335899",
+    "username" : "sams007",
+    "level" : 100,
+    "allianceId" : "771513",
+    "allianceTag" : "KisS",
+    "pointId" : 135887,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4810240051114680325",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1787540049531
+    },
+    "cityRewardSeenAt" : "2026-08-24T02:41:15.983Z",
+    "foundAt" : "2026-08-24T02:41:15.983Z"
   }, {
     "serverId" : 2609,
     "x" : 396,
@@ -426,25 +445,6 @@
     "cityRewardSeenAt" : "2026-08-24T02:19:21.692Z",
     "foundAt" : "2026-08-24T02:19:21.692Z"
   }, {
-    "serverId" : 3753,
-    "x" : 474,
-    "y" : 578,
-    "uid" : "8691363057321",
-    "username" : "艾恩",
-    "level" : 100,
-    "allianceId" : "500374108",
-    "allianceTag" : "#Ak",
-    "pointId" : 296174,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4810200961293046280",
-      "players" : [ ],
-      "num" : 5,
-      "endTimeMilli" : 1787537719596
-    },
-    "cityRewardSeenAt" : "2026-08-24T02:07:25.394Z",
-    "foundAt" : "2026-08-24T02:07:25.394Z"
-  }, {
     "serverId" : 4239,
     "x" : 457,
     "y" : 471,
@@ -515,10 +515,10 @@
       "itemId" : 260617003,
       "instanceId" : "4810229153727076359",
       "players" : [ ],
-      "num" : 4,
+      "num" : 6,
       "endTimeMilli" : 1787539399996
     },
-    "cityRewardSeenAt" : "2026-08-24T02:31:39.787Z",
-    "foundAt" : "2026-08-24T02:31:39.787Z"
+    "cityRewardSeenAt" : "2026-08-24T02:41:56.907Z",
+    "foundAt" : "2026-08-24T02:41:56.907Z"
   } ]
 }
