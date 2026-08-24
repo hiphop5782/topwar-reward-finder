@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-24T13:46:47.509145200Z",
-  "count" : 16,
+  "updatedAt" : "2026-08-24T13:49:02.889860200Z",
+  "count" : 17,
   "locations" : [ {
     "serverId" : 383,
     "x" : 185,
@@ -41,6 +41,25 @@
     "cityRewardSeenAt" : "2026-08-24T13:23:12.749Z",
     "foundAt" : "2026-08-24T13:23:12.749Z"
   }, {
+    "serverId" : 1173,
+    "x" : 424,
+    "y" : 652,
+    "uid" : "381297136747",
+    "username" : "DerWolf",
+    "level" : 100,
+    "allianceId" : "200164146",
+    "allianceTag" : "SicK",
+    "pointId" : 334037,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4810917415356017153",
+      "players" : [ ],
+      "num" : 22,
+      "endTimeMilli" : 1787580423586
+    },
+    "cityRewardSeenAt" : "2026-08-24T13:46:56.948Z",
+    "foundAt" : "2026-08-24T13:46:56.948Z"
+  }, {
     "serverId" : 1525,
     "x" : 482,
     "y" : 440,
@@ -59,44 +78,6 @@
     },
     "cityRewardSeenAt" : "2026-08-24T13:39:22.481Z",
     "foundAt" : "2026-08-24T13:39:22.481Z"
-  }, {
-    "serverId" : 1951,
-    "x" : 394,
-    "y" : 220,
-    "uid" : "323784966910",
-    "username" : "MarkJhad",
-    "level" : 100,
-    "allianceId" : "500047179",
-    "allianceTag" : "GDL.",
-    "pointId" : 112838,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4810880759521820167",
-      "players" : [ ],
-      "num" : 35,
-      "endTimeMilli" : 1787578238728
-    },
-    "cityRewardSeenAt" : "2026-08-24T13:12:24.937Z",
-    "foundAt" : "2026-08-24T13:12:24.937Z"
-  }, {
-    "serverId" : 1951,
-    "x" : 405,
-    "y" : 707,
-    "uid" : "567046932349",
-    "username" : "里厚",
-    "level" : 100,
-    "allianceId" : "500047161",
-    "allianceTag" : "lDL",
-    "pointId" : 362187,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4810880096469466628",
-      "players" : [ ],
-      "num" : 15,
-      "endTimeMilli" : 1787578199207
-    },
-    "cityRewardSeenAt" : "2026-08-24T13:13:50.721Z",
-    "foundAt" : "2026-08-24T13:13:50.721Z"
   }, {
     "serverId" : 2501,
     "x" : 390,
@@ -318,5 +299,67 @@
     },
     "cityRewardSeenAt" : "2026-08-24T13:35:03.820Z",
     "foundAt" : "2026-08-24T13:35:03.820Z"
+  }, {
+    "serverId" : 4406,
+    "x" : 406,
+    "y" : 656,
+    "uid" : "9560182591798",
+    "username" : "Imperii",
+    "level" : 100,
+    "allianceId" : "500455630",
+    "allianceTag" : "^RA^",
+    "pointId" : 336076,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4810909628196088833",
+      "players" : [ {
+        "frameId" : 163,
+        "playerInfo" : "{\"nationalflag\":212,\"gender\":0,\"avatarurl\":\"hero_icon140_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"SYRIA\"}"
+      }, {
+        "frameId" : 164,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/db45b62310257196feef1421b5e107cd_1773483879.png?v=1773483879761\",\"https://knight-cdn.akamaized.net/headimg/db45b62310257196feef1421b5e107cd_1780473987.png?v=1780473988046\",\"https://knight-cdn.akamaized.net/headimg/db45b62310257196feef1421b5e107cd_1777945340.png?v=1777945341358\",\"https://knight-cdn.akamaized.net/headimg/db45b62310257196feef1421b5e107cd_1779558626.png?v=1779558627862\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/db45b62310257196feef1421b5e107cd_1780473987.png?v=1780473988046\",\"username\":\"Eugenia\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"hero_icon002_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"AZFR\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon239_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Frank\"}"
+      } ],
+      "num" : 17,
+      "endTimeMilli" : 1787579959435
+    },
+    "cityRewardSeenAt" : "2026-08-24T13:47:10.652Z",
+    "foundAt" : "2026-08-24T13:47:10.652Z"
+  }, {
+    "serverId" : 4406,
+    "x" : 411,
+    "y" : 667,
+    "uid" : "9559443018038",
+    "username" : "AvgUrsus",
+    "level" : 100,
+    "allianceId" : "500455630",
+    "allianceTag" : "^RA^",
+    "pointId" : 341710,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4810901814828493827",
+      "players" : [ {
+        "frameId" : 163,
+        "playerInfo" : "{\"nationalflag\":212,\"gender\":0,\"avatarurl\":\"hero_icon140_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"SYRIA\"}"
+      }, {
+        "frameId" : 164,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/db45b62310257196feef1421b5e107cd_1773483879.png?v=1773483879761\",\"https://knight-cdn.akamaized.net/headimg/db45b62310257196feef1421b5e107cd_1780473987.png?v=1780473988046\",\"https://knight-cdn.akamaized.net/headimg/db45b62310257196feef1421b5e107cd_1777945340.png?v=1777945341358\",\"https://knight-cdn.akamaized.net/headimg/db45b62310257196feef1421b5e107cd_1779558626.png?v=1779558627862\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/db45b62310257196feef1421b5e107cd_1780473987.png?v=1780473988046\",\"username\":\"Eugenia\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"hero_icon002_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"AZFR\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon239_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Frank\"}"
+      } ],
+      "num" : 23,
+      "endTimeMilli" : 1787579493722
+    },
+    "cityRewardSeenAt" : "2026-08-24T13:47:10.652Z",
+    "foundAt" : "2026-08-24T13:47:10.652Z"
   } ]
 }
