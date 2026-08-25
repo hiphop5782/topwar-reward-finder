@@ -1,8 +1,33 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-25T11:44:24.332243300Z",
-  "count" : 73,
+  "updatedAt" : "2026-08-25T11:46:56.899519400Z",
+  "count" : 72,
   "locations" : [ {
+    "serverId" : 73,
+    "x" : 477,
+    "y" : 475,
+    "uid" : "94901149798",
+    "username" : "にゃんこ先生",
+    "level" : 100,
+    "allianceId" : "45467",
+    "allianceTag" : "@BC",
+    "pointId" : 243439,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4812251242380169728",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/1786a525982a46340484f4da600774df_1744421104.jpg?v=1744421104881\",\"https://knight-cdn.akamaized.net/headimg/1786a525982a46340484f4da600774df_1744452237.jpg?v=1744452238056\",\"https://knight-cdn.akamaized.net/headimg/1786a525982a46340484f4da600774df_1744470739.jpg?v=1744470740544\",\"https://knight-cdn.akamaized.net/headimg/1786a525982a46340484f4da600774df_1786003254.png?v=1786003255138\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/1786a525982a46340484f4da600774df_1786003254.png?v=1786003255138\",\"username\":\"スーパーマリオ\"}"
+      }, {
+        "frameId" : 165,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/80f852422b59dcc0dcea2fff1bb2cd7b_1744642287.jpg?v=1744642288972\",\"https://knight-cdn.akamaized.net/headimg/80f852422b59dcc0dcea2fff1bb2cd7b_1785668698.png?v=1785668699710\",\"https://knight-cdn.akamaized.net/headimg/80f852422b59dcc0dcea2fff1bb2cd7b_1785762589.png?v=1785762591173\",\"https://knight-cdn.akamaized.net/headimg/80f852422b59dcc0dcea2fff1bb2cd7b_1782053832.png?v=1782053833565\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":\"にゃんこ先生\",\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/80f852422b59dcc0dcea2fff1bb2cd7b_1785762589.png?v=1785762591173\",\"username\":\"にゃんこ先生\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1787659925872
+    },
+    "cityRewardSeenAt" : "2026-08-25T11:44:11.139Z",
+    "foundAt" : "2026-08-25T11:44:11.139Z"
+  }, {
     "serverId" : 148,
     "x" : 163,
     "y" : 635,
@@ -821,6 +846,44 @@
     "cityRewardSeenAt" : "2026-08-25T11:38:52.688Z",
     "foundAt" : "2026-08-25T11:38:52.688Z"
   }, {
+    "serverId" : 2253,
+    "x" : 602,
+    "y" : 660,
+    "uid" : "447194296958",
+    "username" : "猫侍くるり",
+    "level" : 100,
+    "allianceId" : "500128907",
+    "allianceTag" : "Yham",
+    "pointId" : 338222,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4812249117060340228",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1787659799193
+    },
+    "cityRewardSeenAt" : "2026-08-25T11:46:16.140Z",
+    "foundAt" : "2026-08-25T11:46:16.140Z"
+  }, {
+    "serverId" : 2253,
+    "x" : 604,
+    "y" : 658,
+    "uid" : "467816755838",
+    "username" : "くるりサブ",
+    "level" : 100,
+    "allianceId" : "500128907",
+    "allianceTag" : "Yham",
+    "pointId" : 337199,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4812253670061218304",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1787660070573
+    },
+    "cityRewardSeenAt" : "2026-08-25T11:46:16.140Z",
+    "foundAt" : "2026-08-25T11:46:16.140Z"
+  }, {
     "serverId" : 2587,
     "x" : 429,
     "y" : 301,
@@ -934,25 +997,6 @@
     },
     "cityRewardSeenAt" : "2026-08-25T11:25:51.747Z",
     "foundAt" : "2026-08-25T11:25:51.747Z"
-  }, {
-    "serverId" : 2695,
-    "x" : 377,
-    "y" : 293,
-    "uid" : "406360077602",
-    "username" : "Kareem",
-    "level" : 100,
-    "allianceId" : "500243695",
-    "allianceTag" : "95N",
-    "pointId" : 150205,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4812202684286569987",
-      "players" : [ ],
-      "num" : 8,
-      "endTimeMilli" : 1787657031584
-    },
-    "cityRewardSeenAt" : "2026-08-25T11:11:12.549Z",
-    "foundAt" : "2026-08-25T11:11:12.549Z"
   }, {
     "serverId" : 2699,
     "x" : 393,
@@ -1195,100 +1239,43 @@
     "cityRewardSeenAt" : "2026-08-25T11:19:01.232Z",
     "foundAt" : "2026-08-25T11:19:01.232Z"
   }, {
-    "serverId" : 3223,
-    "x" : 388,
-    "y" : 578,
-    "uid" : "793571047518",
-    "username" : "GogoCMD",
+    "serverId" : 3396,
+    "x" : 410,
+    "y" : 546,
+    "uid" : "7812377283602",
+    "username" : "푸른별",
     "level" : 100,
-    "allianceId" : "500314490",
-    "allianceTag" : "INF_",
-    "pointId" : 296131,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4812210311595109892",
-      "players" : [ ],
-      "num" : 13,
-      "endTimeMilli" : 1787657486207
-    },
-    "cityRewardSeenAt" : "2026-08-25T11:10:56.197Z",
-    "foundAt" : "2026-08-25T11:10:56.197Z"
-  }, {
-    "serverId" : 3223,
-    "x" : 400,
-    "y" : 408,
-    "uid" : "919049325186",
-    "username" : "SkyL🌟ve",
-    "level" : 100,
-    "allianceId" : "500314562",
-    "allianceTag" : "KID:",
-    "pointId" : 209097,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4812190253225422344",
-      "players" : [ ],
-      "num" : 64,
-      "endTimeMilli" : 1787656290635
-    },
-    "cityRewardSeenAt" : "2026-08-25T11:10:29.616Z",
-    "foundAt" : "2026-08-25T11:10:29.616Z"
-  }, {
-    "serverId" : 3223,
-    "x" : 406,
-    "y" : 398,
-    "uid" : "919137258114",
-    "username" : "🚫담궈🚫",
-    "level" : 100,
-    "allianceId" : "500314562",
-    "allianceTag" : "KID:",
-    "pointId" : 203980,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4812213546426904066",
-      "players" : [ ],
-      "num" : 23,
-      "endTimeMilli" : 1787657679018
-    },
-    "cityRewardSeenAt" : "2026-08-25T11:10:29.616Z",
-    "foundAt" : "2026-08-25T11:10:29.616Z"
-  }, {
-    "serverId" : 3223,
-    "x" : 406,
-    "y" : 402,
-    "uid" : "581019178937",
-    "username" : "아지",
-    "level" : 100,
-    "allianceId" : "500314562",
-    "allianceTag" : "KID:",
-    "pointId" : 206028,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4812201930536857090",
-      "players" : [ ],
-      "num" : 23,
-      "endTimeMilli" : 1787656986657
-    },
-    "cityRewardSeenAt" : "2026-08-25T11:10:29.616Z",
-    "foundAt" : "2026-08-25T11:10:29.616Z"
-  }, {
-    "serverId" : 3223,
-    "x" : 406,
-    "y" : 432,
-    "uid" : "933624896237",
-    "username" : "💐루크",
-    "level" : 100,
-    "allianceId" : "500314562",
-    "allianceTag" : "KID:",
-    "pointId" : 221388,
+    "allianceId" : "500330742",
+    "allianceTag" : "96Y",
+    "pointId" : 279758,
     "cityReward" : {
       "itemId" : 260617004,
-      "instanceId" : "4812214570273287682",
+      "instanceId" : "4812234052060481538",
       "players" : [ ],
-      "num" : 18,
-      "endTimeMilli" : 1787657740044
+      "num" : 113,
+      "endTimeMilli" : 1787658901249
     },
-    "cityRewardSeenAt" : "2026-08-25T11:10:29.616Z",
-    "foundAt" : "2026-08-25T11:10:29.616Z"
+    "cityRewardSeenAt" : "2026-08-25T11:44:07.588Z",
+    "foundAt" : "2026-08-25T11:44:07.588Z"
+  }, {
+    "serverId" : 3396,
+    "x" : 416,
+    "y" : 528,
+    "uid" : "586679510211",
+    "username" : "독거미",
+    "level" : 100,
+    "allianceId" : "500330742",
+    "allianceTag" : "96Y",
+    "pointId" : 270545,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4812243252954171398",
+      "players" : [ ],
+      "num" : 16,
+      "endTimeMilli" : 1787659449665
+    },
+    "cityRewardSeenAt" : "2026-08-25T11:43:54.655Z",
+    "foundAt" : "2026-08-25T11:43:54.655Z"
   }, {
     "serverId" : 3453,
     "x" : 290,
