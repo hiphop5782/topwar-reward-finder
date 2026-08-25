@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-25T20:53:43.160593900Z",
-  "count" : 57,
+  "updatedAt" : "2026-08-25T20:55:53.203339400Z",
+  "count" : 59,
   "locations" : [ {
     "serverId" : 208,
     "x" : 376,
@@ -1142,6 +1142,25 @@
     "foundAt" : "2026-08-25T20:39:27.641Z"
   }, {
     "serverId" : 3506,
+    "x" : 398,
+    "y" : 630,
+    "uid" : "795300513891",
+    "username" : "성현³⁵⁰⁶",
+    "level" : 100,
+    "allianceId" : "500345480",
+    "allianceTag" : "S0NE",
+    "pointId" : 322760,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4812785152182412295",
+      "players" : [ ],
+      "num" : 37,
+      "endTimeMilli" : 1787691749376
+    },
+    "cityRewardSeenAt" : "2026-08-25T20:53:33.275Z",
+    "foundAt" : "2026-08-25T20:53:33.275Z"
+  }, {
+    "serverId" : 3506,
     "x" : 401,
     "y" : 355,
     "uid" : "851363965254",
@@ -1154,11 +1173,30 @@
       "itemId" : 260617002,
       "instanceId" : "4812775348214916100",
       "players" : [ ],
-      "num" : 13,
+      "num" : 46,
       "endTimeMilli" : 1787691165014
     },
-    "cityRewardSeenAt" : "2026-08-25T20:26:07.987Z",
-    "foundAt" : "2026-08-25T20:26:07.987Z"
+    "cityRewardSeenAt" : "2026-08-25T20:52:40.931Z",
+    "foundAt" : "2026-08-25T20:52:40.931Z"
+  }, {
+    "serverId" : 3506,
+    "x" : 425,
+    "y" : 331,
+    "uid" : "7866884033632",
+    "username" : "슈퍼댕댕",
+    "level" : 100,
+    "allianceId" : "500346083",
+    "allianceTag" : "n0NE",
+    "pointId" : 169685,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4812784324696564737",
+      "players" : [ ],
+      "num" : 34,
+      "endTimeMilli" : 1787691700054
+    },
+    "cityRewardSeenAt" : "2026-08-25T20:52:40.931Z",
+    "foundAt" : "2026-08-25T20:52:40.931Z"
   }, {
     "serverId" : 4344,
     "x" : 384,
