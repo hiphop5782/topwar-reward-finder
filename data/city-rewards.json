@@ -1,77 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-25T12:46:37.493696100Z",
-  "count" : 90,
+  "updatedAt" : "2026-08-25T12:48:40.000384Z",
+  "count" : 84,
   "locations" : [ {
-    "serverId" : 126,
-    "x" : 498,
-    "y" : 342,
-    "uid" : "163808510119",
-    "username" : "ベニマル",
-    "level" : 100,
-    "allianceId" : "110210",
-    "allianceTag" : "OTA",
-    "pointId" : 175354,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4812274748367109124",
-      "players" : [ ],
-      "num" : 16,
-      "endTimeMilli" : 1787661326938
-    },
-    "cityRewardSeenAt" : "2026-08-25T12:11:46.983Z",
-    "foundAt" : "2026-08-25T12:11:46.983Z"
-  }, {
-    "serverId" : 126,
-    "x" : 500,
-    "y" : 344,
-    "uid" : "787621007486",
-    "username" : "シンモン",
-    "level" : 100,
-    "allianceId" : "110210",
-    "allianceTag" : "OTA",
-    "pointId" : 176379,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4812274916961352710",
-      "players" : [ ],
-      "num" : 17,
-      "endTimeMilli" : 1787661336987
-    },
-    "cityRewardSeenAt" : "2026-08-25T12:11:46.983Z",
-    "foundAt" : "2026-08-25T12:11:46.983Z"
-  }, {
-    "serverId" : 126,
-    "x" : 503,
-    "y" : 337,
-    "uid" : "116331327614",
-    "username" : "〆御茶〆",
-    "level" : 100,
-    "allianceId" : "110210",
-    "allianceTag" : "OTA",
-    "pointId" : 172796,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4812273749518777348",
-      "players" : [ {
-        "frameId" : 20,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon018\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"マンハったん\"}"
-      }, {
-        "frameId" : 1,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_6_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"〆生茶〆\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon319\",\"nickname\":\"wy.166065549479\",\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/166065549479.jpg?v=1674418975667\",\"username\":\"アークライト\"}"
-      }, {
-        "frameId" : 114,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon135\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"シンモン\"}"
-      } ],
-      "num" : 7,
-      "endTimeMilli" : 1787661267402
-    },
-    "cityRewardSeenAt" : "2026-08-25T12:11:46.983Z",
-    "foundAt" : "2026-08-25T12:11:46.983Z"
-  }, {
     "serverId" : 164,
     "x" : 294,
     "y" : 620,
@@ -1744,63 +1675,6 @@
     },
     "cityRewardSeenAt" : "2026-08-25T12:35:42.447Z",
     "foundAt" : "2026-08-25T12:35:42.447Z"
-  }, {
-    "serverId" : 3453,
-    "x" : 280,
-    "y" : 528,
-    "uid" : "516873118509",
-    "username" : "⚔️D",
-    "level" : 100,
-    "allianceId" : "500338960",
-    "allianceTag" : "53-W",
-    "pointId" : 270477,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4812255501664057856",
-      "players" : [ ],
-      "num" : 77,
-      "endTimeMilli" : 1787660179745
-    },
-    "cityRewardSeenAt" : "2026-08-25T12:12:23.941Z",
-    "foundAt" : "2026-08-25T12:12:23.941Z"
-  }, {
-    "serverId" : 3453,
-    "x" : 296,
-    "y" : 496,
-    "uid" : "461005526510",
-    "username" : "🦔",
-    "level" : 100,
-    "allianceId" : "500338960",
-    "allianceTag" : "53-W",
-    "pointId" : 254101,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4812259645971954182",
-      "players" : [ ],
-      "num" : 68,
-      "endTimeMilli" : 1787660426765
-    },
-    "cityRewardSeenAt" : "2026-08-25T12:12:23.941Z",
-    "foundAt" : "2026-08-25T12:12:23.941Z"
-  }, {
-    "serverId" : 3453,
-    "x" : 431,
-    "y" : 585,
-    "uid" : "383163536493",
-    "username" : "Rook🏆🏆",
-    "level" : 100,
-    "allianceId" : "500338940",
-    "allianceTag" : "53-S",
-    "pointId" : 299736,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4812268079962323460",
-      "players" : [ ],
-      "num" : 72,
-      "endTimeMilli" : 1787660929470
-    },
-    "cityRewardSeenAt" : "2026-08-25T12:12:38.993Z",
-    "foundAt" : "2026-08-25T12:12:38.993Z"
   }, {
     "serverId" : 3646,
     "x" : 397,
