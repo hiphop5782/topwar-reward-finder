@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-25T02:42:48.385993900Z",
-  "count" : 31,
+  "updatedAt" : "2026-08-25T02:43:51.378709200Z",
+  "count" : 32,
   "locations" : [ {
     "serverId" : 1035,
     "x" : 461,
@@ -606,5 +606,24 @@
     },
     "cityRewardSeenAt" : "2026-08-25T02:22:12.921Z",
     "foundAt" : "2026-08-25T02:22:12.921Z"
+  }, {
+    "serverId" : 4392,
+    "x" : 469,
+    "y" : 479,
+    "uid" : "9546107883816",
+    "username" : "Rollo",
+    "level" : 97,
+    "allianceId" : "500453203",
+    "allianceTag" : ".CW",
+    "pointId" : 245483,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4811706247623626753",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1787627441653
+    },
+    "cityRewardSeenAt" : "2026-08-25T02:42:07.652Z",
+    "foundAt" : "2026-08-25T02:42:07.652Z"
   } ]
 }
