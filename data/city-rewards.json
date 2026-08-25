@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-25T15:18:18.387849Z",
-  "count" : 28,
+  "updatedAt" : "2026-08-25T15:20:13.936675900Z",
+  "count" : 29,
   "locations" : [ {
     "serverId" : 111,
     "x" : 299,
@@ -273,6 +273,44 @@
     },
     "cityRewardSeenAt" : "2026-08-25T14:52:29.706Z",
     "foundAt" : "2026-08-25T14:52:29.706Z"
+  }, {
+    "serverId" : 2687,
+    "x" : 376,
+    "y" : 596,
+    "uid" : "909908585043",
+    "username" : "Paver⚽️",
+    "level" : 100,
+    "allianceId" : "500237326",
+    "allianceTag" : "87GR",
+    "pointId" : 305341,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4812460515283762690",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1787672399509
+    },
+    "cityRewardSeenAt" : "2026-08-25T15:18:17.146Z",
+    "foundAt" : "2026-08-25T15:18:17.146Z"
+  }, {
+    "serverId" : 2687,
+    "x" : 383,
+    "y" : 593,
+    "uid" : "433169442217",
+    "username" : "GAP",
+    "level" : 100,
+    "allianceId" : "500237326",
+    "allianceTag" : "87GR",
+    "pointId" : 303808,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4812467740123397640",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1787672830143
+    },
+    "cityRewardSeenAt" : "2026-08-25T15:18:17.146Z",
+    "foundAt" : "2026-08-25T15:18:17.146Z"
   }, {
     "serverId" : 2842,
     "x" : 391,
@@ -587,24 +625,5 @@
     },
     "cityRewardSeenAt" : "2026-08-25T14:47:47.529Z",
     "foundAt" : "2026-08-25T14:47:47.529Z"
-  }, {
-    "serverId" : 3506,
-    "x" : 404,
-    "y" : 340,
-    "uid" : "420374398334",
-    "username" : "БарселонаЧемпион",
-    "level" : 100,
-    "allianceId" : "500346083",
-    "allianceTag" : "n0NE",
-    "pointId" : 174283,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4812413019338007553",
-      "players" : [ ],
-      "num" : 23,
-      "endTimeMilli" : 1787669568530
-    },
-    "cityRewardSeenAt" : "2026-08-25T14:44:34.948Z",
-    "foundAt" : "2026-08-25T14:44:34.948Z"
   } ]
 }
