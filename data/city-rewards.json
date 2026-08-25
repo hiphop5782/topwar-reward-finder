@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-25T05:52:42.593956800Z",
+  "updatedAt" : "2026-08-25T05:54:23.691884700Z",
   "count" : 34,
   "locations" : [ {
     "serverId" : 341,
@@ -326,6 +326,25 @@
     "cityRewardSeenAt" : "2026-08-25T05:25:23.349Z",
     "foundAt" : "2026-08-25T05:25:23.349Z"
   }, {
+    "serverId" : 3170,
+    "x" : 424,
+    "y" : 334,
+    "uid" : "233239601345",
+    "username" : "SV02",
+    "level" : 100,
+    "allianceId" : "500312950",
+    "allianceTag" : "n4's",
+    "pointId" : 171221,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4811889841603658761",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1787638384707
+    },
+    "cityRewardSeenAt" : "2026-08-25T05:52:14.015Z",
+    "foundAt" : "2026-08-25T05:52:14.015Z"
+  }, {
     "serverId" : 3355,
     "x" : 389,
     "y" : 361,
@@ -644,24 +663,5 @@
     },
     "cityRewardSeenAt" : "2026-08-25T05:20:41.370Z",
     "foundAt" : "2026-08-25T05:20:41.370Z"
-  }, {
-    "serverId" : 4410,
-    "x" : 415,
-    "y" : 563,
-    "uid" : "9584690368826",
-    "username" : "Legion🔥",
-    "level" : 97,
-    "allianceId" : "500458727",
-    "allianceTag" : "=TB=",
-    "pointId" : 288464,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4811836557971584005",
-      "players" : [ ],
-      "num" : 12,
-      "endTimeMilli" : 1787635208755
-    },
-    "cityRewardSeenAt" : "2026-08-25T05:17:52.193Z",
-    "foundAt" : "2026-08-25T05:17:52.193Z"
   } ]
 }
