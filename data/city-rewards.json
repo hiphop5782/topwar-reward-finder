@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-25T22:27:37.189983600Z",
-  "count" : 62,
+  "updatedAt" : "2026-08-25T22:28:58.237881300Z",
+  "count" : 65,
   "locations" : [ {
     "serverId" : 341,
     "x" : 269,
@@ -520,6 +520,25 @@
     "foundAt" : "2026-08-25T21:59:26.620Z"
   }, {
     "serverId" : 1444,
+    "x" : 396,
+    "y" : 300,
+    "uid" : "796207097955",
+    "username" : "🌟GM🌟",
+    "level" : 100,
+    "allianceId" : "720954",
+    "allianceTag" : "k1N9",
+    "pointId" : 153799,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4812884826812794881",
+      "players" : [ ],
+      "num" : 17,
+      "endTimeMilli" : 1787697690447
+    },
+    "cityRewardSeenAt" : "2026-08-25T22:26:56.678Z",
+    "foundAt" : "2026-08-25T22:26:56.678Z"
+  }, {
+    "serverId" : 1444,
     "x" : 402,
     "y" : 294,
     "uid" : "524809012909",
@@ -532,11 +551,11 @@
       "itemId" : 260617002,
       "instanceId" : "4812870950998198272",
       "players" : [ ],
-      "num" : 9,
+      "num" : 17,
       "endTimeMilli" : 1787696863384
     },
-    "cityRewardSeenAt" : "2026-08-25T22:07:31.871Z",
-    "foundAt" : "2026-08-25T22:07:31.871Z"
+    "cityRewardSeenAt" : "2026-08-25T22:26:56.678Z",
+    "foundAt" : "2026-08-25T22:26:56.678Z"
   }, {
     "serverId" : 1668,
     "x" : 583,
@@ -1308,6 +1327,56 @@
     },
     "cityRewardSeenAt" : "2026-08-25T22:00:41.363Z",
     "foundAt" : "2026-08-25T22:00:41.363Z"
+  }, {
+    "serverId" : 4343,
+    "x" : 457,
+    "y" : 465,
+    "uid" : "9256123011215",
+    "username" : "hiro🌰",
+    "level" : 100,
+    "allianceId" : "500440473",
+    "allianceTag" : "PuDu",
+    "pointId" : 238309,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4812887997590662659",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/cdd51e9fcf195a56677a16e21d02f6f0_1780220711.png?v=1780220712586\",\"https://knight-cdn.akamaized.net/headimg/cdd51e9fcf195a56677a16e21d02f6f0_1778289743.png?v=1778289744531\",\"https://knight-cdn.akamaized.net/headimg/cdd51e9fcf195a56677a16e21d02f6f0_1784344341.png?v=1784344342326\",\"https://knight-cdn.akamaized.net/headimg/cdd51e9fcf195a56677a16e21d02f6f0_1786845812.png?v=1786845813241\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/cdd51e9fcf195a56677a16e21d02f6f0_1786845812.png?v=1786845813241\",\"username\":\"zazy\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/494f7de706334719b9a5e221d8544133_1785375171.png?v=1785375172625\",\"https://knight-cdn.akamaized.net/headimg/494f7de706334719b9a5e221d8544133_1776476490.png?v=1776476492978\",\"https://knight-cdn.akamaized.net/headimg/494f7de706334719b9a5e221d8544133_1773259948.png?v=1773259953169\",\"https://knight-cdn.akamaized.net/headimg/494f7de706334719b9a5e221d8544133_1787655600.png?v=1787655601417\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/494f7de706334719b9a5e221d8544133_1773259948.png?v=1773259953169\",\"username\":\"W1ld\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"dimON\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Akh82\"}"
+      } ],
+      "num" : 15,
+      "endTimeMilli" : 1787697879440
+    },
+    "cityRewardSeenAt" : "2026-08-25T22:27:12.637Z",
+    "foundAt" : "2026-08-25T22:27:12.637Z"
+  }, {
+    "serverId" : 4343,
+    "x" : 459,
+    "y" : 473,
+    "uid" : "9412204597495",
+    "username" : "Bebonov",
+    "level" : 96,
+    "allianceId" : "500440473",
+    "allianceTag" : "PuDu",
+    "pointId" : 242406,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4812896753569361415",
+      "players" : [ ],
+      "num" : 16,
+      "endTimeMilli" : 1787698401337
+    },
+    "cityRewardSeenAt" : "2026-08-25T22:27:12.637Z",
+    "foundAt" : "2026-08-25T22:27:12.637Z"
   }, {
     "serverId" : 4459,
     "x" : 428,
