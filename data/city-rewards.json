@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-25T07:01:44.938230600Z",
+  "updatedAt" : "2026-08-25T07:03:45.162999900Z",
   "count" : 17,
   "locations" : [ {
     "serverId" : 341,
@@ -205,25 +205,6 @@
     "cityRewardSeenAt" : "2026-08-25T06:59:40.156Z",
     "foundAt" : "2026-08-25T06:59:40.156Z"
   }, {
-    "serverId" : 3396,
-    "x" : 417,
-    "y" : 397,
-    "uid" : "593402558466",
-    "username" : "hero",
-    "level" : 100,
-    "allianceId" : "500331035",
-    "allianceTag" : "96X",
-    "pointId" : 203473,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4811936152021534727",
-      "players" : [ ],
-      "num" : 4,
-      "endTimeMilli" : 1787641145023
-    },
-    "cityRewardSeenAt" : "2026-08-25T06:37:06.037Z",
-    "foundAt" : "2026-08-25T06:37:06.037Z"
-  }, {
     "serverId" : 3453,
     "x" : 288,
     "y" : 500,
@@ -318,6 +299,37 @@
     },
     "cityRewardSeenAt" : "2026-08-25T07:00:36.237Z",
     "foundAt" : "2026-08-25T07:00:36.237Z"
+  }, {
+    "serverId" : 3506,
+    "x" : 425,
+    "y" : 349,
+    "uid" : "8089760664886",
+    "username" : "Braj",
+    "level" : 100,
+    "allianceId" : "500346083",
+    "allianceTag" : "n0NE",
+    "pointId" : 178901,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4811944214715393031",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/cbe17c2e55df22f98a6e1c2b88eccef3_1733528150.jpg?v=1733528151593\",\"https://knight-cdn.akamaized.net/headimg/cbe17c2e55df22f98a6e1c2b88eccef3_1766914475.png?v=1766914475394\",\"https://knight-cdn.akamaized.net/headimg/cbe17c2e55df22f98a6e1c2b88eccef3_1777899739.png?v=1777899741157\",\"https://knight-cdn.akamaized.net/headimg/cbe17c2e55df22f98a6e1c2b88eccef3_1750655422.jpg?v=1750655425119\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/cbe17c2e55df22f98a6e1c2b88eccef3_1766914475.png?v=1766914475394\",\"username\":\"🥦검은곰🐻\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/8c6b871ed884145d14b1554d124e382b_1745289519.jpg?v=1745289520248\",\"https://knight-cdn.akamaized.net/headimg/8c6b871ed884145d14b1554d124e382b_1747053527.jpg?v=1747053528105\",\"https://knight-cdn.akamaized.net/headimg/8c6b871ed884145d14b1554d124e382b_1754373096.jpg?v=1754373097298\",\"https://knight-cdn.akamaized.net/headimg/8c6b871ed884145d14b1554d124e382b_1780545428.png?v=1780545429023\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/8c6b871ed884145d14b1554d124e382b_1780545428.png?v=1780545429023\",\"username\":\"호Kim🥦\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/f11aa7a60483d63e7683531a2571167b_1724767468.jpg?v=1724767470363\"],\"nationalflag\":105,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/f11aa7a60483d63e7683531a2571167b_1724767468.jpg?v=1724767470363\",\"username\":\"Retired\"}"
+      }, {
+        "frameId" : 122,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/7ca7ebf8c3fadcaef8991cbc15f26d4b_1773673723.png?v=1773673724507\",\"https://knight-cdn.akamaized.net/headimg/7ca7ebf8c3fadcaef8991cbc15f26d4b_1746276898.jpg?v=1746276899432\",\"https://knight-cdn.akamaized.net/headimg/7ca7ebf8c3fadcaef8991cbc15f26d4b_1747559234.jpg?v=1747559235513\",\"https://knight-cdn.akamaized.net/headimg/7ca7ebf8c3fadcaef8991cbc15f26d4b_1747871694.jpg?v=1747871701592\"],\"nationalflag\":70,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/7ca7ebf8c3fadcaef8991cbc15f26d4b_1773673723.png?v=1773673724507\",\"username\":\"필Pill🥦\"}"
+      } ],
+      "num" : 32,
+      "endTimeMilli" : 1787641625597
+    },
+    "cityRewardSeenAt" : "2026-08-25T07:02:11.430Z",
+    "foundAt" : "2026-08-25T07:02:11.430Z"
   }, {
     "serverId" : 4317,
     "x" : 430,
