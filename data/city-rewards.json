@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-25T05:07:23.370780300Z",
-  "count" : 32,
+  "updatedAt" : "2026-08-25T05:09:11.662252600Z",
+  "count" : 30,
   "locations" : [ {
     "serverId" : 341,
     "x" : 281,
@@ -644,46 +644,5 @@
     },
     "cityRewardSeenAt" : "2026-08-25T04:42:30.639Z",
     "foundAt" : "2026-08-25T04:42:30.639Z"
-  }, {
-    "serverId" : 4281,
-    "x" : 415,
-    "y" : 391,
-    "uid" : "9311167779001",
-    "username" : "SayWhen",
-    "level" : 100,
-    "allianceId" : "500428143",
-    "allianceTag" : "FSOD",
-    "pointId" : 200400,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4811804797476893184",
-      "players" : [ {
-        "frameId" : 159,
-        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"hero_icon162_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Goose\"}"
-      } ],
-      "num" : 14,
-      "endTimeMilli" : 1787633315682
-    },
-    "cityRewardSeenAt" : "2026-08-25T04:32:57.559Z",
-    "foundAt" : "2026-08-25T04:32:57.559Z"
-  }, {
-    "serverId" : 4281,
-    "x" : 427,
-    "y" : 387,
-    "uid" : "9326405128393",
-    "username" : "Signus",
-    "level" : 100,
-    "allianceId" : "500428143",
-    "allianceTag" : "FSOD",
-    "pointId" : 198358,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4811813074566738434",
-      "players" : [ ],
-      "num" : 7,
-      "endTimeMilli" : 1787633809035
-    },
-    "cityRewardSeenAt" : "2026-08-25T04:32:57.559Z",
-    "foundAt" : "2026-08-25T04:32:57.559Z"
   } ]
 }
