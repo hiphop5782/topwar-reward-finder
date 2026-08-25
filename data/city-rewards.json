@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-25T18:14:46.967331200Z",
+  "updatedAt" : "2026-08-25T18:16:39.123776500Z",
   "count" : 112,
   "locations" : [ {
+    "serverId" : 135,
+    "x" : 580,
+    "y" : 188,
+    "uid" : "348606587311",
+    "username" : "PAC-MAN",
+    "level" : 100,
+    "allianceId" : "85921",
+    "allianceTag" : "Mf09",
+    "pointId" : 96547,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4812629634938113541",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1787682479826
+    },
+    "cityRewardSeenAt" : "2026-08-25T18:14:26.989Z",
+    "foundAt" : "2026-08-25T18:14:26.989Z"
+  }, {
     "serverId" : 623,
     "x" : 514,
     "y" : 456,
@@ -1148,25 +1167,6 @@
     },
     "cityRewardSeenAt" : "2026-08-25T17:47:49.046Z",
     "foundAt" : "2026-08-25T17:47:49.046Z"
-  }, {
-    "serverId" : 2683,
-    "x" : 406,
-    "y" : 556,
-    "uid" : "406741415203",
-    "username" : "Pulp",
-    "level" : 100,
-    "allianceId" : "500234594",
-    "allianceTag" : "B~K~",
-    "pointId" : 284876,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4812599593555785223",
-      "players" : [ ],
-      "num" : 19,
-      "endTimeMilli" : 1787680689220
-    },
-    "cityRewardSeenAt" : "2026-08-25T17:39:55.579Z",
-    "foundAt" : "2026-08-25T17:39:55.579Z"
   }, {
     "serverId" : 2691,
     "x" : 396,
