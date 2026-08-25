@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-25T08:40:14.081410500Z",
+  "updatedAt" : "2026-08-25T08:42:43.624488400Z",
   "count" : 22,
   "locations" : [ {
+    "serverId" : 184,
+    "x" : 447,
+    "y" : 639,
+    "uid" : "197674934473",
+    "username" : "DEVIP",
+    "level" : 100,
+    "allianceId" : "120006",
+    "allianceTag" : "184R",
+    "pointId" : 327392,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4812042774935334919",
+      "players" : [ ],
+      "num" : 19,
+      "endTimeMilli" : 1787647500244
+    },
+    "cityRewardSeenAt" : "2026-08-25T08:40:18.806Z",
+    "foundAt" : "2026-08-25T08:40:18.806Z"
+  }, {
     "serverId" : 341,
     "x" : 392,
     "y" : 342,
@@ -90,25 +109,6 @@
     },
     "cityRewardSeenAt" : "2026-08-25T08:35:36.504Z",
     "foundAt" : "2026-08-25T08:35:36.504Z"
-  }, {
-    "serverId" : 1313,
-    "x" : 269,
-    "y" : 495,
-    "uid" : "487985492687",
-    "username" : "PikaPika",
-    "level" : 100,
-    "allianceId" : "200177049",
-    "allianceTag" : "131W",
-    "pointId" : 253575,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4812030421620113929",
-      "players" : [ ],
-      "num" : 10,
-      "endTimeMilli" : 1787646763929
-    },
-    "cityRewardSeenAt" : "2026-08-25T08:06:17.060Z",
-    "foundAt" : "2026-08-25T08:06:17.060Z"
   }, {
     "serverId" : 1397,
     "x" : 412,
