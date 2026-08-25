@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-25T04:20:41.830489400Z",
+  "updatedAt" : "2026-08-25T04:22:50.057013400Z",
   "count" : 46,
   "locations" : [ {
     "serverId" : 172,
@@ -135,6 +135,31 @@
     },
     "cityRewardSeenAt" : "2026-08-25T03:49:54.807Z",
     "foundAt" : "2026-08-25T03:49:54.807Z"
+  }, {
+    "serverId" : 1304,
+    "x" : 454,
+    "y" : 670,
+    "uid" : "387734226108",
+    "username" : "Kcody",
+    "level" : 100,
+    "allianceId" : "300075672",
+    "allianceTag" : "DCMT",
+    "pointId" : 343268,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4811790829738405890",
+      "players" : [ {
+        "frameId" : 141,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/405289788713.jpg?v=1658978629961\",\"https://knight-cdn.akamaized.net/headimg/1802ea0e6084e72fd76b89031e9ee7e1_1754936663.jpg?v=1754936667049\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/405289788713.jpg?v=1658978629961\",\"username\":\"Coyote\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/387734226108.jpg?v=1652986794919\",\"username\":\"Kcody\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1787632483140
+    },
+    "cityRewardSeenAt" : "2026-08-25T04:20:42.476Z",
+    "foundAt" : "2026-08-25T04:20:42.476Z"
   }, {
     "serverId" : 1313,
     "x" : 272,
@@ -853,25 +878,6 @@
     },
     "cityRewardSeenAt" : "2026-08-25T03:49:18.876Z",
     "foundAt" : "2026-08-25T03:49:18.876Z"
-  }, {
-    "serverId" : 3752,
-    "x" : 448,
-    "y" : 366,
-    "uid" : "8771380251927",
-    "username" : "MR14",
-    "level" : 100,
-    "allianceId" : "500373884",
-    "allianceTag" : "@DMS",
-    "pointId" : 187617,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4811757725541027847",
-      "players" : [ ],
-      "num" : 9,
-      "endTimeMilli" : 1787630509976
-    },
-    "cityRewardSeenAt" : "2026-08-25T03:47:06.569Z",
-    "foundAt" : "2026-08-25T03:47:06.569Z"
   }, {
     "serverId" : 3964,
     "x" : 415,
