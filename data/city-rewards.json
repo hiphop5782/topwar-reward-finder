@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-25T09:40:34.873623600Z",
-  "count" : 25,
+  "updatedAt" : "2026-08-25T09:42:20.264643100Z",
+  "count" : 26,
   "locations" : [ {
     "serverId" : 184,
     "x" : 435,
@@ -166,6 +166,44 @@
     },
     "cityRewardSeenAt" : "2026-08-25T09:20:47.066Z",
     "foundAt" : "2026-08-25T09:20:47.066Z"
+  }, {
+    "serverId" : 2842,
+    "x" : 320,
+    "y" : 340,
+    "uid" : "931665754846",
+    "username" : "DrCredo",
+    "level" : 100,
+    "allianceId" : "500272088",
+    "allianceTag" : "E$A",
+    "pointId" : 174241,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4812099041323529221",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1787650853982
+    },
+    "cityRewardSeenAt" : "2026-08-25T09:40:42.747Z",
+    "foundAt" : "2026-08-25T09:40:42.747Z"
+  }, {
+    "serverId" : 2842,
+    "x" : 437,
+    "y" : 633,
+    "uid" : "404254086432",
+    "username" : "Stak🥳",
+    "level" : 100,
+    "allianceId" : "500269694",
+    "allianceTag" : "E$G",
+    "pointId" : 324315,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4812118414293611524",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1787652008701
+    },
+    "cityRewardSeenAt" : "2026-08-25T09:41:37.399Z",
+    "foundAt" : "2026-08-25T09:41:37.399Z"
   }, {
     "serverId" : 2864,
     "x" : 456,
@@ -482,24 +520,5 @@
     },
     "cityRewardSeenAt" : "2026-08-25T09:35:45.893Z",
     "foundAt" : "2026-08-25T09:35:45.893Z"
-  }, {
-    "serverId" : 4309,
-    "x" : 421,
-    "y" : 427,
-    "uid" : "9356464459989",
-    "username" : "ピーヤ",
-    "level" : 100,
-    "allianceId" : "500433734",
-    "allianceTag" : "KOH_",
-    "pointId" : 218835,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4812067008015346180",
-      "players" : [ ],
-      "num" : 11,
-      "endTimeMilli" : 1787648944648
-    },
-    "cityRewardSeenAt" : "2026-08-25T09:06:42.362Z",
-    "foundAt" : "2026-08-25T09:06:42.362Z"
   } ]
 }
