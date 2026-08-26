@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-26T01:05:57.586183300Z",
-  "count" : 44,
+  "updatedAt" : "2026-08-26T01:08:30.033499600Z",
+  "count" : 43,
   "locations" : [ {
     "serverId" : 341,
     "x" : 434,
@@ -71,44 +71,6 @@
     },
     "cityRewardSeenAt" : "2026-08-26T00:59:34.094Z",
     "foundAt" : "2026-08-26T00:59:34.094Z"
-  }, {
-    "serverId" : 1313,
-    "x" : 447,
-    "y" : 315,
-    "uid" : "901261490745",
-    "username" : "GassPARK",
-    "level" : 100,
-    "allianceId" : "200176921",
-    "allianceTag" : "l3lN",
-    "pointId" : 161504,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4812999999699436035",
-      "players" : [ ],
-      "num" : 33,
-      "endTimeMilli" : 1787704555286
-    },
-    "cityRewardSeenAt" : "2026-08-26T00:33:10.033Z",
-    "foundAt" : "2026-08-26T00:33:10.033Z"
-  }, {
-    "serverId" : 1313,
-    "x" : 576,
-    "y" : 456,
-    "uid" : "633628304773",
-    "username" : "LVM",
-    "level" : 100,
-    "allianceId" : "200176482",
-    "allianceTag" : "I3E",
-    "pointId" : 233761,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4813004520639054343",
-      "players" : [ ],
-      "num" : 28,
-      "endTimeMilli" : 1787704824755
-    },
-    "cityRewardSeenAt" : "2026-08-26T00:33:21.105Z",
-    "foundAt" : "2026-08-26T00:33:21.105Z"
   }, {
     "serverId" : 2287,
     "x" : 398,
@@ -931,5 +893,24 @@
     },
     "cityRewardSeenAt" : "2026-08-26T00:57:22.180Z",
     "foundAt" : "2026-08-26T00:57:22.180Z"
+  }, {
+    "serverId" : 4297,
+    "x" : 432,
+    "y" : 330,
+    "uid" : "9324240244937",
+    "username" : "のぶ",
+    "level" : 86,
+    "allianceId" : "500430282",
+    "allianceTag" : "NoRD",
+    "pointId" : 169177,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4813053082594284035",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1787707719273
+    },
+    "cityRewardSeenAt" : "2026-08-26T01:06:43.093Z",
+    "foundAt" : "2026-08-26T01:06:43.093Z"
   } ]
 }
