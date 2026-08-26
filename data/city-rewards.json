@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-26T19:54:43.160816900Z",
-  "count" : 48,
+  "updatedAt" : "2026-08-26T19:55:54.953709400Z",
+  "count" : 53,
   "locations" : [ {
     "serverId" : 341,
     "x" : 422,
@@ -40,6 +40,82 @@
     },
     "cityRewardSeenAt" : "2026-08-26T19:41:17.932Z",
     "foundAt" : "2026-08-26T19:41:17.932Z"
+  }, {
+    "serverId" : 1175,
+    "x" : 419,
+    "y" : 287,
+    "uid" : "336299205455",
+    "username" : "Pinno",
+    "level" : 100,
+    "allianceId" : "200143136",
+    "allianceTag" : "GS75",
+    "pointId" : 147154,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4814175638062181891",
+      "players" : [ ],
+      "num" : 32,
+      "endTimeMilli" : 1787774628793
+    },
+    "cityRewardSeenAt" : "2026-08-26T19:54:27.729Z",
+    "foundAt" : "2026-08-26T19:54:27.729Z"
+  }, {
+    "serverId" : 1175,
+    "x" : 435,
+    "y" : 659,
+    "uid" : "326322766605",
+    "username" : "Blú",
+    "level" : 100,
+    "allianceId" : "200138034",
+    "allianceTag" : "VX75",
+    "pointId" : 337626,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4814183448242105861",
+      "players" : [ ],
+      "num" : 45,
+      "endTimeMilli" : 1787775094316
+    },
+    "cityRewardSeenAt" : "2026-08-26T19:55:19.440Z",
+    "foundAt" : "2026-08-26T19:55:19.440Z"
+  }, {
+    "serverId" : 1175,
+    "x" : 441,
+    "y" : 649,
+    "uid" : "342910247795",
+    "username" : "JoeTheGI",
+    "level" : 100,
+    "allianceId" : "200138034",
+    "allianceTag" : "VX75",
+    "pointId" : 332509,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4814179761683770881",
+      "players" : [ ],
+      "num" : 30,
+      "endTimeMilli" : 1787774874580
+    },
+    "cityRewardSeenAt" : "2026-08-26T19:55:19.440Z",
+    "foundAt" : "2026-08-26T19:55:19.440Z"
+  }, {
+    "serverId" : 1175,
+    "x" : 453,
+    "y" : 333,
+    "uid" : "462555645434",
+    "username" : "BOW🐦✈️",
+    "level" : 100,
+    "allianceId" : "200143136",
+    "allianceTag" : "GS75",
+    "pointId" : 170723,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4814168541115264513",
+      "players" : [ ],
+      "num" : 38,
+      "endTimeMilli" : 1787774205782
+    },
+    "cityRewardSeenAt" : "2026-08-26T19:54:37.987Z",
+    "foundAt" : "2026-08-26T19:54:37.987Z"
   }, {
     "serverId" : 1297,
     "x" : 305,
@@ -1064,5 +1140,36 @@
     },
     "cityRewardSeenAt" : "2026-08-26T19:24:32.387Z",
     "foundAt" : "2026-08-26T19:24:32.387Z"
+  }, {
+    "serverId" : 4451,
+    "x" : 400,
+    "y" : 554,
+    "uid" : "9655920824675",
+    "username" : "Ghostman",
+    "level" : 85,
+    "allianceId" : "500469116",
+    "allianceTag" : "s451",
+    "pointId" : 283849,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4814194435676096004",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/39176caf10aa4836779e204ce9c7ad8c_1779714855.png?v=1779714856968\"],\"nationalflag\":20,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/39176caf10aa4836779e204ce9c7ad8c_1779714855.png?v=1779714856968\",\"username\":\"Shemy\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":179,\"gender\":0,\"avatarurl\":\"icon_alb_male_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"ArturII\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon110_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Merxnado\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/2ff1d79ea556e10ef4f231ba5a2e0b78_1779133694.png?v=1779133697221\"],\"nationalflag\":59,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/2ff1d79ea556e10ef4f231ba5a2e0b78_1779133694.png?v=1779133697221\",\"username\":\"Slow🐌\"}"
+      } ],
+      "num" : 8,
+      "endTimeMilli" : 1787775749218
+    },
+    "cityRewardSeenAt" : "2026-08-26T19:54:26.362Z",
+    "foundAt" : "2026-08-26T19:54:26.362Z"
   } ]
 }
