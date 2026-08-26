@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-26T07:56:54.746560700Z",
-  "count" : 13,
+  "updatedAt" : "2026-08-26T07:58:46.279330300Z",
+  "count" : 16,
   "locations" : [ {
     "serverId" : 1313,
     "x" : 273,
@@ -116,6 +116,25 @@
     },
     "cityRewardSeenAt" : "2026-08-26T07:45:23.709Z",
     "foundAt" : "2026-08-26T07:45:23.709Z"
+  }, {
+    "serverId" : 2463,
+    "x" : 390,
+    "y" : 428,
+    "uid" : "940162902810",
+    "username" : "YASU",
+    "level" : 100,
+    "allianceId" : "500170077",
+    "allianceTag" : "F35B",
+    "pointId" : 219332,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4813460050155879941",
+      "players" : [ ],
+      "num" : 14,
+      "endTimeMilli" : 1787731976430
+    },
+    "cityRewardSeenAt" : "2026-08-26T07:57:24.473Z",
+    "foundAt" : "2026-08-26T07:57:24.473Z"
   }, {
     "serverId" : 2699,
     "x" : 400,
@@ -273,5 +292,43 @@
     },
     "cityRewardSeenAt" : "2026-08-26T07:37:17.638Z",
     "foundAt" : "2026-08-26T07:37:17.638Z"
+  }, {
+    "serverId" : 3649,
+    "x" : 449,
+    "y" : 435,
+    "uid" : "857501074168",
+    "username" : "RolBack",
+    "level" : 100,
+    "allianceId" : "500364032",
+    "allianceTag" : "ECLP",
+    "pointId" : 222945,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4813452041233662472",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1787731499061
+    },
+    "cityRewardSeenAt" : "2026-08-26T07:56:18.008Z",
+    "foundAt" : "2026-08-26T07:56:18.008Z"
+  }, {
+    "serverId" : 3649,
+    "x" : 463,
+    "y" : 421,
+    "uid" : "379991655519",
+    "username" : "Лиза",
+    "level" : 100,
+    "allianceId" : "500364032",
+    "allianceTag" : "ECLP",
+    "pointId" : 215784,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4813456000488866306",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1787731735051
+    },
+    "cityRewardSeenAt" : "2026-08-26T07:56:18.008Z",
+    "foundAt" : "2026-08-26T07:56:18.008Z"
   } ]
 }
