@@ -1,8 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-26T21:05:34.079954800Z",
-  "count" : 44,
+  "updatedAt" : "2026-08-26T21:07:21.700195900Z",
+  "count" : 45,
   "locations" : [ {
+    "serverId" : 184,
+    "x" : 379,
+    "y" : 341,
+    "uid" : "500179480776",
+    "username" : "ゆゆな",
+    "level" : 100,
+    "allianceId" : "144113",
+    "allianceTag" : "184S",
+    "pointId" : 174782,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4814253537141813254",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1787779271940
+    },
+    "cityRewardSeenAt" : "2026-08-26T21:05:00.164Z",
+    "foundAt" : "2026-08-26T21:05:00.164Z"
+  }, {
+    "serverId" : 184,
+    "x" : 379,
+    "y" : 345,
+    "uid" : "196018168008",
+    "username" : "ゆゆです",
+    "level" : 100,
+    "allianceId" : "144113",
+    "allianceTag" : "184S",
+    "pointId" : 176830,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4814238459273244672",
+      "players" : [ ],
+      "num" : 20,
+      "endTimeMilli" : 1787778373229
+    },
+    "cityRewardSeenAt" : "2026-08-26T21:05:00.164Z",
+    "foundAt" : "2026-08-26T21:05:00.164Z"
+  }, {
     "serverId" : 341,
     "x" : 551,
     "y" : 461,
@@ -600,25 +638,6 @@
     },
     "cityRewardSeenAt" : "2026-08-26T20:46:54.002Z",
     "foundAt" : "2026-08-26T20:46:54.002Z"
-  }, {
-    "serverId" : 2842,
-    "x" : 349,
-    "y" : 461,
-    "uid" : "940194286362",
-    "username" : "Sandy",
-    "level" : 100,
-    "allianceId" : "500270549",
-    "allianceTag" : "E$O",
-    "pointId" : 236207,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4814206280020669444",
-      "players" : [ ],
-      "num" : 48,
-      "endTimeMilli" : 1787776455196
-    },
-    "cityRewardSeenAt" : "2026-08-26T20:32:12.689Z",
-    "foundAt" : "2026-08-26T20:32:12.689Z"
   }, {
     "serverId" : 2842,
     "x" : 407,
