@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-26T03:19:41.572853800Z",
-  "count" : 32,
+  "updatedAt" : "2026-08-26T03:21:44.710632100Z",
+  "count" : 36,
   "locations" : [ {
     "serverId" : 341,
     "x" : 412,
@@ -443,6 +443,44 @@
     "cityRewardSeenAt" : "2026-08-26T02:47:02.107Z",
     "foundAt" : "2026-08-26T02:47:02.107Z"
   }, {
+    "serverId" : 3396,
+    "x" : 408,
+    "y" : 548,
+    "uid" : "455214084749",
+    "username" : "카르페디엠🍌",
+    "level" : 100,
+    "allianceId" : "500330742",
+    "allianceTag" : "96Y",
+    "pointId" : 280781,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4813171756633851911",
+      "players" : [ ],
+      "num" : 91,
+      "endTimeMilli" : 1787714792797
+    },
+    "cityRewardSeenAt" : "2026-08-26T03:20:49.499Z",
+    "foundAt" : "2026-08-26T03:20:49.499Z"
+  }, {
+    "serverId" : 3396,
+    "x" : 416,
+    "y" : 532,
+    "uid" : "623193195864",
+    "username" : "Bean",
+    "level" : 100,
+    "allianceId" : "500330742",
+    "allianceTag" : "96Y",
+    "pointId" : 272593,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4813183205053728770",
+      "players" : [ ],
+      "num" : 29,
+      "endTimeMilli" : 1787715475176
+    },
+    "cityRewardSeenAt" : "2026-08-26T03:20:36.679Z",
+    "foundAt" : "2026-08-26T03:20:36.679Z"
+  }, {
     "serverId" : 3453,
     "x" : 403,
     "y" : 347,
@@ -706,5 +744,43 @@
     },
     "cityRewardSeenAt" : "2026-08-26T02:49:08.121Z",
     "foundAt" : "2026-08-26T02:49:08.121Z"
+  }, {
+    "serverId" : 4170,
+    "x" : 400,
+    "y" : 350,
+    "uid" : "9177992925258",
+    "username" : "Balu",
+    "level" : 100,
+    "allianceId" : "500412243",
+    "allianceTag" : "Pfuz",
+    "pointId" : 179401,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4813190435900003331",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1787715906168
+    },
+    "cityRewardSeenAt" : "2026-08-26T03:19:21.341Z",
+    "foundAt" : "2026-08-26T03:19:21.341Z"
+  }, {
+    "serverId" : 4270,
+    "x" : 437,
+    "y" : 553,
+    "uid" : "9303523987630",
+    "username" : "RPLCNT🎖",
+    "level" : 100,
+    "allianceId" : "500427451",
+    "allianceTag" : "NFL:",
+    "pointId" : 283355,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4813178116239350787",
+      "players" : [ ],
+      "num" : 17,
+      "endTimeMilli" : 1787715171859
+    },
+    "cityRewardSeenAt" : "2026-08-26T03:19:47.159Z",
+    "foundAt" : "2026-08-26T03:19:47.159Z"
   } ]
 }
