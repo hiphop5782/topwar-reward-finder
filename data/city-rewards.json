@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-26T14:59:38.308695900Z",
-  "count" : 6,
+  "updatedAt" : "2026-08-26T15:02:03.071143700Z",
+  "count" : 8,
   "locations" : [ {
     "serverId" : 623,
     "x" : 479,
@@ -128,5 +128,55 @@
     },
     "cityRewardSeenAt" : "2026-08-26T14:41:13.310Z",
     "foundAt" : "2026-08-26T14:41:13.310Z"
+  }, {
+    "serverId" : 4383,
+    "x" : 402,
+    "y" : 348,
+    "uid" : "9531312673055",
+    "username" : "Ebin",
+    "level" : 98,
+    "allianceId" : "500451728",
+    "allianceTag" : "JHS1",
+    "pointId" : 178378,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4813897427983678980",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1787758046180
+    },
+    "cityRewardSeenAt" : "2026-08-26T14:59:37.334Z",
+    "foundAt" : "2026-08-26T14:59:37.334Z"
+  }, {
+    "serverId" : 4383,
+    "x" : 404,
+    "y" : 318,
+    "uid" : "9533786329375",
+    "username" : "Cynder",
+    "level" : 100,
+    "allianceId" : "500451728",
+    "allianceTag" : "JHS1",
+    "pointId" : 163019,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4813884357408341504",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":137,\"gender\":0,\"avatarurl\":\"hero_icon019_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"MEGACT\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/4eb461e89fcd20d32727bd078e9c4fad_1775058692.png?v=1775058693928\",\"https://knight-cdn.akamaized.net/headimg/4eb461e89fcd20d32727bd078e9c4fad_1781983391.png?v=1781983391512\"],\"nationalflag\":101,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/4eb461e89fcd20d32727bd078e9c4fad_1781983391.png?v=1781983391512\",\"username\":\"Menyan\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d9bacc9e41fdbeb7c773e55ebb3d468d_1776015970.png?v=1776015973187\",\"https://knight-cdn.akamaized.net/headimg/d9bacc9e41fdbeb7c773e55ebb3d468d_1776091542.png?v=1776091543641\",\"https://knight-cdn.akamaized.net/headimg/d9bacc9e41fdbeb7c773e55ebb3d468d_1781480486.png?v=1781480487910\"],\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d9bacc9e41fdbeb7c773e55ebb3d468d_1781480486.png?v=1781480487910\",\"username\":\"Shake\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"hero_icon312_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Ebin\"}"
+      } ],
+      "num" : 21,
+      "endTimeMilli" : 1787757267113
+    },
+    "cityRewardSeenAt" : "2026-08-26T14:59:37.334Z",
+    "foundAt" : "2026-08-26T14:59:37.334Z"
   } ]
 }
