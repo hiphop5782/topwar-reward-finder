@@ -1,8 +1,58 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-26T10:25:20.417984200Z",
-  "count" : 35,
+  "updatedAt" : "2026-08-26T10:27:56.105149500Z",
+  "count" : 38,
   "locations" : [ {
+    "serverId" : 216,
+    "x" : 243,
+    "y" : 633,
+    "uid" : "217025990880",
+    "username" : "てむじん♦だいり",
+    "level" : 100,
+    "allianceId" : "151949",
+    "allianceTag" : "KZKZ",
+    "pointId" : 324218,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4813613732154421250",
+      "players" : [ ],
+      "num" : 20,
+      "endTimeMilli" : 1787741136591
+    },
+    "cityRewardSeenAt" : "2026-08-26T10:27:10.129Z",
+    "foundAt" : "2026-08-26T10:27:10.129Z"
+  }, {
+    "serverId" : 216,
+    "x" : 621,
+    "y" : 321,
+    "uid" : "212595007704",
+    "username" : "うさぎさんチーム",
+    "level" : 100,
+    "allianceId" : "348007",
+    "allianceTag" : "tusa",
+    "pointId" : 164663,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4813621372062380037",
+      "players" : [ {
+        "frameId" : 51,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_5_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"いっかくうさぎ\"}"
+      }, {
+        "frameId" : 51,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_6_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"ばにーさんチーム\"}"
+      }, {
+        "frameId" : 51,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_4_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"らびっとチーム\"}"
+      }, {
+        "frameId" : 8,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/ba50fd39bdb42205377e78e85fce3dad.jpg?v=1721380427094\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon136_summer\",\"nickname\":\"wy.212595007704\",\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/ba50fd39bdb42205377e78e85fce3dad.jpg?v=1721380427094\",\"username\":\"うさぎさんチーム\"}"
+      } ],
+      "num" : 5,
+      "endTimeMilli" : 1787741591965
+    },
+    "cityRewardSeenAt" : "2026-08-26T10:26:22.981Z",
+    "foundAt" : "2026-08-26T10:26:22.981Z"
+  }, {
     "serverId" : 341,
     "x" : 406,
     "y" : 622,
@@ -449,6 +499,25 @@
     },
     "cityRewardSeenAt" : "2026-08-26T10:00:19.259Z",
     "foundAt" : "2026-08-26T10:00:19.259Z"
+  }, {
+    "serverId" : 2622,
+    "x" : 529,
+    "y" : 497,
+    "uid" : "904334264894",
+    "username" : "Utrid",
+    "level" : 100,
+    "allianceId" : "500220540",
+    "allianceTag" : "FOXC",
+    "pointId" : 254729,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4813605504374045703",
+      "players" : [ ],
+      "num" : 21,
+      "endTimeMilli" : 1787740646177
+    },
+    "cityRewardSeenAt" : "2026-08-26T10:25:11.393Z",
+    "foundAt" : "2026-08-26T10:25:11.393Z"
   }, {
     "serverId" : 2698,
     "x" : 424,
