@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-26T20:59:46.044635400Z",
-  "count" : 54,
+  "updatedAt" : "2026-08-26T21:01:49.150427400Z",
+  "count" : 53,
   "locations" : [ {
     "serverId" : 341,
     "x" : 551,
@@ -21,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-08-26T20:44:41.742Z",
     "foundAt" : "2026-08-26T20:44:41.742Z"
+  }, {
+    "serverId" : 619,
+    "x" : 394,
+    "y" : 618,
+    "uid" : "257924993461",
+    "username" : "サリナス☕",
+    "level" : 100,
+    "allianceId" : "368552",
+    "allianceTag" : "NBRK",
+    "pointId" : 316614,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4814261015284078088",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1787779717672
+    },
+    "cityRewardSeenAt" : "2026-08-26T20:59:29.117Z",
+    "foundAt" : "2026-08-26T20:59:29.117Z"
   }, {
     "serverId" : 650,
     "x" : 127,
@@ -217,44 +236,6 @@
     },
     "cityRewardSeenAt" : "2026-08-26T20:54:48.267Z",
     "foundAt" : "2026-08-26T20:54:48.267Z"
-  }, {
-    "serverId" : 2373,
-    "x" : 424,
-    "y" : 662,
-    "uid" : "886824544778",
-    "username" : "Destroy",
-    "level" : 100,
-    "allianceId" : "500148545",
-    "allianceTag" : "AFMH",
-    "pointId" : 339157,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4814211188580846081",
-      "players" : [ ],
-      "num" : 8,
-      "endTimeMilli" : 1787776747769
-    },
-    "cityRewardSeenAt" : "2026-08-26T20:26:21.149Z",
-    "foundAt" : "2026-08-26T20:26:21.149Z"
-  }, {
-    "serverId" : 2609,
-    "x" : 393,
-    "y" : 603,
-    "uid" : "893444663838",
-    "username" : "Cronos⏳",
-    "level" : 100,
-    "allianceId" : "500212828",
-    "allianceTag" : "609s",
-    "pointId" : 308933,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4814224234997113350",
-      "players" : [ ],
-      "num" : 7,
-      "endTimeMilli" : 1787777525396
-    },
-    "cityRewardSeenAt" : "2026-08-26T20:26:43.404Z",
-    "foundAt" : "2026-08-26T20:26:43.404Z"
   }, {
     "serverId" : 2622,
     "x" : 287,
