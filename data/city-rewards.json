@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T10:11:43.422965600Z",
-  "count" : 24,
+  "updatedAt" : "2026-08-27T10:13:44.447421400Z",
+  "count" : 29,
   "locations" : [ {
     "serverId" : 499,
     "x" : 410,
@@ -205,6 +205,44 @@
     "cityRewardSeenAt" : "2026-08-27T10:10:07.292Z",
     "foundAt" : "2026-08-27T10:10:07.292Z"
   }, {
+    "serverId" : 2287,
+    "x" : 276,
+    "y" : 548,
+    "uid" : "369566204939",
+    "username" : "infamous",
+    "level" : 100,
+    "allianceId" : "500144281",
+    "allianceTag" : "gWAR",
+    "pointId" : 280715,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4815052173628005890",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1787826874384
+    },
+    "cityRewardSeenAt" : "2026-08-27T10:11:31.296Z",
+    "foundAt" : "2026-08-27T10:11:31.296Z"
+  }, {
+    "serverId" : 2287,
+    "x" : 282,
+    "y" : 566,
+    "uid" : "344282313600",
+    "username" : "GHO",
+    "level" : 100,
+    "allianceId" : "500144281",
+    "allianceTag" : "gWAR",
+    "pointId" : 289934,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4815045826740084226",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1787826496080
+    },
+    "cityRewardSeenAt" : "2026-08-27T10:11:31.296Z",
+    "foundAt" : "2026-08-27T10:11:31.296Z"
+  }, {
     "serverId" : 2311,
     "x" : 398,
     "y" : 544,
@@ -330,6 +368,25 @@
     },
     "cityRewardSeenAt" : "2026-08-27T10:00:48.312Z",
     "foundAt" : "2026-08-27T10:00:48.312Z"
+  }, {
+    "serverId" : 2747,
+    "x" : 439,
+    "y" : 659,
+    "uid" : "889510095377",
+    "username" : "jc",
+    "level" : 100,
+    "allianceId" : "500251922",
+    "allianceTag" : "747S",
+    "pointId" : 337628,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4815040022846993926",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1787826150141
+    },
+    "cityRewardSeenAt" : "2026-08-27T10:12:12.019Z",
+    "foundAt" : "2026-08-27T10:12:12.019Z"
   }, {
     "serverId" : 2781,
     "x" : 408,
@@ -518,5 +575,55 @@
     },
     "cityRewardSeenAt" : "2026-08-27T09:56:46.219Z",
     "foundAt" : "2026-08-27T09:56:46.219Z"
+  }, {
+    "serverId" : 4502,
+    "x" : 360,
+    "y" : 374,
+    "uid" : "9793219662230",
+    "username" : "Luffy",
+    "level" : 80,
+    "allianceId" : "500487093",
+    "allianceTag" : "SOL'",
+    "pointId" : 191669,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4815048276684516354",
+      "players" : [ {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":20,\"gender\":0,\"avatarurl\":\"hero_icon009_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Skelfie\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon312_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Mossa\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon009_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"TANAKA\"}"
+      }, {
+        "frameId" : 162,
+        "playerInfo" : "{\"nationalflag\":31,\"gender\":0,\"avatarurl\":\"hero_avataricon1691003_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Luizin\"}"
+      } ],
+      "num" : 17,
+      "endTimeMilli" : 1787826642108
+    },
+    "cityRewardSeenAt" : "2026-08-27T10:12:05.421Z",
+    "foundAt" : "2026-08-27T10:12:05.421Z"
+  }, {
+    "serverId" : 4502,
+    "x" : 606,
+    "y" : 484,
+    "uid" : "9793758892438",
+    "username" : "abrek001",
+    "level" : 73,
+    "allianceId" : "500487092",
+    "allianceTag" : "ba37",
+    "pointId" : 248112,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4815044347426974726",
+      "players" : [ ],
+      "num" : 44,
+      "endTimeMilli" : 1787826407906
+    },
+    "cityRewardSeenAt" : "2026-08-27T10:12:35.572Z",
+    "foundAt" : "2026-08-27T10:12:35.572Z"
   } ]
 }
