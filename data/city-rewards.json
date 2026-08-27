@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T03:21:52.754223Z",
-  "count" : 30,
+  "updatedAt" : "2026-08-27T03:23:16.575216600Z",
+  "count" : 31,
   "locations" : [ {
     "serverId" : 341,
     "x" : 420,
@@ -231,25 +231,6 @@
     "cityRewardSeenAt" : "2026-08-27T03:08:29.182Z",
     "foundAt" : "2026-08-27T03:08:29.182Z"
   }, {
-    "serverId" : 2682,
-    "x" : 400,
-    "y" : 402,
-    "uid" : "7551395728175",
-    "username" : "MrPremo",
-    "level" : 100,
-    "allianceId" : "500234439",
-    "allianceTag" : "DaKZ",
-    "pointId" : 206025,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4814590002951681032",
-      "players" : [ ],
-      "num" : 10,
-      "endTimeMilli" : 1787799326865
-    },
-    "cityRewardSeenAt" : "2026-08-27T02:48:00.163Z",
-    "foundAt" : "2026-08-27T02:48:00.163Z"
-  }, {
     "serverId" : 2687,
     "x" : 372,
     "y" : 592,
@@ -343,6 +324,47 @@
     },
     "cityRewardSeenAt" : "2026-08-27T03:00:40.563Z",
     "foundAt" : "2026-08-27T03:00:40.563Z"
+  }, {
+    "serverId" : 3051,
+    "x" : 406,
+    "y" : 332,
+    "uid" : "891163953690",
+    "username" : "u¾hlsch",
+    "level" : 100,
+    "allianceId" : "500300894",
+    "allianceTag" : "FP4S",
+    "pointId" : 170188,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4814618503901861383",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/351331562405.jpg?v=1708867942407\",\"https://knight-cdn.akamaized.net/headimg/57f9956eeacae459a9ff6be34bf9e17d_1764978797.png?v=1764978798829\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/57f9956eeacae459a9ff6be34bf9e17d_1764978797.png?v=1764978798829\",\"username\":\"hhhhhh\"}"
+      } ],
+      "num" : 18,
+      "endTimeMilli" : 1787801025654
+    },
+    "cityRewardSeenAt" : "2026-08-27T03:21:23.552Z",
+    "foundAt" : "2026-08-27T03:21:23.552Z"
+  }, {
+    "serverId" : 3051,
+    "x" : 408,
+    "y" : 354,
+    "uid" : "351331562405",
+    "username" : "hhhhhh",
+    "level" : 100,
+    "allianceId" : "500300894",
+    "allianceTag" : "FP4S",
+    "pointId" : 181453,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4814646126614926856",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1787802672096
+    },
+    "cityRewardSeenAt" : "2026-08-27T03:21:23.552Z",
+    "foundAt" : "2026-08-27T03:21:23.552Z"
   }, {
     "serverId" : 3223,
     "x" : 400,
