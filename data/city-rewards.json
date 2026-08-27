@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T10:47:50.433493100Z",
+  "updatedAt" : "2026-08-27T10:49:43.914926900Z",
   "count" : 39,
   "locations" : [ {
+    "serverId" : 148,
+    "x" : 613,
+    "y" : 369,
+    "uid" : "180276437172",
+    "username" : "おにぎり。",
+    "level" : 100,
+    "allianceId" : "118971",
+    "allianceTag" : "S.A",
+    "pointId" : 189235,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4815095199904638985",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1787829438950
+    },
+    "cityRewardSeenAt" : "2026-08-27T10:48:27.689Z",
+    "foundAt" : "2026-08-27T10:48:27.689Z"
+  }, {
     "serverId" : 184,
     "x" : 371,
     "y" : 317,
@@ -339,25 +358,6 @@
     },
     "cityRewardSeenAt" : "2026-08-27T10:36:29.256Z",
     "foundAt" : "2026-08-27T10:36:29.256Z"
-  }, {
-    "serverId" : 2698,
-    "x" : 430,
-    "y" : 346,
-    "uid" : "537053009627",
-    "username" : "Freeguy",
-    "level" : 100,
-    "allianceId" : "500245787",
-    "allianceTag" : "698N",
-    "pointId" : 177368,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4815060976599897093",
-      "players" : [ ],
-      "num" : 0,
-      "endTimeMilli" : 1787827399082
-    },
-    "cityRewardSeenAt" : "2026-08-27T10:13:25.448Z",
-    "foundAt" : "2026-08-27T10:13:25.448Z"
   }, {
     "serverId" : 2781,
     "x" : 418,
