@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T13:13:42.943581500Z",
-  "count" : 82,
+  "updatedAt" : "2026-08-27T13:15:45.372437100Z",
+  "count" : 85,
   "locations" : [ {
     "serverId" : 184,
     "x" : 373,
@@ -571,6 +571,44 @@
     },
     "cityRewardSeenAt" : "2026-08-27T13:10:39.400Z",
     "foundAt" : "2026-08-27T13:10:39.400Z"
+  }, {
+    "serverId" : 1313,
+    "x" : 346,
+    "y" : 886,
+    "uid" : "529390905013",
+    "username" : "Logar",
+    "level" : 100,
+    "allianceId" : "200176921",
+    "allianceTag" : "l3lN",
+    "pointId" : 453806,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4815229905229464072",
+      "players" : [ ],
+      "num" : 93,
+      "endTimeMilli" : 1787837468013
+    },
+    "cityRewardSeenAt" : "2026-08-27T13:14:30.021Z",
+    "foundAt" : "2026-08-27T13:14:30.021Z"
+  }, {
+    "serverId" : 1313,
+    "x" : 441,
+    "y" : 321,
+    "uid" : "901020396089",
+    "username" : "Game🇻🇳",
+    "level" : 100,
+    "allianceId" : "200176921",
+    "allianceTag" : "l3lN",
+    "pointId" : 164573,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4815219491829596679",
+      "players" : [ ],
+      "num" : 130,
+      "endTimeMilli" : 1787836847326
+    },
+    "cityRewardSeenAt" : "2026-08-27T13:12:58.878Z",
+    "foundAt" : "2026-08-27T13:12:58.878Z"
   }, {
     "serverId" : 1732,
     "x" : 410,
@@ -1860,5 +1898,24 @@
     },
     "cityRewardSeenAt" : "2026-08-27T12:46:26.239Z",
     "foundAt" : "2026-08-27T12:46:26.239Z"
+  }, {
+    "serverId" : 4491,
+    "x" : 407,
+    "y" : 597,
+    "uid" : "9761708216715",
+    "username" : "Wei",
+    "level" : 80,
+    "allianceId" : "500483489",
+    "allianceTag" : "TWSz",
+    "pointId" : 305868,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4815218751217800708",
+      "players" : [ ],
+      "num" : 44,
+      "endTimeMilli" : 1787836803182
+    },
+    "cityRewardSeenAt" : "2026-08-27T13:14:47.014Z",
+    "foundAt" : "2026-08-27T13:14:47.014Z"
   } ]
 }
