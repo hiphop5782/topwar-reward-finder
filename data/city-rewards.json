@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T04:23:06.358427Z",
+  "updatedAt" : "2026-08-27T04:25:26.681575300Z",
   "count" : 36,
   "locations" : [ {
     "serverId" : 184,
@@ -698,6 +698,25 @@
     "cityRewardSeenAt" : "2026-08-27T04:05:08.133Z",
     "foundAt" : "2026-08-27T04:05:08.133Z"
   }, {
+    "serverId" : 3800,
+    "x" : 434,
+    "y" : 378,
+    "uid" : "936497920772",
+    "username" : "PvtNorth",
+    "level" : 100,
+    "allianceId" : "500377860",
+    "allianceTag" : "CLX$",
+    "pointId" : 193754,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4814699751563702275",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1787805868392
+    },
+    "cityRewardSeenAt" : "2026-08-27T04:23:51.731Z",
+    "foundAt" : "2026-08-27T04:23:51.731Z"
+  }, {
     "serverId" : 4317,
     "x" : 424,
     "y" : 576,
@@ -754,24 +773,5 @@
     },
     "cityRewardSeenAt" : "2026-08-27T03:56:42.830Z",
     "foundAt" : "2026-08-27T03:56:42.830Z"
-  }, {
-    "serverId" : 4349,
-    "x" : 413,
-    "y" : 623,
-    "uid" : "9438126510333",
-    "username" : "IVE",
-    "level" : 100,
-    "allianceId" : "500442518",
-    "allianceTag" : "FoW-",
-    "pointId" : 319183,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4814661099794332168",
-      "players" : [ ],
-      "num" : 15,
-      "endTimeMilli" : 1787803564567
-    },
-    "cityRewardSeenAt" : "2026-08-27T03:49:08.572Z",
-    "foundAt" : "2026-08-27T03:49:08.572Z"
   } ]
 }
