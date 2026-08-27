@@ -1,27 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T11:22:59.854177800Z",
+  "updatedAt" : "2026-08-27T11:24:56.483675300Z",
   "count" : 45,
   "locations" : [ {
-    "serverId" : 148,
-    "x" : 613,
-    "y" : 369,
-    "uid" : "180276437172",
-    "username" : "おにぎり。",
-    "level" : 100,
-    "allianceId" : "118971",
-    "allianceTag" : "S.A",
-    "pointId" : 189235,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4815095199904638985",
-      "players" : [ ],
-      "num" : 2,
-      "endTimeMilli" : 1787829438950
-    },
-    "cityRewardSeenAt" : "2026-08-27T10:48:27.689Z",
-    "foundAt" : "2026-08-27T10:48:27.689Z"
-  }, {
     "serverId" : 184,
     "x" : 257,
     "y" : 557,
@@ -773,6 +754,37 @@
     },
     "cityRewardSeenAt" : "2026-08-27T11:01:33.662Z",
     "foundAt" : "2026-08-27T11:01:33.662Z"
+  }, {
+    "serverId" : 3453,
+    "x" : 290,
+    "y" : 534,
+    "uid" : "520049713980",
+    "username" : "Darkwind",
+    "level" : 100,
+    "allianceId" : "500338960",
+    "allianceTag" : "53-W",
+    "pointId" : 273554,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4815113014960912901",
+      "players" : [ {
+        "frameId" : 168,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/a5a18746811f0b209dd04a1a5a2852cc_1764229939.png?v=1764229940412\",\"https://knight-cdn.akamaized.net/headimg/a5a18746811f0b209dd04a1a5a2852cc_1761889173.png?v=1761889176355\",\"https://knight-cdn.akamaized.net/headimg/a5a18746811f0b209dd04a1a5a2852cc_1759751789.jpg?v=1759751790299\",\"https://knight-cdn.akamaized.net/headimg/a5a18746811f0b209dd04a1a5a2852cc_1755129998.jpg?v=1755129999256\"],\"nationalflag\":198,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/a5a18746811f0b209dd04a1a5a2852cc_1755129998.jpg?v=1755129999256\",\"username\":\"CY\"}"
+      }, {
+        "frameId" : 167,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d00b40deb773dcbf34e0d364dc6dda8d_1744394299.jpg?v=1744394301088\",\"https://knight-cdn.akamaized.net/headimg/d00b40deb773dcbf34e0d364dc6dda8d_1744634404.jpg?v=1744634406094\",\"https://knight-cdn.akamaized.net/headimg/d00b40deb773dcbf34e0d364dc6dda8d_1784192884.png?v=1784192885181\",\"https://knight-cdn.akamaized.net/headimg/d00b40deb773dcbf34e0d364dc6dda8d_1751181083.jpg?v=1751181084615\"],\"nationalflag\":198,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d00b40deb773dcbf34e0d364dc6dda8d_1744634404.jpg?v=1744634406094\",\"username\":\"✨Pop🐡✨™\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/b5b69f436e03fda71b2d261cad3c505e_1742804721.jpg?v=1742804722932\",\"https://knight-cdn.akamaized.net/headimg/b5b69f436e03fda71b2d261cad3c505e_1747653429.jpg?v=1747653430216\",\"https://knight-cdn.akamaized.net/headimg/b5b69f436e03fda71b2d261cad3c505e_1754621667.jpg?v=1754621668003\",\"https://knight-cdn.akamaized.net/headimg/b5b69f436e03fda71b2d261cad3c505e_1765933742.png?v=1765933744878\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b5b69f436e03fda71b2d261cad3c505e_1765933742.png?v=1765933744878\",\"username\":\"ion\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/e09990bd9eb5943938f745f9ba05d609_1784132582.png?v=1784132583919\",\"https://knight-cdn.akamaized.net/headimg/e09990bd9eb5943938f745f9ba05d609_1783268397.png?v=1783268399242\",\"https://knight-cdn.akamaized.net/headimg/e09990bd9eb5943938f745f9ba05d609_1783354760.png?v=1783354761616\",\"https://knight-cdn.akamaized.net/headimg/e09990bd9eb5943938f745f9ba05d609_1786076689.png?v=1786076696373\"],\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/e09990bd9eb5943938f745f9ba05d609_1786076689.png?v=1786076696373\",\"username\":\"Hwaa🎀\"}"
+      } ],
+      "num" : 27,
+      "endTimeMilli" : 1787830500810
+    },
+    "cityRewardSeenAt" : "2026-08-27T11:21:56.206Z",
+    "foundAt" : "2026-08-27T11:21:56.206Z"
   }, {
     "serverId" : 3491,
     "x" : 444,
