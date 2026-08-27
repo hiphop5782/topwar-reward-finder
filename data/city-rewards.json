@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T19:27:16.119050200Z",
-  "count" : 21,
+  "updatedAt" : "2026-08-27T19:29:45.406120100Z",
+  "count" : 22,
   "locations" : [ {
     "serverId" : 2244,
     "x" : 401,
@@ -299,6 +299,31 @@
     },
     "cityRewardSeenAt" : "2026-08-27T19:20:21.207Z",
     "foundAt" : "2026-08-27T19:20:21.207Z"
+  }, {
+    "serverId" : 3145,
+    "x" : 395,
+    "y" : 427,
+    "uid" : "549051590443",
+    "username" : "まいるどせぶん",
+    "level" : 100,
+    "allianceId" : "500308779",
+    "allianceTag" : "$RD",
+    "pointId" : 218822,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4815600124197114374",
+      "players" : [ {
+        "frameId" : 49,
+        "playerInfo" : "{\"nationalflag\":178,\"gender\":0,\"avatarurl\":\"hero_icon337_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Lancelot\"}"
+      }, {
+        "frameId" : 114,
+        "playerInfo" : "{\"nationalflag\":179,\"gender\":0,\"avatarurl\":\"icon_felman01_0\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Andzio\"}"
+      } ],
+      "num" : 11,
+      "endTimeMilli" : 1787859534783
+    },
+    "cityRewardSeenAt" : "2026-08-27T19:28:12.778Z",
+    "foundAt" : "2026-08-27T19:28:12.778Z"
   }, {
     "serverId" : 3196,
     "x" : 473,
