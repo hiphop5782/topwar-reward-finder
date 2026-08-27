@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T23:47:47.791385100Z",
+  "updatedAt" : "2026-08-27T23:49:29.155035300Z",
   "count" : 11,
   "locations" : [ {
     "serverId" : 73,
@@ -71,6 +71,25 @@
     },
     "cityRewardSeenAt" : "2026-08-27T23:22:58.989Z",
     "foundAt" : "2026-08-27T23:22:58.989Z"
+  }, {
+    "serverId" : 1567,
+    "x" : 439,
+    "y" : 253,
+    "uid" : "375782274099",
+    "username" : "Mͥaͣyͫa",
+    "level" : 100,
+    "allianceId" : "200262053",
+    "allianceTag" : "<GA>",
+    "pointId" : 129756,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4815864849505205760",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1787875313641
+    },
+    "cityRewardSeenAt" : "2026-08-27T23:45:28.594Z",
+    "foundAt" : "2026-08-27T23:45:28.594Z"
   }, {
     "serverId" : 2240,
     "x" : 382,
@@ -252,24 +271,5 @@
     },
     "cityRewardSeenAt" : "2026-08-27T23:18:58.240Z",
     "foundAt" : "2026-08-27T23:18:58.240Z"
-  }, {
-    "serverId" : 4456,
-    "x" : 417,
-    "y" : 329,
-    "uid" : "9671199330664",
-    "username" : "Zilla",
-    "level" : 84,
-    "allianceId" : "500471480",
-    "allianceTag" : ".NWO",
-    "pointId" : 168657,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4815825097738866690",
-      "players" : [ ],
-      "num" : 43,
-      "endTimeMilli" : 1787872944251
-    },
-    "cityRewardSeenAt" : "2026-08-27T23:13:32.269Z",
-    "foundAt" : "2026-08-27T23:13:32.269Z"
   } ]
 }
