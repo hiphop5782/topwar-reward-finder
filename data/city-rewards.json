@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T04:30:15.576645Z",
-  "count" : 27,
+  "updatedAt" : "2026-08-27T04:31:29.818306500Z",
+  "count" : 30,
   "locations" : [ {
     "serverId" : 184,
     "x" : 381,
@@ -72,36 +72,24 @@
     "cityRewardSeenAt" : "2026-08-27T04:01:39.670Z",
     "foundAt" : "2026-08-27T04:01:39.670Z"
   }, {
-    "serverId" : 619,
-    "x" : 390,
-    "y" : 626,
-    "uid" : "73910779977",
-    "username" : "D4C",
+    "serverId" : 630,
+    "x" : 345,
+    "y" : 623,
+    "uid" : "448616100480",
+    "username" : "SENZO",
     "level" : 100,
-    "allianceId" : "368552",
-    "allianceTag" : "NBRK",
-    "pointId" : 320708,
+    "allianceId" : null,
+    "allianceTag" : null,
+    "pointId" : 319149,
     "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4814672594181871113",
-      "players" : [ {
-        "frameId" : 2,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon1402\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"リンクス\"}"
-      }, {
-        "frameId" : 19,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headicon_CongratsFuka\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"猫猫サブ\"}"
-      }, {
-        "frameId" : 2,
-        "playerInfo" : "{\"nationalflag\":5,\"gender\":0,\"avatarurl\":\"hero_icon2143\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"イビル譲\"}"
-      }, {
-        "frameId" : 159,
-        "playerInfo" : "{\"nationalflag\":230,\"gender\":0,\"avatarurl\":\"black_hero_icon018\",\"nickname\":\"wy.179810914484\",\"headimgurl\":null,\"usergender\":1,\"username\":\"けんけん\"}"
-      } ],
-      "num" : 24,
-      "endTimeMilli" : 1787804249686
+      "itemId" : 260617004,
+      "instanceId" : "4814697998527556614",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1787805763903
     },
-    "cityRewardSeenAt" : "2026-08-27T03:55:24.477Z",
-    "foundAt" : "2026-08-27T03:55:24.477Z"
+    "cityRewardSeenAt" : "2026-08-27T04:29:49.988Z",
+    "foundAt" : "2026-08-27T04:29:49.988Z"
   }, {
     "serverId" : 707,
     "x" : 380,
@@ -301,6 +289,66 @@
     },
     "cityRewardSeenAt" : "2026-08-27T04:09:59.097Z",
     "foundAt" : "2026-08-27T04:09:59.097Z"
+  }, {
+    "serverId" : 2864,
+    "x" : 444,
+    "y" : 634,
+    "uid" : "7549468707632",
+    "username" : "spudgun",
+    "level" : 100,
+    "allianceId" : "500274461",
+    "allianceTag" : "MSS*",
+    "pointId" : 324831,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4814715271125557251",
+      "players" : [ {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":102,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/7549468707632.jpg?v=1683921799946\",\"username\":\"spudgun\"}"
+      } ],
+      "num" : 1,
+      "endTimeMilli" : 1787806793430
+    },
+    "cityRewardSeenAt" : "2026-08-27T04:30:53.868Z",
+    "foundAt" : "2026-08-27T04:30:53.868Z"
+  }, {
+    "serverId" : 2864,
+    "x" : 452,
+    "y" : 694,
+    "uid" : "778859468795",
+    "username" : "Meliodas",
+    "level" : 100,
+    "allianceId" : "500273604",
+    "allianceTag" : "Dog*",
+    "pointId" : 355555,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4814700495750193153",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1787805912749
+    },
+    "cityRewardSeenAt" : "2026-08-27T04:31:03.347Z",
+    "foundAt" : "2026-08-27T04:31:03.347Z"
+  }, {
+    "serverId" : 2864,
+    "x" : 468,
+    "y" : 694,
+    "uid" : "526962587310",
+    "username" : "Sloth",
+    "level" : 100,
+    "allianceId" : "500302443",
+    "allianceTag" : "DGen",
+    "pointId" : 355563,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4814695604453531653",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1787805621205
+    },
+    "cityRewardSeenAt" : "2026-08-27T04:31:03.347Z",
+    "foundAt" : "2026-08-27T04:31:03.347Z"
   }, {
     "serverId" : 2936,
     "x" : 406,
