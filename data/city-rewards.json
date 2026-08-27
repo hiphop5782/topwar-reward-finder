@@ -1,8 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T07:43:44.329460700Z",
-  "count" : 19,
+  "updatedAt" : "2026-08-27T07:45:52.949438Z",
+  "count" : 20,
   "locations" : [ {
+    "serverId" : 619,
+    "x" : 400,
+    "y" : 628,
+    "uid" : "198070341806",
+    "username" : "AR300",
+    "level" : 100,
+    "allianceId" : "368552",
+    "allianceTag" : "NBRK",
+    "pointId" : 321737,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4814904280941385224",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1787818059293
+    },
+    "cityRewardSeenAt" : "2026-08-27T07:45:10.237Z",
+    "foundAt" : "2026-08-27T07:45:10.237Z"
+  }, {
+    "serverId" : 619,
+    "x" : 422,
+    "y" : 618,
+    "uid" : "270302441941",
+    "username" : "ひろにゃん",
+    "level" : 100,
+    "allianceId" : "368552",
+    "allianceTag" : "NBRK",
+    "pointId" : 316628,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4814885858065044997",
+      "players" : [ ],
+      "num" : 26,
+      "endTimeMilli" : 1787816961204
+    },
+    "cityRewardSeenAt" : "2026-08-27T07:45:10.237Z",
+    "foundAt" : "2026-08-27T07:45:10.237Z"
+  }, {
     "serverId" : 1313,
     "x" : 274,
     "y" : 488,
@@ -259,25 +297,6 @@
     },
     "cityRewardSeenAt" : "2026-08-27T07:41:38.828Z",
     "foundAt" : "2026-08-27T07:41:38.828Z"
-  }, {
-    "serverId" : 2842,
-    "x" : 321,
-    "y" : 323,
-    "uid" : "638054176152",
-    "username" : "五月福利中心",
-    "level" : 100,
-    "allianceId" : "500272088",
-    "allianceTag" : "E$A",
-    "pointId" : 165537,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4814871808305411073",
-      "players" : [ ],
-      "num" : 9,
-      "endTimeMilli" : 1787816123773
-    },
-    "cityRewardSeenAt" : "2026-08-27T07:10:41.952Z",
-    "foundAt" : "2026-08-27T07:10:41.952Z"
   }, {
     "serverId" : 2842,
     "x" : 356,
