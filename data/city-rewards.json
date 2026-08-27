@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T23:23:17.436287900Z",
-  "count" : 9,
+  "updatedAt" : "2026-08-27T23:25:45.409227300Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 800,
     "x" : 450,
@@ -46,6 +46,37 @@
     },
     "cityRewardSeenAt" : "2026-08-27T22:52:22.691Z",
     "foundAt" : "2026-08-27T22:52:22.691Z"
+  }, {
+    "serverId" : 1547,
+    "x" : 468,
+    "y" : 464,
+    "uid" : "569293915236",
+    "username" : "星白",
+    "level" : 100,
+    "allianceId" : "760987",
+    "allianceTag" : "3sIR",
+    "pointId" : 237803,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4815830348871767560",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon149_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/435558786482.jpg?v=1651410748574\",\"username\":\"MhuMhu\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/526152176481.jpg?v=1700645745503\"],\"nationalflag\":198,\"gender\":0,\"avatarurl\":\"hero_icon160_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/526152176481.jpg?v=1700645745503\",\"username\":\"Pain✌️\"}"
+      }, {
+        "frameId" : 150,
+        "playerInfo" : "{\"nationalflag\":101,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/0010ea32029c2b569c862a1fd861f31d_1735140184.jpg?v=1735140186962\",\"username\":\"J15\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":198,\"gender\":0,\"avatarurl\":\"hero_icon112_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Bobbyquk\"}"
+      } ],
+      "num" : 10,
+      "endTimeMilli" : 1787873257243
+    },
+    "cityRewardSeenAt" : "2026-08-27T23:22:58.989Z",
+    "foundAt" : "2026-08-27T23:22:58.989Z"
   }, {
     "serverId" : 2937,
     "x" : 400,
