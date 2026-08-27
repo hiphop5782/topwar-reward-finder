@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T03:47:40.427628700Z",
+  "updatedAt" : "2026-08-27T03:49:59.533145Z",
   "count" : 35,
   "locations" : [ {
     "serverId" : 341,
@@ -166,25 +166,6 @@
     },
     "cityRewardSeenAt" : "2026-08-27T03:31:06.003Z",
     "foundAt" : "2026-08-27T03:31:06.003Z"
-  }, {
-    "serverId" : 2687,
-    "x" : 372,
-    "y" : 592,
-    "uid" : "915993115262",
-    "username" : "Some1",
-    "level" : 100,
-    "allianceId" : "500237326",
-    "allianceTag" : "87GR",
-    "pointId" : 303291,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4814615679574801922",
-      "players" : [ ],
-      "num" : 3,
-      "endTimeMilli" : 1787800857311
-    },
-    "cityRewardSeenAt" : "2026-08-27T03:13:29.197Z",
-    "foundAt" : "2026-08-27T03:13:29.197Z"
   }, {
     "serverId" : 2699,
     "x" : 414,
@@ -721,5 +702,24 @@
     },
     "cityRewardSeenAt" : "2026-08-27T03:20:29.683Z",
     "foundAt" : "2026-08-27T03:20:29.683Z"
+  }, {
+    "serverId" : 4349,
+    "x" : 413,
+    "y" : 623,
+    "uid" : "9438126510333",
+    "username" : "IVE",
+    "level" : 100,
+    "allianceId" : "500442518",
+    "allianceTag" : "FoW-",
+    "pointId" : 319183,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4814661099794332168",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1787803564567
+    },
+    "cityRewardSeenAt" : "2026-08-27T03:49:08.572Z",
+    "foundAt" : "2026-08-27T03:49:08.572Z"
   } ]
 }
