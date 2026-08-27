@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T18:57:07.361731700Z",
+  "updatedAt" : "2026-08-27T18:59:38.630715800Z",
   "count" : 8,
   "locations" : [ {
     "serverId" : 1951,
@@ -60,24 +60,36 @@
     "cityRewardSeenAt" : "2026-08-27T18:44:40.873Z",
     "foundAt" : "2026-08-27T18:44:40.873Z"
   }, {
-    "serverId" : 3325,
-    "x" : 423,
-    "y" : 533,
-    "uid" : "8045472943383",
-    "username" : "Dracor",
+    "serverId" : 2644,
+    "x" : 430,
+    "y" : 348,
+    "uid" : "8356597763530",
+    "username" : "Bill",
     "level" : 100,
-    "allianceId" : "500325477",
-    "allianceTag" : "m!lk",
-    "pointId" : 273108,
+    "allianceId" : "500229770",
+    "allianceTag" : "FoFA",
+    "pointId" : 178392,
     "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4815526215712111106",
-      "players" : [ ],
-      "num" : 11,
-      "endTimeMilli" : 1787855129494
+      "itemId" : 260617001,
+      "instanceId" : "4815564760576993287",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon140_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Tort\"}"
+      }, {
+        "frameId" : 3,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/fdfd086341467add95e54580d6d8004a.jpg?v=1704073224196\",\"username\":\"Veteran\"}"
+      }, {
+        "frameId" : 3,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/ad748f47fcb79a00da794caba3644589_1725156151.jpg?v=1725156152568\",\"username\":\"YumBacon\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/208803552730c78e4b8f72f0ac20321b_1725132151.jpg?v=1725132152068\",\"username\":\"TKu\"}"
+      } ],
+      "num" : 13,
+      "endTimeMilli" : 1787857426947
     },
-    "cityRewardSeenAt" : "2026-08-27T18:24:35.114Z",
-    "foundAt" : "2026-08-27T18:24:35.114Z"
+    "cityRewardSeenAt" : "2026-08-27T18:57:39.061Z",
+    "foundAt" : "2026-08-27T18:57:39.061Z"
   }, {
     "serverId" : 3353,
     "x" : 394,
