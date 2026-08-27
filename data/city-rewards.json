@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T07:35:52.451343500Z",
-  "count" : 16,
+  "updatedAt" : "2026-08-27T07:38:35.045151100Z",
+  "count" : 18,
   "locations" : [ {
     "serverId" : 1313,
     "x" : 274,
@@ -186,6 +186,25 @@
     "cityRewardSeenAt" : "2026-08-27T07:10:56.803Z",
     "foundAt" : "2026-08-27T07:10:56.803Z"
   }, {
+    "serverId" : 2864,
+    "x" : 474,
+    "y" : 680,
+    "uid" : "545213724425",
+    "username" : "medo",
+    "level" : 100,
+    "allianceId" : "500273604",
+    "allianceTag" : "Dog*",
+    "pointId" : 348398,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4814896885226954756",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1787817618474
+    },
+    "cityRewardSeenAt" : "2026-08-27T07:37:22.314Z",
+    "foundAt" : "2026-08-27T07:37:22.314Z"
+  }, {
     "serverId" : 2988,
     "x" : 406,
     "y" : 528,
@@ -318,5 +337,24 @@
     },
     "cityRewardSeenAt" : "2026-08-27T07:31:19.302Z",
     "foundAt" : "2026-08-27T07:31:19.302Z"
+  }, {
+    "serverId" : 4345,
+    "x" : 458,
+    "y" : 476,
+    "uid" : "936568232714",
+    "username" : "┏○ﾍﾟｺ",
+    "level" : 100,
+    "allianceId" : "500442036",
+    "allianceTag" : "ef@@",
+    "pointId" : 243942,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4814902513111265796",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1787817953922
+    },
+    "cityRewardSeenAt" : "2026-08-27T07:37:22.935Z",
+    "foundAt" : "2026-08-27T07:37:22.935Z"
   } ]
 }
