@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-27T10:59:05.034325300Z",
-  "count" : 29,
+  "updatedAt" : "2026-08-27T11:00:19.260234400Z",
+  "count" : 30,
   "locations" : [ {
     "serverId" : 148,
     "x" : 613,
@@ -344,6 +344,31 @@
     },
     "cityRewardSeenAt" : "2026-08-27T10:34:36.610Z",
     "foundAt" : "2026-08-27T10:34:36.610Z"
+  }, {
+    "serverId" : 2864,
+    "x" : 486,
+    "y" : 664,
+    "uid" : "941322550045",
+    "username" : "BEYO",
+    "level" : 100,
+    "allianceId" : "500274461",
+    "allianceTag" : "MSS*",
+    "pointId" : 340212,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4815106220993437697",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":105,\"gender\":0,\"avatarurl\":\"hero_icon158_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Goku\"}"
+      }, {
+        "frameId" : 8,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/4ac0ad6858da08ad67a80d8450544016_1787053168.png?v=1787053468062\",\"https://knight-cdn.akamaized.net/headimg/4ac0ad6858da08ad67a80d8450544016_1781355154.png?v=1781355155704\",\"https://knight-cdn.akamaized.net/headimg/4ac0ad6858da08ad67a80d8450544016_1782819673.png?v=1782819676186\",\"https://knight-cdn.akamaized.net/headimg/4ac0ad6858da08ad67a80d8450544016_1787171138.png?v=1787171140866\"],\"nationalflag\":150,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/4ac0ad6858da08ad67a80d8450544016_1782819673.png?v=1782819676186\",\"username\":\"BEYO\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1787830095858
+    },
+    "cityRewardSeenAt" : "2026-08-27T10:59:39.072Z",
+    "foundAt" : "2026-08-27T10:59:39.072Z"
   }, {
     "serverId" : 3051,
     "x" : 422,
