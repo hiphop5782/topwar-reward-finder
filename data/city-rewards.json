@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-28T05:54:00.651753Z",
-  "count" : 5,
+  "updatedAt" : "2026-08-28T05:56:31.179507Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 148,
     "x" : 345,
@@ -21,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-08-28T05:39:13.756Z",
     "foundAt" : "2026-08-28T05:39:13.756Z"
+  }, {
+    "serverId" : 172,
+    "x" : 382,
+    "y" : 562,
+    "uid" : "168848294060",
+    "username" : "あいでしー",
+    "level" : 100,
+    "allianceId" : "110927",
+    "allianceTag" : "172U",
+    "pointId" : 287936,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4816236854103857161",
+      "players" : [ ],
+      "num" : 26,
+      "endTimeMilli" : 1787897486843
+    },
+    "cityRewardSeenAt" : "2026-08-28T05:55:35.874Z",
+    "foundAt" : "2026-08-28T05:55:35.874Z"
   }, {
     "serverId" : 610,
     "x" : 635,
@@ -79,23 +98,26 @@
     "cityRewardSeenAt" : "2026-08-28T05:52:54.694Z",
     "foundAt" : "2026-08-28T05:52:54.694Z"
   }, {
-    "serverId" : 3673,
-    "x" : 365,
-    "y" : 623,
-    "uid" : "8533526253145",
-    "username" : "wy.8533526253145",
+    "serverId" : 2691,
+    "x" : 419,
+    "y" : 423,
+    "uid" : "525898724193",
+    "username" : "阿宝",
     "level" : 100,
-    "allianceId" : "500366652",
-    "allianceTag" : "KRD7",
-    "pointId" : 319159,
+    "allianceId" : "500240352",
+    "allianceTag" : "L4NK",
+    "pointId" : 216786,
     "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4816203348847669764",
-      "players" : [ ],
-      "num" : 1,
-      "endTimeMilli" : 1787895489774
+      "itemId" : 260617001,
+      "instanceId" : "4816238518690186756",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":158,\"gender\":0,\"avatarurl\":\"hero_avataricon2341003_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"赤纱血影_沈素玉\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1787897586060
     },
-    "cityRewardSeenAt" : "2026-08-28T05:20:03.647Z",
-    "foundAt" : "2026-08-28T05:20:03.647Z"
+    "cityRewardSeenAt" : "2026-08-28T05:54:11.555Z",
+    "foundAt" : "2026-08-28T05:54:11.555Z"
   } ]
 }
