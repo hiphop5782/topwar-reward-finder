@@ -1,8 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-28T07:57:49.701429700Z",
-  "count" : 10,
+  "updatedAt" : "2026-08-28T07:58:50.341900800Z",
+  "count" : 12,
   "locations" : [ {
+    "serverId" : 135,
+    "x" : 580,
+    "y" : 188,
+    "uid" : "348606587311",
+    "username" : "PAC-MAN",
+    "level" : 100,
+    "allianceId" : "85921",
+    "allianceTag" : "Mf09",
+    "pointId" : 96547,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4816347344016576005",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1787904072555
+    },
+    "cityRewardSeenAt" : "2026-08-28T07:56:46.732Z",
+    "foundAt" : "2026-08-28T07:56:46.732Z"
+  }, {
+    "serverId" : 135,
+    "x" : 642,
+    "y" : 300,
+    "uid" : "466795164324",
+    "username" : "チェン",
+    "level" : 100,
+    "allianceId" : "375071",
+    "allianceTag" : "SWI.",
+    "pointId" : 153922,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4816357970017324549",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1787904705914
+    },
+    "cityRewardSeenAt" : "2026-08-28T07:56:53.337Z",
+    "foundAt" : "2026-08-28T07:56:53.337Z"
+  }, {
     "serverId" : 2501,
     "x" : 410,
     "y" : 544,
