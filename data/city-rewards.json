@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-28T11:19:57.813457300Z",
-  "count" : 12,
+  "updatedAt" : "2026-08-28T11:21:20.679083900Z",
+  "count" : 11,
   "locations" : [ {
     "serverId" : 225,
     "x" : 450,
@@ -40,6 +40,25 @@
     },
     "cityRewardSeenAt" : "2026-08-28T11:10:41.929Z",
     "foundAt" : "2026-08-28T11:10:41.929Z"
+  }, {
+    "serverId" : 3120,
+    "x" : 387,
+    "y" : 617,
+    "uid" : "7872727747679",
+    "username" : "あおすけ",
+    "level" : 100,
+    "allianceId" : "500309581",
+    "allianceTag" : "/Lun",
+    "pointId" : 316098,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4816565856921739265",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1787917096939
+    },
+    "cityRewardSeenAt" : "2026-08-28T11:19:28.169Z",
+    "foundAt" : "2026-08-28T11:19:28.169Z"
   }, {
     "serverId" : 3170,
     "x" : 401,
@@ -228,43 +247,5 @@
     },
     "cityRewardSeenAt" : "2026-08-28T10:55:27.457Z",
     "foundAt" : "2026-08-28T10:55:27.457Z"
-  }, {
-    "serverId" : 4198,
-    "x" : 411,
-    "y" : 365,
-    "uid" : "9214871441510",
-    "username" : "JMH",
-    "level" : 100,
-    "allianceId" : "500416013",
-    "allianceTag" : "NVVO",
-    "pointId" : 187086,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4816542379322428418",
-      "players" : [ ],
-      "num" : 8,
-      "endTimeMilli" : 1787915697565
-    },
-    "cityRewardSeenAt" : "2026-08-28T10:45:34.506Z",
-    "foundAt" : "2026-08-28T10:45:34.506Z"
-  }, {
-    "serverId" : 4198,
-    "x" : 424,
-    "y" : 390,
-    "uid" : "8960384339877",
-    "username" : "عكاب",
-    "level" : 86,
-    "allianceId" : "500416013",
-    "allianceTag" : "NVVO",
-    "pointId" : 199893,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4816513942159412228",
-      "players" : [ ],
-      "num" : 19,
-      "endTimeMilli" : 1787914002578
-    },
-    "cityRewardSeenAt" : "2026-08-28T10:45:47.028Z",
-    "foundAt" : "2026-08-28T10:45:47.028Z"
   } ]
 }
