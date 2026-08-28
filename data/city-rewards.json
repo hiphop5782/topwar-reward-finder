@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-28T14:41:56.915256Z",
-  "count" : 24,
+  "updatedAt" : "2026-08-28T14:44:28.467532800Z",
+  "count" : 21,
   "locations" : [ {
     "serverId" : 158,
     "x" : 374,
@@ -34,25 +34,6 @@
     "cityRewardSeenAt" : "2026-08-28T14:12:08.307Z",
     "foundAt" : "2026-08-28T14:12:08.307Z"
   }, {
-    "serverId" : 285,
-    "x" : 363,
-    "y" : 623,
-    "uid" : "307076149595",
-    "username" : "matze81",
-    "level" : 100,
-    "allianceId" : "100010621",
-    "allianceTag" : "+81.",
-    "pointId" : 319158,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4816726956831816196",
-      "players" : [ ],
-      "num" : 27,
-      "endTimeMilli" : 1787926699242
-    },
-    "cityRewardSeenAt" : "2026-08-28T14:08:18.968Z",
-    "foundAt" : "2026-08-28T14:08:18.968Z"
-  }, {
     "serverId" : 2365,
     "x" : 362,
     "y" : 464,
@@ -71,47 +52,6 @@
     },
     "cityRewardSeenAt" : "2026-08-28T14:35:37.228Z",
     "foundAt" : "2026-08-28T14:35:37.228Z"
-  }, {
-    "serverId" : 2608,
-    "x" : 346,
-    "y" : 450,
-    "uid" : "357188481978",
-    "username" : "red",
-    "level" : 100,
-    "allianceId" : "500233013",
-    "allianceTag" : "HG01",
-    "pointId" : 230574,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4816735060983308289",
-      "players" : [ ],
-      "num" : 5,
-      "endTimeMilli" : 1787927182287
-    },
-    "cityRewardSeenAt" : "2026-08-28T14:09:26.921Z",
-    "foundAt" : "2026-08-28T14:09:26.921Z"
-  }, {
-    "serverId" : 2608,
-    "x" : 348,
-    "y" : 452,
-    "uid" : "916318853756",
-    "username" : "Sango",
-    "level" : 100,
-    "allianceId" : "500233013",
-    "allianceTag" : "HG01",
-    "pointId" : 231599,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4816732288917463045",
-      "players" : [ {
-        "frameId" : 159,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon322_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"MMM🇯🇵\"}"
-      } ],
-      "num" : 6,
-      "endTimeMilli" : 1787927017059
-    },
-    "cityRewardSeenAt" : "2026-08-28T14:09:26.921Z",
-    "foundAt" : "2026-08-28T14:09:26.921Z"
   }, {
     "serverId" : 2655,
     "x" : 415,
