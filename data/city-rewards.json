@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-28T21:47:52.670783400Z",
-  "count" : 19,
+  "updatedAt" : "2026-08-28T21:49:56.780020800Z",
+  "count" : 18,
   "locations" : [ {
     "serverId" : 225,
     "x" : 440,
@@ -79,6 +79,37 @@
     "cityRewardSeenAt" : "2026-08-28T21:27:43.058Z",
     "foundAt" : "2026-08-28T21:27:43.058Z"
   }, {
+    "serverId" : 2681,
+    "x" : 348,
+    "y" : 442,
+    "uid" : "551334426403",
+    "username" : "Cacike",
+    "level" : 100,
+    "allianceId" : "500256719",
+    "allianceTag" : "Z681",
+    "pointId" : 226479,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4817189849399620098",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/c7599aea633ebb263bd41bf5e1a696a6_1740713143.jpg?v=1740713145925\",\"https://knight-cdn.akamaized.net/headimg/c7599aea633ebb263bd41bf5e1a696a6_1785778217.png?v=1785778220084\",\"https://knight-cdn.akamaized.net/headimg/c7599aea633ebb263bd41bf5e1a696a6_1781729155.png?v=1781729157415\",\"https://knight-cdn.akamaized.net/headimg/c7599aea633ebb263bd41bf5e1a696a6_1781810401.png?v=1781810408605\"],\"nationalflag\":75,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/c7599aea633ebb263bd41bf5e1a696a6_1740713143.jpg?v=1740713145925\",\"username\":\"🖤Loba🖤\"}"
+      }, {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":98,\"gender\":0,\"avatarurl\":\"hero_icon015_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"KARO1309\"}"
+      }, {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"VA_Wildc\"}"
+      }, {
+        "frameId" : 114,
+        "playerInfo" : "{\"nationalflag\":49,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/532386813655.jpg?v=1723951141781\",\"username\":\"ꪑᥴ᭙ꫝꪗ\"}"
+      } ],
+      "num" : 7,
+      "endTimeMilli" : 1787954289789
+    },
+    "cityRewardSeenAt" : "2026-08-28T21:47:37.664Z",
+    "foundAt" : "2026-08-28T21:47:37.664Z"
+  }, {
     "serverId" : 2687,
     "x" : 368,
     "y" : 586,
@@ -97,44 +128,6 @@
     },
     "cityRewardSeenAt" : "2026-08-28T21:22:54.854Z",
     "foundAt" : "2026-08-28T21:22:54.854Z"
-  }, {
-    "serverId" : 2748,
-    "x" : 415,
-    "y" : 257,
-    "uid" : "927832804028",
-    "username" : "후니팝",
-    "level" : 100,
-    "allianceId" : "500253430",
-    "allianceTag" : "+CU+",
-    "pointId" : 131792,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4817156868446451717",
-      "players" : [ ],
-      "num" : 14,
-      "endTimeMilli" : 1787952323971
-    },
-    "cityRewardSeenAt" : "2026-08-28T21:14:34.456Z",
-    "foundAt" : "2026-08-28T21:14:34.456Z"
-  }, {
-    "serverId" : 2748,
-    "x" : 436,
-    "y" : 280,
-    "uid" : "906054675007",
-    "username" : "Dresama",
-    "level" : 100,
-    "allianceId" : "500253430",
-    "allianceTag" : "+CU+",
-    "pointId" : 143579,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4817161005506590723",
-      "players" : [ ],
-      "num" : 4,
-      "endTimeMilli" : 1787952570559
-    },
-    "cityRewardSeenAt" : "2026-08-28T21:14:33.023Z",
-    "foundAt" : "2026-08-28T21:14:33.023Z"
   }, {
     "serverId" : 2864,
     "x" : 428,
