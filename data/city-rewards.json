@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-28T16:00:47.617047900Z",
-  "count" : 10,
+  "updatedAt" : "2026-08-28T16:02:56.739242400Z",
+  "count" : 11,
   "locations" : [ {
     "serverId" : 542,
     "x" : 263,
@@ -59,25 +59,6 @@
     },
     "cityRewardSeenAt" : "2026-08-28T15:53:38.951Z",
     "foundAt" : "2026-08-28T15:53:38.951Z"
-  }, {
-    "serverId" : 1644,
-    "x" : 416,
-    "y" : 426,
-    "uid" : "7703132308974",
-    "username" : "shrek💚",
-    "level" : 100,
-    "allianceId" : "200279784",
-    "allianceTag" : "#SuS",
-    "pointId" : 218321,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4816803765544605703",
-      "players" : [ ],
-      "num" : 8,
-      "endTimeMilli" : 1787931277398
-    },
-    "cityRewardSeenAt" : "2026-08-28T15:26:22.079Z",
-    "foundAt" : "2026-08-28T15:26:22.079Z"
   }, {
     "serverId" : 2244,
     "x" : 402,
@@ -197,6 +178,50 @@
     },
     "cityRewardSeenAt" : "2026-08-28T15:35:33.580Z",
     "foundAt" : "2026-08-28T15:35:33.580Z"
+  }, {
+    "serverId" : 4122,
+    "x" : 386,
+    "y" : 530,
+    "uid" : "9095998115866",
+    "username" : "Rogue1",
+    "level" : 100,
+    "allianceId" : "500401932",
+    "allianceTag" : "MYRD",
+    "pointId" : 271554,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4816840612372296710",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon236_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Renegade\"}"
+      } ],
+      "num" : 10,
+      "endTimeMilli" : 1787933473640
+    },
+    "cityRewardSeenAt" : "2026-08-28T16:01:44.978Z",
+    "foundAt" : "2026-08-28T16:01:44.978Z"
+  }, {
+    "serverId" : 4122,
+    "x" : 434,
+    "y" : 626,
+    "uid" : "9102685605916",
+    "username" : "Stanzi🔥",
+    "level" : 100,
+    "allianceId" : "500401932",
+    "allianceTag" : "MYRD",
+    "pointId" : 320730,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4816836976346936324",
+      "players" : [ {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"jdub253\"}"
+      } ],
+      "num" : 11,
+      "endTimeMilli" : 1787933256916
+    },
+    "cityRewardSeenAt" : "2026-08-28T16:02:12.276Z",
+    "foundAt" : "2026-08-28T16:02:12.276Z"
   }, {
     "serverId" : 4299,
     "x" : 360,
