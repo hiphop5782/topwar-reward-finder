@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-28T03:18:02.731416700Z",
-  "count" : 4,
+  "updatedAt" : "2026-08-28T03:20:25.971388900Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 341,
     "x" : 434,
@@ -78,5 +78,24 @@
     },
     "cityRewardSeenAt" : "2026-08-28T03:10:38.134Z",
     "foundAt" : "2026-08-28T03:10:38.134Z"
+  }, {
+    "serverId" : 4444,
+    "x" : 391,
+    "y" : 437,
+    "uid" : "9646854902108",
+    "username" : "Asahi2nd",
+    "level" : 84,
+    "allianceId" : "500467922",
+    "allianceTag" : "W.FZ",
+    "pointId" : 223940,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4816068501974464513",
+      "players" : [ ],
+      "num" : 32,
+      "endTimeMilli" : 1787887452274
+    },
+    "cityRewardSeenAt" : "2026-08-28T03:18:53.180Z",
+    "foundAt" : "2026-08-28T03:18:53.180Z"
   } ]
 }
