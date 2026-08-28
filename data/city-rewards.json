@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-28T14:09:32.948204100Z",
+  "updatedAt" : "2026-08-28T14:11:57.730164300Z",
   "count" : 20,
   "locations" : [ {
     "serverId" : 285,
@@ -21,44 +21,6 @@
     },
     "cityRewardSeenAt" : "2026-08-28T14:08:18.968Z",
     "foundAt" : "2026-08-28T14:08:18.968Z"
-  }, {
-    "serverId" : 1421,
-    "x" : 416,
-    "y" : 624,
-    "uid" : "640131888341",
-    "username" : "nekomata",
-    "level" : 100,
-    "allianceId" : "718234",
-    "allianceTag" : "SLTn",
-    "pointId" : 319697,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4816688966957472262",
-      "players" : [ ],
-      "num" : 41,
-      "endTimeMilli" : 1787924434869
-    },
-    "cityRewardSeenAt" : "2026-08-28T13:36:38.553Z",
-    "foundAt" : "2026-08-28T13:36:38.553Z"
-  }, {
-    "serverId" : 1421,
-    "x" : 437,
-    "y" : 255,
-    "uid" : "550047433702",
-    "username" : "ボッツ",
-    "level" : 100,
-    "allianceId" : "711711",
-    "allianceTag" : "ss-5",
-    "pointId" : 130779,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4816699421948058116",
-      "players" : [ ],
-      "num" : 34,
-      "endTimeMilli" : 1787925058035
-    },
-    "cityRewardSeenAt" : "2026-08-28T13:35:32.870Z",
-    "foundAt" : "2026-08-28T13:35:32.870Z"
   }, {
     "serverId" : 1725,
     "x" : 404,
@@ -178,6 +140,47 @@
     },
     "cityRewardSeenAt" : "2026-08-28T13:43:05.228Z",
     "foundAt" : "2026-08-28T13:43:05.228Z"
+  }, {
+    "serverId" : 2608,
+    "x" : 346,
+    "y" : 450,
+    "uid" : "357188481978",
+    "username" : "red",
+    "level" : 100,
+    "allianceId" : "500233013",
+    "allianceTag" : "HG01",
+    "pointId" : 230574,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4816735060983308289",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1787927182287
+    },
+    "cityRewardSeenAt" : "2026-08-28T14:09:26.921Z",
+    "foundAt" : "2026-08-28T14:09:26.921Z"
+  }, {
+    "serverId" : 2608,
+    "x" : 348,
+    "y" : 452,
+    "uid" : "916318853756",
+    "username" : "Sango",
+    "level" : 100,
+    "allianceId" : "500233013",
+    "allianceTag" : "HG01",
+    "pointId" : 231599,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4816732288917463045",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon322_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"MMM🇯🇵\"}"
+      } ],
+      "num" : 6,
+      "endTimeMilli" : 1787927017059
+    },
+    "cityRewardSeenAt" : "2026-08-28T14:09:26.921Z",
+    "foundAt" : "2026-08-28T14:09:26.921Z"
   }, {
     "serverId" : 2652,
     "x" : 408,
