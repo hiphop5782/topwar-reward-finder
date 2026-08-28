@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-28T10:45:14.847568300Z",
-  "count" : 7,
+  "updatedAt" : "2026-08-28T10:47:04.519203200Z",
+  "count" : 9,
   "locations" : [ {
     "serverId" : 1304,
     "x" : 438,
@@ -147,5 +147,43 @@
     },
     "cityRewardSeenAt" : "2026-08-28T10:37:54.744Z",
     "foundAt" : "2026-08-28T10:37:54.744Z"
+  }, {
+    "serverId" : 4198,
+    "x" : 411,
+    "y" : 365,
+    "uid" : "9214871441510",
+    "username" : "JMH",
+    "level" : 100,
+    "allianceId" : "500416013",
+    "allianceTag" : "NVVO",
+    "pointId" : 187086,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4816542379322428418",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1787915697565
+    },
+    "cityRewardSeenAt" : "2026-08-28T10:45:34.506Z",
+    "foundAt" : "2026-08-28T10:45:34.506Z"
+  }, {
+    "serverId" : 4198,
+    "x" : 424,
+    "y" : 390,
+    "uid" : "8960384339877",
+    "username" : "عكاب",
+    "level" : 86,
+    "allianceId" : "500416013",
+    "allianceTag" : "NVVO",
+    "pointId" : 199893,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4816513942159412228",
+      "players" : [ ],
+      "num" : 19,
+      "endTimeMilli" : 1787914002578
+    },
+    "cityRewardSeenAt" : "2026-08-28T10:45:47.028Z",
+    "foundAt" : "2026-08-28T10:45:47.028Z"
   } ]
 }
