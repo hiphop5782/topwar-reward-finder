@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-28T06:45:57.092896800Z",
+  "updatedAt" : "2026-08-28T06:46:36.131573400Z",
   "count" : 8,
   "locations" : [ {
     "serverId" : 341,
@@ -21,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-08-28T06:29:26.629Z",
     "foundAt" : "2026-08-28T06:29:26.629Z"
+  }, {
+    "serverId" : 1132,
+    "x" : 345,
+    "y" : 671,
+    "uid" : "388876436658",
+    "username" : "Perses",
+    "level" : 100,
+    "allianceId" : "200141239",
+    "allianceTag" : "MadF",
+    "pointId" : 343725,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4816301009322694662",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1787901310792
+    },
+    "cityRewardSeenAt" : "2026-08-28T06:45:42.156Z",
+    "foundAt" : "2026-08-28T06:45:42.156Z"
   }, {
     "serverId" : 1558,
     "x" : 403,
@@ -135,24 +154,5 @@
     },
     "cityRewardSeenAt" : "2026-08-28T06:12:31.636Z",
     "foundAt" : "2026-08-28T06:12:31.636Z"
-  }, {
-    "serverId" : 4241,
-    "x" : 551,
-    "y" : 117,
-    "uid" : "9262290407569",
-    "username" : "和楽",
-    "level" : 79,
-    "allianceId" : "500422139",
-    "allianceTag" : "4x17",
-    "pointId" : 60180,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4816260457769804289",
-      "players" : [ ],
-      "num" : 5,
-      "endTimeMilli" : 1787898893731
-    },
-    "cityRewardSeenAt" : "2026-08-28T06:11:03.305Z",
-    "foundAt" : "2026-08-28T06:11:03.305Z"
   } ]
 }
