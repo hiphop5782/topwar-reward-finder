@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-28T12:47:23.647527500Z",
-  "count" : 59,
+  "updatedAt" : "2026-08-28T12:49:33.143172100Z",
+  "count" : 58,
   "locations" : [ {
     "serverId" : 73,
     "x" : 150,
@@ -242,82 +242,6 @@
     },
     "cityRewardSeenAt" : "2026-08-28T12:35:33.597Z",
     "foundAt" : "2026-08-28T12:35:33.597Z"
-  }, {
-    "serverId" : 680,
-    "x" : 212,
-    "y" : 670,
-    "uid" : "461957419618",
-    "username" : "🍀🌸茶々",
-    "level" : 100,
-    "allianceId" : "393825",
-    "allianceTag" : "SY1Y",
-    "pointId" : 343147,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4816629567207067650",
-      "players" : [ ],
-      "num" : 25,
-      "endTimeMilli" : 1787920894368
-    },
-    "cityRewardSeenAt" : "2026-08-28T12:13:04.230Z",
-    "foundAt" : "2026-08-28T12:13:04.230Z"
-  }, {
-    "serverId" : 680,
-    "x" : 214,
-    "y" : 668,
-    "uid" : "433581699682",
-    "username" : "ゆっくり茶🍀",
-    "level" : 100,
-    "allianceId" : "393825",
-    "allianceTag" : "SY1Y",
-    "pointId" : 342124,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4816629752964403206",
-      "players" : [ ],
-      "num" : 25,
-      "endTimeMilli" : 1787920905440
-    },
-    "cityRewardSeenAt" : "2026-08-28T12:13:04.230Z",
-    "foundAt" : "2026-08-28T12:13:04.230Z"
-  }, {
-    "serverId" : 680,
-    "x" : 242,
-    "y" : 664,
-    "uid" : "470244934312",
-    "username" : "涼風",
-    "level" : 100,
-    "allianceId" : "393825",
-    "allianceTag" : "SY1Y",
-    "pointId" : 340090,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4816602750639230978",
-      "players" : [ ],
-      "num" : 102,
-      "endTimeMilli" : 1787919295976
-    },
-    "cityRewardSeenAt" : "2026-08-28T12:13:05.715Z",
-    "foundAt" : "2026-08-28T12:13:05.715Z"
-  }, {
-    "serverId" : 680,
-    "x" : 453,
-    "y" : 637,
-    "uid" : "476209042100",
-    "username" : "ｍｙ476209",
-    "level" : 100,
-    "allianceId" : "396351",
-    "allianceTag" : "AkNc",
-    "pointId" : 326371,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4816620715598237699",
-      "players" : [ ],
-      "num" : 73,
-      "endTimeMilli" : 1787920366771
-    },
-    "cityRewardSeenAt" : "2026-08-28T12:13:08.462Z",
-    "foundAt" : "2026-08-28T12:13:08.462Z"
   }, {
     "serverId" : 1383,
     "x" : 396,
@@ -1042,6 +966,63 @@
     },
     "cityRewardSeenAt" : "2026-08-28T12:31:06.235Z",
     "foundAt" : "2026-08-28T12:31:06.235Z"
+  }, {
+    "serverId" : 3966,
+    "x" : 402,
+    "y" : 320,
+    "uid" : "8931314929534",
+    "username" : "Aming",
+    "level" : 100,
+    "allianceId" : "500386023",
+    "allianceTag" : "39bb",
+    "pointId" : 164042,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4816657881411550216",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1787922582026
+    },
+    "cityRewardSeenAt" : "2026-08-28T12:46:55.738Z",
+    "foundAt" : "2026-08-28T12:46:55.738Z"
+  }, {
+    "serverId" : 3966,
+    "x" : 404,
+    "y" : 330,
+    "uid" : "8942332219262",
+    "username" : "裁判所の金魚",
+    "level" : 100,
+    "allianceId" : "500386023",
+    "allianceTag" : "39bb",
+    "pointId" : 169163,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4816658257338629121",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1787922604433
+    },
+    "cityRewardSeenAt" : "2026-08-28T12:46:55.738Z",
+    "foundAt" : "2026-08-28T12:46:55.738Z"
+  }, {
+    "serverId" : 4056,
+    "x" : 409,
+    "y" : 703,
+    "uid" : "9007926480856",
+    "username" : "ハム",
+    "level" : 100,
+    "allianceId" : "500391599",
+    "allianceTag" : "RY$E",
+    "pointId" : 360141,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4816652704147288072",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1787922273437
+    },
+    "cityRewardSeenAt" : "2026-08-28T12:48:14.105Z",
+    "foundAt" : "2026-08-28T12:48:14.105Z"
   }, {
     "serverId" : 4077,
     "x" : 396,
