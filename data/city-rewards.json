@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-28T09:11:39.555072900Z",
+  "updatedAt" : "2026-08-28T09:13:50.330419700Z",
   "count" : 11,
   "locations" : [ {
     "serverId" : 795,
@@ -174,6 +174,25 @@
     "cityRewardSeenAt" : "2026-08-28T08:53:53.581Z",
     "foundAt" : "2026-08-28T08:53:53.581Z"
   }, {
+    "serverId" : 4357,
+    "x" : 517,
+    "y" : 411,
+    "uid" : "9452392517893",
+    "username" : "あやめ",
+    "level" : 97,
+    "allianceId" : "500444026",
+    "allianceTag" : "u%18",
+    "pointId" : 210691,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4816445365876296200",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1787909915113
+    },
+    "cityRewardSeenAt" : "2026-08-28T09:11:45.950Z",
+    "foundAt" : "2026-08-28T09:11:45.950Z"
+  }, {
     "serverId" : 4459,
     "x" : 424,
     "y" : 624,
@@ -192,27 +211,5 @@
     },
     "cityRewardSeenAt" : "2026-08-28T08:51:29.204Z",
     "foundAt" : "2026-08-28T08:51:29.204Z"
-  }, {
-    "serverId" : 4489,
-    "x" : 194,
-    "y" : 174,
-    "uid" : "9748520407433",
-    "username" : "ノクサス人",
-    "level" : 73,
-    "allianceId" : "500484578",
-    "allianceTag" : "v84,",
-    "pointId" : 89186,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4816397632314479112",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon172_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"ノクサス人\"}"
-      } ],
-      "num" : 1,
-      "endTimeMilli" : 1787907069971
-    },
-    "cityRewardSeenAt" : "2026-08-28T08:38:12.078Z",
-    "foundAt" : "2026-08-28T08:38:12.078Z"
   } ]
 }
