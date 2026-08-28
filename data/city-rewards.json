@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-28T06:51:37.533595500Z",
+  "updatedAt" : "2026-08-28T06:53:48.017900Z",
   "count" : 8,
   "locations" : [ {
     "serverId" : 341,
@@ -22,6 +22,25 @@
     "cityRewardSeenAt" : "2026-08-28T06:29:26.629Z",
     "foundAt" : "2026-08-28T06:29:26.629Z"
   }, {
+    "serverId" : 1033,
+    "x" : 407,
+    "y" : 329,
+    "uid" : "376012063795",
+    "username" : "pajezier",
+    "level" : 100,
+    "allianceId" : "200101535",
+    "allianceTag" : "GOD.",
+    "pointId" : 168652,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4816288435805884928",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1787900561352
+    },
+    "cityRewardSeenAt" : "2026-08-28T06:52:17.454Z",
+    "foundAt" : "2026-08-28T06:52:17.454Z"
+  }, {
     "serverId" : 1132,
     "x" : 345,
     "y" : 671,
@@ -40,25 +59,6 @@
     },
     "cityRewardSeenAt" : "2026-08-28T06:45:42.156Z",
     "foundAt" : "2026-08-28T06:45:42.156Z"
-  }, {
-    "serverId" : 1558,
-    "x" : 403,
-    "y" : 549,
-    "uid" : "503909049957",
-    "username" : "Wretched",
-    "level" : 100,
-    "allianceId" : "300081824",
-    "allianceTag" : "RaZR",
-    "pointId" : 281290,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4816269686696848384",
-      "players" : [ ],
-      "num" : 6,
-      "endTimeMilli" : 1787899443818
-    },
-    "cityRewardSeenAt" : "2026-08-28T06:17:41.167Z",
-    "foundAt" : "2026-08-28T06:17:41.167Z"
   }, {
     "serverId" : 3506,
     "x" : 398,
