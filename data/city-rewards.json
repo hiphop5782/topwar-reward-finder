@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T07:01:37.042090200Z",
-  "count" : 16,
+  "updatedAt" : "2026-08-29T07:03:27.540247300Z",
+  "count" : 18,
   "locations" : [ {
     "serverId" : 341,
     "x" : 257,
@@ -148,24 +148,65 @@
     "cityRewardSeenAt" : "2026-08-29T06:31:30.169Z",
     "foundAt" : "2026-08-29T06:31:30.169Z"
   }, {
-    "serverId" : 2287,
-    "x" : 406,
-    "y" : 576,
-    "uid" : "372213113886",
-    "username" : "Bbo63",
+    "serverId" : 1607,
+    "x" : 323,
+    "y" : 179,
+    "uid" : "405000516889",
+    "username" : "ChanServ",
     "level" : 100,
-    "allianceId" : "500131304",
-    "allianceTag" : "bWAR",
-    "pointId" : 295116,
+    "allianceId" : "300067602",
+    "allianceTag" : "UNT7",
+    "pointId" : 91810,
     "cityReward" : {
       "itemId" : 260617002,
-      "instanceId" : "4817703968191929857",
+      "instanceId" : "4817746105746624007",
       "players" : [ ],
-      "num" : 38,
-      "endTimeMilli" : 1787984933657
+      "num" : 15,
+      "endTimeMilli" : 1787987445251
     },
-    "cityRewardSeenAt" : "2026-08-29T06:27:06.650Z",
-    "foundAt" : "2026-08-29T06:27:06.650Z"
+    "cityRewardSeenAt" : "2026-08-29T07:01:26.746Z",
+    "foundAt" : "2026-08-29T07:01:26.746Z"
+  }, {
+    "serverId" : 1607,
+    "x" : 385,
+    "y" : 603,
+    "uid" : "585392662463",
+    "username" : "louis",
+    "level" : 100,
+    "allianceId" : "200268222",
+    "allianceTag" : "WaR'",
+    "pointId" : 308929,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817761984089722376",
+      "players" : [ ],
+      "num" : 14,
+      "endTimeMilli" : 1787988391674
+    },
+    "cityRewardSeenAt" : "2026-08-29T07:02:30.064Z",
+    "foundAt" : "2026-08-29T07:02:30.064Z"
+  }, {
+    "serverId" : 1607,
+    "x" : 403,
+    "y" : 325,
+    "uid" : "404699088153",
+    "username" : "Szliszka",
+    "level" : 100,
+    "allianceId" : "300067602",
+    "allianceTag" : "UNT7",
+    "pointId" : 166602,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4817767333001727495",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/320022a5884a476619efac2117fa9213_1763113862.png?v=1763113863315\",\"https://knight-cdn.akamaized.net/headimg/320022a5884a476619efac2117fa9213_1783967255.png?v=1783967257357\",\"https://knight-cdn.akamaized.net/headimg/320022a5884a476619efac2117fa9213_1776579795.png?v=1776579798015\",\"https://knight-cdn.akamaized.net/headimg/320022a5884a476619efac2117fa9213_1783876739.png?v=1783876741513\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/320022a5884a476619efac2117fa9213_1783876739.png?v=1783876741513\",\"username\":\"Szliszka\"}"
+      } ],
+      "num" : 1,
+      "endTimeMilli" : 1787988710494
+    },
+    "cityRewardSeenAt" : "2026-08-29T07:01:54.042Z",
+    "foundAt" : "2026-08-29T07:01:54.042Z"
   }, {
     "serverId" : 2682,
     "x" : 373,
