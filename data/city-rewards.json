@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T19:20:29.253560400Z",
-  "count" : 7,
+  "updatedAt" : "2026-08-29T19:22:59.613975300Z",
+  "count" : 9,
   "locations" : [ {
     "serverId" : 579,
     "x" : 408,
@@ -159,5 +159,58 @@
     },
     "cityRewardSeenAt" : "2026-08-29T19:12:46.688Z",
     "foundAt" : "2026-08-29T19:12:46.688Z"
+  }, {
+    "serverId" : 4243,
+    "x" : 315,
+    "y" : 527,
+    "uid" : "9269210681491",
+    "username" : "TonyC",
+    "level" : 100,
+    "allianceId" : "500423072",
+    "allianceTag" : "4=13",
+    "pointId" : 269982,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4818511361428497927",
+      "players" : [ {
+        "frameId" : 166,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon123_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"TonyC\"}"
+      } ],
+      "num" : 1,
+      "endTimeMilli" : 1788033058044
+    },
+    "cityRewardSeenAt" : "2026-08-29T19:21:04.310Z",
+    "foundAt" : "2026-08-29T19:21:04.310Z"
+  }, {
+    "serverId" : 4493,
+    "x" : 473,
+    "y" : 521,
+    "uid" : "9775935754637",
+    "username" : "Yeti",
+    "level" : 80,
+    "allianceId" : "500485626",
+    "allianceTag" : "F2L",
+    "pointId" : 266989,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4818483770827151875",
+      "players" : [ {
+        "frameId" : 165,
+        "playerInfo" : "{\"nationalflag\":31,\"gender\":0,\"avatarurl\":\"hero_icon140_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Thiagoso\"}"
+      }, {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"hero_icon310_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"BerndBoe\"}"
+      }, {
+        "frameId" : 164,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/42cab551b5c83872293b4ce378d0b8c2_1783880855.png?v=1783880858514\",\"https://knight-cdn.akamaized.net/headimg/42cab551b5c83872293b4ce378d0b8c2_1785024995.png?v=1785024998491\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/42cab551b5c83872293b4ce378d0b8c2_1785024995.png?v=1785024998491\",\"username\":\"Redbone\"}"
+      }, {
+        "frameId" : 165,
+        "playerInfo" : "{\"nationalflag\":75,\"gender\":0,\"avatarurl\":\"hero_icon010_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Hérisson\"}"
+      } ],
+      "num" : 9,
+      "endTimeMilli" : 1788031413516
+    },
+    "cityRewardSeenAt" : "2026-08-29T19:20:26.175Z",
+    "foundAt" : "2026-08-29T19:20:26.175Z"
   } ]
 }
