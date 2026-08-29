@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T07:39:22.095147700Z",
-  "count" : 14,
+  "updatedAt" : "2026-08-29T07:41:56.093769300Z",
+  "count" : 16,
   "locations" : [ {
+    "serverId" : 73,
+    "x" : 305,
+    "y" : 117,
+    "uid" : "172327583817",
+    "username" : "マーシャル",
+    "level" : 100,
+    "allianceId" : "52859",
+    "allianceTag" : "t3t",
+    "pointId" : 60057,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817805018218402311",
+      "players" : [ ],
+      "num" : 0,
+      "endTimeMilli" : 1787990956708
+    },
+    "cityRewardSeenAt" : "2026-08-29T07:39:18.653Z",
+    "foundAt" : "2026-08-29T07:39:18.653Z"
+  }, {
     "serverId" : 529,
     "x" : 517,
     "y" : 347,
@@ -112,25 +131,6 @@
     },
     "cityRewardSeenAt" : "2026-08-29T07:36:02.304Z",
     "foundAt" : "2026-08-29T07:36:02.304Z"
-  }, {
-    "serverId" : 1096,
-    "x" : 391,
-    "y" : 313,
-    "uid" : "398753256702",
-    "username" : "CTPAHHIK",
-    "level" : 100,
-    "allianceId" : "100203625",
-    "allianceTag" : "AtM$",
-    "pointId" : 160452,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4817765441823346695",
-      "players" : [ ],
-      "num" : 7,
-      "endTimeMilli" : 1787988597771
-    },
-    "cityRewardSeenAt" : "2026-08-29T07:06:52.592Z",
-    "foundAt" : "2026-08-29T07:06:52.592Z"
   }, {
     "serverId" : 1816,
     "x" : 414,
@@ -307,5 +307,43 @@
     },
     "cityRewardSeenAt" : "2026-08-29T07:32:07.690Z",
     "foundAt" : "2026-08-29T07:32:07.690Z"
+  }, {
+    "serverId" : 3603,
+    "x" : 420,
+    "y" : 538,
+    "uid" : "8444394769962",
+    "username" : "さつき",
+    "level" : 100,
+    "allianceId" : "500359752",
+    "allianceTag" : "RxHs",
+    "pointId" : 275667,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817804114985231879",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1787990902871
+    },
+    "cityRewardSeenAt" : "2026-08-29T07:39:37.748Z",
+    "foundAt" : "2026-08-29T07:39:37.748Z"
+  }, {
+    "serverId" : 3603,
+    "x" : 426,
+    "y" : 532,
+    "uid" : "8425007287827",
+    "username" : "雞腿飯",
+    "level" : 100,
+    "allianceId" : "500359752",
+    "allianceTag" : "RxHs",
+    "pointId" : 272598,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817800669079283204",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1787990697479
+    },
+    "cityRewardSeenAt" : "2026-08-29T07:39:25.014Z",
+    "foundAt" : "2026-08-29T07:39:25.014Z"
   } ]
 }
