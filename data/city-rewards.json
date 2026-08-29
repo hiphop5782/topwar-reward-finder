@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T00:28:03.651196700Z",
-  "count" : 19,
+  "updatedAt" : "2026-08-29T00:30:41.881385200Z",
+  "count" : 20,
   "locations" : [ {
     "serverId" : 619,
     "x" : 400,
@@ -223,6 +223,37 @@
     },
     "cityRewardSeenAt" : "2026-08-29T00:08:09.999Z",
     "foundAt" : "2026-08-29T00:08:09.999Z"
+  }, {
+    "serverId" : 3478,
+    "x" : 399,
+    "y" : 387,
+    "uid" : "7627758537580",
+    "username" : "Hitomi",
+    "level" : 100,
+    "allianceId" : "500342860",
+    "allianceTag" : "CBW*",
+    "pointId" : 198344,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4817360429613001730",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/8ac160dccc14057807e06430dc7f9869_1733485396.jpg?v=1733485397826\",\"https://knight-cdn.akamaized.net/headimg/8ac160dccc14057807e06430dc7f9869_1746160246.jpg?v=1746160247902\",\"https://knight-cdn.akamaized.net/headimg/8ac160dccc14057807e06430dc7f9869_1765181271.png?v=1765181273135\"],\"nationalflag\":75,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/8ac160dccc14057807e06430dc7f9869_1733485396.jpg?v=1733485397826\",\"username\":\"Dyako\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":158,\"gender\":0,\"avatarurl\":\"hero_icon241_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"🫦may🫦\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":238,\"gender\":0,\"avatarurl\":\"hero_icon140_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Om4g€\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/8290702069170.jpg?v=1723946470575\",\"username\":\"Crunch\"}"
+      } ],
+      "num" : 13,
+      "endTimeMilli" : 1787964457162
+    },
+    "cityRewardSeenAt" : "2026-08-29T00:28:51.126Z",
+    "foundAt" : "2026-08-29T00:28:51.126Z"
   }, {
     "serverId" : 3885,
     "x" : 379,
