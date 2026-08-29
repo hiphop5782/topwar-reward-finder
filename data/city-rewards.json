@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T15:14:31.688956900Z",
-  "count" : 7,
+  "updatedAt" : "2026-08-29T15:17:16.641363100Z",
+  "count" : 8,
   "locations" : [ {
     "serverId" : 211,
     "x" : 253,
@@ -147,5 +147,24 @@
     },
     "cityRewardSeenAt" : "2026-08-29T14:46:24.257Z",
     "foundAt" : "2026-08-29T14:46:24.257Z"
+  }, {
+    "serverId" : 4356,
+    "x" : 387,
+    "y" : 521,
+    "uid" : "9448591200516",
+    "username" : "Darklord",
+    "level" : 100,
+    "allianceId" : "500443583",
+    "allianceTag" : "Xcon",
+    "pointId" : 266946,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4818257176573380616",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1788017907446
+    },
+    "cityRewardSeenAt" : "2026-08-29T15:15:52.193Z",
+    "foundAt" : "2026-08-29T15:15:52.193Z"
   } ]
 }
