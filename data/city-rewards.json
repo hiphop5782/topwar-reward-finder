@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T14:10:49.512014400Z",
-  "count" : 20,
+  "updatedAt" : "2026-08-29T14:12:57.167050500Z",
+  "count" : 22,
   "locations" : [ {
+    "serverId" : 654,
+    "x" : 409,
+    "y" : 579,
+    "uid" : "523663327886",
+    "username" : "S_Levi1",
+    "level" : 100,
+    "allianceId" : "386566",
+    "allianceTag" : "WoLs",
+    "pointId" : 296653,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4818185376596564997",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1788013627834
+    },
+    "cityRewardSeenAt" : "2026-08-29T14:12:03.785Z",
+    "foundAt" : "2026-08-29T14:12:03.785Z"
+  }, {
     "serverId" : 930,
     "x" : 444,
     "y" : 620,
@@ -185,6 +204,25 @@
     },
     "cityRewardSeenAt" : "2026-08-29T13:54:05.285Z",
     "foundAt" : "2026-08-29T13:54:05.285Z"
+  }, {
+    "serverId" : 2622,
+    "x" : 541,
+    "y" : 481,
+    "uid" : "904905300542",
+    "username" : "Don",
+    "level" : 100,
+    "allianceId" : "500220540",
+    "allianceTag" : "FOXC",
+    "pointId" : 246543,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4818180064847100935",
+      "players" : [ ],
+      "num" : 52,
+      "endTimeMilli" : 1788013311229
+    },
+    "cityRewardSeenAt" : "2026-08-29T14:10:54.635Z",
+    "foundAt" : "2026-08-29T14:10:54.635Z"
   }, {
     "serverId" : 3309,
     "x" : 424,
