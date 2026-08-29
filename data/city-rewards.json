@@ -1,27 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T06:17:53.542598100Z",
+  "updatedAt" : "2026-08-29T06:19:53.500278400Z",
   "count" : 7,
   "locations" : [ {
-    "serverId" : 1083,
-    "x" : 386,
-    "y" : 428,
-    "uid" : "566556034131",
-    "username" : "JC",
-    "level" : 100,
-    "allianceId" : "560229",
-    "allianceTag" : "AGA1",
-    "pointId" : 219330,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4817680646686668289",
-      "players" : [ ],
-      "num" : 25,
-      "endTimeMilli" : 1787983543587
-    },
-    "cityRewardSeenAt" : "2026-08-29T05:44:35.980Z",
-    "foundAt" : "2026-08-29T05:44:35.980Z"
-  }, {
     "serverId" : 3398,
     "x" : 439,
     "y" : 449,
@@ -165,5 +146,24 @@
     },
     "cityRewardSeenAt" : "2026-08-29T06:11:49.571Z",
     "foundAt" : "2026-08-29T06:11:49.571Z"
+  }, {
+    "serverId" : 3800,
+    "x" : 409,
+    "y" : 669,
+    "uid" : "907857222216",
+    "username" : "kantotzz",
+    "level" : 100,
+    "allianceId" : "500377835",
+    "allianceTag" : "$aLT",
+    "pointId" : 342733,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817697505089007617",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1787984548426
+    },
+    "cityRewardSeenAt" : "2026-08-29T06:19:09.861Z",
+    "foundAt" : "2026-08-29T06:19:09.861Z"
   } ]
 }
