@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T15:24:59.801371100Z",
-  "count" : 6,
+  "updatedAt" : "2026-08-29T15:27:30.952368100Z",
+  "count" : 7,
   "locations" : [ {
     "serverId" : 211,
     "x" : 253,
@@ -90,6 +90,37 @@
     },
     "cityRewardSeenAt" : "2026-08-29T15:01:42.586Z",
     "foundAt" : "2026-08-29T15:01:42.586Z"
+  }, {
+    "serverId" : 3438,
+    "x" : 423,
+    "y" : 399,
+    "uid" : "262920729021",
+    "username" : "¹⁄₁₁蘿蔔腿獸",
+    "level" : 100,
+    "allianceId" : "500338750",
+    "allianceTag" : "A38S",
+    "pointId" : 204500,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4818271482068786184",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/70bd55a3ba616cf2656cd167cf6f97a0_1756914157.jpg?v=1756914158734\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/70bd55a3ba616cf2656cd167cf6f97a0_1756914157.jpg?v=1756914158734\",\"username\":\"清淨心\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon210_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"哥不吸烟\"}"
+      }, {
+        "frameId" : 2,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/416eab00a62c7ae4dce316f879098f52_1750081000.jpg?v=1750081006012\"],\"nationalflag\":247,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/416eab00a62c7ae4dce316f879098f52_1750081000.jpg?v=1750081006012\",\"username\":\"DarkSide\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":73,\"gender\":0,\"avatarurl\":\"hero_icon216_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Hawkeye\"}"
+      } ],
+      "num" : 11,
+      "endTimeMilli" : 1788018760120
+    },
+    "cityRewardSeenAt" : "2026-08-29T15:24:28.064Z",
+    "foundAt" : "2026-08-29T15:24:28.064Z"
   }, {
     "serverId" : 3825,
     "x" : 384,
