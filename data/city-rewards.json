@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T14:20:55.284847200Z",
+  "updatedAt" : "2026-08-29T14:22:54.629234900Z",
   "count" : 13,
   "locations" : [ {
     "serverId" : 654,
@@ -21,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-08-29T14:12:03.785Z",
     "foundAt" : "2026-08-29T14:12:03.785Z"
+  }, {
+    "serverId" : 795,
+    "x" : 410,
+    "y" : 588,
+    "uid" : "280212906481",
+    "username" : "Aphex",
+    "level" : 100,
+    "allianceId" : "456333",
+    "allianceTag" : "S795",
+    "pointId" : 301262,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4818208679914780160",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1788015016820
+    },
+    "cityRewardSeenAt" : "2026-08-29T14:21:52.922Z",
+    "foundAt" : "2026-08-29T14:21:52.922Z"
   }, {
     "serverId" : 930,
     "x" : 444,
@@ -116,25 +135,6 @@
     },
     "cityRewardSeenAt" : "2026-08-29T14:10:54.635Z",
     "foundAt" : "2026-08-29T14:10:54.635Z"
-  }, {
-    "serverId" : 3309,
-    "x" : 424,
-    "y" : 424,
-    "uid" : "847621519654",
-    "username" : "ドラレス",
-    "level" : 100,
-    "allianceId" : "500321266",
-    "allianceTag" : "33O9",
-    "pointId" : 217301,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4818167496951060994",
-      "players" : [ ],
-      "num" : 7,
-      "endTimeMilli" : 1788012562124
-    },
-    "cityRewardSeenAt" : "2026-08-29T13:47:34.243Z",
-    "foundAt" : "2026-08-29T13:47:34.243Z"
   }, {
     "serverId" : 3508,
     "x" : 411,
