@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T09:11:52.639895400Z",
-  "count" : 11,
+  "updatedAt" : "2026-08-29T09:13:08.894183Z",
+  "count" : 13,
   "locations" : [ {
     "serverId" : 485,
     "x" : 443,
@@ -235,5 +235,43 @@
     },
     "cityRewardSeenAt" : "2026-08-29T08:39:22.571Z",
     "foundAt" : "2026-08-29T08:39:22.571Z"
+  }, {
+    "serverId" : 4380,
+    "x" : 392,
+    "y" : 588,
+    "uid" : "9727211245852",
+    "username" : "Mastino",
+    "level" : 83,
+    "allianceId" : "500449845",
+    "allianceTag" : "EVND",
+    "pointId" : 301253,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817886617566066697",
+      "players" : [ ],
+      "num" : 16,
+      "endTimeMilli" : 1787995820408
+    },
+    "cityRewardSeenAt" : "2026-08-29T09:11:23.606Z",
+    "foundAt" : "2026-08-29T09:11:23.606Z"
+  }, {
+    "serverId" : 4380,
+    "x" : 393,
+    "y" : 573,
+    "uid" : "9518580470044",
+    "username" : "Scoped",
+    "level" : 100,
+    "allianceId" : "500449845",
+    "allianceTag" : "EVND",
+    "pointId" : 293573,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817886491099412487",
+      "players" : [ ],
+      "num" : 16,
+      "endTimeMilli" : 1787995812870
+    },
+    "cityRewardSeenAt" : "2026-08-29T09:11:23.606Z",
+    "foundAt" : "2026-08-29T09:11:23.606Z"
   } ]
 }
