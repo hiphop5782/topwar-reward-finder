@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T03:06:45.916605400Z",
-  "count" : 15,
+  "updatedAt" : "2026-08-29T03:08:34.228452800Z",
+  "count" : 17,
   "locations" : [ {
     "serverId" : 184,
     "x" : 409,
@@ -329,5 +329,43 @@
     },
     "cityRewardSeenAt" : "2026-08-29T02:49:33.451Z",
     "foundAt" : "2026-08-29T02:49:33.451Z"
+  }, {
+    "serverId" : 4208,
+    "x" : 408,
+    "y" : 534,
+    "uid" : "9221852827758",
+    "username" : "lolazote",
+    "level" : 100,
+    "allianceId" : "500418355",
+    "allianceTag" : "C_08",
+    "pointId" : 273613,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817523257125167104",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1787974162438
+    },
+    "cityRewardSeenAt" : "2026-08-29T03:06:57.578Z",
+    "foundAt" : "2026-08-29T03:06:57.578Z"
+  }, {
+    "serverId" : 4208,
+    "x" : 410,
+    "y" : 532,
+    "uid" : "9229635391600",
+    "username" : "Ryodan",
+    "level" : 100,
+    "allianceId" : "500418355",
+    "allianceTag" : "C_08",
+    "pointId" : 272590,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817522735655739399",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1787974131356
+    },
+    "cityRewardSeenAt" : "2026-08-29T03:06:57.578Z",
+    "foundAt" : "2026-08-29T03:06:57.578Z"
   } ]
 }
