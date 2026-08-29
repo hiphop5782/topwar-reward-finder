@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T22:28:59.427019700Z",
-  "count" : 14,
+  "updatedAt" : "2026-08-29T22:30:43.164477800Z",
+  "count" : 12,
   "locations" : [ {
     "serverId" : 1035,
     "x" : 444,
@@ -242,43 +242,5 @@
     },
     "cityRewardSeenAt" : "2026-08-29T21:59:03.249Z",
     "foundAt" : "2026-08-29T21:59:03.249Z"
-  }, {
-    "serverId" : 3170,
-    "x" : 410,
-    "y" : 610,
-    "uid" : "8022975384702",
-    "username" : "なるサブ",
-    "level" : 100,
-    "allianceId" : "500312458",
-    "allianceTag" : "BPIE",
-    "pointId" : 312526,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4818641171126993924",
-      "players" : [ ],
-      "num" : 15,
-      "endTimeMilli" : 1788040795305
-    },
-    "cityRewardSeenAt" : "2026-08-29T21:54:32.994Z",
-    "foundAt" : "2026-08-29T21:54:32.994Z"
-  }, {
-    "serverId" : 3170,
-    "x" : 412,
-    "y" : 608,
-    "uid" : "7904913132670",
-    "username" : "なるなる",
-    "level" : 100,
-    "allianceId" : "500312458",
-    "allianceTag" : "BPIE",
-    "pointId" : 311503,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4818641054290461696",
-      "players" : [ ],
-      "num" : 19,
-      "endTimeMilli" : 1788040788341
-    },
-    "cityRewardSeenAt" : "2026-08-29T21:54:19.813Z",
-    "foundAt" : "2026-08-29T21:54:19.813Z"
   } ]
 }
