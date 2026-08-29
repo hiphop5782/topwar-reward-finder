@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T07:25:20.091721600Z",
-  "count" : 16,
+  "updatedAt" : "2026-08-29T07:27:48.384110300Z",
+  "count" : 18,
   "locations" : [ {
     "serverId" : 529,
     "x" : 517,
@@ -333,5 +333,43 @@
     },
     "cityRewardSeenAt" : "2026-08-29T06:54:17.995Z",
     "foundAt" : "2026-08-29T06:54:17.995Z"
+  }, {
+    "serverId" : 3407,
+    "x" : 350,
+    "y" : 468,
+    "uid" : "924083092140",
+    "username" : "냉면만듀_Jus",
+    "level" : 100,
+    "allianceId" : "500332947",
+    "allianceTag" : "07_S",
+    "pointId" : 239792,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817763711909010953",
+      "players" : [ ],
+      "num" : 23,
+      "endTimeMilli" : 1787988494660
+    },
+    "cityRewardSeenAt" : "2026-08-29T07:25:06.415Z",
+    "foundAt" : "2026-08-29T07:25:06.415Z"
+  }, {
+    "serverId" : 3407,
+    "x" : 460,
+    "y" : 470,
+    "uid" : "481594664496",
+    "username" : "AriX",
+    "level" : 100,
+    "allianceId" : "500333065",
+    "allianceTag" : "07_N",
+    "pointId" : 240871,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817762082354798081",
+      "players" : [ ],
+      "num" : 22,
+      "endTimeMilli" : 1787988397531
+    },
+    "cityRewardSeenAt" : "2026-08-29T07:25:07.680Z",
+    "foundAt" : "2026-08-29T07:25:07.680Z"
   } ]
 }
