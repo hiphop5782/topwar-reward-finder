@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T03:28:32.971961200Z",
-  "count" : 13,
+  "updatedAt" : "2026-08-29T03:30:52.494484500Z",
+  "count" : 16,
   "locations" : [ {
     "serverId" : 515,
     "x" : 455,
@@ -23,23 +23,42 @@
     "foundAt" : "2026-08-29T03:24:28.972Z"
   }, {
     "serverId" : 707,
-    "x" : 557,
-    "y" : 211,
-    "uid" : "484912472771",
-    "username" : "２８９６",
+    "x" : 384,
+    "y" : 426,
+    "uid" : "262728606140",
+    "username" : "しゅんしゅん",
     "level" : 100,
-    "allianceId" : "415354",
-    "allianceTag" : "Wa-",
-    "pointId" : 108311,
+    "allianceId" : "417171",
+    "allianceTag" : "DOG!",
+    "pointId" : 218305,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4817528337851581961",
+      "players" : [ ],
+      "num" : 58,
+      "endTimeMilli" : 1787974465273
+    },
+    "cityRewardSeenAt" : "2026-08-29T03:29:30.081Z",
+    "foundAt" : "2026-08-29T03:29:30.081Z"
+  }, {
+    "serverId" : 707,
+    "x" : 403,
+    "y" : 331,
+    "uid" : "249531085062",
+    "username" : "チャオチュール",
+    "level" : 100,
+    "allianceId" : "415636",
+    "allianceTag" : "caTs",
+    "pointId" : 169674,
     "cityReward" : {
       "itemId" : 260617002,
-      "instanceId" : "4817504305462740488",
+      "instanceId" : "4817526023736624643",
       "players" : [ ],
-      "num" : 16,
-      "endTimeMilli" : 1787973032831
+      "num" : 57,
+      "endTimeMilli" : 1787974327341
     },
-    "cityRewardSeenAt" : "2026-08-29T02:54:08.584Z",
-    "foundAt" : "2026-08-29T02:54:08.584Z"
+    "cityRewardSeenAt" : "2026-08-29T03:29:16.441Z",
+    "foundAt" : "2026-08-29T03:29:16.441Z"
   }, {
     "serverId" : 770,
     "x" : 363,
@@ -128,6 +147,44 @@
     },
     "cityRewardSeenAt" : "2026-08-29T03:19:46.004Z",
     "foundAt" : "2026-08-29T03:19:46.004Z"
+  }, {
+    "serverId" : 2642,
+    "x" : 398,
+    "y" : 618,
+    "uid" : "8087708666652",
+    "username" : "ゴジータ",
+    "level" : 100,
+    "allianceId" : "500271206",
+    "allianceTag" : "dgkk",
+    "pointId" : 316616,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817524319155692552",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1787974225740
+    },
+    "cityRewardSeenAt" : "2026-08-29T03:29:58.887Z",
+    "foundAt" : "2026-08-29T03:29:58.887Z"
+  }, {
+    "serverId" : 2642,
+    "x" : 399,
+    "y" : 627,
+    "uid" : "7537639263004",
+    "username" : "マサト",
+    "level" : 100,
+    "allianceId" : "500271206",
+    "allianceTag" : "dgkk",
+    "pointId" : 321224,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817531995017225219",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1787974683257
+    },
+    "cityRewardSeenAt" : "2026-08-29T03:29:58.887Z",
+    "foundAt" : "2026-08-29T03:29:58.887Z"
   }, {
     "serverId" : 2735,
     "x" : 396,
