@@ -1,27 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T18:16:46.655039Z",
+  "updatedAt" : "2026-08-29T18:18:55.831938400Z",
   "count" : 31,
   "locations" : [ {
-    "serverId" : 184,
-    "x" : 377,
-    "y" : 323,
-    "uid" : "184234332344",
-    "username" : "量産型gaku➋",
-    "level" : 100,
-    "allianceId" : "144113",
-    "allianceTag" : "184S",
-    "pointId" : 165565,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4818398732099874822",
-      "players" : [ ],
-      "num" : 10,
-      "endTimeMilli" : 1788026344813
-    },
-    "cityRewardSeenAt" : "2026-08-29T17:43:24.925Z",
-    "foundAt" : "2026-08-29T17:43:24.925Z"
-  }, {
     "serverId" : 819,
     "x" : 354,
     "y" : 484,
@@ -681,5 +662,30 @@
     },
     "cityRewardSeenAt" : "2026-08-29T18:11:26.674Z",
     "foundAt" : "2026-08-29T18:11:26.674Z"
+  }, {
+    "serverId" : 3922,
+    "x" : 356,
+    "y" : 334,
+    "uid" : "8881012313938",
+    "username" : "DocMando",
+    "level" : 100,
+    "allianceId" : "500382711",
+    "allianceTag" : "<SV>",
+    "pointId" : 171187,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4818446448668353537",
+      "players" : [ {
+        "frameId" : 166,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/903363a4830262fb4f23fde29af7f2e9_1766481983.png?v=1766481985871\",\"https://knight-cdn.akamaized.net/headimg/903363a4830262fb4f23fde29af7f2e9_1769202747.png?v=1769202749486\",\"https://knight-cdn.akamaized.net/headimg/903363a4830262fb4f23fde29af7f2e9_1765396401.png?v=1765396406054\",\"https://knight-cdn.akamaized.net/headimg/903363a4830262fb4f23fde29af7f2e9_1766347091.png?v=1766347092981\"],\"nationalflag\":110,\"gender\":0,\"dyAvatarEndMilli\":\"1788800464302\",\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/903363a4830262fb4f23fde29af7f2e9_1766481983.png?v=1766481985871\",\"dynamicAvatarId\":4,\"username\":\"GALLICO\"}"
+      }, {
+        "frameId" : 166,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/18c5b47ff8dcf1236638e2573042e2ef_1785130426.png?v=1785130428658\",\"https://knight-cdn.akamaized.net/headimg/18c5b47ff8dcf1236638e2573042e2ef_1750688139.jpg?v=1750688141474\",\"https://knight-cdn.akamaized.net/headimg/18c5b47ff8dcf1236638e2573042e2ef_1780205815.png?v=1780205817939\",\"https://knight-cdn.akamaized.net/headimg/18c5b47ff8dcf1236638e2573042e2ef_1759034665.jpg?v=1759034666877\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/18c5b47ff8dcf1236638e2573042e2ef_1750688139.jpg?v=1750688141474\",\"username\":\"DocMando\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1788029188942
+    },
+    "cityRewardSeenAt" : "2026-08-29T18:17:18.099Z",
+    "foundAt" : "2026-08-29T18:17:18.099Z"
   } ]
 }
