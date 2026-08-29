@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T15:50:29.438985700Z",
+  "updatedAt" : "2026-08-29T15:51:58.021987300Z",
   "count" : 8,
   "locations" : [ {
     "serverId" : 529,
@@ -103,6 +103,37 @@
     "cityRewardSeenAt" : "2026-08-29T15:31:41.493Z",
     "foundAt" : "2026-08-29T15:31:41.493Z"
   }, {
+    "serverId" : 3345,
+    "x" : 410,
+    "y" : 548,
+    "uid" : "7544234642223",
+    "username" : "草莓鮮奶茶",
+    "level" : 100,
+    "allianceId" : "500325352",
+    "allianceTag" : "BBQ^",
+    "pointId" : 280782,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4818271764026630664",
+      "players" : [ {
+        "frameId" : 150,
+        "playerInfo" : "{\"nationalflag\":171,\"gender\":0,\"avatarurl\":\"icon_alb_male_2\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"verygood\"}"
+      }, {
+        "frameId" : 95,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon108_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"平安快樂\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/783231989803.jpg?v=1664506770491\",\"username\":\"刀狂劍痴\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d06d664b37d230b96c10b8b6021544dc_1745221840.jpg?v=1745221842062\",\"https://knight-cdn.akamaized.net/headimg/d06d664b37d230b96c10b8b6021544dc_1751375250.jpg?v=1751375250929\",\"https://knight-cdn.akamaized.net/headimg/d06d664b37d230b96c10b8b6021544dc_1749606843.jpg?v=1749606843146\",\"https://knight-cdn.akamaized.net/headimg/d06d664b37d230b96c10b8b6021544dc_1759500619.jpg?v=1759500620204\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d06d664b37d230b96c10b8b6021544dc_1759500619.jpg?v=1759500620204\",\"username\":\"十把刀🗡️\"}"
+      } ],
+      "num" : 53,
+      "endTimeMilli" : 1788018776926
+    },
+    "cityRewardSeenAt" : "2026-08-29T15:51:02.221Z",
+    "foundAt" : "2026-08-29T15:51:02.221Z"
+  }, {
     "serverId" : 3438,
     "x" : 423,
     "y" : 399,
@@ -171,24 +202,5 @@
     },
     "cityRewardSeenAt" : "2026-08-29T15:49:17.109Z",
     "foundAt" : "2026-08-29T15:49:17.109Z"
-  }, {
-    "serverId" : 4356,
-    "x" : 387,
-    "y" : 521,
-    "uid" : "9448591200516",
-    "username" : "Darklord",
-    "level" : 100,
-    "allianceId" : "500443583",
-    "allianceTag" : "Xcon",
-    "pointId" : 266946,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4818257176573380616",
-      "players" : [ ],
-      "num" : 12,
-      "endTimeMilli" : 1788017907446
-    },
-    "cityRewardSeenAt" : "2026-08-29T15:15:52.193Z",
-    "foundAt" : "2026-08-29T15:15:52.193Z"
   } ]
 }
