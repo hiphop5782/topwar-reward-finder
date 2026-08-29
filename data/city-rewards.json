@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T13:54:11.701244500Z",
-  "count" : 27,
+  "updatedAt" : "2026-08-29T13:56:46.425181600Z",
+  "count" : 26,
   "locations" : [ {
     "serverId" : 73,
     "x" : 571,
@@ -286,6 +286,25 @@
     "cityRewardSeenAt" : "2026-08-29T13:41:39.532Z",
     "foundAt" : "2026-08-29T13:41:39.532Z"
   }, {
+    "serverId" : 2587,
+    "x" : 461,
+    "y" : 333,
+    "uid" : "885444192775",
+    "username" : "MaidCH",
+    "level" : 100,
+    "allianceId" : "500207255",
+    "allianceTag" : "PBK@",
+    "pointId" : 170727,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4818175997529830915",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1788013068798
+    },
+    "cityRewardSeenAt" : "2026-08-29T13:54:05.285Z",
+    "foundAt" : "2026-08-29T13:54:05.285Z"
+  }, {
     "serverId" : 3309,
     "x" : 424,
     "y" : 424,
@@ -304,44 +323,6 @@
     },
     "cityRewardSeenAt" : "2026-08-29T13:47:34.243Z",
     "foundAt" : "2026-08-29T13:47:34.243Z"
-  }, {
-    "serverId" : 3352,
-    "x" : 402,
-    "y" : 524,
-    "uid" : "8076380769579",
-    "username" : "侍兎",
-    "level" : 100,
-    "allianceId" : "500327063",
-    "allianceTag" : "GKnU",
-    "pointId" : 268490,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4818135295584776196",
-      "players" : [ ],
-      "num" : 19,
-      "endTimeMilli" : 1788010642773
-    },
-    "cityRewardSeenAt" : "2026-08-29T13:19:32.428Z",
-    "foundAt" : "2026-08-29T13:19:32.428Z"
-  }, {
-    "serverId" : 3352,
-    "x" : 420,
-    "y" : 526,
-    "uid" : "8077730450731",
-    "username" : "とえ",
-    "level" : 100,
-    "allianceId" : "500327063",
-    "allianceTag" : "GKnU",
-    "pointId" : 269523,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4818140348630577160",
-      "players" : [ ],
-      "num" : 12,
-      "endTimeMilli" : 1788010943958
-    },
-    "cityRewardSeenAt" : "2026-08-29T13:19:32.428Z",
-    "foundAt" : "2026-08-29T13:19:32.428Z"
   }, {
     "serverId" : 3508,
     "x" : 411,
