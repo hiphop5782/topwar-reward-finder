@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T10:17:51.282406300Z",
-  "count" : 15,
+  "updatedAt" : "2026-08-29T10:19:56.449541400Z",
+  "count" : 16,
   "locations" : [ {
     "serverId" : 82,
     "x" : 334,
@@ -249,6 +249,34 @@
     },
     "cityRewardSeenAt" : "2026-08-29T10:10:46.134Z",
     "foundAt" : "2026-08-29T10:10:46.134Z"
+  }, {
+    "serverId" : 4360,
+    "x" : 380,
+    "y" : 400,
+    "uid" : "9481192018184",
+    "username" : "Boom",
+    "level" : 100,
+    "allianceId" : "500445760",
+    "allianceTag" : "1BDE",
+    "pointId" : 204991,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4817964876316151815",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/06abf6b3b15ce5040fdd545ca4194894_1770767019.png?v=1770767021789\",\"https://knight-cdn.akamaized.net/headimg/06abf6b3b15ce5040fdd545ca4194894_1771318712.png?v=1771318714930\",\"https://knight-cdn.akamaized.net/headimg/06abf6b3b15ce5040fdd545ca4194894_1772150141.png?v=1772150144145\",\"https://knight-cdn.akamaized.net/headimg/06abf6b3b15ce5040fdd545ca4194894_1784752688.png?v=1784752693099\"],\"nationalflag\":68,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/06abf6b3b15ce5040fdd545ca4194894_1784752688.png?v=1784752693099\",\"username\":\"Diggi\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d69b161e2bddfeee8ad700c92fb56baf_1775397757.png?v=1775397759643\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d69b161e2bddfeee8ad700c92fb56baf_1775397757.png?v=1775397759643\",\"username\":\"阿比\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/2b4e561edff2247d46167087627967e9_1785473752.png?v=1785473753649\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/2b4e561edff2247d46167087627967e9_1785473752.png?v=1785473753649\",\"username\":\"Boom\"}"
+      } ],
+      "num" : 3,
+      "endTimeMilli" : 1788000484993
+    },
+    "cityRewardSeenAt" : "2026-08-29T10:18:37.195Z",
+    "foundAt" : "2026-08-29T10:18:37.195Z"
   }, {
     "serverId" : 4369,
     "x" : 340,
