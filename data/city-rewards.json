@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T06:11:15.018728300Z",
-  "count" : 3,
+  "updatedAt" : "2026-08-29T06:13:46.901083800Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 1083,
     "x" : 386,
@@ -59,5 +59,43 @@
     },
     "cityRewardSeenAt" : "2026-08-29T05:57:17.405Z",
     "foundAt" : "2026-08-29T05:57:17.405Z"
+  }, {
+    "serverId" : 3491,
+    "x" : 431,
+    "y" : 651,
+    "uid" : "8276332449189",
+    "username" : "Crypticg",
+    "level" : 100,
+    "allianceId" : "500343382",
+    "allianceTag" : "K0BE",
+    "pointId" : 333528,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817700299065738760",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1787984714960
+    },
+    "cityRewardSeenAt" : "2026-08-29T06:13:03.668Z",
+    "foundAt" : "2026-08-29T06:13:03.668Z"
+  }, {
+    "serverId" : 3491,
+    "x" : 628,
+    "y" : 218,
+    "uid" : "8263235145123",
+    "username" : "Tareq",
+    "level" : 100,
+    "allianceId" : "500343382",
+    "allianceTag" : "K0BE",
+    "pointId" : 111931,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817692555357144585",
+      "players" : [ ],
+      "num" : 20,
+      "endTimeMilli" : 1787984253399
+    },
+    "cityRewardSeenAt" : "2026-08-29T06:11:49.571Z",
+    "foundAt" : "2026-08-29T06:11:49.571Z"
   } ]
 }
