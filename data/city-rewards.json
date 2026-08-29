@@ -1,8 +1,58 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T03:32:00.081897700Z",
-  "count" : 16,
+  "updatedAt" : "2026-08-29T03:34:32.535886Z",
+  "count" : 18,
   "locations" : [ {
+    "serverId" : 341,
+    "x" : 278,
+    "y" : 482,
+    "uid" : "298892444195",
+    "username" : "khalleb",
+    "level" : 100,
+    "allianceId" : "100012387",
+    "allianceTag" : "J341",
+    "pointId" : 246924,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817529359248304649",
+      "players" : [ ],
+      "num" : 44,
+      "endTimeMilli" : 1787974526153
+    },
+    "cityRewardSeenAt" : "2026-08-29T03:32:13.691Z",
+    "foundAt" : "2026-08-29T03:32:13.691Z"
+  }, {
+    "serverId" : 341,
+    "x" : 418,
+    "y" : 618,
+    "uid" : "7680451546014",
+    "username" : "🐍sNaKe",
+    "level" : 100,
+    "allianceId" : "100011437",
+    "allianceTag" : "X341",
+    "pointId" : 316626,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4817545268545366531",
+      "players" : [ {
+        "frameId" : 8,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_20_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"しーさん🍶\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/339300127577.jpg?v=1664709729875\",\"https://knight-cdn.akamaized.net/headimg/fdcc0534f490c9da1cee6442f4009afe_1765203674.png?v=1765203676749\"],\"nationalflag\":225,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/fdcc0534f490c9da1cee6442f4009afe_1765203674.png?v=1765203676749\",\"username\":\"Mustafaa\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon022\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"🍰Koburi\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":179,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/408395683124.jpg?v=1664664506502\",\"username\":\"Melodia\"}"
+      } ],
+      "num" : 12,
+      "endTimeMilli" : 1787975474421
+    },
+    "cityRewardSeenAt" : "2026-08-29T03:32:43.247Z",
+    "foundAt" : "2026-08-29T03:32:43.247Z"
+  }, {
     "serverId" : 515,
     "x" : 455,
     "y" : 509,
