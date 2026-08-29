@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T02:52:48.638188600Z",
-  "count" : 11,
+  "updatedAt" : "2026-08-29T02:54:11.182897500Z",
+  "count" : 12,
   "locations" : [ {
     "serverId" : 386,
     "x" : 370,
@@ -140,6 +140,31 @@
     },
     "cityRewardSeenAt" : "2026-08-29T02:34:24.140Z",
     "foundAt" : "2026-08-29T02:34:24.140Z"
+  }, {
+    "serverId" : 3440,
+    "x" : 397,
+    "y" : 675,
+    "uid" : "8202248064368",
+    "username" : "xyz777M",
+    "level" : 100,
+    "allianceId" : "500337633",
+    "allianceTag" : "344O",
+    "pointId" : 345799,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4817509379296911366",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/ffa64c98f74ec41adda4951ad5b16fab_1753024581.jpg?v=1753024582276\",\"https://knight-cdn.akamaized.net/headimg/ffa64c98f74ec41adda4951ad5b16fab_1781293367.png?v=1781293368039\",\"https://knight-cdn.akamaized.net/headimg/ffa64c98f74ec41adda4951ad5b16fab_1774264767.png?v=1774264768707\",\"https://knight-cdn.akamaized.net/headimg/ffa64c98f74ec41adda4951ad5b16fab_1787719746.png?v=1787719747628\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/ffa64c98f74ec41adda4951ad5b16fab_1787719746.png?v=1787719747628\",\"username\":\"ククルル\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/0869f344fea41b562368af320b1efc75_1772350004.png?v=1772350004711\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon114\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/0869f344fea41b562368af320b1efc75_1772350004.png?v=1772350004711\",\"username\":\"xyz777M\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1787973335255
+    },
+    "cityRewardSeenAt" : "2026-08-29T02:53:28.295Z",
+    "foundAt" : "2026-08-29T02:53:28.295Z"
   }, {
     "serverId" : 3649,
     "x" : 399,
