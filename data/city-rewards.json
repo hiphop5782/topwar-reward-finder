@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T09:15:40.149727800Z",
-  "count" : 9,
+  "updatedAt" : "2026-08-29T09:17:48.756864300Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 485,
     "x" : 443,
@@ -34,24 +34,43 @@
     "cityRewardSeenAt" : "2026-08-29T09:05:54.481Z",
     "foundAt" : "2026-08-29T09:05:54.481Z"
   }, {
-    "serverId" : 2315,
-    "x" : 437,
-    "y" : 605,
-    "uid" : "362549564383",
-    "username" : "Krewniak",
+    "serverId" : 1083,
+    "x" : 398,
+    "y" : 560,
+    "uid" : "561673536572",
+    "username" : "艾力Panda",
     "level" : 100,
-    "allianceId" : "500139998",
-    "allianceTag" : "B15R",
-    "pointId" : 309979,
+    "allianceId" : "547410",
+    "allianceTag" : "TPAi",
+    "pointId" : 286920,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4817887606900028928",
+      "players" : [ ],
+      "num" : 42,
+      "endTimeMilli" : 1787995879377
+    },
+    "cityRewardSeenAt" : "2026-08-29T09:16:28.484Z",
+    "foundAt" : "2026-08-29T09:16:28.484Z"
+  }, {
+    "serverId" : 1083,
+    "x" : 412,
+    "y" : 526,
+    "uid" : "567874446418",
+    "username" : "壞掉米妮的點心",
+    "level" : 100,
+    "allianceId" : "547410",
+    "allianceTag" : "TPAi",
+    "pointId" : 269519,
     "cityReward" : {
       "itemId" : 260617002,
-      "instanceId" : "4817862492297500161",
+      "instanceId" : "4817878778678638086",
       "players" : [ ],
-      "num" : 11,
-      "endTimeMilli" : 1787994382430
+      "num" : 31,
+      "endTimeMilli" : 1787995353174
     },
-    "cityRewardSeenAt" : "2026-08-29T08:40:47.521Z",
-    "foundAt" : "2026-08-29T08:40:47.521Z"
+    "cityRewardSeenAt" : "2026-08-29T09:16:15.052Z",
+    "foundAt" : "2026-08-29T09:16:15.052Z"
   }, {
     "serverId" : 2864,
     "x" : 424,
