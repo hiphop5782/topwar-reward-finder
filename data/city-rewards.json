@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T09:49:21.175849400Z",
-  "count" : 29,
+  "updatedAt" : "2026-08-29T09:51:49.005469700Z",
+  "count" : 28,
   "locations" : [ {
     "serverId" : 164,
     "x" : 266,
@@ -160,6 +160,25 @@
     "cityRewardSeenAt" : "2026-08-29T09:19:39.173Z",
     "foundAt" : "2026-08-29T09:19:39.173Z"
   }, {
+    "serverId" : 607,
+    "x" : 482,
+    "y" : 654,
+    "uid" : "488050807391",
+    "username" : "千夜",
+    "level" : 100,
+    "allianceId" : "349651",
+    "allianceTag" : "TriK",
+    "pointId" : 335090,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4817932422417268224",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1787998550590
+    },
+    "cityRewardSeenAt" : "2026-08-29T09:51:06.266Z",
+    "foundAt" : "2026-08-29T09:51:06.266Z"
+  }, {
     "serverId" : 836,
     "x" : 412,
     "y" : 722,
@@ -197,44 +216,6 @@
     },
     "cityRewardSeenAt" : "2026-08-29T09:21:40.922Z",
     "foundAt" : "2026-08-29T09:21:40.922Z"
-  }, {
-    "serverId" : 1083,
-    "x" : 398,
-    "y" : 560,
-    "uid" : "561673536572",
-    "username" : "艾力Panda",
-    "level" : 100,
-    "allianceId" : "547410",
-    "allianceTag" : "TPAi",
-    "pointId" : 286920,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4817887606900028928",
-      "players" : [ ],
-      "num" : 42,
-      "endTimeMilli" : 1787995879377
-    },
-    "cityRewardSeenAt" : "2026-08-29T09:16:28.484Z",
-    "foundAt" : "2026-08-29T09:16:28.484Z"
-  }, {
-    "serverId" : 1083,
-    "x" : 412,
-    "y" : 526,
-    "uid" : "567874446418",
-    "username" : "壞掉米妮的點心",
-    "level" : 100,
-    "allianceId" : "547410",
-    "allianceTag" : "TPAi",
-    "pointId" : 269519,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4817878778678638086",
-      "players" : [ ],
-      "num" : 31,
-      "endTimeMilli" : 1787995353174
-    },
-    "cityRewardSeenAt" : "2026-08-29T09:16:15.052Z",
-    "foundAt" : "2026-08-29T09:16:15.052Z"
   }, {
     "serverId" : 1120,
     "x" : 333,
