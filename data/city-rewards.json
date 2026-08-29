@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T01:13:30.688773800Z",
-  "count" : 10,
+  "updatedAt" : "2026-08-29T01:16:01.188856400Z",
+  "count" : 12,
   "locations" : [ {
     "serverId" : 293,
     "x" : 268,
@@ -192,5 +192,55 @@
     },
     "cityRewardSeenAt" : "2026-08-29T00:43:47.836Z",
     "foundAt" : "2026-08-29T00:43:47.836Z"
+  }, {
+    "serverId" : 4136,
+    "x" : 356,
+    "y" : 482,
+    "uid" : "9107973214248",
+    "username" : "しんのすけ",
+    "level" : 100,
+    "allianceId" : "500403968",
+    "allianceTag" : "36UN",
+    "pointId" : 246963,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4817407706063196161",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1787967275058
+    },
+    "cityRewardSeenAt" : "2026-08-29T01:14:19.730Z",
+    "foundAt" : "2026-08-29T01:14:19.730Z"
+  }, {
+    "serverId" : 4490,
+    "x" : 398,
+    "y" : 582,
+    "uid" : "9752346956170",
+    "username" : "OldGregg",
+    "level" : 78,
+    "allianceId" : "500482732",
+    "allianceTag" : "TA.",
+    "pointId" : 298184,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4817414300062913539",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"TấnDũ\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"hero_icon015_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Litoa\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon308_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"GRIFF\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon108_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"lvh\"}"
+      } ],
+      "num" : 7,
+      "endTimeMilli" : 1787967668091
+    },
+    "cityRewardSeenAt" : "2026-08-29T01:14:38.444Z",
+    "foundAt" : "2026-08-29T01:14:38.444Z"
   } ]
 }
