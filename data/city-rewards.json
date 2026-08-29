@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T13:32:55.122614400Z",
+  "updatedAt" : "2026-08-29T13:34:46.623360600Z",
   "count" : 37,
   "locations" : [ {
     "serverId" : 73,
@@ -242,37 +242,6 @@
     },
     "cityRewardSeenAt" : "2026-08-29T13:12:08.920Z",
     "foundAt" : "2026-08-29T13:12:08.920Z"
-  }, {
-    "serverId" : 1144,
-    "x" : 627,
-    "y" : 455,
-    "uid" : "84598456405",
-    "username" : "あさげ",
-    "level" : 100,
-    "allianceId" : "654406",
-    "allianceTag" : "TyoR",
-    "pointId" : 233274,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4818121202554433540",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon001\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"影法師の影\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_5_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"おとなのふりかけ\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":\"指揮官121301\",\"headimgurl\":null,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/23d2a15b139935255ada3b1d066e0e57.jpg?v=1678785638927\",\"username\":\"ゆうげ\"}"
-      }, {
-        "frameId" : 1,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":\"指揮官877973\",\"headimgurl\":null,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/108691877973.jpg?v=1674043146525\",\"username\":\"ひるげ\"}"
-      } ],
-      "num" : 5,
-      "endTimeMilli" : 1788009802763
-    },
-    "cityRewardSeenAt" : "2026-08-29T12:58:46.946Z",
-    "foundAt" : "2026-08-29T12:58:46.946Z"
   }, {
     "serverId" : 1175,
     "x" : 265,
@@ -713,6 +682,25 @@
     },
     "cityRewardSeenAt" : "2026-08-29T13:19:32.428Z",
     "foundAt" : "2026-08-29T13:19:32.428Z"
+  }, {
+    "serverId" : 3725,
+    "x" : 399,
+    "y" : 435,
+    "uid" : "8400936373717",
+    "username" : "おためし",
+    "level" : 100,
+    "allianceId" : "500372142",
+    "allianceTag" : "MSK@",
+    "pointId" : 222920,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4818155700806818308",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1788011859019
+    },
+    "cityRewardSeenAt" : "2026-08-29T13:32:43.870Z",
+    "foundAt" : "2026-08-29T13:32:43.870Z"
   }, {
     "serverId" : 4326,
     "x" : 438,
