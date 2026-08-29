@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-29T12:05:58.553805900Z",
-  "count" : 22,
+  "updatedAt" : "2026-08-29T12:06:40.815400300Z",
+  "count" : 25,
   "locations" : [ {
+    "serverId" : 193,
+    "x" : 408,
+    "y" : 330,
+    "uid" : "190225670337",
+    "username" : "Jiro",
+    "level" : 100,
+    "allianceId" : "126368",
+    "allianceTag" : "@MZR",
+    "pointId" : 169165,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4818072560572924420",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1788006903475
+    },
+    "cityRewardSeenAt" : "2026-08-29T12:05:07.099Z",
+    "foundAt" : "2026-08-29T12:05:07.099Z"
+  }, {
     "serverId" : 208,
     "x" : 279,
     "y" : 677,
@@ -59,6 +78,44 @@
     },
     "cityRewardSeenAt" : "2026-08-29T11:46:04.353Z",
     "foundAt" : "2026-08-29T11:46:04.353Z"
+  }, {
+    "serverId" : 1070,
+    "x" : 393,
+    "y" : 293,
+    "uid" : "569699189858",
+    "username" : "セキセイ",
+    "level" : 100,
+    "allianceId" : "564307",
+    "allianceTag" : "Mdea",
+    "pointId" : 150213,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4818070058822032387",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1788006754359
+    },
+    "cityRewardSeenAt" : "2026-08-29T12:04:34.133Z",
+    "foundAt" : "2026-08-29T12:04:34.133Z"
+  }, {
+    "serverId" : 1070,
+    "x" : 396,
+    "y" : 284,
+    "uid" : "276078104869",
+    "username" : "めめ",
+    "level" : 100,
+    "allianceId" : "564307",
+    "allianceTag" : "Mdea",
+    "pointId" : 145607,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4818070557407337479",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1788006784077
+    },
+    "cityRewardSeenAt" : "2026-08-29T12:04:34.133Z",
+    "foundAt" : "2026-08-29T12:04:34.133Z"
   }, {
     "serverId" : 1547,
     "x" : 437,
