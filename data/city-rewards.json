@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T08:58:58.693287800Z",
-  "count" : 11,
+  "updatedAt" : "2026-08-30T09:00:44.850660100Z",
+  "count" : 13,
   "locations" : [ {
     "serverId" : 172,
     "x" : 366,
@@ -97,6 +97,25 @@
     },
     "cityRewardSeenAt" : "2026-08-30T08:49:15.807Z",
     "foundAt" : "2026-08-30T08:49:15.807Z"
+  }, {
+    "serverId" : 2607,
+    "x" : 349,
+    "y" : 339,
+    "uid" : "915280992891",
+    "username" : "t1meOut",
+    "level" : 100,
+    "allianceId" : "500211185",
+    "allianceTag" : "yOLO",
+    "pointId" : 173743,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4819334012500991496",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1788082091869
+    },
+    "cityRewardSeenAt" : "2026-08-30T08:58:30.168Z",
+    "foundAt" : "2026-08-30T08:58:30.168Z"
   }, {
     "serverId" : 2616,
     "x" : 385,
@@ -223,5 +242,24 @@
     },
     "cityRewardSeenAt" : "2026-08-30T08:30:06.262Z",
     "foundAt" : "2026-08-30T08:30:06.262Z"
+  }, {
+    "serverId" : 3885,
+    "x" : 442,
+    "y" : 454,
+    "uid" : "8867173994304",
+    "username" : "Slothy",
+    "level" : 100,
+    "allianceId" : "500380757",
+    "allianceTag" : "TFMs",
+    "pointId" : 232670,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4819315583300295177",
+      "players" : [ ],
+      "num" : 29,
+      "endTimeMilli" : 1788080993403
+    },
+    "cityRewardSeenAt" : "2026-08-30T08:59:21.194Z",
+    "foundAt" : "2026-08-30T08:59:21.194Z"
   } ]
 }
