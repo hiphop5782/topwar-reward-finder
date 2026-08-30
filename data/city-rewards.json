@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T01:31:56.042336400Z",
-  "count" : 2,
+  "updatedAt" : "2026-08-30T01:33:28.647317900Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 591,
     "x" : 374,
@@ -52,5 +52,24 @@
     },
     "cityRewardSeenAt" : "2026-08-30T01:24:04.203Z",
     "foundAt" : "2026-08-30T01:24:04.203Z"
+  }, {
+    "serverId" : 4316,
+    "x" : 405,
+    "y" : 555,
+    "uid" : "9361693544668",
+    "username" : "Moonxala",
+    "level" : 100,
+    "allianceId" : "500434938",
+    "allianceTag" : "DM<",
+    "pointId" : 284363,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4818862295891425282",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1788053975368
+    },
+    "cityRewardSeenAt" : "2026-08-30T01:31:57.486Z",
+    "foundAt" : "2026-08-30T01:31:57.486Z"
   } ]
 }
