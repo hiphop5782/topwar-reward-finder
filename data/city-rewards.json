@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T01:21:04.032599600Z",
-  "count" : 3,
+  "updatedAt" : "2026-08-30T01:23:29.670737400Z",
+  "count" : 4,
   "locations" : [ {
     "serverId" : 476,
     "x" : 434,
@@ -57,7 +57,38 @@
       "num" : 6,
       "endTimeMilli" : 1788052961728
     },
-    "cityRewardSeenAt" : "2026-08-30T01:19:05.615Z",
-    "foundAt" : "2026-08-30T01:19:05.615Z"
+    "cityRewardSeenAt" : "2026-08-30T01:21:24.062Z",
+    "foundAt" : "2026-08-30T01:21:24.062Z"
+  }, {
+    "serverId" : 3277,
+    "x" : 410,
+    "y" : 414,
+    "uid" : "7707246595001",
+    "username" : "🐕똥개",
+    "level" : 100,
+    "allianceId" : "500318711",
+    "allianceTag" : "WwB",
+    "pointId" : 212174,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4818859223965866498",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d9ef6210ba3aad7e2b0064fcedbcb8d2_1724479693.jpg?v=1724479693734\",\"https://knight-cdn.akamaized.net/headimg/d9ef6210ba3aad7e2b0064fcedbcb8d2_1782513365.png?v=1782513367379\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d9ef6210ba3aad7e2b0064fcedbcb8d2_1724479693.jpg?v=1724479693734\",\"username\":\"친새마왕\"}"
+      }, {
+        "frameId" : 114,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/873340668357.jpg?v=1724245560600\",\"username\":\"bricker\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/937235376906.jpg?v=1707436384869\",\"username\":\"화무십일홍\"}"
+      }, {
+        "frameId" : 127,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/938036017930.jpg?v=1702487820949\",\"username\":\"스머프€\"}"
+      } ],
+      "num" : 16,
+      "endTimeMilli" : 1788053792267
+    },
+    "cityRewardSeenAt" : "2026-08-30T01:20:41.182Z",
+    "foundAt" : "2026-08-30T01:20:41.182Z"
   } ]
 }
