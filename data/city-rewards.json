@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T22:05:42.235201300Z",
+  "updatedAt" : "2026-08-30T22:07:05.804059300Z",
   "count" : 23,
   "locations" : [ {
     "serverId" : 211,
@@ -243,37 +243,6 @@
     "cityRewardSeenAt" : "2026-08-30T21:37:47.732Z",
     "foundAt" : "2026-08-30T21:37:47.732Z"
   }, {
-    "serverId" : 2695,
-    "x" : 382,
-    "y" : 284,
-    "uid" : "410109834550",
-    "username" : "ＶＥＮＯＭ",
-    "level" : 100,
-    "allianceId" : "500243695",
-    "allianceTag" : "95N",
-    "pointId" : 145600,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4820073739533487622",
-      "players" : [ {
-        "frameId" : 159,
-        "playerInfo" : "{\"nationalflag\":184,\"gender\":0,\"avatarurl\":\"hero_icon160_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"PauloAz\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":110,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/406271030562.jpg?v=1714293385958\",\"username\":\"cerlon\"}"
-      }, {
-        "frameId" : 4,
-        "playerInfo" : "{\"nationalflag\":55,\"gender\":0,\"avatarurl\":\"icon_felman01_0\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"MacGyver\"}"
-      }, {
-        "frameId" : 48,
-        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"hero_icon007_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"BigJimi\"}"
-      } ],
-      "num" : 11,
-      "endTimeMilli" : 1788126183036
-    },
-    "cityRewardSeenAt" : "2026-08-30T21:31:48.106Z",
-    "foundAt" : "2026-08-30T21:31:48.106Z"
-  }, {
     "serverId" : 3396,
     "x" : 410,
     "y" : 546,
@@ -311,6 +280,25 @@
     },
     "cityRewardSeenAt" : "2026-08-30T21:41:50.462Z",
     "foundAt" : "2026-08-30T21:41:50.462Z"
+  }, {
+    "serverId" : 3452,
+    "x" : 412,
+    "y" : 590,
+    "uid" : "904127375932",
+    "username" : "Xerocool",
+    "level" : 100,
+    "allianceId" : "500338380",
+    "allianceTag" : "s52S",
+    "pointId" : 302287,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4820110290091440129",
+      "players" : [ ],
+      "num" : 14,
+      "endTimeMilli" : 1788128361619
+    },
+    "cityRewardSeenAt" : "2026-08-30T22:05:07.759Z",
+    "foundAt" : "2026-08-30T22:05:07.759Z"
   }, {
     "serverId" : 3538,
     "x" : 408,
