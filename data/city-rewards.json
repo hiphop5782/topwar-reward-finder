@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T09:14:31.962980400Z",
-  "count" : 14,
+  "updatedAt" : "2026-08-30T09:16:56.751516700Z",
+  "count" : 16,
   "locations" : [ {
     "serverId" : 850,
     "x" : 412,
@@ -212,6 +212,25 @@
     "cityRewardSeenAt" : "2026-08-30T08:45:30.553Z",
     "foundAt" : "2026-08-30T08:45:30.553Z"
   }, {
+    "serverId" : 3538,
+    "x" : 417,
+    "y" : 423,
+    "uid" : "934320437999",
+    "username" : "똥자",
+    "level" : 100,
+    "allianceId" : "500355157",
+    "allianceTag" : "ESM_",
+    "pointId" : 216785,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4819321201385776136",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1788081328267
+    },
+    "cityRewardSeenAt" : "2026-08-30T09:14:04.459Z",
+    "foundAt" : "2026-08-30T09:14:04.459Z"
+  }, {
     "serverId" : 3885,
     "x" : 442,
     "y" : 454,
@@ -268,5 +287,24 @@
     },
     "cityRewardSeenAt" : "2026-08-30T09:10:23.911Z",
     "foundAt" : "2026-08-30T09:10:23.911Z"
+  }, {
+    "serverId" : 4368,
+    "x" : 543,
+    "y" : 783,
+    "uid" : "9489089073424",
+    "username" : "MasaG",
+    "level" : 83,
+    "allianceId" : "500447535",
+    "allianceTag" : "50*A",
+    "pointId" : 401168,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4819331942965190659",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1788081968515
+    },
+    "cityRewardSeenAt" : "2026-08-30T09:16:39.725Z",
+    "foundAt" : "2026-08-30T09:16:39.725Z"
   } ]
 }
