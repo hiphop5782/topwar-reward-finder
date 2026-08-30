@@ -1,8 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T20:53:56.256490400Z",
-  "count" : 18,
+  "updatedAt" : "2026-08-30T20:55:40.590303200Z",
+  "count" : 19,
   "locations" : [ {
+    "serverId" : 921,
+    "x" : 401,
+    "y" : 273,
+    "uid" : "350126896027",
+    "username" : "Jeg",
+    "level" : 99,
+    "allianceId" : "200060957",
+    "allianceTag" : "NFFN",
+    "pointId" : 139977,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4820049922093429250",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1788124763406
+    },
+    "cityRewardSeenAt" : "2026-08-30T20:53:51.657Z",
+    "foundAt" : "2026-08-30T20:53:51.657Z"
+  }, {
+    "serverId" : 921,
+    "x" : 422,
+    "y" : 312,
+    "uid" : "350608159643",
+    "username" : "alexileo",
+    "level" : 100,
+    "allianceId" : "200060159",
+    "allianceTag" : "U921",
+    "pointId" : 159956,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4820052462734356998",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1788124914840
+    },
+    "cityRewardSeenAt" : "2026-08-30T20:54:04.204Z",
+    "foundAt" : "2026-08-30T20:54:04.204Z"
+  }, {
     "serverId" : 1379,
     "x" : 463,
     "y" : 635,
@@ -21,31 +59,6 @@
     },
     "cityRewardSeenAt" : "2026-08-30T20:26:43.881Z",
     "foundAt" : "2026-08-30T20:26:43.881Z"
-  }, {
-    "serverId" : 1774,
-    "x" : 413,
-    "y" : 405,
-    "uid" : "289632121146",
-    "username" : "LapWing",
-    "level" : 100,
-    "allianceId" : "500080534",
-    "allianceTag" : "ZOO8",
-    "pointId" : 207567,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4820017550321376258",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/429853447590.jpg?v=1667677069454\"],\"nationalflag\":31,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/429853447590.jpg?v=1667677069454\",\"username\":\"BraZuka\"}"
-      }, {
-        "frameId" : 4,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/289632121146.jpg?v=1707329863408\"],\"nationalflag\":166,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/289632121146.jpg?v=1707329863408\",\"username\":\"LapWing\"}"
-      } ],
-      "num" : 2,
-      "endTimeMilli" : 1788122833898
-    },
-    "cityRewardSeenAt" : "2026-08-30T20:19:19.743Z",
-    "foundAt" : "2026-08-30T20:19:19.743Z"
   }, {
     "serverId" : 3307,
     "x" : 410,
