@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T13:40:46.794549100Z",
-  "count" : 37,
+  "updatedAt" : "2026-08-30T13:42:56.420163300Z",
+  "count" : 38,
   "locations" : [ {
     "serverId" : 78,
     "x" : 423,
@@ -21,56 +21,6 @@
     },
     "cityRewardSeenAt" : "2026-08-30T13:14:23.438Z",
     "foundAt" : "2026-08-30T13:14:23.438Z"
-  }, {
-    "serverId" : 277,
-    "x" : 429,
-    "y" : 633,
-    "uid" : "295230857579",
-    "username" : "Arsenal",
-    "level" : 100,
-    "allianceId" : "100012905",
-    "allianceTag" : "Mik",
-    "pointId" : 324311,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4819565169703266819",
-      "players" : [ ],
-      "num" : 19,
-      "endTimeMilli" : 1788095869912
-    },
-    "cityRewardSeenAt" : "2026-08-30T13:06:35.854Z",
-    "foundAt" : "2026-08-30T13:06:35.854Z"
-  }, {
-    "serverId" : 383,
-    "x" : 638,
-    "y" : 454,
-    "uid" : "337135026561",
-    "username" : "ころころ",
-    "level" : 100,
-    "allianceId" : "100019275",
-    "allianceTag" : "s383",
-    "pointId" : 232768,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4819558293141913096",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/281165676927.jpg?v=1674000073345\",\"username\":\"セイセイ\"}"
-      }, {
-        "frameId" : 1,
-        "playerInfo" : "{\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"hero_icon331_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"こまめ🌱\"}"
-      }, {
-        "frameId" : 2,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon140\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"anj🐘\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"headIcon_4_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"フライドチキン\"}"
-      } ],
-      "num" : 24,
-      "endTimeMilli" : 1788095460037
-    },
-    "cityRewardSeenAt" : "2026-08-30T13:07:31.348Z",
-    "foundAt" : "2026-08-30T13:07:31.348Z"
   }, {
     "serverId" : 579,
     "x" : 405,
@@ -273,6 +223,44 @@
     },
     "cityRewardSeenAt" : "2026-08-30T13:32:41.776Z",
     "foundAt" : "2026-08-30T13:32:41.776Z"
+  }, {
+    "serverId" : 1337,
+    "x" : 370,
+    "y" : 646,
+    "uid" : "682048910649",
+    "username" : "筑紫もち",
+    "level" : 100,
+    "allianceId" : "681876",
+    "allianceTag" : "LeeT",
+    "pointId" : 330938,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4819600526898000385",
+      "players" : [ ],
+      "num" : 21,
+      "endTimeMilli" : 1788097977365
+    },
+    "cityRewardSeenAt" : "2026-08-30T13:41:33.456Z",
+    "foundAt" : "2026-08-30T13:41:33.456Z"
+  }, {
+    "serverId" : 1337,
+    "x" : 372,
+    "y" : 644,
+    "uid" : "617535018308",
+    "username" : "蕨餅",
+    "level" : 100,
+    "allianceId" : "681876",
+    "allianceTag" : "LeeT",
+    "pointId" : 329915,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4819600687640506888",
+      "players" : [ ],
+      "num" : 22,
+      "endTimeMilli" : 1788097986946
+    },
+    "cityRewardSeenAt" : "2026-08-30T13:41:33.456Z",
+    "foundAt" : "2026-08-30T13:41:33.456Z"
   }, {
     "serverId" : 1421,
     "x" : 190,
@@ -756,5 +744,24 @@
     },
     "cityRewardSeenAt" : "2026-08-30T13:11:46.860Z",
     "foundAt" : "2026-08-30T13:11:46.860Z"
+  }, {
+    "serverId" : 4366,
+    "x" : 418,
+    "y" : 680,
+    "uid" : "9485272322318",
+    "username" : "Despot",
+    "level" : 100,
+    "allianceId" : "500447816",
+    "allianceTag" : "LG3N",
+    "pointId" : 348370,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4819590002149301253",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1788097350041
+    },
+    "cityRewardSeenAt" : "2026-08-30T13:40:43.735Z",
+    "foundAt" : "2026-08-30T13:40:43.735Z"
   } ]
 }
