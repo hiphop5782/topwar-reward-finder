@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T02:45:15.055427800Z",
+  "updatedAt" : "2026-08-30T02:47:45.955484100Z",
   "count" : 14,
   "locations" : [ {
     "serverId" : 247,
@@ -210,6 +210,25 @@
     "cityRewardSeenAt" : "2026-08-30T02:28:21.757Z",
     "foundAt" : "2026-08-30T02:28:21.757Z"
   }, {
+    "serverId" : 3355,
+    "x" : 435,
+    "y" : 641,
+    "uid" : "851965225287",
+    "username" : "MrBlazer",
+    "level" : 100,
+    "allianceId" : "500327049",
+    "allianceTag" : "-B3-",
+    "pointId" : 328410,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4818959035969189383",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1788059741526
+    },
+    "cityRewardSeenAt" : "2026-08-30T02:45:44.933Z",
+    "foundAt" : "2026-08-30T02:45:44.933Z"
+  }, {
     "serverId" : 3409,
     "x" : 82,
     "y" : 324,
@@ -297,24 +316,5 @@
     },
     "cityRewardSeenAt" : "2026-08-30T02:17:33.731Z",
     "foundAt" : "2026-08-30T02:17:33.731Z"
-  }, {
-    "serverId" : 4425,
-    "x" : 453,
-    "y" : 465,
-    "uid" : "9619863998793",
-    "username" : "悪七兵衛",
-    "level" : 92,
-    "allianceId" : "500463802",
-    "allianceTag" : "^TS^",
-    "pointId" : 238307,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4818924974664487426",
-      "players" : [ ],
-      "num" : 5,
-      "endTimeMilli" : 1788057711314
-    },
-    "cityRewardSeenAt" : "2026-08-30T02:12:45.210Z",
-    "foundAt" : "2026-08-30T02:12:45.210Z"
   } ]
 }
