@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T10:04:28.412724100Z",
+  "updatedAt" : "2026-08-30T10:06:56.942190700Z",
   "count" : 11,
   "locations" : [ {
+    "serverId" : 850,
+    "x" : 418,
+    "y" : 244,
+    "uid" : "434384758175",
+    "username" : "al",
+    "level" : 100,
+    "allianceId" : "200046720",
+    "allianceTag" : "#SHP",
+    "pointId" : 125138,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4819387032780841988",
+      "players" : [ ],
+      "num" : 21,
+      "endTimeMilli" : 1788085252124
+    },
+    "cityRewardSeenAt" : "2026-08-30T10:04:06.010Z",
+    "foundAt" : "2026-08-30T10:04:06.010Z"
+  }, {
     "serverId" : 1173,
     "x" : 425,
     "y" : 651,
@@ -228,36 +247,5 @@
     },
     "cityRewardSeenAt" : "2026-08-30T09:58:22.241Z",
     "foundAt" : "2026-08-30T09:58:22.241Z"
-  }, {
-    "serverId" : 4457,
-    "x" : 359,
-    "y" : 457,
-    "uid" : "9673308836201",
-    "username" : "daiyaman",
-    "level" : 80,
-    "allianceId" : "500472239",
-    "allianceTag" : "PBLX",
-    "pointId" : 234164,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4819365464899768836",
-      "players" : [ {
-        "frameId" : 159,
-        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"小榮哥\"}"
-      }, {
-        "frameId" : 168,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/b447a4f1c51f5a272ef9ceeee01503b0_1779955353.png?v=1779955354529\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b447a4f1c51f5a272ef9ceeee01503b0_1779955353.png?v=1779955354529\",\"username\":\"KN\"}"
-      }, {
-        "frameId" : 2,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/4ee0a2b836fd9e304edec17e7aa5ca99_1781360022.png?v=1781360025763\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/4ee0a2b836fd9e304edec17e7aa5ca99_1781360022.png?v=1781360025763\",\"username\":\"大老虎\"}"
-      }, {
-        "frameId" : 159,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/847e6e085bd55d41eaf51063905a5c83_1779169472.png?v=1779169475824\"],\"nationalflag\":110,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/847e6e085bd55d41eaf51063905a5c83_1779169472.png?v=1779169475824\",\"username\":\"JudasKis\"}"
-      } ],
-      "num" : 9,
-      "endTimeMilli" : 1788083966578
-    },
-    "cityRewardSeenAt" : "2026-08-30T09:30:43.503Z",
-    "foundAt" : "2026-08-30T09:30:43.503Z"
   } ]
 }
