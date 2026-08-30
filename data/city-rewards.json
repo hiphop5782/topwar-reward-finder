@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T13:52:38.838536500Z",
-  "count" : 38,
+  "updatedAt" : "2026-08-30T13:53:54.343671200Z",
+  "count" : 39,
   "locations" : [ {
     "serverId" : 148,
     "x" : 631,
@@ -21,6 +21,37 @@
     },
     "cityRewardSeenAt" : "2026-08-30T13:48:32.373Z",
     "foundAt" : "2026-08-30T13:48:32.373Z"
+  }, {
+    "serverId" : 515,
+    "x" : 448,
+    "y" : 524,
+    "uid" : "501223822958",
+    "username" : "バオー来訪者",
+    "level" : 100,
+    "allianceId" : "100048679",
+    "allianceTag" : "AsGX",
+    "pointId" : 268513,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4819617359847491077",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/300717625900.jpg?v=1673977488828\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"hero_icon1402\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/300717625900.jpg?v=1673977488828\",\"username\":\"こてつくん\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon312\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Pad\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon001\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"影法師\"}"
+      }, {
+        "frameId" : 24,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon110\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"JJ3\"}"
+      } ],
+      "num" : 16,
+      "endTimeMilli" : 1788098980687
+    },
+    "cityRewardSeenAt" : "2026-08-30T13:52:08.370Z",
+    "foundAt" : "2026-08-30T13:52:08.370Z"
   }, {
     "serverId" : 579,
     "x" : 405,
