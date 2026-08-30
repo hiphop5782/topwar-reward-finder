@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T11:00:37.392041500Z",
-  "count" : 22,
+  "updatedAt" : "2026-08-30T11:02:38.798783300Z",
+  "count" : 23,
   "locations" : [ {
     "serverId" : 172,
     "x" : 352,
@@ -267,25 +267,6 @@
     "cityRewardSeenAt" : "2026-08-30T10:54:51.121Z",
     "foundAt" : "2026-08-30T10:54:51.121Z"
   }, {
-    "serverId" : 2936,
-    "x" : 420,
-    "y" : 268,
-    "uid" : "7734073461705",
-    "username" : "蕎麦粉",
-    "level" : 100,
-    "allianceId" : "500299872",
-    "allianceTag" : "Z936",
-    "pointId" : 137427,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4819411832459948036",
-      "players" : [ ],
-      "num" : 9,
-      "endTimeMilli" : 1788086730300
-    },
-    "cityRewardSeenAt" : "2026-08-30T10:27:33.181Z",
-    "foundAt" : "2026-08-30T10:27:33.181Z"
-  }, {
     "serverId" : 2937,
     "x" : 431,
     "y" : 551,
@@ -381,25 +362,6 @@
     "cityRewardSeenAt" : "2026-08-30T10:36:52.802Z",
     "foundAt" : "2026-08-30T10:36:52.802Z"
   }, {
-    "serverId" : 3345,
-    "x" : 418,
-    "y" : 540,
-    "uid" : "574769235072",
-    "username" : "磅磅匠",
-    "level" : 100,
-    "allianceId" : "500325352",
-    "allianceTag" : "BBQ^",
-    "pointId" : 276690,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4819409143844184581",
-      "players" : [ ],
-      "num" : 16,
-      "endTimeMilli" : 1788086570046
-    },
-    "cityRewardSeenAt" : "2026-08-30T10:27:26.333Z",
-    "foundAt" : "2026-08-30T10:27:26.333Z"
-  }, {
     "serverId" : 3453,
     "x" : 401,
     "y" : 599,
@@ -468,5 +430,62 @@
     },
     "cityRewardSeenAt" : "2026-08-30T10:56:42.811Z",
     "foundAt" : "2026-08-30T10:56:42.811Z"
+  }, {
+    "serverId" : 4270,
+    "x" : 405,
+    "y" : 525,
+    "uid" : "9306431918254",
+    "username" : "湯大條",
+    "level" : 100,
+    "allianceId" : "500427451",
+    "allianceTag" : "NFL:",
+    "pointId" : 269003,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4819435753180322824",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1788088156086
+    },
+    "cityRewardSeenAt" : "2026-08-30T11:00:54.819Z",
+    "foundAt" : "2026-08-30T11:00:54.819Z"
+  }, {
+    "serverId" : 4270,
+    "x" : 424,
+    "y" : 536,
+    "uid" : "9307029180590",
+    "username" : "Raymond",
+    "level" : 87,
+    "allianceId" : "500427451",
+    "allianceTag" : "NFL:",
+    "pointId" : 274645,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4819454307405487108",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1788089262004
+    },
+    "cityRewardSeenAt" : "2026-08-30T11:01:06.806Z",
+    "foundAt" : "2026-08-30T11:01:06.806Z"
+  }, {
+    "serverId" : 4270,
+    "x" : 652,
+    "y" : 534,
+    "uid" : "9304423010478",
+    "username" : "yo",
+    "level" : 96,
+    "allianceId" : "500427569",
+    "allianceTag" : "uF20",
+    "pointId" : 273735,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4819447776622500867",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1788088872739
+    },
+    "cityRewardSeenAt" : "2026-08-30T11:00:58.190Z",
+    "foundAt" : "2026-08-30T11:00:58.190Z"
   } ]
 }
