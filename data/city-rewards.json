@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T11:58:49.435467600Z",
-  "count" : 46,
+  "updatedAt" : "2026-08-30T12:00:37.132312400Z",
+  "count" : 45,
   "locations" : [ {
     "serverId" : 126,
     "x" : 307,
@@ -387,44 +387,6 @@
     },
     "cityRewardSeenAt" : "2026-08-30T11:29:21.486Z",
     "foundAt" : "2026-08-30T11:29:21.486Z"
-  }, {
-    "serverId" : 1567,
-    "x" : 430,
-    "y" : 258,
-    "uid" : "462690178543",
-    "username" : "crazy",
-    "level" : 100,
-    "allianceId" : "200262053",
-    "allianceTag" : "<GA>",
-    "pointId" : 132312,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4819466114504080904",
-      "players" : [ ],
-      "num" : 9,
-      "endTimeMilli" : 1788089965762
-    },
-    "cityRewardSeenAt" : "2026-08-30T11:24:23.601Z",
-    "foundAt" : "2026-08-30T11:24:23.601Z"
-  }, {
-    "serverId" : 1567,
-    "x" : 432,
-    "y" : 256,
-    "uid" : "322105967344",
-    "username" : "Dorien",
-    "level" : 100,
-    "allianceId" : "200262053",
-    "allianceTag" : "<GA>",
-    "pointId" : 131289,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4819465587447840256",
-      "players" : [ ],
-      "num" : 8,
-      "endTimeMilli" : 1788089934347
-    },
-    "cityRewardSeenAt" : "2026-08-30T11:24:22.164Z",
-    "foundAt" : "2026-08-30T11:24:22.164Z"
   }, {
     "serverId" : 2131,
     "x" : 421,
@@ -924,5 +886,24 @@
     },
     "cityRewardSeenAt" : "2026-08-30T11:55:02.653Z",
     "foundAt" : "2026-08-30T11:55:02.653Z"
+  }, {
+    "serverId" : 4513,
+    "x" : 523,
+    "y" : 319,
+    "uid" : "9823977836961",
+    "username" : "リサ",
+    "level" : 69,
+    "allianceId" : "500491305",
+    "allianceTag" : "Nziu",
+    "pointId" : 163590,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4819505428035748359",
+      "players" : [ ],
+      "num" : 27,
+      "endTimeMilli" : 1788092309031
+    },
+    "cityRewardSeenAt" : "2026-08-30T11:58:00.343Z",
+    "foundAt" : "2026-08-30T11:58:00.343Z"
   } ]
 }
