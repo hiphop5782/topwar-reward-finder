@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T21:15:55.050837400Z",
+  "updatedAt" : "2026-08-30T21:17:42.115027400Z",
   "count" : 17,
   "locations" : [ {
     "serverId" : 921,
@@ -110,6 +110,25 @@
     "cityRewardSeenAt" : "2026-08-30T21:04:23.764Z",
     "foundAt" : "2026-08-30T21:04:23.764Z"
   }, {
+    "serverId" : 3688,
+    "x" : 352,
+    "y" : 336,
+    "uid" : "8752431402696",
+    "username" : "scorpion",
+    "level" : 100,
+    "allianceId" : "500368084",
+    "allianceTag" : "S&$",
+    "pointId" : 172209,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4820058571588554758",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1788125278956
+    },
+    "cityRewardSeenAt" : "2026-08-30T21:14:34.717Z",
+    "foundAt" : "2026-08-30T21:14:34.717Z"
+  }, {
     "serverId" : 3752,
     "x" : 417,
     "y" : 395,
@@ -166,25 +185,6 @@
     },
     "cityRewardSeenAt" : "2026-08-30T20:59:25.688Z",
     "foundAt" : "2026-08-30T20:59:25.688Z"
-  }, {
-    "serverId" : 3854,
-    "x" : 426,
-    "y" : 652,
-    "uid" : "378346329153",
-    "username" : "Tank",
-    "level" : 100,
-    "allianceId" : "500379680",
-    "allianceTag" : "S854",
-    "pointId" : 334038,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4820030058810711042",
-      "players" : [ ],
-      "num" : 8,
-      "endTimeMilli" : 1788123579462
-    },
-    "cityRewardSeenAt" : "2026-08-30T20:42:05.100Z",
-    "foundAt" : "2026-08-30T20:42:05.100Z"
   }, {
     "serverId" : 3903,
     "x" : 344,
