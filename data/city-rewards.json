@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T15:27:58.901772400Z",
-  "count" : 24,
+  "updatedAt" : "2026-08-30T15:29:05.714565200Z",
+  "count" : 26,
   "locations" : [ {
     "serverId" : 341,
     "x" : 291,
@@ -390,6 +390,56 @@
     },
     "cityRewardSeenAt" : "2026-08-30T15:12:34.753Z",
     "foundAt" : "2026-08-30T15:12:34.753Z"
+  }, {
+    "serverId" : 3396,
+    "x" : 408,
+    "y" : 548,
+    "uid" : "870038612395",
+    "username" : "Moozyy😎",
+    "level" : 100,
+    "allianceId" : "500330742",
+    "allianceTag" : "96Y",
+    "pointId" : 280781,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4819702893686458368",
+      "players" : [ ],
+      "num" : 23,
+      "endTimeMilli" : 1788104078901
+    },
+    "cityRewardSeenAt" : "2026-08-30T15:28:09.955Z",
+    "foundAt" : "2026-08-30T15:28:09.955Z"
+  }, {
+    "serverId" : 3396,
+    "x" : 408,
+    "y" : 552,
+    "uid" : "8101294509368",
+    "username" : "ʏꜱʟ",
+    "level" : 100,
+    "allianceId" : "500330742",
+    "allianceTag" : "96Y",
+    "pointId" : 282829,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4819704869220419587",
+      "players" : [ {
+        "frameId" : 114,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"hero_icon148_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"블루프린트🍏\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/623466992984.jpg?v=1708488832221\",\"https://knight-cdn.akamaized.net/headimg/6fad4d881796f079ef8618d90f962cbe_1753363228.jpg?v=1753363229999\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/623466992984.jpg?v=1708488832221\",\"username\":\"나보기가\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":101,\"gender\":0,\"avatarurl\":\"hero_icon124_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"GUMARANG\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":13,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"beard33\"}"
+      } ],
+      "num" : 23,
+      "endTimeMilli" : 1788104196652
+    },
+    "cityRewardSeenAt" : "2026-08-30T15:28:09.955Z",
+    "foundAt" : "2026-08-30T15:28:09.955Z"
   }, {
     "serverId" : 3453,
     "x" : 290,
