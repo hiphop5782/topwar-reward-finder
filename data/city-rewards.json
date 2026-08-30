@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T06:56:20.567698500Z",
-  "count" : 16,
+  "updatedAt" : "2026-08-30T06:58:52.323975800Z",
+  "count" : 17,
   "locations" : [ {
     "serverId" : 1067,
     "x" : 415,
@@ -255,6 +255,44 @@
     "cityRewardSeenAt" : "2026-08-30T06:52:51.657Z",
     "foundAt" : "2026-08-30T06:52:51.657Z"
   }, {
+    "serverId" : 2842,
+    "x" : 392,
+    "y" : 440,
+    "uid" : "522721207109",
+    "username" : "MM•Wolf",
+    "level" : 100,
+    "allianceId" : "500269673",
+    "allianceTag" : "E$D",
+    "pointId" : 225477,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4819193842267206664",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1788073737072
+    },
+    "cityRewardSeenAt" : "2026-08-30T06:57:31.028Z",
+    "foundAt" : "2026-08-30T06:57:31.028Z"
+  }, {
+    "serverId" : 2973,
+    "x" : 385,
+    "y" : 533,
+    "uid" : "8092677737783",
+    "username" : "TopHawch",
+    "level" : 100,
+    "allianceId" : "500289702",
+    "allianceTag" : "73.",
+    "pointId" : 273089,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4819196551502445063",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1788073898555
+    },
+    "cityRewardSeenAt" : "2026-08-30T06:57:40.065Z",
+    "foundAt" : "2026-08-30T06:57:40.065Z"
+  }, {
     "serverId" : 3453,
     "x" : 290,
     "y" : 514,
@@ -311,24 +349,5 @@
     },
     "cityRewardSeenAt" : "2026-08-30T06:52:02.988Z",
     "foundAt" : "2026-08-30T06:52:02.988Z"
-  }, {
-    "serverId" : 4168,
-    "x" : 357,
-    "y" : 477,
-    "uid" : "9159136546888",
-    "username" : "呀吼",
-    "level" : 95,
-    "allianceId" : "500411291",
-    "allianceTag" : "RA-O",
-    "pointId" : 244403,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4819168334574555142",
-      "players" : [ ],
-      "num" : 6,
-      "endTimeMilli" : 1788072216695
-    },
-    "cityRewardSeenAt" : "2026-08-30T06:23:21.819Z",
-    "foundAt" : "2026-08-30T06:23:21.819Z"
   } ]
 }
