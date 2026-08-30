@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T05:53:41.862795Z",
-  "count" : 10,
+  "updatedAt" : "2026-08-30T05:55:52.043281400Z",
+  "count" : 12,
   "locations" : [ {
+    "serverId" : 164,
+    "x" : 492,
+    "y" : 646,
+    "uid" : "160468537508",
+    "username" : "東海競馬",
+    "level" : 100,
+    "allianceId" : "105611",
+    "allianceTag" : "suga",
+    "pointId" : 330999,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4819133482154412041",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1788070139329
+    },
+    "cityRewardSeenAt" : "2026-08-30T05:54:20.839Z",
+    "foundAt" : "2026-08-30T05:54:20.839Z"
+  }, {
     "serverId" : 200,
     "x" : 456,
     "y" : 686,
@@ -135,6 +154,25 @@
     },
     "cityRewardSeenAt" : "2026-08-30T05:44:02.018Z",
     "foundAt" : "2026-08-30T05:44:02.018Z"
+  }, {
+    "serverId" : 3627,
+    "x" : 423,
+    "y" : 311,
+    "uid" : "778241050649",
+    "username" : "田中大五郎",
+    "level" : 100,
+    "allianceId" : "500360093",
+    "allianceTag" : "ZinT",
+    "pointId" : 159444,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4819133666839778816",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1788070150337
+    },
+    "cityRewardSeenAt" : "2026-08-30T05:53:35.427Z",
+    "foundAt" : "2026-08-30T05:53:35.427Z"
   }, {
     "serverId" : 3853,
     "x" : 346,
