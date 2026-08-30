@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T10:40:57.468040400Z",
-  "count" : 31,
+  "updatedAt" : "2026-08-30T10:42:08.469398300Z",
+  "count" : 30,
   "locations" : [ {
     "serverId" : 111,
     "x" : 467,
@@ -366,6 +366,25 @@
     "cityRewardSeenAt" : "2026-08-30T10:24:10.091Z",
     "foundAt" : "2026-08-30T10:24:10.091Z"
   }, {
+    "serverId" : 1645,
+    "x" : 265,
+    "y" : 469,
+    "uid" : "506918446718",
+    "username" : "Piligrim",
+    "level" : 100,
+    "allianceId" : "200282247",
+    "allianceTag" : "ERA*",
+    "pointId" : 240261,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4819423515659524614",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1788087426673
+    },
+    "cityRewardSeenAt" : "2026-08-30T10:40:54.456Z",
+    "foundAt" : "2026-08-30T10:40:54.456Z"
+  }, {
     "serverId" : 2311,
     "x" : 392,
     "y" : 538,
@@ -403,44 +422,6 @@
     },
     "cityRewardSeenAt" : "2026-08-30T10:07:16.661Z",
     "foundAt" : "2026-08-30T10:07:16.661Z"
-  }, {
-    "serverId" : 2682,
-    "x" : 386,
-    "y" : 392,
-    "uid" : "630909494649",
-    "username" : "🍄狙擊🏹",
-    "level" : 100,
-    "allianceId" : "500234439",
-    "allianceTag" : "DaKZ",
-    "pointId" : 200898,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4819376893404181510",
-      "players" : [ ],
-      "num" : 38,
-      "endTimeMilli" : 1788084647770
-    },
-    "cityRewardSeenAt" : "2026-08-30T10:06:40.553Z",
-    "foundAt" : "2026-08-30T10:06:40.553Z"
-  }, {
-    "serverId" : 2682,
-    "x" : 402,
-    "y" : 408,
-    "uid" : "789990115392",
-    "username" : "꧁༺Lⁱⁿʰ༻꧂",
-    "level" : 100,
-    "allianceId" : "500234439",
-    "allianceTag" : "DaKZ",
-    "pointId" : 209098,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4819388689867404296",
-      "players" : [ ],
-      "num" : 28,
-      "endTimeMilli" : 1788085350894
-    },
-    "cityRewardSeenAt" : "2026-08-30T10:06:40.553Z",
-    "foundAt" : "2026-08-30T10:06:40.553Z"
   }, {
     "serverId" : 2936,
     "x" : 420,
