@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T20:41:53.909269600Z",
-  "count" : 12,
+  "updatedAt" : "2026-08-30T20:43:50.424696600Z",
+  "count" : 15,
   "locations" : [ {
     "serverId" : 1379,
     "x" : 463,
@@ -115,6 +115,63 @@
     },
     "cityRewardSeenAt" : "2026-08-30T20:15:49.430Z",
     "foundAt" : "2026-08-30T20:15:49.430Z"
+  }, {
+    "serverId" : 3854,
+    "x" : 426,
+    "y" : 652,
+    "uid" : "378346329153",
+    "username" : "Tank",
+    "level" : 100,
+    "allianceId" : "500379680",
+    "allianceTag" : "S854",
+    "pointId" : 334038,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4820030058810711042",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1788123579462
+    },
+    "cityRewardSeenAt" : "2026-08-30T20:42:05.100Z",
+    "foundAt" : "2026-08-30T20:42:05.100Z"
+  }, {
+    "serverId" : 3903,
+    "x" : 344,
+    "y" : 484,
+    "uid" : "8816042217257",
+    "username" : "에쿠",
+    "level" : 100,
+    "allianceId" : "500381515",
+    "allianceTag" : "39O3",
+    "pointId" : 247981,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4820025304399379975",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1788123296077
+    },
+    "cityRewardSeenAt" : "2026-08-30T20:42:32.123Z",
+    "foundAt" : "2026-08-30T20:42:32.123Z"
+  }, {
+    "serverId" : 3903,
+    "x" : 346,
+    "y" : 486,
+    "uid" : "7595275455328",
+    "username" : "Suzu",
+    "level" : 100,
+    "allianceId" : "500381515",
+    "allianceTag" : "39O3",
+    "pointId" : 249006,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4820024706207743490",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1788123260422
+    },
+    "cityRewardSeenAt" : "2026-08-30T20:42:32.123Z",
+    "foundAt" : "2026-08-30T20:42:32.123Z"
   }, {
     "serverId" : 4122,
     "x" : 366,
