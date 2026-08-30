@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-30T02:20:27.954455100Z",
+  "updatedAt" : "2026-08-30T02:22:52.043933Z",
   "count" : 13,
   "locations" : [ {
+    "serverId" : 247,
+    "x" : 569,
+    "y" : 649,
+    "uid" : "267487154437",
+    "username" : "たーにゃ",
+    "level" : 100,
+    "allianceId" : "100000089",
+    "allianceTag" : "nuko",
+    "pointId" : 332573,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4818932409133297153",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1788058154443
+    },
+    "cityRewardSeenAt" : "2026-08-30T02:20:35.001Z",
+    "foundAt" : "2026-08-30T02:20:35.001Z"
+  }, {
     "serverId" : 437,
     "x" : 447,
     "y" : 315,
@@ -59,25 +78,6 @@
     },
     "cityRewardSeenAt" : "2026-08-30T02:05:37.361Z",
     "foundAt" : "2026-08-30T02:05:37.361Z"
-  }, {
-    "serverId" : 3324,
-    "x" : 456,
-    "y" : 414,
-    "uid" : "7598613662562",
-    "username" : "Thao",
-    "level" : 100,
-    "allianceId" : "500322913",
-    "allianceTag" : "AOD~",
-    "pointId" : 212197,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4818875937092925444",
-      "players" : [ ],
-      "num" : 6,
-      "endTimeMilli" : 1788054788447
-    },
-    "cityRewardSeenAt" : "2026-08-30T01:46:26.253Z",
-    "foundAt" : "2026-08-30T01:46:26.253Z"
   }, {
     "serverId" : 3531,
     "x" : 386,
