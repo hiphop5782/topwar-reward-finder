@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T21:00:18.818071400Z",
-  "count" : 12,
+  "updatedAt" : "2026-08-31T21:02:46.509321100Z",
+  "count" : 11,
   "locations" : [ {
     "serverId" : 850,
     "x" : 405,
@@ -210,6 +210,25 @@
     "cityRewardSeenAt" : "2026-08-31T20:28:57.777Z",
     "foundAt" : "2026-08-31T20:28:57.777Z"
   }, {
+    "serverId" : 3145,
+    "x" : 410,
+    "y" : 396,
+    "uid" : "320153682649",
+    "username" : "Key",
+    "level" : 100,
+    "allianceId" : "500308779",
+    "allianceTag" : "$RD",
+    "pointId" : 202958,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4821496674395918854",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1788210996563
+    },
+    "cityRewardSeenAt" : "2026-08-31T21:00:36.884Z",
+    "foundAt" : "2026-08-31T21:00:36.884Z"
+  }, {
     "serverId" : 3522,
     "x" : 420,
     "y" : 718,
@@ -228,43 +247,5 @@
     },
     "cityRewardSeenAt" : "2026-08-31T20:52:17.873Z",
     "foundAt" : "2026-08-31T20:52:17.873Z"
-  }, {
-    "serverId" : 3722,
-    "x" : 404,
-    "y" : 670,
-    "uid" : "382719071369",
-    "username" : "STBU6",
-    "level" : 100,
-    "allianceId" : "500371663",
-    "allianceTag" : "#Fam",
-    "pointId" : 343243,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4821454191868056583",
-      "players" : [ ],
-      "num" : 4,
-      "endTimeMilli" : 1788208464407
-    },
-    "cityRewardSeenAt" : "2026-08-31T20:25:43.131Z",
-    "foundAt" : "2026-08-31T20:25:43.131Z"
-  }, {
-    "serverId" : 3722,
-    "x" : 422,
-    "y" : 676,
-    "uid" : "8625205808778",
-    "username" : "iitachii",
-    "level" : 100,
-    "allianceId" : "500371663",
-    "allianceTag" : "#Fam",
-    "pointId" : 346324,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4821471233459426308",
-      "players" : [ ],
-      "num" : 2,
-      "endTimeMilli" : 1788209480165
-    },
-    "cityRewardSeenAt" : "2026-08-31T20:25:43.131Z",
-    "foundAt" : "2026-08-31T20:25:43.131Z"
   } ]
 }
