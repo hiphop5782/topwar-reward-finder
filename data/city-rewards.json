@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T04:44:03.917771Z",
-  "count" : 9,
+  "updatedAt" : "2026-08-31T04:46:37.932353900Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 476,
     "x" : 442,
@@ -191,5 +191,24 @@
     },
     "cityRewardSeenAt" : "2026-08-31T04:34:03.536Z",
     "foundAt" : "2026-08-31T04:34:03.536Z"
+  }, {
+    "serverId" : 4492,
+    "x" : 373,
+    "y" : 445,
+    "uid" : "9767932105100",
+    "username" : "Banner",
+    "level" : 80,
+    "allianceId" : "500484323",
+    "allianceTag" : "DRPP",
+    "pointId" : 228027,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4820524486520674311",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1788153049650
+    },
+    "cityRewardSeenAt" : "2026-08-31T04:43:59.494Z",
+    "foundAt" : "2026-08-31T04:43:59.494Z"
   } ]
 }
