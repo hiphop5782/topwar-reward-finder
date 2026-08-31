@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T11:12:56.395205900Z",
-  "count" : 15,
+  "updatedAt" : "2026-08-31T11:14:32.709439700Z",
+  "count" : 16,
   "locations" : [ {
     "serverId" : 386,
     "x" : 381,
@@ -287,5 +287,24 @@
     },
     "cityRewardSeenAt" : "2026-08-31T10:56:17.798Z",
     "foundAt" : "2026-08-31T10:56:17.798Z"
+  }, {
+    "serverId" : 4357,
+    "x" : 453,
+    "y" : 439,
+    "uid" : "9473073844487",
+    "username" : "Shasha",
+    "level" : 100,
+    "allianceId" : "500444077",
+    "allianceTag" : "SYN-",
+    "pointId" : 224995,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4820911113722006017",
+      "players" : [ ],
+      "num" : 25,
+      "endTimeMilli" : 1788176094427
+    },
+    "cityRewardSeenAt" : "2026-08-31T11:12:09.572Z",
+    "foundAt" : "2026-08-31T11:12:09.572Z"
   } ]
 }
