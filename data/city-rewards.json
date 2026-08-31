@@ -1,27 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T14:24:39.291471600Z",
-  "count" : 15,
+  "updatedAt" : "2026-08-31T14:26:42.125134300Z",
+  "count" : 16,
   "locations" : [ {
-    "serverId" : 601,
-    "x" : 408,
-    "y" : 686,
-    "uid" : "307562283610",
-    "username" : "namoなも",
-    "level" : 100,
-    "allianceId" : "100068030",
-    "allianceTag" : "edam",
-    "pointId" : 351437,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4821069510151025153",
-      "players" : [ ],
-      "num" : 19,
-      "endTimeMilli" : 1788185535590
-    },
-    "cityRewardSeenAt" : "2026-08-31T13:51:37.574Z",
-    "foundAt" : "2026-08-31T13:51:37.574Z"
-  }, {
     "serverId" : 654,
     "x" : 412,
     "y" : 584,
@@ -147,6 +128,25 @@
     },
     "cityRewardSeenAt" : "2026-08-31T14:04:35.471Z",
     "foundAt" : "2026-08-31T14:04:35.471Z"
+  }, {
+    "serverId" : 3038,
+    "x" : 450,
+    "y" : 618,
+    "uid" : "7755187915742",
+    "username" : "GIRA",
+    "level" : 100,
+    "allianceId" : "500299144",
+    "allianceTag" : "JRSO",
+    "pointId" : 316642,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4821083104159972356",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1788186345856
+    },
+    "cityRewardSeenAt" : "2026-08-31T14:25:28.109Z",
+    "foundAt" : "2026-08-31T14:25:28.109Z"
   }, {
     "serverId" : 3053,
     "x" : 390,
@@ -314,5 +314,24 @@
     },
     "cityRewardSeenAt" : "2026-08-31T13:52:39.016Z",
     "foundAt" : "2026-08-31T13:52:39.016Z"
+  }, {
+    "serverId" : 4366,
+    "x" : 423,
+    "y" : 681,
+    "uid" : "9486451020046",
+    "username" : "Sinbi",
+    "level" : 100,
+    "allianceId" : "500447816",
+    "allianceTag" : "LG3N",
+    "pointId" : 348884,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4821099872501505026",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1788187345327
+    },
+    "cityRewardSeenAt" : "2026-08-31T14:25:59.581Z",
+    "foundAt" : "2026-08-31T14:25:59.581Z"
   } ]
 }
