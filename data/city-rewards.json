@@ -1,8 +1,58 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T04:24:29.397577600Z",
-  "count" : 1,
+  "updatedAt" : "2026-08-31T04:26:29.837225500Z",
+  "count" : 3,
   "locations" : [ {
+    "serverId" : 864,
+    "x" : 415,
+    "y" : 295,
+    "uid" : "542601868240",
+    "username" : "沒🗝️運",
+    "level" : 100,
+    "allianceId" : "476339",
+    "allianceTag" : "Hcsc",
+    "pointId" : 151248,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4820496780976635907",
+      "players" : [ ],
+      "num" : 17,
+      "endTimeMilli" : 1788151398271
+    },
+    "cityRewardSeenAt" : "2026-08-31T04:24:45.051Z",
+    "foundAt" : "2026-08-31T04:24:45.051Z"
+  }, {
+    "serverId" : 864,
+    "x" : 449,
+    "y" : 285,
+    "uid" : "609752449988",
+    "username" : "小小老伯伯",
+    "level" : 100,
+    "allianceId" : "476339",
+    "allianceTag" : "Hcsc",
+    "pointId" : 146145,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4820496495461974025",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon319_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"★小南★\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon327_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"靜觀\"}"
+      }, {
+        "frameId" : 166,
+        "playerInfo" : "{\"nationalflag\":13,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/913325185630.jpg?v=1700910585349\",\"username\":\"沉默\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"遠遠流長\"}"
+      } ],
+      "num" : 22,
+      "endTimeMilli" : 1788151381253
+    },
+    "cityRewardSeenAt" : "2026-08-31T04:24:43.771Z",
+    "foundAt" : "2026-08-31T04:24:43.771Z"
+  }, {
     "serverId" : 1421,
     "x" : 432,
     "y" : 624,
