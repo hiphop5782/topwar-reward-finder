@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T13:12:26.310861600Z",
-  "count" : 92,
+  "updatedAt" : "2026-08-31T13:13:54.459845400Z",
+  "count" : 93,
   "locations" : [ {
     "serverId" : 78,
     "x" : 422,
@@ -558,36 +558,43 @@
     "cityRewardSeenAt" : "2026-08-31T12:49:47.779Z",
     "foundAt" : "2026-08-31T12:49:47.779Z"
   }, {
-    "serverId" : 579,
-    "x" : 609,
-    "y" : 467,
-    "uid" : "442075325044",
-    "username" : "αジール",
+    "serverId" : 502,
+    "x" : 434,
+    "y" : 610,
+    "uid" : "415538815559",
+    "username" : "wrath🐟",
     "level" : 100,
-    "allianceId" : "359737",
-    "allianceTag" : "PofR",
-    "pointId" : 239409,
+    "allianceId" : "331434",
+    "allianceTag" : "GEK",
+    "pointId" : 312538,
     "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4820981950632461826",
-      "players" : [ {
-        "frameId" : 157,
-        "playerInfo" : "{\"nationalflag\":230,\"gender\":0,\"avatarurl\":\"hero_icon1309\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Shin\"}"
-      }, {
-        "frameId" : 157,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon140\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"a\"}"
-      }, {
-        "frameId" : 4,
-        "playerInfo" : "{\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"hero_icon238_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"나비\"}"
-      }, {
-        "frameId" : 47,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon008_summer\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"真夏の島\"}"
-      } ],
-      "num" : 9,
-      "endTimeMilli" : 1788180316636
+      "itemId" : 260617002,
+      "instanceId" : "4821030794795674629",
+      "players" : [ ],
+      "num" : 17,
+      "endTimeMilli" : 1788183227975
     },
-    "cityRewardSeenAt" : "2026-08-31T12:37:51.760Z",
-    "foundAt" : "2026-08-31T12:37:51.760Z"
+    "cityRewardSeenAt" : "2026-08-31T13:13:03.442Z",
+    "foundAt" : "2026-08-31T13:13:03.442Z"
+  }, {
+    "serverId" : 608,
+    "x" : 410,
+    "y" : 618,
+    "uid" : "264811491778",
+    "username" : "猫女神バステト",
+    "level" : 100,
+    "allianceId" : "350151",
+    "allianceTag" : "Tin@",
+    "pointId" : 316622,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4821026414935719942",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1788182966915
+    },
+    "cityRewardSeenAt" : "2026-08-31T13:13:12.834Z",
+    "foundAt" : "2026-08-31T13:13:12.834Z"
   }, {
     "serverId" : 926,
     "x" : 378,
