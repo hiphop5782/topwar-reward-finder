@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T18:46:54.736740800Z",
-  "count" : 9,
+  "updatedAt" : "2026-08-31T18:48:21.115403500Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 655,
     "x" : 350,
@@ -21,6 +21,44 @@
     },
     "cityRewardSeenAt" : "2026-08-31T18:31:04.872Z",
     "foundAt" : "2026-08-31T18:31:04.872Z"
+  }, {
+    "serverId" : 850,
+    "x" : 385,
+    "y" : 255,
+    "uid" : "394633486856",
+    "username" : "Hellboy",
+    "level" : 100,
+    "allianceId" : "200046720",
+    "allianceTag" : "#SHP",
+    "pointId" : 130753,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4821366393625027588",
+      "players" : [ ],
+      "num" : 17,
+      "endTimeMilli" : 1788203231224
+    },
+    "cityRewardSeenAt" : "2026-08-31T18:46:53.510Z",
+    "foundAt" : "2026-08-31T18:46:53.510Z"
+  }, {
+    "serverId" : 850,
+    "x" : 407,
+    "y" : 249,
+    "uid" : "433897751966",
+    "username" : "Anzhey",
+    "level" : 100,
+    "allianceId" : "200046720",
+    "allianceTag" : "#SHP",
+    "pointId" : 127692,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4821362485942985730",
+      "players" : [ ],
+      "num" : 20,
+      "endTimeMilli" : 1788202998308
+    },
+    "cityRewardSeenAt" : "2026-08-31T18:46:53.510Z",
+    "foundAt" : "2026-08-31T18:46:53.510Z"
   }, {
     "serverId" : 1389,
     "x" : 515,
@@ -90,25 +128,6 @@
     },
     "cityRewardSeenAt" : "2026-08-31T18:16:12.593Z",
     "foundAt" : "2026-08-31T18:16:12.593Z"
-  }, {
-    "serverId" : 2463,
-    "x" : 426,
-    "y" : 610,
-    "uid" : "787246491707",
-    "username" : "yu",
-    "level" : 100,
-    "allianceId" : "500168709",
-    "allianceTag" : "SEae",
-    "pointId" : 312534,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4821322291056164360",
-      "players" : [ ],
-      "num" : 9,
-      "endTimeMilli" : 1788200602506
-    },
-    "cityRewardSeenAt" : "2026-08-31T18:12:22.456Z",
-    "foundAt" : "2026-08-31T18:12:22.456Z"
   }, {
     "serverId" : 3199,
     "x" : 407,
