@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T03:00:56.883054600Z",
-  "count" : 10,
+  "updatedAt" : "2026-08-31T03:02:12.696488900Z",
+  "count" : 12,
   "locations" : [ {
     "serverId" : 836,
     "x" : 408,
@@ -159,6 +159,50 @@
     },
     "cityRewardSeenAt" : "2026-08-31T02:33:14.466Z",
     "foundAt" : "2026-08-31T02:33:14.466Z"
+  }, {
+    "serverId" : 3385,
+    "x" : 400,
+    "y" : 528,
+    "uid" : "8469586840889",
+    "username" : "poo",
+    "level" : 100,
+    "allianceId" : "500330484",
+    "allianceTag" : "SuZu",
+    "pointId" : 270537,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4820402052403982853",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1788145752008
+    },
+    "cityRewardSeenAt" : "2026-08-31T03:00:37.715Z",
+    "foundAt" : "2026-08-31T03:00:37.715Z"
+  }, {
+    "serverId" : 3400,
+    "x" : 403,
+    "y" : 665,
+    "uid" : "8188328971631",
+    "username" : "crrazy",
+    "level" : 100,
+    "allianceId" : "500332067",
+    "allianceTag" : "34TG",
+    "pointId" : 340682,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4820419880628686856",
+      "players" : [ {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_avataricon1691003_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"碰碰碰\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/0ea73af86d06453d4114888dae12290c_1734155491.jpg?v=1734155493491\",\"https://knight-cdn.akamaized.net/headimg/0ea73af86d06453d4114888dae12290c_1780286284.png?v=1780286286727\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/0ea73af86d06453d4114888dae12290c_1780286284.png?v=1780286286727\",\"username\":\"crrazy\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1788146814653
+    },
+    "cityRewardSeenAt" : "2026-08-31T03:01:28.121Z",
+    "foundAt" : "2026-08-31T03:01:28.121Z"
   }, {
     "serverId" : 3438,
     "x" : 419,
