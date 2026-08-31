@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T08:15:17.319565600Z",
-  "count" : 5,
+  "updatedAt" : "2026-08-31T08:17:47.145732300Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 172,
     "x" : 350,
@@ -97,5 +97,24 @@
     },
     "cityRewardSeenAt" : "2026-08-31T08:00:43.459Z",
     "foundAt" : "2026-08-31T08:00:43.459Z"
+  }, {
+    "serverId" : 4328,
+    "x" : 402,
+    "y" : 428,
+    "uid" : "9375924359392",
+    "username" : "FERZ",
+    "level" : 100,
+    "allianceId" : "500438120",
+    "allianceTag" : "se28",
+    "pointId" : 219338,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4820722853376806913",
+      "players" : [ ],
+      "num" : 16,
+      "endTimeMilli" : 1788164873236
+    },
+    "cityRewardSeenAt" : "2026-08-31T08:15:31.803Z",
+    "foundAt" : "2026-08-31T08:15:31.803Z"
   } ]
 }
