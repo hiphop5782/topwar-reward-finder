@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T03:22:02.712801Z",
-  "count" : 15,
+  "updatedAt" : "2026-08-31T03:24:43.554163700Z",
+  "count" : 16,
   "locations" : [ {
     "serverId" : 1444,
     "x" : 402,
@@ -293,5 +293,36 @@
     },
     "cityRewardSeenAt" : "2026-08-31T02:57:23.710Z",
     "foundAt" : "2026-08-31T02:57:23.710Z"
+  }, {
+    "serverId" : 4445,
+    "x" : 445,
+    "y" : 627,
+    "uid" : "9653023871325",
+    "username" : "天パ",
+    "level" : 88,
+    "allianceId" : "500468473",
+    "allianceTag" : "N45P",
+    "pointId" : 321247,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4820436561560779267",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Abigail\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/aa46af2be494ec29bc06f558a9a4c72d_1777070742.png?v=1777070743616\",\"https://knight-cdn.akamaized.net/headimg/aa46af2be494ec29bc06f558a9a4c72d_1777092221.png?v=1777092223091\",\"https://knight-cdn.akamaized.net/headimg/aa46af2be494ec29bc06f558a9a4c72d_1787118169.png?v=1787118170843\",\"https://knight-cdn.akamaized.net/headimg/aa46af2be494ec29bc06f558a9a4c72d_1787062975.png?v=1787062976743\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/aa46af2be494ec29bc06f558a9a4c72d_1777070742.png?v=1777070743616\",\"username\":\"Thor\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"BANKZ\"}"
+      }, {
+        "frameId" : 165,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/8f3b80e4eb7f8920baf3dff9a1128274_1784029795.png?v=1784029799191\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/8f3b80e4eb7f8920baf3dff9a1128274_1784029795.png?v=1784029799191\",\"username\":\"Aloha808\"}"
+      } ],
+      "num" : 17,
+      "endTimeMilli" : 1788147808914
+    },
+    "cityRewardSeenAt" : "2026-08-31T03:23:35.092Z",
+    "foundAt" : "2026-08-31T03:23:35.092Z"
   } ]
 }
