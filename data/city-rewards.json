@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T06:49:45.654431700Z",
-  "count" : 11,
+  "updatedAt" : "2026-08-31T06:51:25.571029300Z",
+  "count" : 12,
   "locations" : [ {
     "serverId" : 341,
     "x" : 260,
@@ -217,5 +217,24 @@
     },
     "cityRewardSeenAt" : "2026-08-31T06:46:56.284Z",
     "foundAt" : "2026-08-31T06:46:56.284Z"
+  }, {
+    "serverId" : 3051,
+    "x" : 416,
+    "y" : 582,
+    "uid" : "885315344903",
+    "username" : "BAM",
+    "level" : 100,
+    "allianceId" : "500300636",
+    "allianceTag" : "HK4L",
+    "pointId" : 298193,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4820642847581001216",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1788160104519
+    },
+    "cityRewardSeenAt" : "2026-08-31T06:50:29.348Z",
+    "foundAt" : "2026-08-31T06:50:29.348Z"
   } ]
 }
