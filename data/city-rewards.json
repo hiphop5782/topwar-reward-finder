@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T11:38:44.172139400Z",
-  "count" : 24,
+  "updatedAt" : "2026-08-31T11:40:59.747212200Z",
+  "count" : 27,
   "locations" : [ {
     "serverId" : 225,
     "x" : 436,
@@ -269,25 +269,6 @@
     "cityRewardSeenAt" : "2026-08-31T11:18:15.648Z",
     "foundAt" : "2026-08-31T11:18:15.648Z"
   }, {
-    "serverId" : 2263,
-    "x" : 426,
-    "y" : 616,
-    "uid" : "793635547230",
-    "username" : "5963",
-    "level" : 100,
-    "allianceId" : "400336372",
-    "allianceTag" : "GT63",
-    "pointId" : 315606,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4820905696106229249",
-      "players" : [ ],
-      "num" : 9,
-      "endTimeMilli" : 1788175771512
-    },
-    "cityRewardSeenAt" : "2026-08-31T11:04:39.350Z",
-    "foundAt" : "2026-08-31T11:04:39.350Z"
-  }, {
     "serverId" : 2691,
     "x" : 387,
     "y" : 533,
@@ -337,6 +318,25 @@
     },
     "cityRewardSeenAt" : "2026-08-31T11:25:14.605Z",
     "foundAt" : "2026-08-31T11:25:14.605Z"
+  }, {
+    "serverId" : 3342,
+    "x" : 158,
+    "y" : 306,
+    "uid" : "8030340189454",
+    "username" : "colmar2",
+    "level" : 80,
+    "allianceId" : "500324306",
+    "allianceTag" : "RN1n",
+    "pointId" : 156752,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4820935453066271750",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1788177545165
+    },
+    "cityRewardSeenAt" : "2026-08-31T11:38:59.541Z",
+    "foundAt" : "2026-08-31T11:38:59.541Z"
   }, {
     "serverId" : 3399,
     "x" : 432,
@@ -432,6 +432,63 @@
     },
     "cityRewardSeenAt" : "2026-08-31T11:34:54.682Z",
     "foundAt" : "2026-08-31T11:34:54.682Z"
+  }, {
+    "serverId" : 4270,
+    "x" : 415,
+    "y" : 547,
+    "uid" : "9307337986222",
+    "username" : "Penfold",
+    "level" : 100,
+    "allianceId" : "500427451",
+    "allianceTag" : "NFL:",
+    "pointId" : 280272,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4820921841191312384",
+      "players" : [ ],
+      "num" : 34,
+      "endTimeMilli" : 1788176733834
+    },
+    "cityRewardSeenAt" : "2026-08-31T11:40:04.869Z",
+    "foundAt" : "2026-08-31T11:40:04.869Z"
+  }, {
+    "serverId" : 4270,
+    "x" : 419,
+    "y" : 555,
+    "uid" : "9305234280622",
+    "username" : "tomsfact",
+    "level" : 100,
+    "allianceId" : "500427451",
+    "allianceTag" : "NFL:",
+    "pointId" : 284370,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4820939266611829766",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1788177772470
+    },
+    "cityRewardSeenAt" : "2026-08-31T11:40:04.869Z",
+    "foundAt" : "2026-08-31T11:40:04.869Z"
+  }, {
+    "serverId" : 4270,
+    "x" : 427,
+    "y" : 531,
+    "uid" : "9302957559982",
+    "username" : "MISA",
+    "level" : 100,
+    "allianceId" : "500427451",
+    "allianceTag" : "NFL:",
+    "pointId" : 272086,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4820922375914740739",
+      "players" : [ ],
+      "num" : 30,
+      "endTimeMilli" : 1788176765706
+    },
+    "cityRewardSeenAt" : "2026-08-31T11:39:52.586Z",
+    "foundAt" : "2026-08-31T11:39:52.586Z"
   }, {
     "serverId" : 4357,
     "x" : 453,
