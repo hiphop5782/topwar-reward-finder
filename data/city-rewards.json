@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T08:37:59.364936900Z",
-  "count" : 10,
+  "updatedAt" : "2026-08-31T08:39:23.764218Z",
+  "count" : 11,
   "locations" : [ {
     "serverId" : 148,
     "x" : 160,
@@ -204,5 +204,24 @@
     },
     "cityRewardSeenAt" : "2026-08-31T08:15:31.803Z",
     "foundAt" : "2026-08-31T08:15:31.803Z"
+  }, {
+    "serverId" : 4343,
+    "x" : 349,
+    "y" : 469,
+    "uid" : "8609717784194",
+    "username" : "RaptoR",
+    "level" : 100,
+    "allianceId" : "500439869",
+    "allianceTag" : "BdFg",
+    "pointId" : 240303,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4820747943921446404",
+      "players" : [ ],
+      "num" : 20,
+      "endTimeMilli" : 1788166368749
+    },
+    "cityRewardSeenAt" : "2026-08-31T08:37:19.887Z",
+    "foundAt" : "2026-08-31T08:37:19.887Z"
   } ]
 }
