@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T06:59:34.007708300Z",
-  "count" : 17,
+  "updatedAt" : "2026-08-31T07:01:39.780536100Z",
+  "count" : 19,
   "locations" : [ {
     "serverId" : 341,
     "x" : 260,
@@ -331,5 +331,55 @@
     },
     "cityRewardSeenAt" : "2026-08-31T06:50:29.348Z",
     "foundAt" : "2026-08-31T06:50:29.348Z"
+  }, {
+    "serverId" : 3506,
+    "x" : 391,
+    "y" : 365,
+    "uid" : "689750005521",
+    "username" : "Tuấn",
+    "level" : 100,
+    "allianceId" : "500346083",
+    "allianceTag" : "n0NE",
+    "pointId" : 187076,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4820635869467337733",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"hero_icon228_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"WooHeyn\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":121,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/c620cc320bdd26db728ffe161a29df36_1725914585.jpg?v=1725914586693\",\"username\":\"북조선1등꽃미남\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":55,\"gender\":0,\"avatarurl\":\"hero_avataricon1691003_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"어머\"}"
+      }, {
+        "frameId" : 122,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/7ca7ebf8c3fadcaef8991cbc15f26d4b_1773673723.png?v=1773673724507\",\"https://knight-cdn.akamaized.net/headimg/7ca7ebf8c3fadcaef8991cbc15f26d4b_1746276898.jpg?v=1746276899432\",\"https://knight-cdn.akamaized.net/headimg/7ca7ebf8c3fadcaef8991cbc15f26d4b_1747559234.jpg?v=1747559235513\",\"https://knight-cdn.akamaized.net/headimg/7ca7ebf8c3fadcaef8991cbc15f26d4b_1747871694.jpg?v=1747871701592\"],\"nationalflag\":70,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/7ca7ebf8c3fadcaef8991cbc15f26d4b_1773673723.png?v=1773673724507\",\"username\":\"필Pill🥦\"}"
+      } ],
+      "num" : 38,
+      "endTimeMilli" : 1788159688591
+    },
+    "cityRewardSeenAt" : "2026-08-31T07:00:04.450Z",
+    "foundAt" : "2026-08-31T07:00:04.450Z"
+  }, {
+    "serverId" : 3506,
+    "x" : 413,
+    "y" : 631,
+    "uid" : "917873547904",
+    "username" : "슬로우빈³⁵⁰⁶",
+    "level" : 100,
+    "allianceId" : "500345480",
+    "allianceTag" : "S0NE",
+    "pointId" : 323279,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4820642714303030273",
+      "players" : [ ],
+      "num" : 33,
+      "endTimeMilli" : 1788160096575
+    },
+    "cityRewardSeenAt" : "2026-08-31T07:00:55.034Z",
+    "foundAt" : "2026-08-31T07:00:55.034Z"
   } ]
 }
