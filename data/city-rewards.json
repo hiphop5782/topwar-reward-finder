@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T08:35:58.769613Z",
-  "count" : 8,
+  "updatedAt" : "2026-08-31T08:37:59.364936900Z",
+  "count" : 10,
   "locations" : [ {
+    "serverId" : 148,
+    "x" : 160,
+    "y" : 642,
+    "uid" : "180229062836",
+    "username" : "木龍",
+    "level" : 100,
+    "allianceId" : "120002",
+    "allianceTag" : "SWET",
+    "pointId" : 328785,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4820739351686227968",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1788165856612
+    },
+    "cityRewardSeenAt" : "2026-08-31T08:36:06.311Z",
+    "foundAt" : "2026-08-31T08:36:06.311Z"
+  }, {
     "serverId" : 591,
     "x" : 393,
     "y" : 643,
@@ -54,11 +73,11 @@
       "itemId" : 260617004,
       "instanceId" : "4820734377377011203",
       "players" : [ ],
-      "num" : 11,
+      "num" : 35,
       "endTimeMilli" : 1788165560120
     },
-    "cityRewardSeenAt" : "2026-08-31T08:18:39.032Z",
-    "foundAt" : "2026-08-31T08:18:39.032Z"
+    "cityRewardSeenAt" : "2026-08-31T08:37:15.640Z",
+    "foundAt" : "2026-08-31T08:37:15.640Z"
   }, {
     "serverId" : 2315,
     "x" : 423,
@@ -73,11 +92,30 @@
       "itemId" : 260617002,
       "instanceId" : "4820739226361533954",
       "players" : [ ],
-      "num" : 8,
+      "num" : 34,
       "endTimeMilli" : 1788165849142
     },
-    "cityRewardSeenAt" : "2026-08-31T08:18:39.032Z",
-    "foundAt" : "2026-08-31T08:18:39.032Z"
+    "cityRewardSeenAt" : "2026-08-31T08:37:15.640Z",
+    "foundAt" : "2026-08-31T08:37:15.640Z"
+  }, {
+    "serverId" : 2315,
+    "x" : 441,
+    "y" : 609,
+    "uid" : "910848813652",
+    "username" : "SpameR",
+    "level" : 100,
+    "allianceId" : "500139998",
+    "allianceTag" : "B15R",
+    "pointId" : 312029,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4820744472043329029",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1788166161809
+    },
+    "cityRewardSeenAt" : "2026-08-31T08:37:01.076Z",
+    "foundAt" : "2026-08-31T08:37:01.076Z"
   }, {
     "serverId" : 2631,
     "x" : 436,
