@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T20:00:58.846502600Z",
-  "count" : 9,
+  "updatedAt" : "2026-08-31T20:01:20.144991400Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 736,
     "x" : 393,
@@ -221,5 +221,24 @@
     },
     "cityRewardSeenAt" : "2026-08-31T19:48:13.945Z",
     "foundAt" : "2026-08-31T19:48:13.945Z"
+  }, {
+    "serverId" : 3258,
+    "x" : 474,
+    "y" : 448,
+    "uid" : "7944693386426",
+    "username" : "くれい",
+    "level" : 100,
+    "allianceId" : "500316513",
+    "allianceTag" : "NtHS",
+    "pointId" : 229614,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4821444563306116099",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1788207890500
+    },
+    "cityRewardSeenAt" : "2026-08-31T20:00:11.870Z",
+    "foundAt" : "2026-08-31T20:00:11.870Z"
   } ]
 }
