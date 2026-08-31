@@ -1,27 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T23:31:44.610408400Z",
-  "count" : 36,
+  "updatedAt" : "2026-08-31T23:33:54.029911400Z",
+  "count" : 37,
   "locations" : [ {
-    "serverId" : 172,
-    "x" : 352,
-    "y" : 532,
-    "uid" : "192530256065",
-    "username" : "condor🩲",
-    "level" : 100,
-    "allianceId" : "110927",
-    "allianceTag" : "172U",
-    "pointId" : 272561,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4821620800744413185",
-      "players" : [ ],
-      "num" : 9,
-      "endTimeMilli" : 1788218395070
-    },
-    "cityRewardSeenAt" : "2026-08-31T22:58:37.418Z",
-    "foundAt" : "2026-08-31T22:58:37.418Z"
-  }, {
     "serverId" : 188,
     "x" : 347,
     "y" : 653,
@@ -109,6 +90,25 @@
     },
     "cityRewardSeenAt" : "2026-08-31T23:29:20.595Z",
     "foundAt" : "2026-08-31T23:29:20.595Z"
+  }, {
+    "serverId" : 386,
+    "x" : 369,
+    "y" : 289,
+    "uid" : "395861053971",
+    "username" : "角田裕毅",
+    "level" : 100,
+    "allianceId" : "100021018",
+    "allianceTag" : "JpNU",
+    "pointId" : 148153,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4821639842079376384",
+      "players" : [ ],
+      "num" : 32,
+      "endTimeMilli" : 1788219530022
+    },
+    "cityRewardSeenAt" : "2026-08-31T23:31:07.419Z",
+    "foundAt" : "2026-08-31T23:31:07.419Z"
   }, {
     "serverId" : 619,
     "x" : 400,
@@ -368,6 +368,28 @@
     },
     "cityRewardSeenAt" : "2026-08-31T23:29:27.719Z",
     "foundAt" : "2026-08-31T23:29:27.719Z"
+  }, {
+    "serverId" : 2644,
+    "x" : 406,
+    "y" : 344,
+    "uid" : "496670287448",
+    "username" : "Scared",
+    "level" : 100,
+    "allianceId" : "500229770",
+    "allianceTag" : "FoFA",
+    "pointId" : 176332,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4821663217574258697",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon119_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"username\":\"Scared\"}"
+      } ],
+      "num" : 1,
+      "endTimeMilli" : 1788220923310
+    },
+    "cityRewardSeenAt" : "2026-08-31T23:32:34.593Z",
+    "foundAt" : "2026-08-31T23:32:34.593Z"
   }, {
     "serverId" : 2761,
     "x" : 353,
