@@ -1,39 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T17:15:54.686761500Z",
-  "count" : 110,
+  "updatedAt" : "2026-08-31T17:17:54.840937400Z",
+  "count" : 108,
   "locations" : [ {
-    "serverId" : 188,
-    "x" : 327,
-    "y" : 617,
-    "uid" : "242838180089",
-    "username" : "UP3フジ",
-    "level" : 100,
-    "allianceId" : "123590",
-    "allianceTag" : "HiNO",
-    "pointId" : 316068,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4821240116653684738",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/7136b1f093d4523bf741ba20fe41a93c_1788071387.png?v=1788071390206\",\"https://knight-cdn.akamaized.net/headimg/7136b1f093d4523bf741ba20fe41a93c_1785936804.png?v=1785936807094\",\"https://knight-cdn.akamaized.net/headimg/7136b1f093d4523bf741ba20fe41a93c_1781429717.png?v=1781429720607\",\"https://knight-cdn.akamaized.net/headimg/7136b1f093d4523bf741ba20fe41a93c_1782456949.png?v=1782456951650\"],\"nationalflag\":191,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/7136b1f093d4523bf741ba20fe41a93c_1785936804.png?v=1785936807094\",\"username\":\"IGOR®️\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon019\",\"nickname\":\"wy.187670982844\",\"headimgurl\":null,\"usergender\":1,\"username\":\"刃\"}"
-      }, {
-        "frameId" : 8,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/f57e41f8464f315e8fa9f1706e1f91b0.jpg?v=1678887498546\",\"username\":\"あああ\"}"
-      }, {
-        "frameId" : 114,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon003\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"matoshi\"}"
-      } ],
-      "num" : 13,
-      "endTimeMilli" : 1788195704530
-    },
-    "cityRewardSeenAt" : "2026-08-31T16:41:38.622Z",
-    "foundAt" : "2026-08-31T16:41:38.622Z"
-  }, {
     "serverId" : 216,
     "x" : 420,
     "y" : 404,
@@ -1338,6 +1307,25 @@
     "cityRewardSeenAt" : "2026-08-31T17:03:44.268Z",
     "foundAt" : "2026-08-31T17:03:44.268Z"
   }, {
+    "serverId" : 2609,
+    "x" : 431,
+    "y" : 597,
+    "uid" : "415399171403",
+    "username" : "ᔕᑕᕼᗩᑌᖴEᒪ",
+    "level" : 100,
+    "allianceId" : "500212828",
+    "allianceTag" : "609s",
+    "pointId" : 305880,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4821260751019991561",
+      "players" : [ ],
+      "num" : 43,
+      "endTimeMilli" : 1788196934434
+    },
+    "cityRewardSeenAt" : "2026-08-31T17:15:59.124Z",
+    "foundAt" : "2026-08-31T17:15:59.124Z"
+  }, {
     "serverId" : 2622,
     "x" : 255,
     "y" : 479,
@@ -2378,43 +2366,5 @@
     },
     "cityRewardSeenAt" : "2026-08-31T17:08:07.948Z",
     "foundAt" : "2026-08-31T17:08:07.948Z"
-  }, {
-    "serverId" : 4454,
-    "x" : 232,
-    "y" : 726,
-    "uid" : "9661845508454",
-    "username" : "ささ",
-    "level" : 77,
-    "allianceId" : "500479331",
-    "allianceTag" : "AZ''",
-    "pointId" : 371829,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4821229177625824262",
-      "players" : [ ],
-      "num" : 21,
-      "endTimeMilli" : 1788195052513
-    },
-    "cityRewardSeenAt" : "2026-08-31T16:42:05.472Z",
-    "foundAt" : "2026-08-31T16:42:05.472Z"
-  }, {
-    "serverId" : 4454,
-    "x" : 418,
-    "y" : 392,
-    "uid" : "9664491262310",
-    "username" : "NICK",
-    "level" : 85,
-    "allianceId" : "500470205",
-    "allianceTag" : "1RAT",
-    "pointId" : 200914,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4821222191777631232",
-      "players" : [ ],
-      "num" : 42,
-      "endTimeMilli" : 1788194636124
-    },
-    "cityRewardSeenAt" : "2026-08-31T16:41:11.751Z",
-    "foundAt" : "2026-08-31T16:41:11.751Z"
   } ]
 }
