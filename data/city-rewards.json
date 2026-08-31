@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T08:39:23.764218Z",
-  "count" : 11,
+  "updatedAt" : "2026-08-31T08:41:56.305637900Z",
+  "count" : 13,
   "locations" : [ {
     "serverId" : 148,
     "x" : 160,
@@ -59,6 +59,25 @@
     },
     "cityRewardSeenAt" : "2026-08-31T08:13:33.024Z",
     "foundAt" : "2026-08-31T08:13:33.024Z"
+  }, {
+    "serverId" : 2240,
+    "x" : 371,
+    "y" : 635,
+    "uid" : "446090950094",
+    "username" : "卡比獸",
+    "level" : 100,
+    "allianceId" : "400311584",
+    "allianceTag" : "GU.",
+    "pointId" : 325306,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4820764043924045827",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1788167328384
+    },
+    "cityRewardSeenAt" : "2026-08-31T08:40:14.867Z",
+    "foundAt" : "2026-08-31T08:40:14.867Z"
   }, {
     "serverId" : 2315,
     "x" : 414,
@@ -223,5 +242,24 @@
     },
     "cityRewardSeenAt" : "2026-08-31T08:37:19.887Z",
     "foundAt" : "2026-08-31T08:37:19.887Z"
+  }, {
+    "serverId" : 4441,
+    "x" : 405,
+    "y" : 149,
+    "uid" : "9639693816153",
+    "username" : "BigBadTo",
+    "level" : 79,
+    "allianceId" : "500467088",
+    "allianceTag" : "XbbX",
+    "pointId" : 76491,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4820744447902003713",
+      "players" : [ ],
+      "num" : 27,
+      "endTimeMilli" : 1788166160370
+    },
+    "cityRewardSeenAt" : "2026-08-31T08:39:44.018Z",
+    "foundAt" : "2026-08-31T08:39:44.018Z"
   } ]
 }
