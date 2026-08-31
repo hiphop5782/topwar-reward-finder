@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T11:32:14.159655100Z",
-  "count" : 20,
+  "updatedAt" : "2026-08-31T11:34:08.566506700Z",
+  "count" : 23,
   "locations" : [ {
     "serverId" : 225,
     "x" : 436,
@@ -192,6 +192,44 @@
     },
     "cityRewardSeenAt" : "2026-08-31T11:06:58.006Z",
     "foundAt" : "2026-08-31T11:06:58.006Z"
+  }, {
+    "serverId" : 1379,
+    "x" : 431,
+    "y" : 619,
+    "uid" : "7971210792143",
+    "username" : "Oso_one2",
+    "level" : 100,
+    "allianceId" : "120200874",
+    "allianceTag" : "LoCO",
+    "pointId" : 317144,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4820933300548453896",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1788177416865
+    },
+    "cityRewardSeenAt" : "2026-08-31T11:32:20.192Z",
+    "foundAt" : "2026-08-31T11:32:20.192Z"
+  }, {
+    "serverId" : 1379,
+    "x" : 446,
+    "y" : 618,
+    "uid" : "464885405190",
+    "username" : "Wookie🌺",
+    "level" : 100,
+    "allianceId" : "120200874",
+    "allianceTag" : "LoCO",
+    "pointId" : 316640,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4820932357132043785",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1788177360633
+    },
+    "cityRewardSeenAt" : "2026-08-31T11:32:20.192Z",
+    "foundAt" : "2026-08-31T11:32:20.192Z"
   }, {
     "serverId" : 1812,
     "x" : 396,
@@ -394,5 +432,36 @@
     },
     "cityRewardSeenAt" : "2026-08-31T11:12:09.572Z",
     "foundAt" : "2026-08-31T11:12:09.572Z"
+  }, {
+    "serverId" : 4423,
+    "x" : 397,
+    "y" : 521,
+    "uid" : "9608684245319",
+    "username" : "noface",
+    "level" : 98,
+    "allianceId" : "500462445",
+    "allianceTag" : "StKN",
+    "pointId" : 266951,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4820918832264809984",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/56e14c07763dac90db253f7e89c2e184_1775571114.png?v=1775571115483\",\"https://knight-cdn.akamaized.net/headimg/56e14c07763dac90db253f7e89c2e184_1782650288.png?v=1782650291686\"],\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/56e14c07763dac90db253f7e89c2e184_1775571114.png?v=1775571115483\",\"username\":\"Agrippa\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Lank\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/9a57594e52ca34c2fb3972cc77ce8549_1782740344.png?v=1782740345641\",\"https://knight-cdn.akamaized.net/headimg/9a57594e52ca34c2fb3972cc77ce8549_1785165549.png?v=1785165549762\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/9a57594e52ca34c2fb3972cc77ce8549_1785165549.png?v=1785165549762\",\"username\":\"chiki2\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/9af74dfa46721df3389697d0dadc1b2a_1786290408.png?v=1786290409300\",\"https://knight-cdn.akamaized.net/headimg/9af74dfa46721df3389697d0dadc1b2a_1774929618.png?v=1774929620049\",\"https://knight-cdn.akamaized.net/headimg/9af74dfa46721df3389697d0dadc1b2a_1784361914.png?v=1784361915006\",\"https://knight-cdn.akamaized.net/headimg/9af74dfa46721df3389697d0dadc1b2a_1782647000.png?v=1782647001082\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/9af74dfa46721df3389697d0dadc1b2a_1786290408.png?v=1786290409300\",\"username\":\"きゅあsky🧸\"}"
+      } ],
+      "num" : 19,
+      "endTimeMilli" : 1788176554488
+    },
+    "cityRewardSeenAt" : "2026-08-31T11:33:00.361Z",
+    "foundAt" : "2026-08-31T11:33:00.361Z"
   } ]
 }
