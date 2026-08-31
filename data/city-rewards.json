@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T11:19:21.836149700Z",
-  "count" : 25,
+  "updatedAt" : "2026-08-31T11:21:57.148270700Z",
+  "count" : 24,
   "locations" : [ {
     "serverId" : 242,
     "x" : 147,
@@ -78,6 +78,25 @@
     },
     "cityRewardSeenAt" : "2026-08-31T11:16:55.238Z",
     "foundAt" : "2026-08-31T11:16:55.238Z"
+  }, {
+    "serverId" : 285,
+    "x" : 431,
+    "y" : 335,
+    "uid" : "274412704036",
+    "username" : "サガ海苔",
+    "level" : 100,
+    "allianceId" : "100012760",
+    "allianceTag" : "SFGs",
+    "pointId" : 171736,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4820908194501114377",
+      "players" : [ ],
+      "num" : 23,
+      "endTimeMilli" : 1788175920428
+    },
+    "cityRewardSeenAt" : "2026-08-31T11:19:06.221Z",
+    "foundAt" : "2026-08-31T11:19:06.221Z"
   }, {
     "serverId" : 386,
     "x" : 381,
@@ -268,44 +287,6 @@
     },
     "cityRewardSeenAt" : "2026-08-31T11:18:15.648Z",
     "foundAt" : "2026-08-31T11:18:15.648Z"
-  }, {
-    "serverId" : 2091,
-    "x" : 444,
-    "y" : 646,
-    "uid" : "779705804830",
-    "username" : "VINYL🍅",
-    "level" : 100,
-    "allianceId" : "400218145",
-    "allianceTag" : "Papu",
-    "pointId" : 330975,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4820886861919573513",
-      "players" : [ ],
-      "num" : 10,
-      "endTimeMilli" : 1788174648907
-    },
-    "cityRewardSeenAt" : "2026-08-31T10:46:47.258Z",
-    "foundAt" : "2026-08-31T10:46:47.258Z"
-  }, {
-    "serverId" : 2091,
-    "x" : 460,
-    "y" : 646,
-    "uid" : "783600060459",
-    "username" : "こば",
-    "level" : 100,
-    "allianceId" : "400218145",
-    "allianceTag" : "Papu",
-    "pointId" : 330983,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4820886581656180229",
-      "players" : [ ],
-      "num" : 10,
-      "endTimeMilli" : 1788174632202
-    },
-    "cityRewardSeenAt" : "2026-08-31T10:46:47.258Z",
-    "foundAt" : "2026-08-31T10:46:47.258Z"
   }, {
     "serverId" : 2263,
     "x" : 426,
