@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T19:04:54.310271500Z",
-  "count" : 8,
+  "updatedAt" : "2026-08-31T19:06:50.440343900Z",
+  "count" : 9,
   "locations" : [ {
     "serverId" : 850,
     "x" : 385,
@@ -166,5 +166,24 @@
     },
     "cityRewardSeenAt" : "2026-08-31T18:48:51.342Z",
     "foundAt" : "2026-08-31T18:48:51.342Z"
+  }, {
+    "serverId" : 4057,
+    "x" : 365,
+    "y" : 497,
+    "uid" : "9019713687513",
+    "username" : "GYSOT",
+    "level" : 80,
+    "allianceId" : "500392415",
+    "allianceTag" : "MtSn",
+    "pointId" : 254647,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4821378164588524037",
+      "players" : [ ],
+      "num" : 14,
+      "endTimeMilli" : 1788203932828
+    },
+    "cityRewardSeenAt" : "2026-08-31T19:04:06.404Z",
+    "foundAt" : "2026-08-31T19:04:06.404Z"
   } ]
 }
