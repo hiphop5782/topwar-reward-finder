@@ -1,8 +1,68 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-08-31T22:47:43.893477800Z",
-  "count" : 27,
+  "updatedAt" : "2026-08-31T22:49:36.214878700Z",
+  "count" : 30,
   "locations" : [ {
+    "serverId" : 1175,
+    "x" : 427,
+    "y" : 303,
+    "uid" : "922286471818",
+    "username" : "Reg",
+    "level" : 100,
+    "allianceId" : "200143136",
+    "allianceTag" : "GS75",
+    "pointId" : 155350,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4821596485324451329",
+      "players" : [ ],
+      "num" : 59,
+      "endTimeMilli" : 1788216945758
+    },
+    "cityRewardSeenAt" : "2026-08-31T22:47:46.517Z",
+    "foundAt" : "2026-08-31T22:47:46.517Z"
+  }, {
+    "serverId" : 1175,
+    "x" : 429,
+    "y" : 301,
+    "uid" : "533656962777",
+    "username" : "J",
+    "level" : 100,
+    "allianceId" : "200143136",
+    "allianceTag" : "GS75",
+    "pointId" : 154327,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4821604744563338761",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/389495223487.jpg?v=1684009486978\",\"username\":\"Co60\"}"
+      } ],
+      "num" : 11,
+      "endTimeMilli" : 1788217438047
+    },
+    "cityRewardSeenAt" : "2026-08-31T22:47:46.517Z",
+    "foundAt" : "2026-08-31T22:47:46.517Z"
+  }, {
+    "serverId" : 1175,
+    "x" : 465,
+    "y" : 293,
+    "uid" : "310983074414",
+    "username" : "MRM54",
+    "level" : 100,
+    "allianceId" : "200143136",
+    "allianceTag" : "GS75",
+    "pointId" : 150249,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4821594065798245890",
+      "players" : [ ],
+      "num" : 49,
+      "endTimeMilli" : 1788216801543
+    },
+    "cityRewardSeenAt" : "2026-08-31T22:47:45.096Z",
+    "foundAt" : "2026-08-31T22:47:45.096Z"
+  }, {
     "serverId" : 1313,
     "x" : 388,
     "y" : 636,
