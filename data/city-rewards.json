@@ -1,8 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T03:29:26.988233900Z",
-  "count" : 9,
+  "updatedAt" : "2026-09-01T03:31:58.475904400Z",
+  "count" : 10,
   "locations" : [ {
+    "serverId" : 126,
+    "x" : 427,
+    "y" : 521,
+    "uid" : "164580401319",
+    "username" : "冷や麦",
+    "level" : 100,
+    "allianceId" : "71082",
+    "allianceTag" : "ktc",
+    "pointId" : 266966,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4821895202463611904",
+      "players" : [ ],
+      "num" : 14,
+      "endTimeMilli" : 1788234750687
+    },
+    "cityRewardSeenAt" : "2026-09-01T03:29:15.773Z",
+    "foundAt" : "2026-09-01T03:29:15.773Z"
+  }, {
+    "serverId" : 126,
+    "x" : 435,
+    "y" : 447,
+    "uid" : "534096027774",
+    "username" : "藤枝千夏",
+    "level" : 100,
+    "allianceId" : "108033",
+    "allianceTag" : "Pola",
+    "pointId" : 229082,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4821891283339508744",
+      "players" : [ ],
+      "num" : 26,
+      "endTimeMilli" : 1788234517089
+    },
+    "cityRewardSeenAt" : "2026-09-01T03:29:01.115Z",
+    "foundAt" : "2026-09-01T03:29:01.115Z"
+  }, {
     "serverId" : 821,
     "x" : 377,
     "y" : 663,
@@ -166,36 +204,5 @@
     },
     "cityRewardSeenAt" : "2026-09-01T03:17:17.981Z",
     "foundAt" : "2026-09-01T03:17:17.981Z"
-  }, {
-    "serverId" : 4343,
-    "x" : 354,
-    "y" : 476,
-    "uid" : "9467785482502",
-    "username" : "KAZA",
-    "level" : 100,
-    "allianceId" : "500439869",
-    "allianceTag" : "BdFg",
-    "pointId" : 243890,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4821857896581164550",
-      "players" : [ {
-        "frameId" : 4,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/a5c96faaec23b1443029183fed509081_1785859854.png?v=1785859856164\",\"https://knight-cdn.akamaized.net/headimg/a5c96faaec23b1443029183fed509081_1785991064.png?v=1785991066834\",\"https://knight-cdn.akamaized.net/headimg/a5c96faaec23b1443029183fed509081_1782272099.png?v=1782272102329\",\"https://knight-cdn.akamaized.net/headimg/a5c96faaec23b1443029183fed509081_1785833202.png?v=1785833205173\"],\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/a5c96faaec23b1443029183fed509081_1782272099.png?v=1782272102329\",\"username\":\"ViệtNamt\"}"
-      }, {
-        "frameId" : 20,
-        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"heliskyr\"}"
-      }, {
-        "frameId" : 166,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/5ba53289e94bb1addbd21126cbb58424_1770951644.png?v=1770951648269\",\"https://knight-cdn.akamaized.net/headimg/5ba53289e94bb1addbd21126cbb58424_1775242611.png?v=1775242615228\",\"https://knight-cdn.akamaized.net/headimg/5ba53289e94bb1addbd21126cbb58424_1775314496.png?v=1775314500444\"],\"nationalflag\":174,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/5ba53289e94bb1addbd21126cbb58424_1775314496.png?v=1775314500444\",\"username\":\"OMEGAX\"}"
-      }, {
-        "frameId" : 165,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/26c4c08fdcf29316ff04434f423d8ed9_1778209237.png?v=1778209240506\",\"https://knight-cdn.akamaized.net/headimg/26c4c08fdcf29316ff04434f423d8ed9_1773528261.png?v=1773528263425\",\"https://knight-cdn.akamaized.net/headimg/26c4c08fdcf29316ff04434f423d8ed9_1787249210.png?v=1787249212086\",\"https://knight-cdn.akamaized.net/headimg/26c4c08fdcf29316ff04434f423d8ed9_1787162350.png?v=1787162352492\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/26c4c08fdcf29316ff04434f423d8ed9_1787249210.png?v=1787249212086\",\"username\":\"CRYMOAR\"}"
-      } ],
-      "num" : 11,
-      "endTimeMilli" : 1788232527083
-    },
-    "cityRewardSeenAt" : "2026-09-01T02:56:53.849Z",
-    "foundAt" : "2026-09-01T02:56:53.849Z"
   } ]
 }
