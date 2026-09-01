@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T05:27:40.912943200Z",
-  "count" : 16,
+  "updatedAt" : "2026-09-01T05:30:10.720349900Z",
+  "count" : 18,
   "locations" : [ {
     "serverId" : 341,
     "x" : 394,
@@ -161,11 +161,11 @@
       "itemId" : 260617003,
       "instanceId" : "4822011285096322057",
       "players" : [ ],
-      "num" : 2,
+      "num" : 4,
       "endTimeMilli" : 1788241669751
     },
-    "cityRewardSeenAt" : "2026-09-01T05:22:42.075Z",
-    "foundAt" : "2026-09-01T05:22:42.075Z"
+    "cityRewardSeenAt" : "2026-09-01T05:27:41.353Z",
+    "foundAt" : "2026-09-01T05:27:41.353Z"
   }, {
     "serverId" : 3506,
     "x" : 397,
@@ -299,6 +299,44 @@
     },
     "cityRewardSeenAt" : "2026-09-01T05:12:52.057Z",
     "foundAt" : "2026-09-01T05:12:52.057Z"
+  }, {
+    "serverId" : 3649,
+    "x" : 463,
+    "y" : 417,
+    "uid" : "428208027036",
+    "username" : "kona1",
+    "level" : 100,
+    "allianceId" : "500364032",
+    "allianceTag" : "ECLP",
+    "pointId" : 213736,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4822011163881275906",
+      "players" : [ ],
+      "num" : 26,
+      "endTimeMilli" : 1788241662526
+    },
+    "cityRewardSeenAt" : "2026-09-01T05:28:49.338Z",
+    "foundAt" : "2026-09-01T05:28:49.338Z"
+  }, {
+    "serverId" : 3649,
+    "x" : 463,
+    "y" : 421,
+    "uid" : "8033887194384",
+    "username" : "kona",
+    "level" : 100,
+    "allianceId" : "500364032",
+    "allianceTag" : "ECLP",
+    "pointId" : 215784,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4821999331263152644",
+      "players" : [ ],
+      "num" : 46,
+      "endTimeMilli" : 1788240957247
+    },
+    "cityRewardSeenAt" : "2026-09-01T05:28:49.338Z",
+    "foundAt" : "2026-09-01T05:28:49.338Z"
   }, {
     "serverId" : 4168,
     "x" : 262,
