@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T01:02:34.314257400Z",
+  "updatedAt" : "2026-09-01T01:04:41.585705600Z",
   "count" : 16,
   "locations" : [ {
     "serverId" : 542,
@@ -229,25 +229,6 @@
     "cityRewardSeenAt" : "2026-09-01T00:37:18.241Z",
     "foundAt" : "2026-09-01T00:37:18.241Z"
   }, {
-    "serverId" : 3766,
-    "x" : 422,
-    "y" : 348,
-    "uid" : "842688915741",
-    "username" : "GATE",
-    "level" : 100,
-    "allianceId" : "500374677",
-    "allianceTag" : "+PS+",
-    "pointId" : 178388,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4821711259904601096",
-      "players" : [ ],
-      "num" : 7,
-      "endTimeMilli" : 1788223786856
-    },
-    "cityRewardSeenAt" : "2026-09-01T00:29:32.928Z",
-    "foundAt" : "2026-09-01T00:29:32.928Z"
-  }, {
     "serverId" : 4002,
     "x" : 91,
     "y" : 151,
@@ -342,5 +323,24 @@
     },
     "cityRewardSeenAt" : "2026-09-01T00:29:43.185Z",
     "foundAt" : "2026-09-01T00:29:43.185Z"
+  }, {
+    "serverId" : 4368,
+    "x" : 296,
+    "y" : 496,
+    "uid" : "9491175837968",
+    "username" : "lumana",
+    "level" : 100,
+    "allianceId" : "500447262",
+    "allianceTag" : "TSHs",
+    "pointId" : 254101,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4821725448044158978",
+      "players" : [ ],
+      "num" : 19,
+      "endTimeMilli" : 1788224632535
+    },
+    "cityRewardSeenAt" : "2026-09-01T01:02:57.151Z",
+    "foundAt" : "2026-09-01T01:02:57.151Z"
   } ]
 }
