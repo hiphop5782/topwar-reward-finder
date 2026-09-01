@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T21:54:24.359484500Z",
-  "count" : 1,
+  "updatedAt" : "2026-09-01T21:57:55.587498100Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 1026,
     "x" : 581,
@@ -21,5 +21,24 @@
     },
     "cityRewardSeenAt" : "2026-09-01T21:47:20.438Z",
     "foundAt" : "2026-09-01T21:47:20.438Z"
+  }, {
+    "serverId" : 1035,
+    "x" : 678,
+    "y" : 422,
+    "uid" : "360132166602",
+    "username" : "SirDako",
+    "level" : 100,
+    "allianceId" : "100201891",
+    "allianceTag" : "wtW",
+    "pointId" : 216404,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4822987371996255748",
+      "players" : [ ],
+      "num" : 36,
+      "endTimeMilli" : 1788299849064
+    },
+    "cityRewardSeenAt" : "2026-09-01T21:54:29.214Z",
+    "foundAt" : "2026-09-01T21:54:29.214Z"
   } ]
 }
