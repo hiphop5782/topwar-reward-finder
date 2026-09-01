@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T06:27:45.059073Z",
-  "count" : 4,
+  "updatedAt" : "2026-09-01T06:29:59.058890200Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 3223,
     "x" : 394,
@@ -90,5 +90,24 @@
     },
     "cityRewardSeenAt" : "2026-09-01T06:04:05.029Z",
     "foundAt" : "2026-09-01T06:04:05.029Z"
+  }, {
+    "serverId" : 4370,
+    "x" : 360,
+    "y" : 494,
+    "uid" : "9501491466514",
+    "username" : "Juhkam",
+    "level" : 91,
+    "allianceId" : "500447791",
+    "allianceTag" : "VaL1",
+    "pointId" : 253109,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4822071876683703303",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1788245281291
+    },
+    "cityRewardSeenAt" : "2026-09-01T06:27:59.219Z",
+    "foundAt" : "2026-09-01T06:27:59.219Z"
   } ]
 }
