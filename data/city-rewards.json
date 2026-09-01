@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T00:52:06.954997300Z",
+  "updatedAt" : "2026-09-01T00:54:11.481320200Z",
   "count" : 16,
   "locations" : [ {
     "serverId" : 542,
@@ -21,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-09-01T00:49:53.146Z",
     "foundAt" : "2026-09-01T00:49:53.146Z"
+  }, {
+    "serverId" : 546,
+    "x" : 536,
+    "y" : 380,
+    "uid" : "333086204726",
+    "username" : "Vermin",
+    "level" : 100,
+    "allianceId" : "100135960",
+    "allianceTag" : "VERM",
+    "pointId" : 194829,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4821738158326825984",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1788225390127
+    },
+    "cityRewardSeenAt" : "2026-09-01T00:51:37.763Z",
+    "foundAt" : "2026-09-01T00:51:37.763Z"
   }, {
     "serverId" : 622,
     "x" : 368,
@@ -178,25 +197,6 @@
     },
     "cityRewardSeenAt" : "2026-09-01T00:32:42.980Z",
     "foundAt" : "2026-09-01T00:32:42.980Z"
-  }, {
-    "serverId" : 2616,
-    "x" : 451,
-    "y" : 637,
-    "uid" : "508385900133",
-    "username" : "Nicola",
-    "level" : 100,
-    "allianceId" : "500216117",
-    "allianceTag" : "W4R,",
-    "pointId" : 326370,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4821700854221664258",
-      "players" : [ ],
-      "num" : 14,
-      "endTimeMilli" : 1788223166629
-    },
-    "cityRewardSeenAt" : "2026-09-01T00:17:32.410Z",
-    "foundAt" : "2026-09-01T00:17:32.410Z"
   }, {
     "serverId" : 2781,
     "x" : 406,
