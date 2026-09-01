@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T05:12:40.887322700Z",
-  "count" : 16,
+  "updatedAt" : "2026-09-01T05:14:28.759788200Z",
+  "count" : 19,
   "locations" : [ {
     "serverId" : 341,
     "x" : 394,
@@ -354,5 +354,62 @@
     },
     "cityRewardSeenAt" : "2026-09-01T04:59:38.995Z",
     "foundAt" : "2026-09-01T04:59:38.995Z"
+  }, {
+    "serverId" : 3538,
+    "x" : 403,
+    "y" : 431,
+    "uid" : "877770938834",
+    "username" : "개미🐜",
+    "level" : 100,
+    "allianceId" : "500355157",
+    "allianceTag" : "ESM_",
+    "pointId" : 220874,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4822002610571289605",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1788241152709
+    },
+    "cityRewardSeenAt" : "2026-09-01T05:12:52.057Z",
+    "foundAt" : "2026-09-01T05:12:52.057Z"
+  }, {
+    "serverId" : 3538,
+    "x" : 404,
+    "y" : 410,
+    "uid" : "8495269416513",
+    "username" : "MissKim",
+    "level" : 100,
+    "allianceId" : "500355157",
+    "allianceTag" : "ESM_",
+    "pointId" : 210123,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4822005383190782981",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1788241317970
+    },
+    "cityRewardSeenAt" : "2026-09-01T05:12:52.057Z",
+    "foundAt" : "2026-09-01T05:12:52.057Z"
+  }, {
+    "serverId" : 3538,
+    "x" : 413,
+    "y" : 431,
+    "uid" : "8253220654486",
+    "username" : "yms",
+    "level" : 100,
+    "allianceId" : "500355157",
+    "allianceTag" : "ESM_",
+    "pointId" : 220879,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4821994680904033280",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1788240680064
+    },
+    "cityRewardSeenAt" : "2026-09-01T05:12:52.057Z",
+    "foundAt" : "2026-09-01T05:12:52.057Z"
   } ]
 }
