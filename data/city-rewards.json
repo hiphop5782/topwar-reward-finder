@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T13:35:45.583457500Z",
-  "count" : 46,
+  "updatedAt" : "2026-09-01T13:38:19.379100200Z",
+  "count" : 48,
   "locations" : [ {
     "serverId" : 341,
     "x" : 257,
@@ -330,6 +330,34 @@
     "cityRewardSeenAt" : "2026-09-01T13:28:26.249Z",
     "foundAt" : "2026-09-01T13:28:26.249Z"
   }, {
+    "serverId" : 805,
+    "x" : 396,
+    "y" : 616,
+    "uid" : "336455398223",
+    "username" : "🖤Kurobu",
+    "level" : 100,
+    "allianceId" : "200031564",
+    "allianceTag" : "805U",
+    "pointId" : 315591,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4822509973429176835",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":110,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"꧁Torby꧂\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":100,\"gender\":0,\"avatarurl\":\"hero_icon122_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"Kyria🐢\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":75,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/336455398223.jpg?v=1702841089538\",\"username\":\"🖤Kurobu\"}"
+      } ],
+      "num" : 3,
+      "endTimeMilli" : 1788271393892
+    },
+    "cityRewardSeenAt" : "2026-09-01T13:36:38.971Z",
+    "foundAt" : "2026-09-01T13:36:38.971Z"
+  }, {
     "serverId" : 1052,
     "x" : 519,
     "y" : 359,
@@ -455,6 +483,25 @@
     },
     "cityRewardSeenAt" : "2026-09-01T13:23:28.185Z",
     "foundAt" : "2026-09-01T13:23:28.185Z"
+  }, {
+    "serverId" : 2682,
+    "x" : 257,
+    "y" : 391,
+    "uid" : "873145539013",
+    "username" : "YAŞAR",
+    "level" : 100,
+    "allianceId" : "500234439",
+    "allianceTag" : "DaKZ",
+    "pointId" : 200321,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4822509980946330632",
+      "players" : [ ],
+      "num" : 17,
+      "endTimeMilli" : 1788271394340
+    },
+    "cityRewardSeenAt" : "2026-09-01T13:35:41.543Z",
+    "foundAt" : "2026-09-01T13:35:41.543Z"
   }, {
     "serverId" : 2698,
     "x" : 398,
