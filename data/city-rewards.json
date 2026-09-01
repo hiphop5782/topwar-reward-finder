@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T03:01:12.781932200Z",
-  "count" : 12,
+  "updatedAt" : "2026-09-01T03:03:43.436080800Z",
+  "count" : 13,
   "locations" : [ {
     "serverId" : 800,
     "x" : 409,
@@ -40,6 +40,25 @@
     },
     "cityRewardSeenAt" : "2026-09-01T02:59:21.948Z",
     "foundAt" : "2026-09-01T02:59:21.948Z"
+  }, {
+    "serverId" : 2373,
+    "x" : 456,
+    "y" : 654,
+    "uid" : "387092853947",
+    "username" : "Trouble",
+    "level" : 100,
+    "allianceId" : "500148545",
+    "allianceTag" : "AFMH",
+    "pointId" : 335077,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4821863884251105795",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1788232883976
+    },
+    "cityRewardSeenAt" : "2026-09-01T03:02:44.609Z",
+    "foundAt" : "2026-09-01T03:02:44.609Z"
   }, {
     "serverId" : 2501,
     "x" : 407,
