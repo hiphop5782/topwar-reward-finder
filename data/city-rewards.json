@@ -1,30 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T07:07:44.169388600Z",
+  "updatedAt" : "2026-09-01T07:09:46.975432700Z",
   "count" : 11,
   "locations" : [ {
-    "serverId" : 654,
-    "x" : 386,
-    "y" : 602,
-    "uid" : "525523866464",
-    "username" : "Cire",
-    "level" : 100,
-    "allianceId" : "386566",
-    "allianceTag" : "WoLs",
-    "pointId" : 308418,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4822075228467567624",
-      "players" : [ {
-        "frameId" : 159,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/525523866464.jpg?v=1645278341261\"],\"nationalflag\":95,\"gender\":0,\"avatarurl\":\"hero_icon318_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/525523866464.jpg?v=1645278341261\",\"username\":\"Cire\"}"
-      } ],
-      "num" : 1,
-      "endTimeMilli" : 1788245481073
-    },
-    "cityRewardSeenAt" : "2026-09-01T06:33:52.324Z",
-    "foundAt" : "2026-09-01T06:33:52.324Z"
-  }, {
     "serverId" : 850,
     "x" : 398,
     "y" : 700,
@@ -247,5 +225,24 @@
     },
     "cityRewardSeenAt" : "2026-09-01T06:53:45.106Z",
     "foundAt" : "2026-09-01T06:53:45.106Z"
+  }, {
+    "serverId" : 3901,
+    "x" : 463,
+    "y" : 471,
+    "uid" : "8842495758141",
+    "username" : "Robarius",
+    "level" : 100,
+    "allianceId" : "500381239",
+    "allianceTag" : "143=",
+    "pointId" : 241384,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4822095561062513154",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1788246692990
+    },
+    "cityRewardSeenAt" : "2026-09-01T07:08:35.791Z",
+    "foundAt" : "2026-09-01T07:08:35.791Z"
   } ]
 }
