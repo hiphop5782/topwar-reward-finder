@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T19:07:29.323781900Z",
-  "count" : 5,
+  "updatedAt" : "2026-09-01T19:09:35.176676600Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 485,
     "x" : 452,
@@ -97,5 +97,36 @@
     },
     "cityRewardSeenAt" : "2026-09-01T19:00:13.560Z",
     "foundAt" : "2026-09-01T19:00:13.560Z"
+  }, {
+    "serverId" : 3199,
+    "x" : 405,
+    "y" : 575,
+    "uid" : "891967392282",
+    "username" : "Bipolar",
+    "level" : 100,
+    "allianceId" : "500312942",
+    "allianceTag" : "PYi",
+    "pointId" : 294603,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4822838449677073926",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"hero_icon112_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Barney\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/063b7391594a2364ed3c847b0d7b7894.jpg?v=1704187459240\",\"https://knight-cdn.akamaized.net/headimg/063b7391594a2364ed3c847b0d7b7894_1764535478.png?v=1764535481359\",\"https://knight-cdn.akamaized.net/headimg/063b7391594a2364ed3c847b0d7b7894_1769632136.png?v=1769632138522\"],\"nationalflag\":179,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/063b7391594a2364ed3c847b0d7b7894_1769632136.png?v=1769632138522\",\"username\":\"dupa\"}"
+      }, {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":179,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/935544105730.jpg?v=1680059581590\",\"username\":\"TRD\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":157,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/58023fa416a2416c28f33e8f4a976161.jpg?v=1714681719764\",\"username\":\"romf2047\"}"
+      } ],
+      "num" : 18,
+      "endTimeMilli" : 1788290972602
+    },
+    "cityRewardSeenAt" : "2026-09-01T19:07:08.652Z",
+    "foundAt" : "2026-09-01T19:07:08.652Z"
   } ]
 }
