@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T14:36:25.334400Z",
-  "count" : 11,
+  "updatedAt" : "2026-09-01T14:38:49.303262600Z",
+  "count" : 12,
   "locations" : [ {
     "serverId" : 386,
     "x" : 391,
@@ -207,6 +207,37 @@
     },
     "cityRewardSeenAt" : "2026-09-01T14:28:12.603Z",
     "foundAt" : "2026-09-01T14:28:12.603Z"
+  }, {
+    "serverId" : 3662,
+    "x" : 408,
+    "y" : 568,
+    "uid" : "9174877016149",
+    "username" : "クレセリカ22",
+    "level" : 100,
+    "allianceId" : "500364824",
+    "allianceTag" : "ReEy",
+    "pointId" : 291021,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4822568472579709955",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon310\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"こく☆まろ\"}"
+      }, {
+        "frameId" : 101,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/54191b61b3f0e3e05543a83af811aaf4.jpg?v=1699940707669\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/54191b61b3f0e3e05543a83af811aaf4.jpg?v=1699940707669\",\"username\":\"モニカ\"}"
+      }, {
+        "frameId" : 89,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/5fc11d3a689e030b8ac8c05ba7794151.jpg?v=1715158676737\",\"https://knight-cdn.akamaized.net/headimg/5fc11d3a689e030b8ac8c05ba7794151_1762679797.png?v=1762679800559\",\"https://knight-cdn.akamaized.net/headimg/5fc11d3a689e030b8ac8c05ba7794151_1762663963.png?v=1762663964733\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/5fc11d3a689e030b8ac8c05ba7794151.jpg?v=1715158676737\",\"username\":\"Monica\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_1_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"蓬餅💫\"}"
+      } ],
+      "num" : 13,
+      "endTimeMilli" : 1788274880713
+    },
+    "cityRewardSeenAt" : "2026-09-01T14:37:53.904Z",
+    "foundAt" : "2026-09-01T14:37:53.904Z"
   }, {
     "serverId" : 3940,
     "x" : 400,
