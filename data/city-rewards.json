@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T14:28:53.846594200Z",
-  "count" : 12,
+  "updatedAt" : "2026-09-01T14:30:10.517486100Z",
+  "count" : 13,
   "locations" : [ {
     "serverId" : 386,
     "x" : 391,
@@ -235,6 +235,28 @@
     },
     "cityRewardSeenAt" : "2026-09-01T14:14:38.580Z",
     "foundAt" : "2026-09-01T14:14:38.580Z"
+  }, {
+    "serverId" : 3522,
+    "x" : 417,
+    "y" : 215,
+    "uid" : "884322494974",
+    "username" : "Cuddles",
+    "level" : 100,
+    "allianceId" : "500348242",
+    "allianceTag" : "PxR.",
+    "pointId" : 110289,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4822564906699817993",
+      "players" : [ {
+        "frameId" : 8,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d7e716ababf0d7f39affaa0fef1d40e2_1764839358.png?v=1764839365225\",\"https://knight-cdn.akamaized.net/headimg/d7e716ababf0d7f39affaa0fef1d40e2_1764958930.png?v=1764958932249\",\"https://knight-cdn.akamaized.net/headimg/d7e716ababf0d7f39affaa0fef1d40e2_1771697193.png?v=1771697196331\",\"https://knight-cdn.akamaized.net/headimg/d7e716ababf0d7f39affaa0fef1d40e2_1781105010.png?v=1781105013379\"],\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d7e716ababf0d7f39affaa0fef1d40e2_1781105010.png?v=1781105013379\",\"username\":\"Cuddles\"}"
+      } ],
+      "num" : 1,
+      "endTimeMilli" : 1788274668170
+    },
+    "cityRewardSeenAt" : "2026-09-01T14:28:12.603Z",
+    "foundAt" : "2026-09-01T14:28:12.603Z"
   }, {
     "serverId" : 3940,
     "x" : 400,
