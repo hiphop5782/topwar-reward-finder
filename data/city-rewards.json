@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T09:55:23.957606700Z",
+  "updatedAt" : "2026-09-01T09:57:55.456822900Z",
   "count" : 8,
   "locations" : [ {
     "serverId" : 2014,
@@ -71,25 +71,6 @@
     },
     "cityRewardSeenAt" : "2026-09-01T09:47:12.698Z",
     "foundAt" : "2026-09-01T09:47:12.698Z"
-  }, {
-    "serverId" : 2263,
-    "x" : 394,
-    "y" : 612,
-    "uid" : "538004715251",
-    "username" : "COTA🧸",
-    "level" : 100,
-    "allianceId" : "400336372",
-    "allianceTag" : "GT63",
-    "pointId" : 313542,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4822240491075644930",
-      "players" : [ ],
-      "num" : 11,
-      "endTimeMilli" : 1788255331492
-    },
-    "cityRewardSeenAt" : "2026-09-01T09:21:00.063Z",
-    "foundAt" : "2026-09-01T09:21:00.063Z"
   }, {
     "serverId" : 3400,
     "x" : 390,
@@ -166,5 +147,24 @@
     },
     "cityRewardSeenAt" : "2026-09-01T09:38:16.143Z",
     "foundAt" : "2026-09-01T09:38:16.143Z"
+  }, {
+    "serverId" : 4260,
+    "x" : 357,
+    "y" : 465,
+    "uid" : "9285505519780",
+    "username" : "Earth_16",
+    "level" : 100,
+    "allianceId" : "500425231",
+    "allianceTag" : "PEF6",
+    "pointId" : 238259,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4822287714292418565",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1788258146215
+    },
+    "cityRewardSeenAt" : "2026-09-01T09:55:48.067Z",
+    "foundAt" : "2026-09-01T09:55:48.067Z"
   } ]
 }
