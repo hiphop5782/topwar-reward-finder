@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T01:00:44.891053600Z",
+  "updatedAt" : "2026-09-01T01:02:34.314257400Z",
   "count" : 16,
   "locations" : [ {
     "serverId" : 542,
@@ -305,6 +305,25 @@
     "cityRewardSeenAt" : "2026-09-01T00:57:35.256Z",
     "foundAt" : "2026-09-01T00:57:35.256Z"
   }, {
+    "serverId" : 4099,
+    "x" : 407,
+    "y" : 537,
+    "uid" : "9064483917827",
+    "username" : "Trent",
+    "level" : 100,
+    "allianceId" : "500398403",
+    "allianceTag" : "#UF",
+    "pointId" : 275148,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4821734261904115208",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1788225157882
+    },
+    "cityRewardSeenAt" : "2026-09-01T01:00:38.316Z",
+    "foundAt" : "2026-09-01T01:00:38.316Z"
+  }, {
     "serverId" : 4350,
     "x" : 380,
     "y" : 298,
@@ -323,30 +342,5 @@
     },
     "cityRewardSeenAt" : "2026-09-01T00:29:43.185Z",
     "foundAt" : "2026-09-01T00:29:43.185Z"
-  }, {
-    "serverId" : 4503,
-    "x" : 401,
-    "y" : 421,
-    "uid" : "9799446663575",
-    "username" : "GHOST",
-    "level" : 80,
-    "allianceId" : "500488139",
-    "allianceTag" : "2WSS",
-    "pointId" : 215753,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4821695410620018177",
-      "players" : [ {
-        "frameId" : 165,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon122_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"DEB55\"}"
-      }, {
-        "frameId" : 159,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/6559ecbf7a775f1a0e2dc42d0d589b5e_1785958350.png?v=1785958351569\",\"https://knight-cdn.akamaized.net/headimg/6559ecbf7a775f1a0e2dc42d0d589b5e_1787697776.png?v=1787697778947\"],\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/6559ecbf7a775f1a0e2dc42d0d589b5e_1787697776.png?v=1787697778947\",\"username\":\"GHOST\"}"
-      } ],
-      "num" : 2,
-      "endTimeMilli" : 1788222842165
-    },
-    "cityRewardSeenAt" : "2026-09-01T00:27:26.560Z",
-    "foundAt" : "2026-09-01T00:27:26.560Z"
   } ]
 }
