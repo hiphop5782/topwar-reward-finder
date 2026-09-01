@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T06:02:59.808171100Z",
-  "count" : 10,
+  "updatedAt" : "2026-09-01T06:05:30.999380700Z",
+  "count" : 9,
   "locations" : [ {
     "serverId" : 1297,
     "x" : 319,
@@ -98,44 +98,6 @@
     "cityRewardSeenAt" : "2026-09-01T05:37:45.251Z",
     "foundAt" : "2026-09-01T05:37:45.251Z"
   }, {
-    "serverId" : 3649,
-    "x" : 463,
-    "y" : 417,
-    "uid" : "428208027036",
-    "username" : "kona1",
-    "level" : 100,
-    "allianceId" : "500364032",
-    "allianceTag" : "ECLP",
-    "pointId" : 213736,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4822011163881275906",
-      "players" : [ ],
-      "num" : 26,
-      "endTimeMilli" : 1788241662526
-    },
-    "cityRewardSeenAt" : "2026-09-01T05:28:49.338Z",
-    "foundAt" : "2026-09-01T05:28:49.338Z"
-  }, {
-    "serverId" : 3649,
-    "x" : 463,
-    "y" : 421,
-    "uid" : "8033887194384",
-    "username" : "kona",
-    "level" : 100,
-    "allianceId" : "500364032",
-    "allianceTag" : "ECLP",
-    "pointId" : 215784,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4821999331263152644",
-      "players" : [ ],
-      "num" : 46,
-      "endTimeMilli" : 1788240957247
-    },
-    "cityRewardSeenAt" : "2026-09-01T05:28:49.338Z",
-    "foundAt" : "2026-09-01T05:28:49.338Z"
-  }, {
     "serverId" : 3766,
     "x" : 422,
     "y" : 348,
@@ -192,5 +154,24 @@
     },
     "cityRewardSeenAt" : "2026-09-01T05:57:11.432Z",
     "foundAt" : "2026-09-01T05:57:11.432Z"
+  }, {
+    "serverId" : 4243,
+    "x" : 482,
+    "y" : 744,
+    "uid" : "9266178756755",
+    "username" : "ATM",
+    "level" : 100,
+    "allianceId" : "500422640",
+    "allianceTag" : "^J13",
+    "pointId" : 381170,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4822029303541736965",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1788242743734
+    },
+    "cityRewardSeenAt" : "2026-09-01T06:04:05.029Z",
+    "foundAt" : "2026-09-01T06:04:05.029Z"
   } ]
 }
