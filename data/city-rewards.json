@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T22:08:39.236184600Z",
-  "count" : 2,
+  "updatedAt" : "2026-09-01T22:11:31.318082600Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 1026,
     "x" : 581,
@@ -40,5 +40,24 @@
     },
     "cityRewardSeenAt" : "2026-09-01T21:54:29.214Z",
     "foundAt" : "2026-09-01T21:54:29.214Z"
+  }, {
+    "serverId" : 1067,
+    "x" : 463,
+    "y" : 437,
+    "uid" : "397283341560",
+    "username" : "lilClash",
+    "level" : 100,
+    "allianceId" : "686615",
+    "allianceTag" : "SiX7",
+    "pointId" : 223976,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4823011440506459648",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1788301283659
+    },
+    "cityRewardSeenAt" : "2026-09-01T22:08:49.093Z",
+    "foundAt" : "2026-09-01T22:08:49.093Z"
   } ]
 }
