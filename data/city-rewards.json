@@ -1,27 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T00:19:39.332248Z",
-  "count" : 25,
+  "updatedAt" : "2026-09-01T00:21:59.463112400Z",
+  "count" : 22,
   "locations" : [ {
-    "serverId" : 591,
-    "x" : 387,
-    "y" : 641,
-    "uid" : "421241610831",
-    "username" : "栗花落カナヲ",
-    "level" : 100,
-    "allianceId" : "373334",
-    "allianceTag" : "591S",
-    "pointId" : 328386,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4821669715556736513",
-      "players" : [ ],
-      "num" : 5,
-      "endTimeMilli" : 1788221310620
-    },
-    "cityRewardSeenAt" : "2026-08-31T23:45:56.203Z",
-    "foundAt" : "2026-08-31T23:45:56.203Z"
-  }, {
     "serverId" : 1816,
     "x" : 430,
     "y" : 528,
@@ -114,82 +95,6 @@
     },
     "cityRewardSeenAt" : "2026-08-31T23:47:11.652Z",
     "foundAt" : "2026-08-31T23:47:11.652Z"
-  }, {
-    "serverId" : 2287,
-    "x" : 555,
-    "y" : 351,
-    "uid" : "385466307752",
-    "username" : "Shellbac",
-    "level" : 100,
-    "allianceId" : "500132199",
-    "allianceTag" : "yWar",
-    "pointId" : 179990,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4821663090637659657",
-      "players" : [ ],
-      "num" : 39,
-      "endTimeMilli" : 1788220915744
-    },
-    "cityRewardSeenAt" : "2026-08-31T23:46:35.020Z",
-    "foundAt" : "2026-08-31T23:46:35.020Z"
-  }, {
-    "serverId" : 2287,
-    "x" : 557,
-    "y" : 321,
-    "uid" : "392243365070",
-    "username" : "Vig",
-    "level" : 100,
-    "allianceId" : "500132199",
-    "allianceTag" : "yWar",
-    "pointId" : 164631,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4821648727361052162",
-      "players" : [ ],
-      "num" : 64,
-      "endTimeMilli" : 1788220059626
-    },
-    "cityRewardSeenAt" : "2026-08-31T23:46:35.020Z",
-    "foundAt" : "2026-08-31T23:46:35.020Z"
-  }, {
-    "serverId" : 2287,
-    "x" : 566,
-    "y" : 344,
-    "uid" : "311251292784",
-    "username" : "BAAL",
-    "level" : 100,
-    "allianceId" : "500132199",
-    "allianceTag" : "yWar",
-    "pointId" : 176412,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4821651308216966658",
-      "players" : [ ],
-      "num" : 54,
-      "endTimeMilli" : 1788220213457
-    },
-    "cityRewardSeenAt" : "2026-08-31T23:46:35.020Z",
-    "foundAt" : "2026-08-31T23:46:35.020Z"
-  }, {
-    "serverId" : 2287,
-    "x" : 578,
-    "y" : 328,
-    "uid" : "7997438068975",
-    "username" : "AT限定",
-    "level" : 100,
-    "allianceId" : "500132199",
-    "allianceTag" : "yWar",
-    "pointId" : 168226,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4821649148284624389",
-      "players" : [ ],
-      "num" : 53,
-      "endTimeMilli" : 1788220084715
-    },
-    "cityRewardSeenAt" : "2026-08-31T23:46:35.020Z",
-    "foundAt" : "2026-08-31T23:46:35.020Z"
   }, {
     "serverId" : 2609,
     "x" : 381,
@@ -505,6 +410,44 @@
     },
     "cityRewardSeenAt" : "2026-09-01T00:14:10.781Z",
     "foundAt" : "2026-09-01T00:14:10.781Z"
+  }, {
+    "serverId" : 3537,
+    "x" : 390,
+    "y" : 610,
+    "uid" : "7622289525612",
+    "username" : "🦎Cimot",
+    "level" : 100,
+    "allianceId" : "500355189",
+    "allianceTag" : "UTP1",
+    "pointId" : 312516,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4821696920703181321",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1788222932173
+    },
+    "cityRewardSeenAt" : "2026-09-01T00:19:47.603Z",
+    "foundAt" : "2026-09-01T00:19:47.603Z"
+  }, {
+    "serverId" : 3537,
+    "x" : 398,
+    "y" : 622,
+    "uid" : "8380022885841",
+    "username" : "TopGump2",
+    "level" : 100,
+    "allianceId" : "500355189",
+    "allianceTag" : "UTP1",
+    "pointId" : 318664,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4821684553999163911",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1788222195060
+    },
+    "cityRewardSeenAt" : "2026-09-01T00:19:47.603Z",
+    "foundAt" : "2026-09-01T00:19:47.603Z"
   }, {
     "serverId" : 3603,
     "x" : 408,
