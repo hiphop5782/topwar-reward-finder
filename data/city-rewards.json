@@ -1,27 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T19:09:35.176676600Z",
+  "updatedAt" : "2026-09-01T19:10:36.467314800Z",
   "count" : 6,
   "locations" : [ {
-    "serverId" : 485,
-    "x" : 452,
-    "y" : 442,
-    "uid" : "292544082413",
-    "username" : "さっちゃん",
-    "level" : 100,
-    "allianceId" : "100037200",
-    "allianceTag" : "S485",
-    "pointId" : 226531,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4822786465018923525",
-      "players" : [ ],
-      "num" : 8,
-      "endTimeMilli" : 1788287874075
-    },
-    "cityRewardSeenAt" : "2026-09-01T18:35:20.355Z",
-    "foundAt" : "2026-09-01T18:35:20.355Z"
-  }, {
     "serverId" : 619,
     "x" : 402,
     "y" : 634,
@@ -78,6 +59,31 @@
     },
     "cityRewardSeenAt" : "2026-09-01T19:00:52.105Z",
     "foundAt" : "2026-09-01T19:00:52.105Z"
+  }, {
+    "serverId" : 650,
+    "x" : 363,
+    "y" : 667,
+    "uid" : "117924384894",
+    "username" : "朱奈",
+    "level" : 100,
+    "allianceId" : "388335",
+    "allianceTag" : "Nk5",
+    "pointId" : 341686,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4822844228889809920",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_5_1\",\"nickname\":\"指揮官548693\",\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"ゆうき\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":1,\"avatarurl\":\"hero_icon108_halloween\",\"nickname\":\"指揮官384894\",\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"朱奈\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1788291317070
+    },
+    "cityRewardSeenAt" : "2026-09-01T19:08:18.825Z",
+    "foundAt" : "2026-09-01T19:08:18.825Z"
   }, {
     "serverId" : 1173,
     "x" : 428,
