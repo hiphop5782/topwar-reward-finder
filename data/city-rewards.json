@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T03:48:59.865083600Z",
-  "count" : 21,
+  "updatedAt" : "2026-09-01T03:50:37.437264200Z",
+  "count" : 22,
   "locations" : [ {
     "serverId" : 126,
     "x" : 427,
@@ -174,24 +174,43 @@
     "cityRewardSeenAt" : "2026-09-01T03:42:56.015Z",
     "foundAt" : "2026-09-01T03:42:56.015Z"
   }, {
-    "serverId" : 3038,
-    "x" : 443,
+    "serverId" : 2842,
+    "x" : 429,
     "y" : 621,
-    "uid" : "924753762988",
-    "username" : "ヒゲが欲しい",
+    "uid" : "940026841882",
+    "username" : "Eric1106",
     "level" : 100,
-    "allianceId" : "500299144",
-    "allianceTag" : "JRSO",
-    "pointId" : 318174,
+    "allianceId" : "500269694",
+    "allianceTag" : "E$G",
+    "pointId" : 318167,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4821899188043658249",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1788234988246
+    },
+    "cityRewardSeenAt" : "2026-09-01T03:48:25.131Z",
+    "foundAt" : "2026-09-01T03:48:25.131Z"
+  }, {
+    "serverId" : 2842,
+    "x" : 449,
+    "y" : 621,
+    "uid" : "522535342918",
+    "username" : "NEvin",
+    "level" : 100,
+    "allianceId" : "500269694",
+    "allianceTag" : "E$G",
+    "pointId" : 318177,
     "cityReward" : {
       "itemId" : 260617002,
-      "instanceId" : "4821888464819043334",
+      "instanceId" : "4821915472512824322",
       "players" : [ ],
-      "num" : 6,
-      "endTimeMilli" : 1788234349092
+      "num" : 10,
+      "endTimeMilli" : 1788235958876
     },
-    "cityRewardSeenAt" : "2026-09-01T03:28:18.888Z",
-    "foundAt" : "2026-09-01T03:28:18.888Z"
+    "cityRewardSeenAt" : "2026-09-01T03:48:25.131Z",
+    "foundAt" : "2026-09-01T03:48:25.131Z"
   }, {
     "serverId" : 3355,
     "x" : 363,
