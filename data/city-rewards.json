@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T15:21:27.996545300Z",
-  "count" : 22,
+  "updatedAt" : "2026-09-01T15:22:52.867242500Z",
+  "count" : 23,
   "locations" : [ {
     "serverId" : 78,
     "x" : 358,
@@ -254,6 +254,37 @@
     },
     "cityRewardSeenAt" : "2026-09-01T14:57:14.900Z",
     "foundAt" : "2026-09-01T14:57:14.900Z"
+  }, {
+    "serverId" : 341,
+    "x" : 284,
+    "y" : 454,
+    "uid" : "356815881148",
+    "username" : "ᴘʀᴏꜰᴇꜱᴏʀ",
+    "level" : 100,
+    "allianceId" : "100012387",
+    "allianceTag" : "J341",
+    "pointId" : 232591,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4822596735945845248",
+      "players" : [ {
+        "frameId" : 148,
+        "playerInfo" : "{\"nationalflag\":191,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"Piypiy\"}"
+      }, {
+        "frameId" : 128,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/94913909feb3bd7e85997c77662a7298.jpg?v=1724015618309\",\"username\":\"DiaBlo\"}"
+      }, {
+        "frameId" : 165,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon2135_macross\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"TOKIちゃん\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/62bc93996a5d3a148d14a4bad155df50_1782104563.png?v=1782104566130\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/62bc93996a5d3a148d14a4bad155df50_1782104563.png?v=1782104566130\",\"username\":\"Mocca\"}"
+      } ],
+      "num" : 14,
+      "endTimeMilli" : 1788276565341
+    },
+    "cityRewardSeenAt" : "2026-09-01T15:20:04.934Z",
+    "foundAt" : "2026-09-01T15:20:04.934Z"
   }, {
     "serverId" : 619,
     "x" : 404,
