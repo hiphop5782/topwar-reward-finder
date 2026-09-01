@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-01T07:49:42.845495900Z",
-  "count" : 6,
+  "updatedAt" : "2026-09-01T07:51:48.031927300Z",
+  "count" : 7,
   "locations" : [ {
     "serverId" : 174,
     "x" : 176,
@@ -128,5 +128,24 @@
     },
     "cityRewardSeenAt" : "2026-09-01T07:37:53.072Z",
     "foundAt" : "2026-09-01T07:37:53.072Z"
+  }, {
+    "serverId" : 4347,
+    "x" : 382,
+    "y" : 626,
+    "uid" : "9436269580539",
+    "username" : "Evo",
+    "level" : 96,
+    "allianceId" : "500442168",
+    "allianceTag" : "N*L",
+    "pointId" : 320704,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4822157209026819593",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1788250367495
+    },
+    "cityRewardSeenAt" : "2026-09-01T07:51:03.407Z",
+    "foundAt" : "2026-09-01T07:51:03.407Z"
   } ]
 }
