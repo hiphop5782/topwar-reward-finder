@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T10:39:31.686946900Z",
-  "count" : 19,
+  "updatedAt" : "2026-09-02T10:41:26.864407700Z",
+  "count" : 21,
   "locations" : [ {
     "serverId" : 148,
     "x" : 163,
@@ -300,6 +300,25 @@
     "cityRewardSeenAt" : "2026-09-02T10:33:44.872Z",
     "foundAt" : "2026-09-02T10:33:44.872Z"
   }, {
+    "serverId" : 2287,
+    "x" : 421,
+    "y" : 419,
+    "uid" : "333791490879",
+    "username" : "Juliia",
+    "level" : 100,
+    "allianceId" : "500133446",
+    "allianceTag" : "rWAR",
+    "pointId" : 214739,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4823771543518699009",
+      "players" : [ ],
+      "num" : 62,
+      "endTimeMilli" : 1788346589329
+    },
+    "cityRewardSeenAt" : "2026-09-02T10:37:19.933Z",
+    "foundAt" : "2026-09-02T10:37:19.933Z"
+  }, {
     "serverId" : 2622,
     "x" : 414,
     "y" : 336,
@@ -375,5 +394,24 @@
     },
     "cityRewardSeenAt" : "2026-09-02T10:34:11.627Z",
     "foundAt" : "2026-09-02T10:34:11.627Z"
+  }, {
+    "serverId" : 4196,
+    "x" : 418,
+    "y" : 576,
+    "uid" : "9197254709348",
+    "username" : "Tick",
+    "level" : 100,
+    "allianceId" : "500414775",
+    "allianceTag" : "RlU",
+    "pointId" : 295122,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4823754144909150208",
+      "players" : [ ],
+      "num" : 97,
+      "endTimeMilli" : 1788345552291
+    },
+    "cityRewardSeenAt" : "2026-09-02T10:39:01.637Z",
+    "foundAt" : "2026-09-02T10:39:01.637Z"
   } ]
 }
