@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T12:39:52.123253800Z",
-  "count" : 108,
+  "updatedAt" : "2026-09-02T12:41:22.538427800Z",
+  "count" : 110,
   "locations" : [ {
     "serverId" : 73,
     "x" : 158,
@@ -540,44 +540,6 @@
     },
     "cityRewardSeenAt" : "2026-09-02T12:37:30.427Z",
     "foundAt" : "2026-09-02T12:37:30.427Z"
-  }, {
-    "serverId" : 158,
-    "x" : 384,
-    "y" : 516,
-    "uid" : "158487195807",
-    "username" : "58",
-    "level" : 100,
-    "allianceId" : "102643",
-    "allianceTag" : "lPN",
-    "pointId" : 264385,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4823864356888460291",
-      "players" : [ ],
-      "num" : 22,
-      "endTimeMilli" : 1788352121437
-    },
-    "cityRewardSeenAt" : "2026-09-02T12:06:20.801Z",
-    "foundAt" : "2026-09-02T12:06:20.801Z"
-  }, {
-    "serverId" : 158,
-    "x" : 429,
-    "y" : 379,
-    "uid" : "154367951006",
-    "username" : "ですです",
-    "level" : 100,
-    "allianceId" : "98612",
-    "allianceTag" : "Kmk",
-    "pointId" : 194263,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4823865680845683716",
-      "players" : [ ],
-      "num" : 21,
-      "endTimeMilli" : 1788352200351
-    },
-    "cityRewardSeenAt" : "2026-09-02T12:06:04.830Z",
-    "foundAt" : "2026-09-02T12:06:04.830Z"
   }, {
     "serverId" : 184,
     "x" : 387,
@@ -1660,6 +1622,106 @@
     },
     "cityRewardSeenAt" : "2026-09-02T12:08:05.844Z",
     "foundAt" : "2026-09-02T12:08:05.844Z"
+  }, {
+    "serverId" : 1389,
+    "x" : 264,
+    "y" : 496,
+    "uid" : "502777022069",
+    "username" : "生徒会長",
+    "level" : 100,
+    "allianceId" : "714210",
+    "allianceTag" : "TUBU",
+    "pointId" : 254085,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4823894935412070916",
+      "players" : [ ],
+      "num" : 34,
+      "endTimeMilli" : 1788353944059
+    },
+    "cityRewardSeenAt" : "2026-09-02T12:37:47.677Z",
+    "foundAt" : "2026-09-02T12:37:47.677Z"
+  }, {
+    "serverId" : 1389,
+    "x" : 401,
+    "y" : 633,
+    "uid" : "631968716155",
+    "username" : "アラザン",
+    "level" : 100,
+    "allianceId" : "717185",
+    "allianceTag" : "TAMB",
+    "pointId" : 324297,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4823896209591294468",
+      "players" : [ ],
+      "num" : 37,
+      "endTimeMilli" : 1788354020006
+    },
+    "cityRewardSeenAt" : "2026-09-02T12:38:06.240Z",
+    "foundAt" : "2026-09-02T12:38:06.240Z"
+  }, {
+    "serverId" : 1389,
+    "x" : 411,
+    "y" : 607,
+    "uid" : "450988062160",
+    "username" : "盗賊無双",
+    "level" : 100,
+    "allianceId" : "717185",
+    "allianceTag" : "TAMB",
+    "pointId" : 310990,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4823877739671640584",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon007\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Ｌｉｓａ\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon009\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"雑用係\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon013\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Ｒｏｓａ\"}"
+      }, {
+        "frameId" : 77,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon2097\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Myan\"}"
+      } ],
+      "num" : 46,
+      "endTimeMilli" : 1788352919113
+    },
+    "cityRewardSeenAt" : "2026-09-02T12:37:57.885Z",
+    "foundAt" : "2026-09-02T12:37:57.885Z"
+  }, {
+    "serverId" : 1389,
+    "x" : 417,
+    "y" : 607,
+    "uid" : "633058039163",
+    "username" : "変態仮面",
+    "level" : 100,
+    "allianceId" : "717185",
+    "allianceTag" : "TAMB",
+    "pointId" : 310993,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4823891295628614145",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/b331217e4c40c0129dc025f0bd4b514f_1776158135.png?v=1776158137244\",\"https://knight-cdn.akamaized.net/headimg/b331217e4c40c0129dc025f0bd4b514f_1784641537.png?v=1784641538441\",\"https://knight-cdn.akamaized.net/headimg/b331217e4c40c0129dc025f0bd4b514f_1765603062.png?v=1765603065042\",\"https://knight-cdn.akamaized.net/headimg/b331217e4c40c0129dc025f0bd4b514f_1752997726.jpg?v=1752997728221\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b331217e4c40c0129dc025f0bd4b514f_1752997726.jpg?v=1752997728221\",\"username\":\"F5\"}"
+      }, {
+        "frameId" : 23,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/a8cbdedd40e362e2bdf579488387a25b_1727704669.jpg?v=1727704670712\"],\"nationalflag\":64,\"gender\":0,\"avatarurl\":\"hero_icon227_update\",\"nickname\":\"wy.197662503113\",\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/a8cbdedd40e362e2bdf579488387a25b_1727704669.jpg?v=1727704670712\",\"username\":\"0rca\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon007\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Ｌｉｓａ\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon009\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"雑用係\"}"
+      } ],
+      "num" : 30,
+      "endTimeMilli" : 1788353727111
+    },
+    "cityRewardSeenAt" : "2026-09-02T12:37:57.885Z",
+    "foundAt" : "2026-09-02T12:37:57.885Z"
   }, {
     "serverId" : 1611,
     "x" : 329,
