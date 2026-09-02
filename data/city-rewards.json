@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T21:28:10.780889300Z",
-  "count" : 14,
+  "updatedAt" : "2026-09-02T21:30:30.964686500Z",
+  "count" : 16,
   "locations" : [ {
+    "serverId" : 174,
+    "x" : 273,
+    "y" : 803,
+    "uid" : "274420809929",
+    "username" : "yasch",
+    "level" : 100,
+    "allianceId" : "143629",
+    "allianceTag" : "Fut4",
+    "pointId" : 411273,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4824407921171454976",
+      "players" : [ ],
+      "num" : 27,
+      "endTimeMilli" : 1788384520393
+    },
+    "cityRewardSeenAt" : "2026-09-02T21:27:09.100Z",
+    "foundAt" : "2026-09-02T21:27:09.100Z"
+  }, {
     "serverId" : 499,
     "x" : 436,
     "y" : 416,
@@ -295,5 +314,24 @@
     },
     "cityRewardSeenAt" : "2026-09-02T21:06:03.735Z",
     "foundAt" : "2026-09-02T21:06:03.735Z"
+  }, {
+    "serverId" : 4024,
+    "x" : 393,
+    "y" : 563,
+    "uid" : "8974450069432",
+    "username" : "EMPEROR",
+    "level" : 100,
+    "allianceId" : "500388863",
+    "allianceTag" : "UNIv",
+    "pointId" : 288453,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4824432882114064390",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1788386008181
+    },
+    "cityRewardSeenAt" : "2026-09-02T21:27:57.869Z",
+    "foundAt" : "2026-09-02T21:27:57.869Z"
   } ]
 }
