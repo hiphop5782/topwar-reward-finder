@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T13:09:24.039918700Z",
-  "count" : 82,
+  "updatedAt" : "2026-09-02T13:11:24.191042600Z",
+  "count" : 85,
   "locations" : [ {
     "serverId" : 73,
     "x" : 167,
@@ -1084,6 +1084,44 @@
     "cityRewardSeenAt" : "2026-09-02T12:57:04.402Z",
     "foundAt" : "2026-09-02T12:57:04.402Z"
   }, {
+    "serverId" : 836,
+    "x" : 400,
+    "y" : 710,
+    "uid" : "586983679173",
+    "username" : "Hann",
+    "level" : 100,
+    "allianceId" : "471545",
+    "allianceTag" : "ZOOF",
+    "pointId" : 363721,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4823932250540640260",
+      "players" : [ ],
+      "num" : 16,
+      "endTimeMilli" : 1788356168214
+    },
+    "cityRewardSeenAt" : "2026-09-02T13:08:42.532Z",
+    "foundAt" : "2026-09-02T13:08:42.532Z"
+  }, {
+    "serverId" : 836,
+    "x" : 402,
+    "y" : 712,
+    "uid" : "587875378373",
+    "username" : "MARVEL",
+    "level" : 100,
+    "allianceId" : "471545",
+    "allianceTag" : "ZOOF",
+    "pointId" : 364746,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4823932259650668547",
+      "players" : [ ],
+      "num" : 16,
+      "endTimeMilli" : 1788356168757
+    },
+    "cityRewardSeenAt" : "2026-09-02T13:08:42.532Z",
+    "foundAt" : "2026-09-02T13:08:42.532Z"
+  }, {
     "serverId" : 850,
     "x" : 403,
     "y" : 245,
@@ -1587,24 +1625,33 @@
     "cityRewardSeenAt" : "2026-09-02T12:55:52.605Z",
     "foundAt" : "2026-09-02T12:55:52.605Z"
   }, {
-    "serverId" : 2474,
-    "x" : 409,
-    "y" : 561,
-    "uid" : "857277565285",
-    "username" : "CoLeroy",
+    "serverId" : 2696,
+    "x" : 429,
+    "y" : 299,
+    "uid" : "418846184798",
+    "username" : "Ricoxy",
     "level" : 100,
-    "allianceId" : "500173619",
-    "allianceTag" : "1WLD",
-    "pointId" : 287437,
+    "allianceId" : "500244139",
+    "allianceTag" : "Arv",
+    "pointId" : 153303,
     "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4823889463087420421",
-      "players" : [ ],
-      "num" : 16,
-      "endTimeMilli" : 1788353617883
+      "itemId" : 260617001,
+      "instanceId" : "4823922231506964483",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/1e14888269302864df5af8f349f195b6_1734101030.jpg?v=1734101031365\",\"https://knight-cdn.akamaized.net/headimg/1e14888269302864df5af8f349f195b6_1757864748.jpg?v=1757864749036\",\"https://knight-cdn.akamaized.net/headimg/1e14888269302864df5af8f349f195b6_1759141946.jpg?v=1759141947740\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/1e14888269302864df5af8f349f195b6_1759141946.jpg?v=1759141947740\",\"username\":\"Bambi\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/b0803549491832a17708c7bb660748d9_1766137780.png?v=1766137780626\",\"https://knight-cdn.akamaized.net/headimg/b0803549491832a17708c7bb660748d9_1776897280.png?v=1776897281293\",\"https://knight-cdn.akamaized.net/headimg/b0803549491832a17708c7bb660748d9_1776638075.png?v=1776638076385\",\"https://knight-cdn.akamaized.net/headimg/b0803549491832a17708c7bb660748d9_1766143741.png?v=1766143742775\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b0803549491832a17708c7bb660748d9_1776897280.png?v=1776897281293\",\"username\":\"marippe\"}"
+      }, {
+        "frameId" : 166,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/298949c26dfb633c468f15badec1b86f_1754998906.jpg?v=1754998908098\"],\"nationalflag\":43,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/298949c26dfb633c468f15badec1b86f_1754998906.jpg?v=1754998908098\",\"username\":\"Ricoxy\"}"
+      } ],
+      "num" : 3,
+      "endTimeMilli" : 1788355571033
     },
-    "cityRewardSeenAt" : "2026-09-02T12:34:24.841Z",
-    "foundAt" : "2026-09-02T12:34:24.841Z"
+    "cityRewardSeenAt" : "2026-09-02T13:07:14.705Z",
+    "foundAt" : "2026-09-02T13:07:14.705Z"
   }, {
     "serverId" : 2952,
     "x" : 405,
@@ -1667,25 +1714,6 @@
     },
     "cityRewardSeenAt" : "2026-09-02T12:36:26.836Z",
     "foundAt" : "2026-09-02T12:36:26.836Z"
-  }, {
-    "serverId" : 2952,
-    "x" : 412,
-    "y" : 416,
-    "uid" : "634017650054",
-    "username" : "Koa",
-    "level" : 100,
-    "allianceId" : "500286839",
-    "allianceTag" : "E$L",
-    "pointId" : 213199,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4823877368879190019",
-      "players" : [ ],
-      "num" : 56,
-      "endTimeMilli" : 1788352897012
-    },
-    "cityRewardSeenAt" : "2026-09-02T12:36:10.131Z",
-    "foundAt" : "2026-09-02T12:36:10.131Z"
   }, {
     "serverId" : 2952,
     "x" : 412,
@@ -1893,5 +1921,43 @@
     },
     "cityRewardSeenAt" : "2026-09-02T12:43:14.068Z",
     "foundAt" : "2026-09-02T12:43:14.068Z"
+  }, {
+    "serverId" : 4502,
+    "x" : 155,
+    "y" : 789,
+    "uid" : "9790988816790",
+    "username" : "BCHPTKV1",
+    "level" : 62,
+    "allianceId" : "500489520",
+    "allianceTag" : "K0GH",
+    "pointId" : 404046,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4823926810278571011",
+      "players" : [ ],
+      "num" : 24,
+      "endTimeMilli" : 1788355843949
+    },
+    "cityRewardSeenAt" : "2026-09-02T13:08:38.650Z",
+    "foundAt" : "2026-09-02T13:08:38.650Z"
+  }, {
+    "serverId" : 4502,
+    "x" : 390,
+    "y" : 358,
+    "uid" : "9793843827094",
+    "username" : "Angela",
+    "level" : 74,
+    "allianceId" : "500487093",
+    "allianceTag" : "SOL'",
+    "pointId" : 183492,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4823920817842891778",
+      "players" : [ ],
+      "num" : 39,
+      "endTimeMilli" : 1788355486772
+    },
+    "cityRewardSeenAt" : "2026-09-02T13:07:52.368Z",
+    "foundAt" : "2026-09-02T13:07:52.368Z"
   } ]
 }
