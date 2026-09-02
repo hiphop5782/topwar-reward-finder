@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T02:42:49.822396Z",
-  "count" : 8,
+  "updatedAt" : "2026-09-02T02:44:49.959635900Z",
+  "count" : 7,
   "locations" : [ {
     "serverId" : 1816,
     "x" : 386,
@@ -171,36 +171,5 @@
     },
     "cityRewardSeenAt" : "2026-09-02T02:20:20.628Z",
     "foundAt" : "2026-09-02T02:20:20.628Z"
-  }, {
-    "serverId" : 4443,
-    "x" : 403,
-    "y" : 407,
-    "uid" : "9643402891611",
-    "username" : "joko777",
-    "level" : 88,
-    "allianceId" : "500467570",
-    "allianceTag" : "443S",
-    "pointId" : 208586,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4823262479970907656",
-      "players" : [ {
-        "frameId" : 4,
-        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"hero_icon169_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"セーラームーン\"}"
-      }, {
-        "frameId" : 4,
-        "playerInfo" : "{\"nationalflag\":31,\"gender\":0,\"avatarurl\":\"hero_icon010_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Gameover\"}"
-      }, {
-        "frameId" : 20,
-        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon010_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Prof\"}"
-      }, {
-        "frameId" : 4,
-        "playerInfo" : "{\"nationalflag\":105,\"gender\":0,\"avatarurl\":\"hero_icon213_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Satan\"}"
-      } ],
-      "num" : 10,
-      "endTimeMilli" : 1788316246777
-    },
-    "cityRewardSeenAt" : "2026-09-02T02:09:39.883Z",
-    "foundAt" : "2026-09-02T02:09:39.883Z"
   } ]
 }
