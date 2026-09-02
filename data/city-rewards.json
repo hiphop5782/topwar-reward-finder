@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T20:00:06.201443700Z",
-  "count" : 22,
+  "updatedAt" : "2026-09-02T20:02:13.418161100Z",
+  "count" : 23,
   "locations" : [ {
     "serverId" : 386,
     "x" : 451,
@@ -397,6 +397,44 @@
     "cityRewardSeenAt" : "2026-09-02T19:53:44.650Z",
     "foundAt" : "2026-09-02T19:53:44.650Z"
   }, {
+    "serverId" : 4270,
+    "x" : 110,
+    "y" : 488,
+    "uid" : "9304096673966",
+    "username" : "Lomez",
+    "level" : 94,
+    "allianceId" : "500427934",
+    "allianceTag" : "BHiM",
+    "pointId" : 249912,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4824332267186904067",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1788380011064
+    },
+    "cityRewardSeenAt" : "2026-09-02T19:58:35.394Z",
+    "foundAt" : "2026-09-02T19:58:35.394Z"
+  }, {
+    "serverId" : 4270,
+    "x" : 405,
+    "y" : 533,
+    "uid" : "9307840385198",
+    "username" : "Sherman",
+    "level" : 100,
+    "allianceId" : "500427451",
+    "allianceTag" : "NFL:",
+    "pointId" : 273099,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4824342278051027973",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1788380607758
+    },
+    "cityRewardSeenAt" : "2026-09-02T19:58:38.963Z",
+    "foundAt" : "2026-09-02T19:58:38.963Z"
+  }, {
     "serverId" : 4299,
     "x" : 378,
     "y" : 452,
@@ -434,24 +472,5 @@
     },
     "cityRewardSeenAt" : "2026-09-02T19:48:54.040Z",
     "foundAt" : "2026-09-02T19:48:54.040Z"
-  }, {
-    "serverId" : 4457,
-    "x" : 351,
-    "y" : 459,
-    "uid" : "9675295822185",
-    "username" : "Felidae⚝",
-    "level" : 85,
-    "allianceId" : "500472239",
-    "allianceTag" : "PBLX",
-    "pointId" : 235184,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4824293741733007877",
-      "players" : [ ],
-      "num" : 37,
-      "endTimeMilli" : 1788377714768
-    },
-    "cityRewardSeenAt" : "2026-09-02T19:26:40.155Z",
-    "foundAt" : "2026-09-02T19:26:40.155Z"
   } ]
 }
