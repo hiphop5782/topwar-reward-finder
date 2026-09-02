@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T14:17:41.322216700Z",
-  "count" : 8,
+  "updatedAt" : "2026-09-02T14:18:54.568053300Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 148,
     "x" : 402,
@@ -84,6 +84,25 @@
     "cityRewardSeenAt" : "2026-09-02T13:50:30.635Z",
     "foundAt" : "2026-09-02T13:50:30.635Z"
   }, {
+    "serverId" : 499,
+    "x" : 288,
+    "y" : 678,
+    "uid" : "284876534265",
+    "username" : "ファブ",
+    "level" : 100,
+    "allianceId" : "100046776",
+    "allianceTag" : "KAXA",
+    "pointId" : 347281,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4823994539729741318",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1788359880939
+    },
+    "cityRewardSeenAt" : "2026-09-02T14:16:36.572Z",
+    "foundAt" : "2026-09-02T14:16:36.572Z"
+  }, {
     "serverId" : 655,
     "x" : 404,
     "y" : 324,
@@ -133,6 +152,25 @@
     },
     "cityRewardSeenAt" : "2026-09-02T13:54:29.868Z",
     "foundAt" : "2026-09-02T13:54:29.868Z"
+  }, {
+    "serverId" : 2681,
+    "x" : 369,
+    "y" : 465,
+    "uid" : "8495754055233",
+    "username" : "R2",
+    "level" : 100,
+    "allianceId" : "500256719",
+    "allianceTag" : "Z681",
+    "pointId" : 238265,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4823983953643106825",
+      "players" : [ ],
+      "num" : 23,
+      "endTimeMilli" : 1788359249959
+    },
+    "cityRewardSeenAt" : "2026-09-02T14:16:16.580Z",
+    "foundAt" : "2026-09-02T14:16:16.580Z"
   }, {
     "serverId" : 3170,
     "x" : 308,
