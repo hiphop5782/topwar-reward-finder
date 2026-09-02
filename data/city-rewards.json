@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T19:02:09.074918400Z",
-  "count" : 20,
+  "updatedAt" : "2026-09-02T19:04:55.463889800Z",
+  "count" : 21,
   "locations" : [ {
     "serverId" : 285,
     "x" : 367,
@@ -166,6 +166,37 @@
     },
     "cityRewardSeenAt" : "2026-09-02T18:51:29.043Z",
     "foundAt" : "2026-09-02T18:51:29.043Z"
+  }, {
+    "serverId" : 2735,
+    "x" : 388,
+    "y" : 638,
+    "uid" : "364491207650",
+    "username" : "EVİNDAR",
+    "level" : 100,
+    "allianceId" : "500250387",
+    "allianceTag" : "S735",
+    "pointId" : 326851,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4824290075960761856",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/b46a5a75be831e87fdaa293ceae1cb37_1733671181.jpg?v=1733671183965\",\"https://knight-cdn.akamaized.net/headimg/b46a5a75be831e87fdaa293ceae1cb37_1761571570.png?v=1761571572549\",\"https://knight-cdn.akamaized.net/headimg/b46a5a75be831e87fdaa293ceae1cb37_1759861109.jpg?v=1759861112117\",\"https://knight-cdn.akamaized.net/headimg/b46a5a75be831e87fdaa293ceae1cb37_1782652769.png?v=1782652772828\"],\"nationalflag\":225,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b46a5a75be831e87fdaa293ceae1cb37_1761571570.png?v=1761571572549\",\"username\":\"ʙᴀʟᴇʀɪᴏɴ\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/af4e1e4abcd229504558505042bf3f53.jpg?v=1683604704555\",\"username\":\"Icarus\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":225,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/461446284782.jpg?v=1683317256087\",\"username\":\"HÜRJET\"}"
+      }, {
+        "frameId" : 165,
+        "playerInfo" : "{\"nationalflag\":225,\"gender\":0,\"avatarurl\":\"hero_icon022_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"EVİNDAR\"}"
+      } ],
+      "num" : 4,
+      "endTimeMilli" : 1788377496271
+    },
+    "cityRewardSeenAt" : "2026-09-02T19:02:38.410Z",
+    "foundAt" : "2026-09-02T19:02:38.410Z"
   }, {
     "serverId" : 3307,
     "x" : 372,
