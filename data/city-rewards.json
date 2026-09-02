@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T01:15:47.208161900Z",
+  "updatedAt" : "2026-09-02T01:17:52.181668700Z",
   "count" : 13,
   "locations" : [ {
     "serverId" : 126,
@@ -188,25 +188,6 @@
     "cityRewardSeenAt" : "2026-09-02T01:11:37.308Z",
     "foundAt" : "2026-09-02T01:11:37.308Z"
   }, {
-    "serverId" : 3396,
-    "x" : 396,
-    "y" : 434,
-    "uid" : "8144399437138",
-    "username" : "AP_rs",
-    "level" : 100,
-    "allianceId" : "500331035",
-    "allianceTag" : "96X",
-    "pointId" : 222407,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4823175041197443073",
-      "players" : [ ],
-      "num" : 30,
-      "endTimeMilli" : 1788311035020
-    },
-    "cityRewardSeenAt" : "2026-09-02T00:41:42.164Z",
-    "foundAt" : "2026-09-02T00:41:42.164Z"
-  }, {
     "serverId" : 3436,
     "x" : 424,
     "y" : 526,
@@ -259,6 +240,37 @@
     },
     "cityRewardSeenAt" : "2026-09-02T00:47:39.138Z",
     "foundAt" : "2026-09-02T00:47:39.138Z"
+  }, {
+    "serverId" : 4243,
+    "x" : 370,
+    "y" : 320,
+    "uid" : "9269579550867",
+    "username" : "花東防衛司令部",
+    "level" : 100,
+    "allianceId" : "500422745",
+    "allianceTag" : "cATS",
+    "pointId" : 164026,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4823212719402460676",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/b9000134919720d495ab89a234060c01_1759498418.jpg?v=1759498419676\",\"https://knight-cdn.akamaized.net/headimg/b9000134919720d495ab89a234060c01_1785555478.png?v=1785555479931\",\"https://knight-cdn.akamaized.net/headimg/b9000134919720d495ab89a234060c01_1785564471.png?v=1785564473090\",\"https://knight-cdn.akamaized.net/headimg/b9000134919720d495ab89a234060c01_1785412121.png?v=1785412123063\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b9000134919720d495ab89a234060c01_1759498418.jpg?v=1759498419676\",\"username\":\"GT3RS\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/10462f4f537c460e24764b083a95da70_1770464341.png?v=1770464343118\"],\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/10462f4f537c460e24764b083a95da70_1770464341.png?v=1770464343118\",\"username\":\"Vario\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/adeb7146fae9c67835634173dce1a099_1782642621.png?v=1782642623695\",\"https://knight-cdn.akamaized.net/headimg/adeb7146fae9c67835634173dce1a099_1787177269.png?v=1787177272001\",\"https://knight-cdn.akamaized.net/headimg/adeb7146fae9c67835634173dce1a099_1782650933.png?v=1782650936013\",\"https://knight-cdn.akamaized.net/headimg/adeb7146fae9c67835634173dce1a099_1785720228.png?v=1785720230256\"],\"nationalflag\":13,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/adeb7146fae9c67835634173dce1a099_1787177269.png?v=1787177272001\",\"username\":\"Pαɳԃα\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/a96c29c5806791096592f18daf788185_1774644036.png?v=1774644037587\",\"https://knight-cdn.akamaized.net/headimg/a96c29c5806791096592f18daf788185_1783205492.png?v=1783205493126\",\"https://knight-cdn.akamaized.net/headimg/a96c29c5806791096592f18daf788185_1783968388.png?v=1783968389306\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon109_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/a96c29c5806791096592f18daf788185_1783968388.png?v=1783968389306\",\"username\":\"LadyPain\"}"
+      } ],
+      "num" : 8,
+      "endTimeMilli" : 1788313280816
+    },
+    "cityRewardSeenAt" : "2026-09-02T01:14:38.305Z",
+    "foundAt" : "2026-09-02T01:14:38.305Z"
   }, {
     "serverId" : 4503,
     "x" : 400,
