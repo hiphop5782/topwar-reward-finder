@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T11:47:57.870439300Z",
-  "count" : 25,
+  "updatedAt" : "2026-09-02T11:49:52.291770400Z",
+  "count" : 27,
   "locations" : [ {
     "serverId" : 82,
     "x" : 332,
@@ -230,6 +230,25 @@
     "cityRewardSeenAt" : "2026-09-02T11:34:19.433Z",
     "foundAt" : "2026-09-02T11:34:19.433Z"
   }, {
+    "serverId" : 593,
+    "x" : 481,
+    "y" : 413,
+    "uid" : "549574992465",
+    "username" : "aiz",
+    "level" : 100,
+    "allianceId" : "581470",
+    "allianceTag" : "EdeN",
+    "pointId" : 211697,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4823847986503393792",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1788351145686
+    },
+    "cityRewardSeenAt" : "2026-09-02T11:45:02.509Z",
+    "foundAt" : "2026-09-02T11:45:02.509Z"
+  }, {
     "serverId" : 1052,
     "x" : 519,
     "y" : 359,
@@ -451,24 +470,43 @@
     "cityRewardSeenAt" : "2026-09-02T11:27:51.871Z",
     "foundAt" : "2026-09-02T11:27:51.871Z"
   }, {
-    "serverId" : 3715,
-    "x" : 412,
-    "y" : 374,
-    "uid" : "8611612888707",
-    "username" : "蒼",
-    "level" : 85,
-    "allianceId" : "500374911",
-    "allianceTag" : "kyli",
-    "pointId" : 191695,
+    "serverId" : 2748,
+    "x" : 419,
+    "y" : 245,
+    "uid" : "413276443977",
+    "username" : "₵₳Ɽ₦₳₲Ɇ",
+    "level" : 100,
+    "allianceId" : "500253430",
+    "allianceTag" : "+CU+",
+    "pointId" : 125650,
     "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4823794235492599304",
+      "itemId" : 260617004,
+      "instanceId" : "4823828529732220937",
       "players" : [ ],
-      "num" : 6,
-      "endTimeMilli" : 1788347941876
+      "num" : 14,
+      "endTimeMilli" : 1788349985972
     },
-    "cityRewardSeenAt" : "2026-09-02T11:13:41.167Z",
-    "foundAt" : "2026-09-02T11:13:41.167Z"
+    "cityRewardSeenAt" : "2026-09-02T11:46:37.571Z",
+    "foundAt" : "2026-09-02T11:46:37.571Z"
+  }, {
+    "serverId" : 2748,
+    "x" : 441,
+    "y" : 243,
+    "uid" : "341624005481",
+    "username" : "Hulking",
+    "level" : 100,
+    "allianceId" : "500253430",
+    "allianceTag" : "+CU+",
+    "pointId" : 124637,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4823829143778326533",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1788350022572
+    },
+    "cityRewardSeenAt" : "2026-09-02T11:46:36.647Z",
+    "foundAt" : "2026-09-02T11:46:36.647Z"
   }, {
     "serverId" : 3800,
     "x" : 448,
