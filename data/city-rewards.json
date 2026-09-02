@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T14:40:44.565986800Z",
-  "count" : 4,
+  "updatedAt" : "2026-09-02T14:42:26.168638200Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 499,
     "x" : 288,
@@ -78,5 +78,24 @@
     },
     "cityRewardSeenAt" : "2026-09-02T14:09:30.818Z",
     "foundAt" : "2026-09-02T14:09:30.818Z"
+  }, {
+    "serverId" : 3478,
+    "x" : 92,
+    "y" : 196,
+    "uid" : "8253530115478",
+    "username" : "Askariaa",
+    "level" : 100,
+    "allianceId" : "500342860",
+    "allianceTag" : "CBW*",
+    "pointId" : 100399,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4824001870871342088",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1788360317909
+    },
+    "cityRewardSeenAt" : "2026-09-02T14:39:14.352Z",
+    "foundAt" : "2026-09-02T14:39:14.352Z"
   } ]
 }
