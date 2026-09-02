@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T16:07:53.112571200Z",
-  "count" : 27,
+  "updatedAt" : "2026-09-02T16:09:49.933180Z",
+  "count" : 28,
   "locations" : [ {
     "serverId" : 111,
     "x" : 295,
@@ -21,6 +21,28 @@
     },
     "cityRewardSeenAt" : "2026-09-02T15:52:33.614Z",
     "foundAt" : "2026-09-02T15:52:33.614Z"
+  }, {
+    "serverId" : 154,
+    "x" : 346,
+    "y" : 450,
+    "uid" : "305819054422",
+    "username" : "ういざどん",
+    "level" : 100,
+    "allianceId" : "100002030",
+    "allianceTag" : "bpo.",
+    "pointId" : 230574,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4824113455629939719",
+      "players" : [ {
+        "frameId" : 3,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_1_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"ういざどん\"}"
+      } ],
+      "num" : 1,
+      "endTimeMilli" : 1788366968879
+    },
+    "cityRewardSeenAt" : "2026-09-02T16:07:08.471Z",
+    "foundAt" : "2026-09-02T16:07:08.471Z"
   }, {
     "serverId" : 513,
     "x" : 432,
