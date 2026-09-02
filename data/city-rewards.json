@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T05:12:41.016457300Z",
-  "count" : 6,
+  "updatedAt" : "2026-09-02T05:14:15.050063300Z",
+  "count" : 8,
   "locations" : [ {
     "serverId" : 164,
     "x" : 285,
@@ -116,5 +116,46 @@
     },
     "cityRewardSeenAt" : "2026-09-02T04:50:20.783Z",
     "foundAt" : "2026-09-02T04:50:20.783Z"
+  }, {
+    "serverId" : 3467,
+    "x" : 353,
+    "y" : 451,
+    "uid" : "8420272410133",
+    "username" : "カツミ",
+    "level" : 100,
+    "allianceId" : "500340314",
+    "allianceTag" : "_67N",
+    "pointId" : 231089,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4823453344558945799",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1788327623193
+    },
+    "cityRewardSeenAt" : "2026-09-02T05:10:49.786Z",
+    "foundAt" : "2026-09-02T05:10:49.786Z"
+  }, {
+    "serverId" : 4153,
+    "x" : 410,
+    "y" : 424,
+    "uid" : "9129384546361",
+    "username" : "YRA",
+    "level" : 100,
+    "allianceId" : "500406973",
+    "allianceTag" : "TfHC",
+    "pointId" : 217294,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4823445040760123906",
+      "players" : [ {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"hero_awakeicon334_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Bosshot\"}"
+      } ],
+      "num" : 8,
+      "endTimeMilli" : 1788327128248
+    },
+    "cityRewardSeenAt" : "2026-09-02T05:11:32.556Z",
+    "foundAt" : "2026-09-02T05:11:32.556Z"
   } ]
 }
