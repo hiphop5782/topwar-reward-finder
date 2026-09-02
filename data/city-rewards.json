@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T07:31:22.357676700Z",
+  "updatedAt" : "2026-09-02T07:34:56.817703500Z",
   "count" : 5,
   "locations" : [ {
     "serverId" : 211,
@@ -21,37 +21,6 @@
     },
     "cityRewardSeenAt" : "2026-09-02T07:23:18.800Z",
     "foundAt" : "2026-09-02T07:23:18.800Z"
-  }, {
-    "serverId" : 805,
-    "x" : 400,
-    "y" : 628,
-    "uid" : "336315781967",
-    "username" : "gouda",
-    "level" : 100,
-    "allianceId" : "200031564",
-    "allianceTag" : "805U",
-    "pointId" : 321737,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4823552156286470661",
-      "players" : [ {
-        "frameId" : 166,
-        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/335783478095.jpg?v=1644386221192\",\"username\":\"Dark🦖\"}"
-      }, {
-        "frameId" : 40,
-        "playerInfo" : "{\"nationalflag\":70,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/330596176677.jpg?v=1618338542449\",\"username\":\"Elliv\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"hero_icon003_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"Smittie\"}"
-      }, {
-        "frameId" : 159,
-        "playerInfo" : "{\"nationalflag\":65,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":\"\",\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/8e4dfb03de0ec2089039dd176f62cb89_1736157781.jpg?v=1736157784800\",\"username\":\"gouda\"}"
-      } ],
-      "num" : 4,
-      "endTimeMilli" : 1788333512831
-    },
-    "cityRewardSeenAt" : "2026-09-02T06:58:37.341Z",
-    "foundAt" : "2026-09-02T06:58:37.341Z"
   }, {
     "serverId" : 1805,
     "x" : 344,
@@ -109,5 +78,24 @@
     },
     "cityRewardSeenAt" : "2026-09-02T07:19:49.397Z",
     "foundAt" : "2026-09-02T07:19:49.397Z"
+  }, {
+    "serverId" : 4346,
+    "x" : 406,
+    "y" : 622,
+    "uid" : "8461934300718",
+    "username" : "WGCardio",
+    "level" : 100,
+    "allianceId" : "500441396",
+    "allianceTag" : "tPL",
+    "pointId" : 318668,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4823587392854291460",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1788335613094
+    },
+    "cityRewardSeenAt" : "2026-09-02T07:32:08.648Z",
+    "foundAt" : "2026-09-02T07:32:08.648Z"
   } ]
 }
