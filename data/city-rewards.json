@@ -1,8 +1,58 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T15:33:25.643334Z",
-  "count" : 16,
+  "updatedAt" : "2026-09-02T15:35:56.645539300Z",
+  "count" : 19,
   "locations" : [ {
+    "serverId" : 111,
+    "x" : 295,
+    "y" : 453,
+    "uid" : "129260830857",
+    "username" : "OLDMAN",
+    "level" : 100,
+    "allianceId" : "62542",
+    "allianceTag" : "bwc+",
+    "pointId" : 232084,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4824078565681192455",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1788364889276
+    },
+    "cityRewardSeenAt" : "2026-09-02T15:33:15.368Z",
+    "foundAt" : "2026-09-02T15:33:15.368Z"
+  }, {
+    "serverId" : 111,
+    "x" : 489,
+    "y" : 481,
+    "uid" : "126654873737",
+    "username" : "漆黒多呂教♰何加",
+    "level" : 100,
+    "allianceId" : "66376",
+    "allianceTag" : "RfB",
+    "pointId" : 246517,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4824064070049127936",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_5_1\",\"nickname\":\"指揮官499119\",\"headimgurl\":null,\"usergender\":0,\"username\":\"リムル\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":1,\"avatarurl\":\"headIcon_1_1\",\"nickname\":\"指揮官015791\",\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"\"}"
+      }, {
+        "frameId" : 52,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":1,\"avatarurl\":\"niconico_1\",\"nickname\":\"指揮官346223\",\"headimgurl\":null,\"usergender\":0,\"username\":\"指揮官346223\"}"
+      }, {
+        "frameId" : 95,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/290d6e0e02b082613c257433fb947741_1756459377.jpg?v=1756459378844\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon002_summer\",\"nickname\":\"指揮官247599\",\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/290d6e0e02b082613c257433fb947741_1756459377.jpg?v=1756459378844\",\"username\":\"ちょこも\"}"
+      } ],
+      "num" : 13,
+      "endTimeMilli" : 1788364025269
+    },
+    "cityRewardSeenAt" : "2026-09-02T15:33:24.164Z",
+    "foundAt" : "2026-09-02T15:33:24.164Z"
+  }, {
     "serverId" : 184,
     "x" : 367,
     "y" : 313,
@@ -426,5 +476,36 @@
     },
     "cityRewardSeenAt" : "2026-09-02T15:27:06.203Z",
     "foundAt" : "2026-09-02T15:27:06.203Z"
+  }, {
+    "serverId" : 4320,
+    "x" : 401,
+    "y" : 617,
+    "uid" : "9380075147488",
+    "username" : "Banzai",
+    "level" : 100,
+    "allianceId" : "500436614",
+    "allianceTag" : "WBC.",
+    "pointId" : 316105,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4824067096845598720",
+      "players" : [ {
+        "frameId" : 8,
+        "playerInfo" : "{\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"hero_icon119_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"🇻🇳🌾\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":198,\"gender\":0,\"avatarurl\":\"hero_icon123_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"John2026\"}"
+      }, {
+        "frameId" : 20,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/aeaefa699463ef5783735240a9d1e0e5_1770442672.png?v=1770442674291\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/aeaefa699463ef5783735240a9d1e0e5_1770442672.png?v=1770442674291\",\"username\":\"MykeIce\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/fb44ed2fbfa26b085f91dde481f6c47f_1767339737.png?v=1767339738759\",\"https://knight-cdn.akamaized.net/headimg/fb44ed2fbfa26b085f91dde481f6c47f_1767940583.png?v=1767940585260\",\"https://knight-cdn.akamaized.net/headimg/fb44ed2fbfa26b085f91dde481f6c47f_1773421712.png?v=1773421714490\"],\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/fb44ed2fbfa26b085f91dde481f6c47f_1773421712.png?v=1773421714490\",\"username\":\"Dillnger\"}"
+      } ],
+      "num" : 9,
+      "endTimeMilli" : 1788364205680
+    },
+    "cityRewardSeenAt" : "2026-09-02T15:32:28.631Z",
+    "foundAt" : "2026-09-02T15:32:28.631Z"
   } ]
 }
