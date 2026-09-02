@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T00:11:19.215600500Z",
-  "count" : 9,
+  "updatedAt" : "2026-09-02T00:13:36.528299900Z",
+  "count" : 10,
   "locations" : [ {
     "serverId" : 1337,
     "x" : 370,
@@ -21,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-09-01T23:53:33.058Z",
     "foundAt" : "2026-09-01T23:53:33.058Z"
+  }, {
+    "serverId" : 1383,
+    "x" : 384,
+    "y" : 398,
+    "uid" : "595312920586",
+    "username" : "DETA",
+    "level" : 100,
+    "allianceId" : "700514",
+    "allianceTag" : "I383",
+    "pointId" : 203969,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4823135355195280898",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1788308669550
+    },
+    "cityRewardSeenAt" : "2026-09-02T00:09:36.395Z",
+    "foundAt" : "2026-09-02T00:09:36.395Z"
   }, {
     "serverId" : 2607,
     "x" : 367,
