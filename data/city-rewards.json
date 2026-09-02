@@ -1,8 +1,36 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T11:25:09.228189300Z",
+  "updatedAt" : "2026-09-02T11:27:19.455112300Z",
   "count" : 20,
   "locations" : [ {
+    "serverId" : 82,
+    "x" : 332,
+    "y" : 262,
+    "uid" : "98092527721",
+    "username" : "秋津マサト",
+    "level" : 100,
+    "allianceId" : "42362",
+    "allianceTag" : "TRYs",
+    "pointId" : 134311,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4823808265940935685",
+      "players" : [ {
+        "frameId" : 5,
+        "playerInfo" : "{\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"hero_icon116\",\"nickname\":\"指揮官065705\",\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"ぺいん\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon135\",\"nickname\":\"指揮官136082\",\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"イサム\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"\",\"nickname\":\"指揮官527721\",\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/98092527721.jpg?v=1674316010556\",\"username\":\"秋津マサト\"}"
+      } ],
+      "num" : 3,
+      "endTimeMilli" : 1788348778156
+    },
+    "cityRewardSeenAt" : "2026-09-02T11:23:26.805Z",
+    "foundAt" : "2026-09-02T11:23:26.805Z"
+  }, {
     "serverId" : 502,
     "x" : 423,
     "y" : 629,
@@ -147,37 +175,6 @@
     },
     "cityRewardSeenAt" : "2026-09-02T11:16:41.192Z",
     "foundAt" : "2026-09-02T11:16:41.192Z"
-  }, {
-    "serverId" : 1297,
-    "x" : 329,
-    "y" : 279,
-    "uid" : "378234287191",
-    "username" : "Wiskas",
-    "level" : 100,
-    "allianceId" : "200168308",
-    "allianceTag" : "NuTY",
-    "pointId" : 143013,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4823776389315043844",
-      "players" : [ {
-        "frameId" : 8,
-        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"hero_icon172_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"🔥Rhia\"}"
-      }, {
-        "frameId" : 150,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/f9ca2601d55c444b31cd7fb731a8cae8_1785699358.png?v=1785699360735\",\"https://knight-cdn.akamaized.net/headimg/f9ca2601d55c444b31cd7fb731a8cae8_1745951214.jpg?v=1745951219156\",\"https://knight-cdn.akamaized.net/headimg/f9ca2601d55c444b31cd7fb731a8cae8_1753559212.jpg?v=1753559215058\",\"https://knight-cdn.akamaized.net/headimg/f9ca2601d55c444b31cd7fb731a8cae8_1764582531.png?v=1764582534542\"],\"nationalflag\":68,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/f9ca2601d55c444b31cd7fb731a8cae8_1785699358.png?v=1785699360735\",\"username\":\"Trueno\"}"
-      }, {
-        "frameId" : 159,
-        "playerInfo" : "{\"nationalflag\":179,\"gender\":0,\"avatarurl\":\"hero_icon110_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Tomi_PL\"}"
-      }, {
-        "frameId" : 159,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d2604f09b404315479c32471980b744e_1785067362.png?v=1785067366953\",\"https://knight-cdn.akamaized.net/headimg/d2604f09b404315479c32471980b744e_1787376030.png?v=1787376034063\",\"https://knight-cdn.akamaized.net/headimg/d2604f09b404315479c32471980b744e_1782213596.png?v=1782213600787\",\"https://knight-cdn.akamaized.net/headimg/d2604f09b404315479c32471980b744e_1752814493.jpg?v=1752814495785\"],\"nationalflag\":247,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d2604f09b404315479c32471980b744e_1787376030.png?v=1787376034063\",\"username\":\"🦈Dilly\"}"
-      } ],
-      "num" : 7,
-      "endTimeMilli" : 1788346878161
-    },
-    "cityRewardSeenAt" : "2026-09-02T10:51:53.405Z",
-    "foundAt" : "2026-09-02T10:51:53.405Z"
   }, {
     "serverId" : 1383,
     "x" : 384,
