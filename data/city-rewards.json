@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T03:37:49.071039100Z",
-  "count" : 12,
+  "updatedAt" : "2026-09-02T03:38:57.338256300Z",
+  "count" : 13,
   "locations" : [ {
     "serverId" : 1297,
     "x" : 330,
@@ -278,5 +278,36 @@
     },
     "cityRewardSeenAt" : "2026-09-02T03:34:33.540Z",
     "foundAt" : "2026-09-02T03:34:33.540Z"
+  }, {
+    "serverId" : 4493,
+    "x" : 430,
+    "y" : 334,
+    "uid" : "9776760983949",
+    "username" : "ハンニバル",
+    "level" : 80,
+    "allianceId" : "500484964",
+    "allianceTag" : "GFT_",
+    "pointId" : 171224,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4823355774160017927",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"icon_alb_male_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Red\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/181fa58b557f68ba3d036955a79a49d2_1787285871.png?v=1787285873843\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_avataricon1691003_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/181fa58b557f68ba3d036955a79a49d2_1787285871.png?v=1787285873843\",\"username\":\"ミム\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon239_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"灼熱チキンレッグ\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":95,\"gender\":0,\"avatarurl\":\"hero_icon212_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"无风起浪\"}"
+      } ],
+      "num" : 8,
+      "endTimeMilli" : 1788321807544
+    },
+    "cityRewardSeenAt" : "2026-09-02T03:36:07.165Z",
+    "foundAt" : "2026-09-02T03:36:07.165Z"
   } ]
 }
