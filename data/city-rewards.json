@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T00:59:53.379903900Z",
+  "updatedAt" : "2026-09-02T01:01:49.894193700Z",
   "count" : 13,
   "locations" : [ {
     "serverId" : 126,
@@ -176,25 +176,6 @@
     "cityRewardSeenAt" : "2026-09-02T00:54:52.809Z",
     "foundAt" : "2026-09-02T00:54:52.809Z"
   }, {
-    "serverId" : 3355,
-    "x" : 447,
-    "y" : 633,
-    "uid" : "374031078452",
-    "username" : "SPLICER",
-    "level" : 100,
-    "allianceId" : "500327049",
-    "allianceTag" : "-B3-",
-    "pointId" : 324320,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4823158713711474178",
-      "players" : [ ],
-      "num" : 26,
-      "endTimeMilli" : 1788310061826
-    },
-    "cityRewardSeenAt" : "2026-09-02T00:25:04.317Z",
-    "foundAt" : "2026-09-02T00:25:04.317Z"
-  }, {
     "serverId" : 3396,
     "x" : 396,
     "y" : 434,
@@ -213,6 +194,28 @@
     },
     "cityRewardSeenAt" : "2026-09-02T00:41:42.164Z",
     "foundAt" : "2026-09-02T00:41:42.164Z"
+  }, {
+    "serverId" : 3436,
+    "x" : 424,
+    "y" : 526,
+    "uid" : "8171941105004",
+    "username" : "Trama",
+    "level" : 100,
+    "allianceId" : "500336352",
+    "allianceTag" : "NepL",
+    "pointId" : 269525,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4823184385301469184",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d4681091aaac293ecfc4d1a195c4ccb1_1765889642.png?v=1765889643513\",\"https://knight-cdn.akamaized.net/headimg/d4681091aaac293ecfc4d1a195c4ccb1_1767275803.png?v=1767275805008\",\"https://knight-cdn.akamaized.net/headimg/d4681091aaac293ecfc4d1a195c4ccb1_1775452713.png?v=1775452714614\",\"https://knight-cdn.akamaized.net/headimg/d4681091aaac293ecfc4d1a195c4ccb1_1787016320.png?v=1787016321210\"],\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d4681091aaac293ecfc4d1a195c4ccb1_1787016320.png?v=1787016321210\",\"username\":\"수빈\"}"
+      } ],
+      "num" : 12,
+      "endTimeMilli" : 1788311591972
+    },
+    "cityRewardSeenAt" : "2026-09-02T00:57:53.616Z",
+    "foundAt" : "2026-09-02T00:57:53.616Z"
   }, {
     "serverId" : 3540,
     "x" : 396,
