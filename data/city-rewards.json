@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T17:34:26.023143Z",
-  "count" : 55,
+  "updatedAt" : "2026-09-02T17:36:47.148314900Z",
+  "count" : 58,
   "locations" : [ {
     "serverId" : 73,
     "x" : 617,
@@ -643,25 +643,6 @@
     "cityRewardSeenAt" : "2026-09-02T17:12:19.857Z",
     "foundAt" : "2026-09-02T17:12:19.857Z"
   }, {
-    "serverId" : 2365,
-    "x" : 370,
-    "y" : 444,
-    "uid" : "590391403735",
-    "username" : "ThậpTự",
-    "level" : 100,
-    "allianceId" : "400373334",
-    "allianceTag" : "VBRO",
-    "pointId" : 227514,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4824143280269851136",
-      "players" : [ ],
-      "num" : 17,
-      "endTimeMilli" : 1788368746566
-    },
-    "cityRewardSeenAt" : "2026-09-02T17:01:12.352Z",
-    "foundAt" : "2026-09-02T17:01:12.352Z"
-  }, {
     "serverId" : 2622,
     "x" : 263,
     "y" : 483,
@@ -775,6 +756,63 @@
     },
     "cityRewardSeenAt" : "2026-09-02T17:19:31.172Z",
     "foundAt" : "2026-09-02T17:19:31.172Z"
+  }, {
+    "serverId" : 2747,
+    "x" : 430,
+    "y" : 634,
+    "uid" : "356553941945",
+    "username" : "WeakMM",
+    "level" : 100,
+    "allianceId" : "500251922",
+    "allianceTag" : "747S",
+    "pointId" : 324824,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4824184580759451142",
+      "players" : [ ],
+      "num" : 32,
+      "endTimeMilli" : 1788371208267
+    },
+    "cityRewardSeenAt" : "2026-09-02T17:34:00.660Z",
+    "foundAt" : "2026-09-02T17:34:00.660Z"
+  }, {
+    "serverId" : 2747,
+    "x" : 437,
+    "y" : 657,
+    "uid" : "577459419040",
+    "username" : "ΞΠCФÐΞЯ",
+    "level" : 100,
+    "allianceId" : "500251922",
+    "allianceTag" : "747S",
+    "pointId" : 336603,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4824187500934559233",
+      "players" : [ ],
+      "num" : 31,
+      "endTimeMilli" : 1788371382323
+    },
+    "cityRewardSeenAt" : "2026-09-02T17:34:00.660Z",
+    "foundAt" : "2026-09-02T17:34:00.660Z"
+  }, {
+    "serverId" : 2747,
+    "x" : 443,
+    "y" : 639,
+    "uid" : "810843211924",
+    "username" : "CWally",
+    "level" : 100,
+    "allianceId" : "500251922",
+    "allianceTag" : "747S",
+    "pointId" : 327390,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4824174920337815049",
+      "players" : [ ],
+      "num" : 38,
+      "endTimeMilli" : 1788370632461
+    },
+    "cityRewardSeenAt" : "2026-09-02T17:34:00.660Z",
+    "foundAt" : "2026-09-02T17:34:00.660Z"
   }, {
     "serverId" : 2864,
     "x" : 424,
@@ -1278,5 +1316,36 @@
     },
     "cityRewardSeenAt" : "2026-09-02T17:02:25.912Z",
     "foundAt" : "2026-09-02T17:02:25.912Z"
+  }, {
+    "serverId" : 4366,
+    "x" : 435,
+    "y" : 693,
+    "uid" : "9484283154702",
+    "username" : "KarStone",
+    "level" : 100,
+    "allianceId" : "500447816",
+    "allianceTag" : "LG3N",
+    "pointId" : 355034,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4824192098295225353",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon173_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"亞瑟潘希魯貢\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"hero_icon013_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"kangnalu\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":245,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"angle252\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":247,\"gender\":0,\"avatarurl\":\"hero_icon140_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Gene\"}"
+      } ],
+      "num" : 19,
+      "endTimeMilli" : 1788371656347
+    },
+    "cityRewardSeenAt" : "2026-09-02T17:33:01.500Z",
+    "foundAt" : "2026-09-02T17:33:01.500Z"
   } ]
 }
