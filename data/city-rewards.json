@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T07:44:05.205750900Z",
+  "updatedAt" : "2026-09-02T07:46:20.921073500Z",
   "count" : 8,
   "locations" : [ {
     "serverId" : 211,
@@ -21,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-09-02T07:23:18.800Z",
     "foundAt" : "2026-09-02T07:23:18.800Z"
+  }, {
+    "serverId" : 564,
+    "x" : 421,
+    "y" : 291,
+    "uid" : "406804181556",
+    "username" : "人吉善吉",
+    "level" : 100,
+    "allianceId" : "330578",
+    "allianceTag" : "BFOX",
+    "pointId" : 149203,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4823603323859134473",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1788336562656
+    },
+    "cityRewardSeenAt" : "2026-09-02T07:42:13.945Z",
+    "foundAt" : "2026-09-02T07:42:13.945Z"
   }, {
     "serverId" : 1567,
     "x" : 443,
@@ -59,25 +78,6 @@
     },
     "cityRewardSeenAt" : "2026-09-02T07:11:39.286Z",
     "foundAt" : "2026-09-02T07:11:39.286Z"
-  }, {
-    "serverId" : 1805,
-    "x" : 698,
-    "y" : 12,
-    "uid" : "548584068877",
-    "username" : "wy.548584068877",
-    "level" : 100,
-    "allianceId" : "500015942",
-    "allianceTag" : "navi",
-    "pointId" : 6494,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4823568617554450950",
-      "players" : [ ],
-      "num" : 1,
-      "endTimeMilli" : 1788334493999
-    },
-    "cityRewardSeenAt" : "2026-09-02T07:10:51.189Z",
-    "foundAt" : "2026-09-02T07:10:51.189Z"
   }, {
     "serverId" : 3529,
     "x" : 408,
