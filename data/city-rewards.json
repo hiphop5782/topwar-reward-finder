@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T02:44:49.959635900Z",
-  "count" : 7,
+  "updatedAt" : "2026-09-02T02:46:55.397402500Z",
+  "count" : 9,
   "locations" : [ {
     "serverId" : 1816,
     "x" : 386,
@@ -64,6 +64,56 @@
     },
     "cityRewardSeenAt" : "2026-09-02T02:30:17.751Z",
     "foundAt" : "2026-09-02T02:30:17.751Z"
+  }, {
+    "serverId" : 2275,
+    "x" : 358,
+    "y" : 472,
+    "uid" : "328845685535",
+    "username" : "Laguna",
+    "level" : 100,
+    "allianceId" : "500129309",
+    "allianceTag" : "OP75",
+    "pointId" : 241844,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4823296421636720132",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1788318269858
+    },
+    "cityRewardSeenAt" : "2026-09-02T02:42:56.418Z",
+    "foundAt" : "2026-09-02T02:42:56.418Z"
+  }, {
+    "serverId" : 2275,
+    "x" : 447,
+    "y" : 511,
+    "uid" : "8556477943400",
+    "username" : "Loka",
+    "level" : 100,
+    "allianceId" : "500130034",
+    "allianceTag" : "UA75",
+    "pointId" : 261856,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4823296184004232710",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":230,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/425249064340.jpg?v=1648170864681\",\"username\":\"ZGrill\"}"
+      }, {
+        "frameId" : 8,
+        "playerInfo" : "{\"nationalflag\":105,\"gender\":0,\"avatarurl\":\"hero_icon1209_KASTUKAMI_1_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"SP\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon162_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Slyder\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":31,\"gender\":0,\"avatarurl\":\"hero_icon011_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/833213597923.jpg?v=1710690125135\",\"username\":\"ADRIANO\"}"
+      } ],
+      "num" : 8,
+      "endTimeMilli" : 1788318255694
+    },
+    "cityRewardSeenAt" : "2026-09-02T02:42:57.560Z",
+    "foundAt" : "2026-09-02T02:42:57.560Z"
   }, {
     "serverId" : 3522,
     "x" : 402,
