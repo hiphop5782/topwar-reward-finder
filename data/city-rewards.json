@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T20:04:58.256396500Z",
-  "count" : 25,
+  "updatedAt" : "2026-09-02T20:06:48.088188400Z",
+  "count" : 23,
   "locations" : [ {
+    "serverId" : 511,
+    "x" : 607,
+    "y" : 447,
+    "uid" : "350956884899",
+    "username" : "wy.350956884899",
+    "level" : 100,
+    "allianceId" : "100162335",
+    "allianceTag" : "caik",
+    "pointId" : 229168,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4824336196006313475",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1788380245240
+    },
+    "cityRewardSeenAt" : "2026-09-02T20:03:53.753Z",
+    "foundAt" : "2026-09-02T20:03:53.753Z"
+  }, {
     "serverId" : 736,
     "x" : 409,
     "y" : 325,
@@ -239,63 +258,6 @@
     },
     "cityRewardSeenAt" : "2026-09-02T19:40:59.121Z",
     "foundAt" : "2026-09-02T19:40:59.121Z"
-  }, {
-    "serverId" : 3649,
-    "x" : 395,
-    "y" : 575,
-    "uid" : "850109262149",
-    "username" : "ALEX®🎖️",
-    "level" : 100,
-    "allianceId" : "500364166",
-    "allianceTag" : "AsgS",
-    "pointId" : 294598,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4824299518379721218",
-      "players" : [ ],
-      "num" : 42,
-      "endTimeMilli" : 1788378059083
-    },
-    "cityRewardSeenAt" : "2026-09-02T19:31:35.138Z",
-    "foundAt" : "2026-09-02T19:31:35.138Z"
-  }, {
-    "serverId" : 3649,
-    "x" : 419,
-    "y" : 611,
-    "uid" : "483897021125",
-    "username" : "Groot🪾",
-    "level" : 100,
-    "allianceId" : "500364166",
-    "allianceTag" : "AsgS",
-    "pointId" : 313042,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4824314898892489221",
-      "players" : [ ],
-      "num" : 18,
-      "endTimeMilli" : 1788378975833
-    },
-    "cityRewardSeenAt" : "2026-09-02T19:31:43.545Z",
-    "foundAt" : "2026-09-02T19:31:43.545Z"
-  }, {
-    "serverId" : 3649,
-    "x" : 423,
-    "y" : 611,
-    "uid" : "545542944522",
-    "username" : "GHOSTRID",
-    "level" : 100,
-    "allianceId" : "500364166",
-    "allianceTag" : "AsgS",
-    "pointId" : 313044,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4824313947792114183",
-      "players" : [ ],
-      "num" : 18,
-      "endTimeMilli" : 1788378919143
-    },
-    "cityRewardSeenAt" : "2026-09-02T19:31:43.545Z",
-    "foundAt" : "2026-09-02T19:31:43.545Z"
   }, {
     "serverId" : 3766,
     "x" : 424,
