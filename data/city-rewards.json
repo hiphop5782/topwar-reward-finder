@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T18:26:57.846708100Z",
-  "count" : 27,
+  "updatedAt" : "2026-09-02T18:28:53.703621Z",
+  "count" : 28,
   "locations" : [ {
     "serverId" : 341,
     "x" : 388,
@@ -343,25 +343,6 @@
     "cityRewardSeenAt" : "2026-09-02T18:09:04.384Z",
     "foundAt" : "2026-09-02T18:09:04.384Z"
   }, {
-    "serverId" : 2687,
-    "x" : 374,
-    "y" : 610,
-    "uid" : "909930650195",
-    "username" : "Kαȥα🩴",
-    "level" : 100,
-    "allianceId" : "500237326",
-    "allianceTag" : "87GR",
-    "pointId" : 312508,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4824199495318568453",
-      "players" : [ ],
-      "num" : 11,
-      "endTimeMilli" : 1788372097244
-    },
-    "cityRewardSeenAt" : "2026-09-02T17:53:36.765Z",
-    "foundAt" : "2026-09-02T17:53:36.765Z"
-  }, {
     "serverId" : 3199,
     "x" : 415,
     "y" : 579,
@@ -575,5 +556,43 @@
     },
     "cityRewardSeenAt" : "2026-09-02T18:12:24.048Z",
     "foundAt" : "2026-09-02T18:12:24.048Z"
+  }, {
+    "serverId" : 4435,
+    "x" : 379,
+    "y" : 411,
+    "uid" : "9636925444435",
+    "username" : "WarPig",
+    "level" : 89,
+    "allianceId" : "500467370",
+    "allianceTag" : "TlSM",
+    "pointId" : 210622,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4824241449751193095",
+      "players" : [ ],
+      "num" : 25,
+      "endTimeMilli" : 1788374597923
+    },
+    "cityRewardSeenAt" : "2026-09-02T18:25:18.188Z",
+    "foundAt" : "2026-09-02T18:25:18.188Z"
+  }, {
+    "serverId" : 4435,
+    "x" : 384,
+    "y" : 410,
+    "uid" : "9633811894611",
+    "username" : "WTW",
+    "level" : 88,
+    "allianceId" : "500467370",
+    "allianceTag" : "TlSM",
+    "pointId" : 210113,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4824248486518236675",
+      "players" : [ ],
+      "num" : 17,
+      "endTimeMilli" : 1788375017347
+    },
+    "cityRewardSeenAt" : "2026-09-02T18:25:18.188Z",
+    "foundAt" : "2026-09-02T18:25:18.188Z"
   } ]
 }
