@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T18:47:59.775706800Z",
-  "count" : 26,
+  "updatedAt" : "2026-09-02T18:50:42.278498600Z",
+  "count" : 27,
   "locations" : [ {
     "serverId" : 1020,
     "x" : 396,
@@ -592,5 +592,24 @@
     },
     "cityRewardSeenAt" : "2026-09-02T18:25:18.188Z",
     "foundAt" : "2026-09-02T18:25:18.188Z"
+  }, {
+    "serverId" : 4539,
+    "x" : 425,
+    "y" : 529,
+    "uid" : "9899928916411",
+    "username" : "斥候ちゃん",
+    "level" : 63,
+    "allianceId" : "500501520",
+    "allianceTag" : "EoD0",
+    "pointId" : 271061,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4824264641131804160",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1788375980237
+    },
+    "cityRewardSeenAt" : "2026-09-02T18:48:06.424Z",
+    "foundAt" : "2026-09-02T18:48:06.424Z"
   } ]
 }
