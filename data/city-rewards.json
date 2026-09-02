@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-02T21:39:58.505308200Z",
-  "count" : 17,
+  "updatedAt" : "2026-09-02T21:42:29.451394600Z",
+  "count" : 18,
   "locations" : [ {
     "serverId" : 174,
     "x" : 273,
@@ -119,6 +119,25 @@
     },
     "cityRewardSeenAt" : "2026-09-02T21:30:01.778Z",
     "foundAt" : "2026-09-02T21:30:01.778Z"
+  }, {
+    "serverId" : 655,
+    "x" : 264,
+    "y" : 728,
+    "uid" : "458536772239",
+    "username" : "ゆうや03",
+    "level" : 100,
+    "allianceId" : "388137",
+    "allianceTag" : "NiKU",
+    "pointId" : 372869,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4824436943255576064",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1788386250244
+    },
+    "cityRewardSeenAt" : "2026-09-02T21:40:22.895Z",
+    "foundAt" : "2026-09-02T21:40:22.895Z"
   }, {
     "serverId" : 1175,
     "x" : 422,
@@ -315,25 +334,6 @@
     "cityRewardSeenAt" : "2026-09-02T21:20:47.903Z",
     "foundAt" : "2026-09-02T21:20:47.903Z"
   }, {
-    "serverId" : 3723,
-    "x" : 406,
-    "y" : 334,
-    "uid" : "8584235978353",
-    "username" : "Kerl",
-    "level" : 100,
-    "allianceId" : "500371326",
-    "allianceTag" : "Xerm",
-    "pointId" : 171212,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4824399707585189378",
-      "players" : [ ],
-      "num" : 5,
-      "endTimeMilli" : 1788384030825
-    },
-    "cityRewardSeenAt" : "2026-09-02T21:06:03.735Z",
-    "foundAt" : "2026-09-02T21:06:03.735Z"
-  }, {
     "serverId" : 4024,
     "x" : 393,
     "y" : 563,
@@ -347,10 +347,29 @@
       "itemId" : 260617003,
       "instanceId" : "4824432882114064390",
       "players" : [ ],
-      "num" : 4,
+      "num" : 8,
       "endTimeMilli" : 1788386008181
     },
-    "cityRewardSeenAt" : "2026-09-02T21:27:57.869Z",
-    "foundAt" : "2026-09-02T21:27:57.869Z"
+    "cityRewardSeenAt" : "2026-09-02T21:38:46.395Z",
+    "foundAt" : "2026-09-02T21:38:46.395Z"
+  }, {
+    "serverId" : 4441,
+    "x" : 416,
+    "y" : 664,
+    "uid" : "9641283850585",
+    "username" : "Tolstoy",
+    "level" : 87,
+    "allianceId" : "500466652",
+    "allianceTag" : "LTDO",
+    "pointId" : 340177,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4824419888059822597",
+      "players" : [ ],
+      "num" : 34,
+      "endTimeMilli" : 1788385233675
+    },
+    "cityRewardSeenAt" : "2026-09-02T21:38:46.786Z",
+    "foundAt" : "2026-09-02T21:38:46.786Z"
   } ]
 }
