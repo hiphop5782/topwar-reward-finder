@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T03:14:19.413466Z",
-  "count" : 4,
+  "updatedAt" : "2026-09-03T03:16:25.776261500Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 616,
     "x" : 420,
@@ -21,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-09-03T02:53:18.592Z",
     "foundAt" : "2026-09-03T02:53:18.592Z"
+  }, {
+    "serverId" : 3436,
+    "x" : 339,
+    "y" : 491,
+    "uid" : "503612937848",
+    "username" : "작은촛불🔥",
+    "level" : 100,
+    "allianceId" : "500336408",
+    "allianceTag" : "SVal",
+    "pointId" : 251562,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4824763454153480196",
+      "players" : [ ],
+      "num" : 20,
+      "endTimeMilli" : 1788405711810
+    },
+    "cityRewardSeenAt" : "2026-09-03T03:12:57.133Z",
+    "foundAt" : "2026-09-03T03:12:57.133Z"
   }, {
     "serverId" : 3524,
     "x" : 340,
@@ -114,5 +133,24 @@
     },
     "cityRewardSeenAt" : "2026-09-03T02:46:53.701Z",
     "foundAt" : "2026-09-03T02:46:53.701Z"
+  }, {
+    "serverId" : 4342,
+    "x" : 421,
+    "y" : 317,
+    "uid" : "9406682992886",
+    "username" : "nelle",
+    "level" : 100,
+    "allianceId" : "500439430",
+    "allianceTag" : "BNW!",
+    "pointId" : 162515,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4824762794708691970",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1788405672504
+    },
+    "cityRewardSeenAt" : "2026-09-03T03:12:40.540Z",
+    "foundAt" : "2026-09-03T03:12:40.540Z"
   } ]
 }
