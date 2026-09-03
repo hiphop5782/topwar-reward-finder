@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T23:00:06.026093700Z",
-  "count" : 15,
+  "updatedAt" : "2026-09-03T23:02:57.086789400Z",
+  "count" : 17,
   "locations" : [ {
     "serverId" : 1547,
     "x" : 446,
@@ -371,5 +371,43 @@
     },
     "cityRewardSeenAt" : "2026-09-03T22:34:55.596Z",
     "foundAt" : "2026-09-03T22:34:55.596Z"
+  }, {
+    "serverId" : 4347,
+    "x" : 439,
+    "y" : 415,
+    "uid" : "531344447191",
+    "username" : "majestic",
+    "level" : 100,
+    "allianceId" : "500442349",
+    "allianceTag" : "NH47",
+    "pointId" : 212700,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4825970839220516360",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1788477677568
+    },
+    "cityRewardSeenAt" : "2026-09-03T22:59:49.421Z",
+    "foundAt" : "2026-09-03T22:59:49.421Z"
+  }, {
+    "serverId" : 4382,
+    "x" : 458,
+    "y" : 464,
+    "uid" : "9528304242974",
+    "username" : "さと",
+    "level" : 100,
+    "allianceId" : "500451079",
+    "allianceTag" : "FTS8",
+    "pointId" : 237798,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4825965567315950601",
+      "players" : [ ],
+      "num" : 14,
+      "endTimeMilli" : 1788477363338
+    },
+    "cityRewardSeenAt" : "2026-09-03T22:59:30.402Z",
+    "foundAt" : "2026-09-03T22:59:30.402Z"
   } ]
 }
