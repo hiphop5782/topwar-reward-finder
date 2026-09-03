@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T02:38:16.804741800Z",
-  "count" : 13,
+  "updatedAt" : "2026-09-03T02:40:52.056962Z",
+  "count" : 14,
   "locations" : [ {
     "serverId" : 1336,
     "x" : 398,
@@ -273,5 +273,36 @@
     },
     "cityRewardSeenAt" : "2026-09-03T02:17:13.178Z",
     "foundAt" : "2026-09-03T02:17:13.178Z"
+  }, {
+    "serverId" : 4517,
+    "x" : 420,
+    "y" : 564,
+    "uid" : "9843446845861",
+    "username" : "akf",
+    "level" : 78,
+    "allianceId" : "500493622",
+    "allianceTag" : "CNRG",
+    "pointId" : 288979,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4824734239903926784",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"CD19\"}"
+      }, {
+        "frameId" : 120,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/9bf877edc04a335b786b351a9bd864ca_1787689884.png?v=1787689885071\",\"https://knight-cdn.akamaized.net/headimg/9bf877edc04a335b786b351a9bd864ca_1787768225.png?v=1787768227654\"],\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/9bf877edc04a335b786b351a9bd864ca_1787768225.png?v=1787768227654\",\"username\":\"Kisho\"}"
+      }, {
+        "frameId" : 119,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Kred12\"}"
+      }, {
+        "frameId" : 3,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/29fa7c3f18bbd940e8dc28a78b042a4a_1784745702.png?v=1784745703310\",\"https://knight-cdn.akamaized.net/headimg/29fa7c3f18bbd940e8dc28a78b042a4a_1786206179.png?v=1786206180710\",\"https://knight-cdn.akamaized.net/headimg/29fa7c3f18bbd940e8dc28a78b042a4a_1787790354.png?v=1787790355816\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/29fa7c3f18bbd940e8dc28a78b042a4a_1787790354.png?v=1787790355816\",\"username\":\"Baali\"}"
+      } ],
+      "num" : 17,
+      "endTimeMilli" : 1788403970505
+    },
+    "cityRewardSeenAt" : "2026-09-03T02:38:14.798Z",
+    "foundAt" : "2026-09-03T02:38:14.798Z"
   } ]
 }
