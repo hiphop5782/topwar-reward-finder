@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T14:42:57.891853100Z",
-  "count" : 17,
+  "updatedAt" : "2026-09-03T14:44:10.960257500Z",
+  "count" : 16,
   "locations" : [ {
+    "serverId" : 485,
+    "x" : 498,
+    "y" : 182,
+    "uid" : "8314617302465",
+    "username" : "島梟",
+    "level" : 100,
+    "allianceId" : "100038891",
+    "allianceTag" : "KaOS",
+    "pointId" : 93434,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4825451207667730945",
+      "players" : [ ],
+      "num" : 21,
+      "endTimeMilli" : 1788446705114
+    },
+    "cityRewardSeenAt" : "2026-09-03T14:40:57.899Z",
+    "foundAt" : "2026-09-03T14:40:57.899Z"
+  }, {
     "serverId" : 542,
     "x" : 210,
     "y" : 656,
@@ -213,47 +232,6 @@
     },
     "cityRewardSeenAt" : "2026-09-03T14:13:48.881Z",
     "foundAt" : "2026-09-03T14:13:48.881Z"
-  }, {
-    "serverId" : 3537,
-    "x" : 390,
-    "y" : 610,
-    "uid" : "7622289525612",
-    "username" : "🦎Cimot",
-    "level" : 100,
-    "allianceId" : "500355189",
-    "allianceTag" : "UTP1",
-    "pointId" : 312516,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4825414876222169608",
-      "players" : [ ],
-      "num" : 13,
-      "endTimeMilli" : 1788444539591
-    },
-    "cityRewardSeenAt" : "2026-09-03T14:08:05.985Z",
-    "foundAt" : "2026-09-03T14:08:05.985Z"
-  }, {
-    "serverId" : 3688,
-    "x" : 681,
-    "y" : 703,
-    "uid" : "8556555669096",
-    "username" : "Dohim",
-    "level" : 100,
-    "allianceId" : "500373343",
-    "allianceTag" : "?3oQ",
-    "pointId" : 360277,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4825441371590283268",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":193,\"gender\":0,\"avatarurl\":\"hero_icon004_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Dohim\"}"
-      } ],
-      "num" : 1,
-      "endTimeMilli" : 1788446118838
-    },
-    "cityRewardSeenAt" : "2026-09-03T14:08:23.862Z",
-    "foundAt" : "2026-09-03T14:08:23.862Z"
   }, {
     "serverId" : 4199,
     "x" : 545,
