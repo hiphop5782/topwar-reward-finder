@@ -1,6 +1,56 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T21:02:51.893130700Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-03T21:05:10.993006600Z",
+  "count" : 2,
+  "locations" : [ {
+    "serverId" : 2655,
+    "x" : 432,
+    "y" : 288,
+    "uid" : "885757921799",
+    "username" : "BBanks",
+    "level" : 100,
+    "allianceId" : "500234335",
+    "allianceTag" : "NpNp",
+    "pointId" : 147673,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4825838691649109509",
+      "players" : [ ],
+      "num" : 14,
+      "endTimeMilli" : 1788469800959
+    },
+    "cityRewardSeenAt" : "2026-09-03T21:02:10.583Z",
+    "foundAt" : "2026-09-03T21:02:10.583Z"
+  }, {
+    "serverId" : 2655,
+    "x" : 435,
+    "y" : 311,
+    "uid" : "885429488135",
+    "username" : "SKOL🙏",
+    "level" : 100,
+    "allianceId" : "500234335",
+    "allianceTag" : "NpNp",
+    "pointId" : 159450,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4825838850931998215",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":109,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Scrool\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":179,\"gender\":0,\"avatarurl\":\"hero_icon019_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"Musssasi\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":65,\"gender\":0,\"avatarurl\":\"hero_icon118_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"koka\"}"
+      }, {
+        "frameId" : 114,
+        "playerInfo" : "{\"nationalflag\":174,\"gender\":0,\"avatarurl\":\"hero_icon213_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"Julián🔥\"}"
+      } ],
+      "num" : 14,
+      "endTimeMilli" : 1788469810453
+    },
+    "cityRewardSeenAt" : "2026-09-03T21:02:20.129Z",
+    "foundAt" : "2026-09-03T21:02:20.129Z"
+  } ]
 }
