@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T03:46:08.304419100Z",
+  "updatedAt" : "2026-09-03T03:48:24.318803300Z",
   "count" : 16,
   "locations" : [ {
     "serverId" : 188,
@@ -91,24 +91,43 @@
     "cityRewardSeenAt" : "2026-09-03T03:27:05.863Z",
     "foundAt" : "2026-09-03T03:27:05.863Z"
   }, {
-    "serverId" : 3436,
-    "x" : 339,
-    "y" : 491,
-    "uid" : "503612937848",
-    "username" : "작은촛불🔥",
+    "serverId" : 3396,
+    "x" : 398,
+    "y" : 416,
+    "uid" : "915696065148",
+    "username" : "NoTop",
     "level" : 100,
-    "allianceId" : "500336408",
-    "allianceTag" : "SVal",
-    "pointId" : 251562,
+    "allianceId" : "500331035",
+    "allianceTag" : "96X",
+    "pointId" : 213192,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4824794208199673856",
+      "players" : [ ],
+      "num" : 42,
+      "endTimeMilli" : 1788407544894
+    },
+    "cityRewardSeenAt" : "2026-09-03T03:44:30.711Z",
+    "foundAt" : "2026-09-03T03:44:30.711Z"
+  }, {
+    "serverId" : 3396,
+    "x" : 414,
+    "y" : 530,
+    "uid" : "367486063612",
+    "username" : "Huni🐰",
+    "level" : 100,
+    "allianceId" : "500330742",
+    "allianceTag" : "96Y",
+    "pointId" : 271568,
     "cityReward" : {
       "itemId" : 260617002,
-      "instanceId" : "4824763454153480196",
+      "instanceId" : "4824800373893662725",
       "players" : [ ],
-      "num" : 20,
-      "endTimeMilli" : 1788405711810
+      "num" : 45,
+      "endTimeMilli" : 1788407912398
     },
-    "cityRewardSeenAt" : "2026-09-03T03:12:57.133Z",
-    "foundAt" : "2026-09-03T03:12:57.133Z"
+    "cityRewardSeenAt" : "2026-09-03T03:44:39.392Z",
+    "foundAt" : "2026-09-03T03:44:39.392Z"
   }, {
     "serverId" : 3478,
     "x" : 410,
@@ -317,24 +336,5 @@
     },
     "cityRewardSeenAt" : "2026-09-03T03:16:25.308Z",
     "foundAt" : "2026-09-03T03:16:25.308Z"
-  }, {
-    "serverId" : 4342,
-    "x" : 421,
-    "y" : 317,
-    "uid" : "9406682992886",
-    "username" : "nelle",
-    "level" : 100,
-    "allianceId" : "500439430",
-    "allianceTag" : "BNW!",
-    "pointId" : 162515,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4824762794708691970",
-      "players" : [ ],
-      "num" : 15,
-      "endTimeMilli" : 1788405672504
-    },
-    "cityRewardSeenAt" : "2026-09-03T03:12:40.540Z",
-    "foundAt" : "2026-09-03T03:12:40.540Z"
   } ]
 }
