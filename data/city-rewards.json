@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T10:40:41.191136400Z",
+  "updatedAt" : "2026-09-03T10:41:23.496364900Z",
   "count" : 18,
   "locations" : [ {
     "serverId" : 164,
@@ -220,25 +220,6 @@
     "cityRewardSeenAt" : "2026-09-03T10:30:34.781Z",
     "foundAt" : "2026-09-03T10:30:34.781Z"
   }, {
-    "serverId" : 2735,
-    "x" : 391,
-    "y" : 599,
-    "uid" : "897969330728",
-    "username" : "Sorot999",
-    "level" : 100,
-    "allianceId" : "500250387",
-    "allianceTag" : "S735",
-    "pointId" : 306884,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4825196482620907008",
-      "players" : [ ],
-      "num" : 6,
-      "endTimeMilli" : 1788431522318
-    },
-    "cityRewardSeenAt" : "2026-09-03T10:06:05.041Z",
-    "foundAt" : "2026-09-03T10:06:05.041Z"
-  }, {
     "serverId" : 3223,
     "x" : 422,
     "y" : 418,
@@ -383,5 +364,24 @@
     },
     "cityRewardSeenAt" : "2026-09-03T10:17:05.272Z",
     "foundAt" : "2026-09-03T10:17:05.272Z"
+  }, {
+    "serverId" : 4495,
+    "x" : 584,
+    "y" : 764,
+    "uid" : "9780488016271",
+    "username" : "Anti777",
+    "level" : 65,
+    "allianceId" : null,
+    "allianceTag" : null,
+    "pointId" : 391461,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4825226672869678594",
+      "players" : [ ],
+      "num" : 24,
+      "endTimeMilli" : 1788433321797
+    },
+    "cityRewardSeenAt" : "2026-09-03T10:39:21.943Z",
+    "foundAt" : "2026-09-03T10:39:21.943Z"
   } ]
 }
