@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T22:20:05.959888700Z",
-  "count" : 5,
+  "updatedAt" : "2026-09-03T22:21:46.418768200Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 193,
     "x" : 543,
@@ -115,5 +115,27 @@
     },
     "cityRewardSeenAt" : "2026-09-03T22:12:47.007Z",
     "foundAt" : "2026-09-03T22:12:47.007Z"
+  }, {
+    "serverId" : 1668,
+    "x" : 583,
+    "y" : 451,
+    "uid" : "316250632881",
+    "username" : "Bus",
+    "level" : 100,
+    "allianceId" : "300091258",
+    "allianceTag" : "A5LM",
+    "pointId" : 231204,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4825938188257003520",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/516773222020.jpg?v=1716586416477\",\"https://knight-cdn.akamaized.net/headimg/bfc86dfd17abda404cfef857426281b1_1746223293.jpg?v=1746223296240\",\"https://knight-cdn.akamaized.net/headimg/bfc86dfd17abda404cfef857426281b1_1766697195.png?v=1766697198925\"],\"nationalflag\":206,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/516773222020.jpg?v=1716586416477\",\"username\":\"D☻nkəy💫\"}"
+      } ],
+      "num" : 1,
+      "endTimeMilli" : 1788475731419
+    },
+    "cityRewardSeenAt" : "2026-09-03T22:19:02.511Z",
+    "foundAt" : "2026-09-03T22:19:02.511Z"
   } ]
 }
