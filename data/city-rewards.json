@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T12:25:18.592317Z",
-  "count" : 93,
+  "updatedAt" : "2026-09-03T12:27:39.474377900Z",
+  "count" : 96,
   "locations" : [ {
     "serverId" : 200,
     "x" : 74,
@@ -1201,6 +1201,44 @@
     "cityRewardSeenAt" : "2026-09-03T12:11:16.513Z",
     "foundAt" : "2026-09-03T12:11:16.513Z"
   }, {
+    "serverId" : 1175,
+    "x" : 433,
+    "y" : 305,
+    "uid" : "352949498797",
+    "username" : "Teutates",
+    "level" : 100,
+    "allianceId" : "200143136",
+    "allianceTag" : "GS75",
+    "pointId" : 156377,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4825334842290417158",
+      "players" : [ ],
+      "num" : 14,
+      "endTimeMilli" : 1788439769197
+    },
+    "cityRewardSeenAt" : "2026-09-03T12:23:06.005Z",
+    "foundAt" : "2026-09-03T12:23:06.005Z"
+  }, {
+    "serverId" : 1175,
+    "x" : 447,
+    "y" : 647,
+    "uid" : "338449797976",
+    "username" : "♛ᵁⁿⁱᵏᵏ♛",
+    "level" : 100,
+    "allianceId" : "200138034",
+    "allianceTag" : "VX75",
+    "pointId" : 331488,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4825334002607533577",
+      "players" : [ ],
+      "num" : 22,
+      "endTimeMilli" : 1788439719148
+    },
+    "cityRewardSeenAt" : "2026-09-03T12:23:49.177Z",
+    "foundAt" : "2026-09-03T12:23:49.177Z"
+  }, {
     "serverId" : 1378,
     "x" : 419,
     "y" : 409,
@@ -1570,6 +1608,31 @@
     },
     "cityRewardSeenAt" : "2026-09-03T12:18:46.260Z",
     "foundAt" : "2026-09-03T12:18:46.260Z"
+  }, {
+    "serverId" : 2622,
+    "x" : 541,
+    "y" : 465,
+    "uid" : "361911694301",
+    "username" : "Ethos",
+    "level" : 100,
+    "allianceId" : "500220540",
+    "allianceTag" : "FOXC",
+    "pointId" : 238351,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4825340071363509253",
+      "players" : [ {
+        "frameId" : 49,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/278750405101.jpg?v=1590490810071\"],\"nationalflag\":158,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/278750405101.jpg?v=1590490810071\",\"username\":\"peter\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/361911694301.jpg?v=1637983229990\",\"username\":\"Ethos\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1788440080874
+    },
+    "cityRewardSeenAt" : "2026-09-03T12:24:53.229Z",
+    "foundAt" : "2026-09-03T12:24:53.229Z"
   }, {
     "serverId" : 3005,
     "x" : 627,
