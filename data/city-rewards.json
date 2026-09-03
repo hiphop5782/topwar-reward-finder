@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T16:33:50.535558500Z",
-  "count" : 86,
+  "updatedAt" : "2026-09-03T16:34:10.623924500Z",
+  "count" : 85,
   "locations" : [ {
     "serverId" : 174,
     "x" : 628,
@@ -288,44 +288,6 @@
     "cityRewardSeenAt" : "2026-09-03T16:26:33.661Z",
     "foundAt" : "2026-09-03T16:26:33.661Z"
   }, {
-    "serverId" : 607,
-    "x" : 366,
-    "y" : 662,
-    "uid" : "430238397023",
-    "username" : "毛根",
-    "level" : 100,
-    "allianceId" : "350161",
-    "allianceTag" : "kisi",
-    "pointId" : 339128,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4825550996149419525",
-      "players" : [ ],
-      "num" : 1,
-      "endTimeMilli" : 1788452652971
-    },
-    "cityRewardSeenAt" : "2026-09-03T15:58:58.731Z",
-    "foundAt" : "2026-09-03T15:58:58.731Z"
-  }, {
-    "serverId" : 607,
-    "x" : 370,
-    "y" : 662,
-    "uid" : "586614039135",
-    "username" : "ストロングうこん",
-    "level" : 100,
-    "allianceId" : "350161",
-    "allianceTag" : "kisi",
-    "pointId" : 339130,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4825550621883284998",
-      "players" : [ ],
-      "num" : 1,
-      "endTimeMilli" : 1788452630663
-    },
-    "cityRewardSeenAt" : "2026-09-03T15:58:58.731Z",
-    "foundAt" : "2026-09-03T15:58:58.731Z"
-  }, {
     "serverId" : 742,
     "x" : 463,
     "y" : 465,
@@ -401,6 +363,28 @@
     },
     "cityRewardSeenAt" : "2026-09-03T16:21:52.714Z",
     "foundAt" : "2026-09-03T16:21:52.714Z"
+  }, {
+    "serverId" : 805,
+    "x" : 400,
+    "y" : 622,
+    "uid" : "335783478095",
+    "username" : "Dark🦖",
+    "level" : 100,
+    "allianceId" : "200031564",
+    "allianceTag" : "805U",
+    "pointId" : 318665,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4825568279869671941",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":75,\"gender\":0,\"avatarurl\":\"hero_icon013_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Sawt\"}"
+      } ],
+      "num" : 16,
+      "endTimeMilli" : 1788453683161
+    },
+    "cityRewardSeenAt" : "2026-09-03T16:31:57.641Z",
+    "foundAt" : "2026-09-03T16:31:57.641Z"
   }, {
     "serverId" : 864,
     "x" : 425,
