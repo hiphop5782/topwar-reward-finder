@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T22:37:47.550771200Z",
-  "count" : 7,
+  "updatedAt" : "2026-09-03T22:38:26.449559Z",
+  "count" : 8,
   "locations" : [ {
     "serverId" : 193,
     "x" : 543,
@@ -106,6 +106,37 @@
     },
     "cityRewardSeenAt" : "2026-09-03T22:19:02.511Z",
     "foundAt" : "2026-09-03T22:19:02.511Z"
+  }, {
+    "serverId" : 1692,
+    "x" : 456,
+    "y" : 448,
+    "uid" : "486934459965",
+    "username" : "銀糸",
+    "level" : 100,
+    "allianceId" : "400012080",
+    "allianceTag" : "l692",
+    "pointId" : 229605,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4825944296136718339",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/356adabcece4b21647f82016bc71c4c0.jpg?v=1677498866806\",\"https://knight-cdn.akamaized.net/headimg/356adabcece4b21647f82016bc71c4c0_1750240699.jpg?v=1750240701079\",\"https://knight-cdn.akamaized.net/headimg/356adabcece4b21647f82016bc71c4c0_1782887317.png?v=1782887319456\",\"https://knight-cdn.akamaized.net/headimg/356adabcece4b21647f82016bc71c4c0_1783012173.png?v=1783012173860\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/356adabcece4b21647f82016bc71c4c0_1783012173.png?v=1783012173860\",\"username\":\"バンボレオ☆隠居\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_9_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"アール\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_10_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"username\":\"LIGHT\"}"
+      }, {
+        "frameId" : 53,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/7ede710ff9ba4e4995bc87713b36daba.jpg?v=1715905460445\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headicon_CongratsCiel\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/7ede710ff9ba4e4995bc87713b36daba.jpg?v=1715905460445\",\"username\":\"ケフカ\"}"
+      } ],
+      "num" : 11,
+      "endTimeMilli" : 1788476095477
+    },
+    "cityRewardSeenAt" : "2026-09-03T22:35:43.737Z",
+    "foundAt" : "2026-09-03T22:35:43.737Z"
   }, {
     "serverId" : 4208,
     "x" : 362,
