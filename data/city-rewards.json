@@ -1,8 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T10:58:42.830524600Z",
-  "count" : 25,
+  "updatedAt" : "2026-09-03T11:00:55.268645200Z",
+  "count" : 26,
   "locations" : [ {
+    "serverId" : 73,
+    "x" : 285,
+    "y" : 153,
+    "uid" : "446968595712",
+    "username" : "⚔️ユースフ⚔️",
+    "level" : 100,
+    "allianceId" : "52859",
+    "allianceTag" : "t3t",
+    "pointId" : 78479,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4825233631804953096",
+      "players" : [ ],
+      "num" : 30,
+      "endTimeMilli" : 1788433736582
+    },
+    "cityRewardSeenAt" : "2026-09-03T10:57:41.090Z",
+    "foundAt" : "2026-09-03T10:57:41.090Z"
+  }, {
+    "serverId" : 73,
+    "x" : 469,
+    "y" : 483,
+    "uid" : "94901149798",
+    "username" : "にゃんこ先生",
+    "level" : 100,
+    "allianceId" : "45467",
+    "allianceTag" : "@BC",
+    "pointId" : 247531,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4825241029315695111",
+      "players" : [ ],
+      "num" : 23,
+      "endTimeMilli" : 1788434177508
+    },
+    "cityRewardSeenAt" : "2026-09-03T10:58:21.670Z",
+    "foundAt" : "2026-09-03T10:58:21.670Z"
+  }, {
     "serverId" : 158,
     "x" : 352,
     "y" : 524,
@@ -59,37 +97,6 @@
     },
     "cityRewardSeenAt" : "2026-09-03T10:51:22.619Z",
     "foundAt" : "2026-09-03T10:51:22.619Z"
-  }, {
-    "serverId" : 164,
-    "x" : 302,
-    "y" : 606,
-    "uid" : "523413870250",
-    "username" : "流桜",
-    "level" : 100,
-    "allianceId" : "109296",
-    "allianceTag" : "IM11",
-    "pointId" : 310424,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4825214705830283269",
-      "players" : [ {
-        "frameId" : 1,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon002\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"星雫\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon102_newyear\",\"nickname\":\"wy.160011251876\",\"headimgurl\":null,\"usergender\":1,\"username\":\"５６しん\"}"
-      }, {
-        "frameId" : 27,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon2049_vtb\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"零清\"}"
-      }, {
-        "frameId" : 27,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/cac37ad6700e4373550183405627fafc_1780411723.png?v=1780411724108\",\"https://knight-cdn.akamaized.net/headimg/cac37ad6700e4373550183405627fafc_1784228847.png?v=1784228848581\",\"https://knight-cdn.akamaized.net/headimg/cac37ad6700e4373550183405627fafc_1744723559.jpg?v=1744723563854\",\"https://knight-cdn.akamaized.net/headimg/cac37ad6700e4373550183405627fafc_1749470077.jpg?v=1749470078076\"],\"nationalflag\":43,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/cac37ad6700e4373550183405627fafc_1744723559.jpg?v=1744723563854\",\"username\":\"ゆう333\"}"
-      } ],
-      "num" : 11,
-      "endTimeMilli" : 1788432608506
-    },
-    "cityRewardSeenAt" : "2026-09-03T10:24:05.529Z",
-    "foundAt" : "2026-09-03T10:24:05.529Z"
   }, {
     "serverId" : 188,
     "x" : 313,
