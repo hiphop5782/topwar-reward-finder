@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T18:18:47.637113600Z",
-  "count" : 12,
+  "updatedAt" : "2026-09-03T18:19:06.291427400Z",
+  "count" : 13,
   "locations" : [ {
     "serverId" : 1015,
     "x" : 416,
@@ -254,5 +254,24 @@
     },
     "cityRewardSeenAt" : "2026-09-03T17:57:31.696Z",
     "foundAt" : "2026-09-03T17:57:31.696Z"
+  }, {
+    "serverId" : 4317,
+    "x" : 424,
+    "y" : 568,
+    "uid" : "9099770794012",
+    "username" : "LXNTW",
+    "level" : 100,
+    "allianceId" : "500435486",
+    "allianceTag" : "~x17",
+    "pointId" : 291029,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4825683890643515911",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1788460574100
+    },
+    "cityRewardSeenAt" : "2026-09-03T18:16:40.965Z",
+    "foundAt" : "2026-09-03T18:16:40.965Z"
   } ]
 }
