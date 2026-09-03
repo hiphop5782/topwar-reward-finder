@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T05:50:58.081853100Z",
+  "updatedAt" : "2026-09-03T05:53:28.220771500Z",
   "count" : 8,
   "locations" : [ {
     "serverId" : 1812,
@@ -21,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-09-03T05:41:04.833Z",
     "foundAt" : "2026-09-03T05:41:04.833Z"
+  }, {
+    "serverId" : 2197,
+    "x" : 408,
+    "y" : 400,
+    "uid" : "783116249131",
+    "username" : "SlavaUkr",
+    "level" : 100,
+    "allianceId" : "500103137",
+    "allianceTag" : "F4M!",
+    "pointId" : 205005,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4824936115696904706",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1788416003240
+    },
+    "cityRewardSeenAt" : "2026-09-03T05:50:17.033Z",
+    "foundAt" : "2026-09-03T05:50:17.033Z"
   }, {
     "serverId" : 3324,
     "x" : 452,
@@ -135,24 +154,5 @@
     },
     "cityRewardSeenAt" : "2026-09-03T05:32:18.150Z",
     "foundAt" : "2026-09-03T05:32:18.150Z"
-  }, {
-    "serverId" : 4197,
-    "x" : 453,
-    "y" : 429,
-    "uid" : "7950113803452",
-    "username" : "Infernal",
-    "level" : 100,
-    "allianceId" : "500415383",
-    "allianceTag" : "#BMP",
-    "pointId" : 219875,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4824904178841209352",
-      "players" : [ ],
-      "num" : 4,
-      "endTimeMilli" : 1788414099655
-    },
-    "cityRewardSeenAt" : "2026-09-03T05:18:16.298Z",
-    "foundAt" : "2026-09-03T05:18:16.298Z"
   } ]
 }
