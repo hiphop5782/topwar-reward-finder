@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T15:34:05.351670100Z",
-  "count" : 3,
+  "updatedAt" : "2026-09-03T15:36:35.273602100Z",
+  "count" : 4,
   "locations" : [ {
     "serverId" : 619,
     "x" : 422,
@@ -80,5 +80,36 @@
     },
     "cityRewardSeenAt" : "2026-09-03T15:26:25.980Z",
     "foundAt" : "2026-09-03T15:26:25.980Z"
+  }, {
+    "serverId" : 680,
+    "x" : 560,
+    "y" : 326,
+    "uid" : "266712363466",
+    "username" : "Peter",
+    "level" : 100,
+    "allianceId" : "401583",
+    "allianceTag" : "Kafu",
+    "pointId" : 167193,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4825525588683214855",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon019\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"FURY\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_4_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"ppp\"}"
+      }, {
+        "frameId" : 97,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/aacb1eb54837c8115ec6d68f18434b8b_1725165499.jpg?v=1725165500815\",\"username\":\"エス\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon1117\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"T2020\"}"
+      } ],
+      "num" : 5,
+      "endTimeMilli" : 1788451138568
+    },
+    "cityRewardSeenAt" : "2026-09-03T15:33:42.721Z",
+    "foundAt" : "2026-09-03T15:33:42.721Z"
   } ]
 }
