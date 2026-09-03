@@ -1,8 +1,68 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T19:38:27.199347200Z",
-  "count" : 3,
+  "updatedAt" : "2026-09-03T19:39:22.207931500Z",
+  "count" : 6,
   "locations" : [ {
+    "serverId" : 1297,
+    "x" : 325,
+    "y" : 279,
+    "uid" : "407837431091",
+    "username" : "garip",
+    "level" : 100,
+    "allianceId" : "200168308",
+    "allianceTag" : "NuTY",
+    "pointId" : 143011,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4825773654586040838",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1788465924448
+    },
+    "cityRewardSeenAt" : "2026-09-03T19:36:24.390Z",
+    "foundAt" : "2026-09-03T19:36:24.390Z"
+  }, {
+    "serverId" : 1297,
+    "x" : 524,
+    "y" : 652,
+    "uid" : "453649180124",
+    "username" : "Logan",
+    "level" : 100,
+    "allianceId" : "669822",
+    "allianceTag" : "CuTY",
+    "pointId" : 334087,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4825751715305890309",
+      "players" : [ ],
+      "num" : 38,
+      "endTimeMilli" : 1788464616765
+    },
+    "cityRewardSeenAt" : "2026-09-03T19:37:05.438Z",
+    "foundAt" : "2026-09-03T19:37:05.438Z"
+  }, {
+    "serverId" : 1297,
+    "x" : 534,
+    "y" : 622,
+    "uid" : "537051592411",
+    "username" : "ReforMM",
+    "level" : 100,
+    "allianceId" : "669822",
+    "allianceTag" : "CuTY",
+    "pointId" : 318732,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4825774868568613380",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/8853ab874def546f68be81aa427bc347_1740776033.jpg?v=1740776034696\",\"https://knight-cdn.akamaized.net/headimg/8853ab874def546f68be81aa427bc347_1784466868.png?v=1784466869617\",\"https://knight-cdn.akamaized.net/headimg/8853ab874def546f68be81aa427bc347_1784231595.png?v=1784231596561\",\"https://knight-cdn.akamaized.net/headimg/8853ab874def546f68be81aa427bc347_1784674034.png?v=1784674035542\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/8853ab874def546f68be81aa427bc347_1784466868.png?v=1784466869617\",\"username\":\"ReforMM\"}"
+      } ],
+      "num" : 1,
+      "endTimeMilli" : 1788465996807
+    },
+    "cityRewardSeenAt" : "2026-09-03T19:37:05.438Z",
+    "foundAt" : "2026-09-03T19:37:05.438Z"
+  }, {
     "serverId" : 2365,
     "x" : 368,
     "y" : 454,
