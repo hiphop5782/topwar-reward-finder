@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T18:19:06.291427400Z",
-  "count" : 13,
+  "updatedAt" : "2026-09-03T18:22:46.606023300Z",
+  "count" : 15,
   "locations" : [ {
     "serverId" : 1015,
     "x" : 416,
@@ -174,6 +174,25 @@
     "cityRewardSeenAt" : "2026-09-03T18:08:44.634Z",
     "foundAt" : "2026-09-03T18:08:44.634Z"
   }, {
+    "serverId" : 1067,
+    "x" : 428,
+    "y" : 430,
+    "uid" : "411117405495",
+    "username" : "khaledM",
+    "level" : 100,
+    "allianceId" : "686615",
+    "allianceTag" : "SiX7",
+    "pointId" : 220375,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4825672902018356739",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1788459919127
+    },
+    "cityRewardSeenAt" : "2026-09-03T18:19:36.486Z",
+    "foundAt" : "2026-09-03T18:19:36.486Z"
+  }, {
     "serverId" : 2185,
     "x" : 422,
     "y" : 312,
@@ -273,5 +292,24 @@
     },
     "cityRewardSeenAt" : "2026-09-03T18:16:40.965Z",
     "foundAt" : "2026-09-03T18:16:40.965Z"
+  }, {
+    "serverId" : 4327,
+    "x" : 438,
+    "y" : 664,
+    "uid" : "845074811182",
+    "username" : "팡팡",
+    "level" : 100,
+    "allianceId" : "500437620",
+    "allianceTag" : "x27s",
+    "pointId" : 340188,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4825670113093078534",
+      "players" : [ ],
+      "num" : 41,
+      "endTimeMilli" : 1788459752894
+    },
+    "cityRewardSeenAt" : "2026-09-03T18:19:16.244Z",
+    "foundAt" : "2026-09-03T18:19:16.244Z"
   } ]
 }
