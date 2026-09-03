@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T19:08:07.401754600Z",
-  "count" : 11,
+  "updatedAt" : "2026-09-03T19:10:10.841456300Z",
+  "count" : 13,
   "locations" : [ {
     "serverId" : 1096,
     "x" : 364,
@@ -235,5 +235,43 @@
     },
     "cityRewardSeenAt" : "2026-09-03T18:55:06.693Z",
     "foundAt" : "2026-09-03T18:55:06.693Z"
+  }, {
+    "serverId" : 2365,
+    "x" : 368,
+    "y" : 454,
+    "uid" : "531705901968",
+    "username" : "Final",
+    "level" : 100,
+    "allianceId" : "400373334",
+    "allianceTag" : "VBRO",
+    "pointId" : 232633,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4825725522817481218",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1788463055571
+    },
+    "cityRewardSeenAt" : "2026-09-03T19:07:29.527Z",
+    "foundAt" : "2026-09-03T19:07:29.527Z"
+  }, {
+    "serverId" : 2365,
+    "x" : 372,
+    "y" : 462,
+    "uid" : "540304348097",
+    "username" : "QUỲNH",
+    "level" : 100,
+    "allianceId" : "400373334",
+    "allianceTag" : "VBRO",
+    "pointId" : 236731,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4825717667003529736",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1788462587328
+    },
+    "cityRewardSeenAt" : "2026-09-03T19:07:37.026Z",
+    "foundAt" : "2026-09-03T19:07:37.026Z"
   } ]
 }
