@@ -1,39 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T17:29:40.662045800Z",
+  "updatedAt" : "2026-09-03T17:32:07.124315600Z",
   "count" : 8,
   "locations" : [ {
-    "serverId" : 850,
-    "x" : 401,
-    "y" : 709,
-    "uid" : "404860294433",
-    "username" : "Wave🌊",
-    "level" : 100,
-    "allianceId" : "200035788",
-    "allianceTag" : "bsks",
-    "pointId" : 363209,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4825603148226143238",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/363552715745.jpg?v=1633162407685\",\"username\":\"Klotz\"}"
-      }, {
-        "frameId" : 114,
-        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"hero_icon170_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Bob64\"}"
-      }, {
-        "frameId" : 3,
-        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/568008279886.jpg?v=1683231482368\",\"username\":\"MadUfo👽\"}"
-      }, {
-        "frameId" : 159,
-        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/332177666867.jpg?v=1666277531429\",\"username\":\"Paulus\"}"
-      } ],
-      "num" : 15,
-      "endTimeMilli" : 1788455761477
-    },
-    "cityRewardSeenAt" : "2026-09-03T16:56:50.688Z",
-    "foundAt" : "2026-09-03T16:56:50.688Z"
-  }, {
     "serverId" : 930,
     "x" : 435,
     "y" : 633,
@@ -52,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-09-03T17:19:19.332Z",
     "foundAt" : "2026-09-03T17:19:19.332Z"
+  }, {
+    "serverId" : 973,
+    "x" : 370,
+    "y" : 394,
+    "uid" : "444401657270",
+    "username" : "Jamma",
+    "level" : 100,
+    "allianceId" : "200079702",
+    "allianceTag" : "973S",
+    "pointId" : 201914,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4825619121343797763",
+      "players" : [ ],
+      "num" : 34,
+      "endTimeMilli" : 1788456713549
+    },
+    "cityRewardSeenAt" : "2026-09-03T17:29:17.630Z",
+    "foundAt" : "2026-09-03T17:29:17.630Z"
   }, {
     "serverId" : 1567,
     "x" : 426,
