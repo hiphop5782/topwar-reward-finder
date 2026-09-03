@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T22:34:55.348843700Z",
-  "count" : 5,
+  "updatedAt" : "2026-09-03T22:37:47.550771200Z",
+  "count" : 7,
   "locations" : [ {
     "serverId" : 193,
     "x" : 543,
@@ -106,5 +106,46 @@
     },
     "cityRewardSeenAt" : "2026-09-03T22:19:02.511Z",
     "foundAt" : "2026-09-03T22:19:02.511Z"
+  }, {
+    "serverId" : 4208,
+    "x" : 362,
+    "y" : 396,
+    "uid" : "9017257791449",
+    "username" : "ωαяρєα¢є",
+    "level" : 100,
+    "allianceId" : "500418355",
+    "allianceTag" : "C_08",
+    "pointId" : 202934,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4825934019841548293",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/d48abc550eba3e90c132ca5983e7da6d_1761476456.png?v=1761476457243\",\"https://knight-cdn.akamaized.net/headimg/d48abc550eba3e90c132ca5983e7da6d_1784757888.png?v=1784757890533\",\"https://knight-cdn.akamaized.net/headimg/d48abc550eba3e90c132ca5983e7da6d_1784935415.png?v=1784935417778\"],\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/d48abc550eba3e90c132ca5983e7da6d_1784935415.png?v=1784935417778\",\"username\":\"Mass\"}"
+      } ],
+      "num" : 11,
+      "endTimeMilli" : 1788475482962
+    },
+    "cityRewardSeenAt" : "2026-09-03T22:35:05.386Z",
+    "foundAt" : "2026-09-03T22:35:05.386Z"
+  }, {
+    "serverId" : 4208,
+    "x" : 372,
+    "y" : 380,
+    "uid" : "9230316376176",
+    "username" : "K9",
+    "level" : 100,
+    "allianceId" : "500418355",
+    "allianceTag" : "C_08",
+    "pointId" : 194747,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4825936724664311810",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1788475644182
+    },
+    "cityRewardSeenAt" : "2026-09-03T22:34:55.596Z",
+    "foundAt" : "2026-09-03T22:34:55.596Z"
   } ]
 }
