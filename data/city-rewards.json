@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T10:46:59.160477400Z",
-  "count" : 20,
+  "updatedAt" : "2026-09-03T10:48:34.162548Z",
+  "count" : 21,
   "locations" : [ {
     "serverId" : 164,
     "x" : 302,
@@ -307,6 +307,31 @@
     },
     "cityRewardSeenAt" : "2026-09-03T10:42:03.208Z",
     "foundAt" : "2026-09-03T10:42:03.208Z"
+  }, {
+    "serverId" : 2952,
+    "x" : 408,
+    "y" : 420,
+    "uid" : "7720313523133",
+    "username" : "常に初陣",
+    "level" : 100,
+    "allianceId" : "500286839",
+    "allianceTag" : "E$L",
+    "pointId" : 215245,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4825238822173741057",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":225,\"gender\":0,\"avatarurl\":\"hero_icon220_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"MeHmEt\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/a7cadc333a6c3161c4a6b635a7fd3a88_1735828198.jpg?v=1735828199135\",\"https://knight-cdn.akamaized.net/headimg/a7cadc333a6c3161c4a6b635a7fd3a88_1765630886.png?v=1765630887008\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/a7cadc333a6c3161c4a6b635a7fd3a88_1765630886.png?v=1765630887008\",\"username\":\"常に初陣\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1788434045952
+    },
+    "cityRewardSeenAt" : "2026-09-03T10:44:25.727Z",
+    "foundAt" : "2026-09-03T10:44:25.727Z"
   }, {
     "serverId" : 3396,
     "x" : 332,
