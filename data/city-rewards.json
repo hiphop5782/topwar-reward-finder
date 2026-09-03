@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-03T22:08:26.142753900Z",
-  "count" : 3,
+  "updatedAt" : "2026-09-03T22:09:31.776842200Z",
+  "count" : 4,
   "locations" : [ {
     "serverId" : 1558,
     "x" : 421,
@@ -52,6 +52,31 @@
     },
     "cityRewardSeenAt" : "2026-09-03T21:56:00.179Z",
     "foundAt" : "2026-09-03T21:56:00.179Z"
+  }, {
+    "serverId" : 1640,
+    "x" : 428,
+    "y" : 308,
+    "uid" : "465851000327",
+    "username" : "Pie",
+    "level" : 100,
+    "allianceId" : "300087772",
+    "allianceTag" : "4PNX",
+    "pointId" : 157911,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4825899399216156672",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon110_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"MrM\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/459116434934.jpg?v=1708094448147\",\"username\":\"J\"}"
+      } ],
+      "num" : 5,
+      "endTimeMilli" : 1788473419412
+    },
+    "cityRewardSeenAt" : "2026-09-03T22:06:33.524Z",
+    "foundAt" : "2026-09-03T22:06:33.524Z"
   }, {
     "serverId" : 3524,
     "x" : 350,
