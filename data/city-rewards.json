@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T17:35:59.329425400Z",
-  "count" : 79,
+  "updatedAt" : "2026-09-04T17:38:12.896314200Z",
+  "count" : 81,
   "locations" : [ {
     "serverId" : 247,
     "x" : 59,
@@ -1752,6 +1752,53 @@
     },
     "cityRewardSeenAt" : "2026-09-04T17:21:44.623Z",
     "foundAt" : "2026-09-04T17:21:44.623Z"
+  }, {
+    "serverId" : 4369,
+    "x" : 340,
+    "y" : 466,
+    "uid" : "9503902011666",
+    "username" : "번개같이번개장터",
+    "level" : 100,
+    "allianceId" : "500447349",
+    "allianceTag" : "WEMS",
+    "pointId" : 238763,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4827097579011580418",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1788544836493
+    },
+    "cityRewardSeenAt" : "2026-09-04T17:36:25.099Z",
+    "foundAt" : "2026-09-04T17:36:25.099Z"
+  }, {
+    "serverId" : 4369,
+    "x" : 449,
+    "y" : 453,
+    "uid" : "9495405105425",
+    "username" : "Wanheda",
+    "level" : 100,
+    "allianceId" : "500447316",
+    "allianceTag" : "dawN",
+    "pointId" : 232161,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4827093561975644677",
+      "players" : [ {
+        "frameId" : 166,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/a113e1d794a54cbb2c0e1a7acd754347_1785745250.png?v=1785745253209\",\"https://knight-cdn.akamaized.net/headimg/a113e1d794a54cbb2c0e1a7acd754347_1783264819.png?v=1783264824905\",\"https://knight-cdn.akamaized.net/headimg/a113e1d794a54cbb2c0e1a7acd754347_1781087974.png?v=1781087976096\",\"https://knight-cdn.akamaized.net/headimg/a113e1d794a54cbb2c0e1a7acd754347_1785165836.png?v=1785165839394\"],\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/a113e1d794a54cbb2c0e1a7acd754347_1785745250.png?v=1785745253209\",\"username\":\"Wanheda\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon140_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"ヤナ\"}"
+      }, {
+        "frameId" : 166,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/604675b9ef4f419cc3e6eea599293cfb_1770473191.png?v=1770473194654\",\"https://knight-cdn.akamaized.net/headimg/604675b9ef4f419cc3e6eea599293cfb_1780256950.png?v=1780256952108\",\"https://knight-cdn.akamaized.net/headimg/604675b9ef4f419cc3e6eea599293cfb_1780316491.png?v=1780316493188\",\"https://knight-cdn.akamaized.net/headimg/604675b9ef4f419cc3e6eea599293cfb_1784892406.png?v=1784892408812\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/604675b9ef4f419cc3e6eea599293cfb_1784892406.png?v=1784892408812\",\"username\":\"Rabbit\"}"
+      } ],
+      "num" : 3,
+      "endTimeMilli" : 1788544597059
+    },
+    "cityRewardSeenAt" : "2026-09-04T17:36:47.019Z",
+    "foundAt" : "2026-09-04T17:36:47.019Z"
   }, {
     "serverId" : 4444,
     "x" : 389,
