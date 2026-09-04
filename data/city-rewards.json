@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T01:57:26.649793300Z",
-  "count" : 7,
+  "updatedAt" : "2026-09-04T01:59:31.943628700Z",
+  "count" : 8,
   "locations" : [ {
     "serverId" : 761,
     "x" : 625,
@@ -21,6 +21,44 @@
     },
     "cityRewardSeenAt" : "2026-09-04T01:27:05.512Z",
     "foundAt" : "2026-09-04T01:27:05.512Z"
+  }, {
+    "serverId" : 2631,
+    "x" : 434,
+    "y" : 412,
+    "uid" : "534717236953",
+    "username" : "Phantom",
+    "level" : 100,
+    "allianceId" : "500221847",
+    "allianceTag" : "NPx",
+    "pointId" : 211162,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4826155580224998912",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1788488688990
+    },
+    "cityRewardSeenAt" : "2026-09-04T01:55:49.920Z",
+    "foundAt" : "2026-09-04T01:55:49.920Z"
+  }, {
+    "serverId" : 2631,
+    "x" : 442,
+    "y" : 440,
+    "uid" : "457347679717",
+    "username" : "SWTexan",
+    "level" : 100,
+    "allianceId" : "500221847",
+    "allianceTag" : "NPx",
+    "pointId" : 225502,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4826138963684396544",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1788487698567
+    },
+    "cityRewardSeenAt" : "2026-09-04T01:55:49.920Z",
+    "foundAt" : "2026-09-04T01:55:49.920Z"
   }, {
     "serverId" : 2735,
     "x" : 386,
@@ -116,24 +154,5 @@
     },
     "cityRewardSeenAt" : "2026-09-04T01:25:17.238Z",
     "foundAt" : "2026-09-04T01:25:17.238Z"
-  }, {
-    "serverId" : 3766,
-    "x" : 746,
-    "y" : 122,
-    "uid" : "8298945711541",
-    "username" : "Sas³⁷⁶⁶",
-    "level" : 100,
-    "allianceId" : "500374677",
-    "allianceTag" : "+PS+",
-    "pointId" : 62838,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4826118451273493507",
-      "players" : [ ],
-      "num" : 4,
-      "endTimeMilli" : 1788486475932
-    },
-    "cityRewardSeenAt" : "2026-09-04T01:23:22.373Z",
-    "foundAt" : "2026-09-04T01:23:22.373Z"
   } ]
 }
