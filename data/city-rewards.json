@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T13:19:44.171071400Z",
-  "count" : 29,
+  "updatedAt" : "2026-09-04T13:22:53.737320900Z",
+  "count" : 28,
   "locations" : [ {
     "serverId" : 154,
     "x" : 334,
@@ -248,28 +248,6 @@
     "cityRewardSeenAt" : "2026-09-04T13:13:21.586Z",
     "foundAt" : "2026-09-04T13:13:21.586Z"
   }, {
-    "serverId" : 1248,
-    "x" : 412,
-    "y" : 278,
-    "uid" : "505855420029",
-    "username" : "Popeye",
-    "level" : 95,
-    "allianceId" : "750868",
-    "allianceTag" : "HOmE",
-    "pointId" : 142543,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4826790650127695873",
-      "players" : [ {
-        "frameId" : 1,
-        "playerInfo" : "{\"nationalflag\":122,\"gender\":0,\"avatarurl\":\"hero_avataricon1691003_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"수성유리\"}"
-      } ],
-      "num" : 13,
-      "endTimeMilli" : 1788526542106
-    },
-    "cityRewardSeenAt" : "2026-09-04T12:47:21.005Z",
-    "foundAt" : "2026-09-04T12:47:21.005Z"
-  }, {
     "serverId" : 1251,
     "x" : 624,
     "y" : 204,
@@ -414,6 +392,25 @@
     },
     "cityRewardSeenAt" : "2026-09-04T13:15:41.703Z",
     "foundAt" : "2026-09-04T13:15:41.703Z"
+  }, {
+    "serverId" : 1317,
+    "x" : 522,
+    "y" : 672,
+    "uid" : "612604859695",
+    "username" : "りく",
+    "level" : 100,
+    "allianceId" : "400004511",
+    "allianceTag" : "Leo5",
+    "pointId" : 344326,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4826840881582197253",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1788529536134
+    },
+    "cityRewardSeenAt" : "2026-09-04T13:19:55.590Z",
+    "foundAt" : "2026-09-04T13:19:55.590Z"
   }, {
     "serverId" : 2014,
     "x" : 439,
@@ -642,24 +639,5 @@
     },
     "cityRewardSeenAt" : "2026-09-04T13:04:00.208Z",
     "foundAt" : "2026-09-04T13:04:00.208Z"
-  }, {
-    "serverId" : 3630,
-    "x" : 420,
-    "y" : 342,
-    "uid" : "356013970365",
-    "username" : "Outsider",
-    "level" : 100,
-    "allianceId" : "500361408",
-    "allianceTag" : "363O",
-    "pointId" : 175315,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4826798689921817607",
-      "players" : [ ],
-      "num" : 4,
-      "endTimeMilli" : 1788527021315
-    },
-    "cityRewardSeenAt" : "2026-09-04T12:47:07.794Z",
-    "foundAt" : "2026-09-04T12:47:07.794Z"
   } ]
 }
