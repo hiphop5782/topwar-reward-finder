@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T21:09:41.358871500Z",
+  "updatedAt" : "2026-09-04T21:11:37.204311300Z",
   "count" : 11,
   "locations" : [ {
     "serverId" : 485,
@@ -98,6 +98,25 @@
     "cityRewardSeenAt" : "2026-09-04T20:37:09.709Z",
     "foundAt" : "2026-09-04T20:37:09.709Z"
   }, {
+    "serverId" : 3491,
+    "x" : 449,
+    "y" : 289,
+    "uid" : "547298383627",
+    "username" : "Kolchak7",
+    "level" : 100,
+    "allianceId" : "500343554",
+    "allianceTag" : "RMRD",
+    "pointId" : 148193,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4827313206032287234",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1788557688865
+    },
+    "cityRewardSeenAt" : "2026-09-04T21:08:29.482Z",
+    "foundAt" : "2026-09-04T21:08:29.482Z"
+  }, {
     "serverId" : 3540,
     "x" : 400,
     "y" : 346,
@@ -154,25 +173,6 @@
     },
     "cityRewardSeenAt" : "2026-09-04T20:57:49.586Z",
     "foundAt" : "2026-09-04T20:57:49.586Z"
-  }, {
-    "serverId" : 3649,
-    "x" : 477,
-    "y" : 423,
-    "uid" : "920834696811",
-    "username" : "Шуршунка",
-    "level" : 100,
-    "allianceId" : "500364032",
-    "allianceTag" : "ECLP",
-    "pointId" : 216815,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4827264507294024195",
-      "players" : [ ],
-      "num" : 27,
-      "endTimeMilli" : 1788554786194
-    },
-    "cityRewardSeenAt" : "2026-09-04T20:35:31.946Z",
-    "foundAt" : "2026-09-04T20:35:31.946Z"
   }, {
     "serverId" : 3649,
     "x" : 479,
