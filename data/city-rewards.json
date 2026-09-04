@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T00:23:54.862619200Z",
-  "count" : 20,
+  "updatedAt" : "2026-09-04T00:25:56.400539200Z",
+  "count" : 18,
   "locations" : [ {
     "serverId" : 386,
     "x" : 373,
@@ -350,43 +350,5 @@
     },
     "cityRewardSeenAt" : "2026-09-04T00:16:15.730Z",
     "foundAt" : "2026-09-04T00:16:15.730Z"
-  }, {
-    "serverId" : 3478,
-    "x" : 398,
-    "y" : 392,
-    "uid" : "891763022362",
-    "username" : "Lurch",
-    "level" : 100,
-    "allianceId" : "500342860",
-    "allianceTag" : "CBW*",
-    "pointId" : 200904,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4826007707387112457",
-      "players" : [ ],
-      "num" : 10,
-      "endTimeMilli" : 1788479875082
-    },
-    "cityRewardSeenAt" : "2026-09-03T23:49:30.088Z",
-    "foundAt" : "2026-09-03T23:49:30.088Z"
-  }, {
-    "serverId" : 3478,
-    "x" : 430,
-    "y" : 394,
-    "uid" : "911362038363",
-    "username" : "Kimoone",
-    "level" : 100,
-    "allianceId" : "500342860",
-    "allianceTag" : "CBW*",
-    "pointId" : 201944,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4826020858744744965",
-      "players" : [ ],
-      "num" : 3,
-      "endTimeMilli" : 1788480658964
-    },
-    "cityRewardSeenAt" : "2026-09-03T23:49:30.088Z",
-    "foundAt" : "2026-09-03T23:49:30.088Z"
   } ]
 }
