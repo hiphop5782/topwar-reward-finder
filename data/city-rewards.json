@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T06:12:57.841111400Z",
-  "count" : 22,
+  "updatedAt" : "2026-09-04T06:14:20.582118Z",
+  "count" : 23,
   "locations" : [ {
     "serverId" : 1397,
     "x" : 396,
@@ -425,6 +425,31 @@
     },
     "cityRewardSeenAt" : "2026-09-04T06:03:26.801Z",
     "foundAt" : "2026-09-04T06:03:26.801Z"
+  }, {
+    "serverId" : 4356,
+    "x" : 393,
+    "y" : 533,
+    "uid" : "9269104218259",
+    "username" : "Emirkan",
+    "level" : 100,
+    "allianceId" : "500443583",
+    "allianceTag" : "Xcon",
+    "pointId" : 273093,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4826393507153446916",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/4ea460432766e990152b4ac83973661c_1784081911.png?v=1784081912196\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/4ea460432766e990152b4ac83973661c_1784081911.png?v=1784081912196\",\"username\":\"Gump\"}"
+      }, {
+        "frameId" : 20,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/a1afa2068aa4e3c5e25c9f60c2a37785_1772847743.png?v=1772847748150\",\"https://knight-cdn.akamaized.net/headimg/a1afa2068aa4e3c5e25c9f60c2a37785_1772862004.png?v=1772862008401\",\"https://knight-cdn.akamaized.net/headimg/a1afa2068aa4e3c5e25c9f60c2a37785_1772897313.png?v=1772897316542\"],\"nationalflag\":10,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/a1afa2068aa4e3c5e25c9f60c2a37785_1772862004.png?v=1772862008401\",\"username\":\"Fer\"}"
+      } ],
+      "num" : 13,
+      "endTimeMilli" : 1788502870540
+    },
+    "cityRewardSeenAt" : "2026-09-04T06:11:18.832Z",
+    "foundAt" : "2026-09-04T06:11:18.832Z"
   }, {
     "serverId" : 4392,
     "x" : 793,
