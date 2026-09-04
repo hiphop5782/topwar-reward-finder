@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T02:19:55.297511300Z",
-  "count" : 6,
+  "updatedAt" : "2026-09-04T02:21:45.514384400Z",
+  "count" : 7,
   "locations" : [ {
     "serverId" : 1221,
     "x" : 417,
@@ -131,5 +131,24 @@
     },
     "cityRewardSeenAt" : "2026-09-04T01:57:44.760Z",
     "foundAt" : "2026-09-04T01:57:44.760Z"
+  }, {
+    "serverId" : 4245,
+    "x" : 421,
+    "y" : 647,
+    "uid" : "9083669680142",
+    "username" : "Chambana",
+    "level" : 100,
+    "allianceId" : "500423450",
+    "allianceTag" : ";DNA",
+    "pointId" : 331475,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4826172584169122310",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1788489702504
+    },
+    "cityRewardSeenAt" : "2026-09-04T02:19:24.026Z",
+    "foundAt" : "2026-09-04T02:19:24.026Z"
   } ]
 }
