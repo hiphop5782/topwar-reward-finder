@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T05:43:37.401036500Z",
-  "count" : 17,
+  "updatedAt" : "2026-09-04T05:45:16.035939700Z",
+  "count" : 19,
   "locations" : [ {
     "serverId" : 184,
     "x" : 443,
@@ -52,6 +52,25 @@
     },
     "cityRewardSeenAt" : "2026-09-04T05:15:41.000Z",
     "foundAt" : "2026-09-04T05:15:41.000Z"
+  }, {
+    "serverId" : 1607,
+    "x" : 385,
+    "y" : 603,
+    "uid" : "585392662463",
+    "username" : "louis",
+    "level" : 100,
+    "allianceId" : "200268222",
+    "allianceTag" : "WaR'",
+    "pointId" : 308929,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4826358784086281729",
+      "players" : [ ],
+      "num" : 24,
+      "endTimeMilli" : 1788500800884
+    },
+    "cityRewardSeenAt" : "2026-09-04T05:42:39.569Z",
+    "foundAt" : "2026-09-04T05:42:39.569Z"
   }, {
     "serverId" : 2864,
     "x" : 440,
@@ -286,24 +305,43 @@
     "cityRewardSeenAt" : "2026-09-04T05:37:33.872Z",
     "foundAt" : "2026-09-04T05:37:33.872Z"
   }, {
-    "serverId" : 3738,
-    "x" : 216,
-    "y" : 486,
-    "uid" : "8656721153690",
-    "username" : "かなづち",
+    "serverId" : 4122,
+    "x" : 379,
+    "y" : 329,
+    "uid" : "439956410994",
+    "username" : "cerberus",
     "level" : 100,
-    "allianceId" : "500372986",
-    "allianceTag" : "[39*",
-    "pointId" : 248941,
+    "allianceId" : "500402632",
+    "allianceTag" : "4I22",
+    "pointId" : 168638,
     "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4826334283060556807",
+      "itemId" : 260617004,
+      "instanceId" : "4826364822610261001",
       "players" : [ ],
-      "num" : 3,
-      "endTimeMilli" : 1788499340509
+      "num" : 14,
+      "endTimeMilli" : 1788501160808
     },
-    "cityRewardSeenAt" : "2026-09-04T05:09:16.584Z",
-    "foundAt" : "2026-09-04T05:09:16.584Z"
+    "cityRewardSeenAt" : "2026-09-04T05:41:28.137Z",
+    "foundAt" : "2026-09-04T05:41:28.137Z"
+  }, {
+    "serverId" : 4122,
+    "x" : 398,
+    "y" : 340,
+    "uid" : "9090292781081",
+    "username" : "ZED",
+    "level" : 100,
+    "allianceId" : "500402632",
+    "allianceTag" : "4I22",
+    "pointId" : 174280,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4826380227265442817",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1788502078997
+    },
+    "cityRewardSeenAt" : "2026-09-04T05:41:29.102Z",
+    "foundAt" : "2026-09-04T05:41:29.102Z"
   }, {
     "serverId" : 4256,
     "x" : 450,
