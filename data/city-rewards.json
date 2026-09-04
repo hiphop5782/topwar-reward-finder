@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T10:42:14.179721800Z",
-  "count" : 7,
+  "updatedAt" : "2026-09-04T10:44:57.376333600Z",
+  "count" : 8,
   "locations" : [ {
     "serverId" : 864,
     "x" : 421,
@@ -21,6 +21,37 @@
     },
     "cityRewardSeenAt" : "2026-09-04T10:29:27.262Z",
     "foundAt" : "2026-09-04T10:29:27.262Z"
+  }, {
+    "serverId" : 926,
+    "x" : 404,
+    "y" : 278,
+    "uid" : "549055157224",
+    "username" : "吉野家",
+    "level" : 100,
+    "allianceId" : "515433",
+    "allianceTag" : "AllJ",
+    "pointId" : 142539,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4826671302683606016",
+      "players" : [ {
+        "frameId" : 8,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon1209_KASTUKAMI_1_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/542701507538.jpg?v=1642601618581\",\"username\":\"英雄7227\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon134_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"杏仁豆腐\"}"
+      }, {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon210_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"英雄\"}"
+      }, {
+        "frameId" : 94,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon149_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"フルスロ\"}"
+      } ],
+      "num" : 7,
+      "endTimeMilli" : 1788519428444
+    },
+    "cityRewardSeenAt" : "2026-09-04T10:41:57.297Z",
+    "foundAt" : "2026-09-04T10:41:57.297Z"
   }, {
     "serverId" : 1281,
     "x" : 361,
