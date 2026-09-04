@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T20:34:41.846985700Z",
-  "count" : 18,
+  "updatedAt" : "2026-09-04T20:36:04.084088200Z",
+  "count" : 17,
   "locations" : [ {
+    "serverId" : 1281,
+    "x" : 402,
+    "y" : 612,
+    "uid" : "602781562124",
+    "username" : "Shura",
+    "level" : 100,
+    "allianceId" : "678388",
+    "allianceTag" : "EagL",
+    "pointId" : 313546,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4827259570462786055",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1788554491936
+    },
+    "cityRewardSeenAt" : "2026-09-04T20:34:18.501Z",
+    "foundAt" : "2026-09-04T20:34:18.501Z"
+  }, {
     "serverId" : 2275,
     "x" : 428,
     "y" : 522,
@@ -52,25 +71,6 @@
     },
     "cityRewardSeenAt" : "2026-09-04T20:01:21.746Z",
     "foundAt" : "2026-09-04T20:01:21.746Z"
-  }, {
-    "serverId" : 2311,
-    "x" : 421,
-    "y" : 321,
-    "uid" : "8154100469086",
-    "username" : "Amanda",
-    "level" : 100,
-    "allianceId" : "500172876",
-    "allianceTag" : "KeC",
-    "pointId" : 164563,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4827218646018428417",
-      "players" : [ ],
-      "num" : 37,
-      "endTimeMilli" : 1788552052649
-    },
-    "cityRewardSeenAt" : "2026-09-04T20:00:17.958Z",
-    "foundAt" : "2026-09-04T20:00:17.958Z"
   }, {
     "serverId" : 2587,
     "x" : 442,
@@ -221,25 +221,6 @@
     },
     "cityRewardSeenAt" : "2026-09-04T20:12:54.147Z",
     "foundAt" : "2026-09-04T20:12:54.147Z"
-  }, {
-    "serverId" : 3407,
-    "x" : 350,
-    "y" : 480,
-    "uid" : "915702389372",
-    "username" : "ALİ",
-    "level" : 100,
-    "allianceId" : "500332947",
-    "allianceTag" : "07_S",
-    "pointId" : 245936,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4827223666919644677",
-      "players" : [ ],
-      "num" : 47,
-      "endTimeMilli" : 1788552351918
-    },
-    "cityRewardSeenAt" : "2026-09-04T20:00:30.840Z",
-    "foundAt" : "2026-09-04T20:00:30.840Z"
   }, {
     "serverId" : 3885,
     "x" : 404,
