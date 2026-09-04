@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T12:02:45.155341900Z",
+  "updatedAt" : "2026-09-04T12:04:31.226917300Z",
   "count" : 37,
   "locations" : [ {
     "serverId" : 285,
@@ -178,25 +178,6 @@
     },
     "cityRewardSeenAt" : "2026-09-04T11:44:34.703Z",
     "foundAt" : "2026-09-04T11:44:34.703Z"
-  }, {
-    "serverId" : 1033,
-    "x" : 428,
-    "y" : 646,
-    "uid" : "346626937244",
-    "username" : "FLUFFY🐰",
-    "level" : 100,
-    "allianceId" : "100199935",
-    "allianceTag" : "EL33",
-    "pointId" : 330967,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4826732489928610304",
-      "players" : [ ],
-      "num" : 2,
-      "endTimeMilli" : 1788523075488
-    },
-    "cityRewardSeenAt" : "2026-09-04T11:29:10.307Z",
-    "foundAt" : "2026-09-04T11:29:10.307Z"
   }, {
     "serverId" : 1083,
     "x" : 329,
@@ -813,5 +794,24 @@
     },
     "cityRewardSeenAt" : "2026-09-04T12:00:25.933Z",
     "foundAt" : "2026-09-04T12:00:25.933Z"
+  }, {
+    "serverId" : 4384,
+    "x" : 426,
+    "y" : 342,
+    "uid" : "9536587108640",
+    "username" : "Ghost",
+    "level" : 100,
+    "allianceId" : "500451751",
+    "allianceTag" : "S,H",
+    "pointId" : 175318,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4826743476339228676",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1788523730329
+    },
+    "cityRewardSeenAt" : "2026-09-04T12:00:51.784Z",
+    "foundAt" : "2026-09-04T12:00:51.784Z"
   } ]
 }
