@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T02:07:59.522389600Z",
+  "updatedAt" : "2026-09-04T02:09:48.872880500Z",
   "count" : 6,
   "locations" : [ {
     "serverId" : 2631,
@@ -60,25 +60,6 @@
     "cityRewardSeenAt" : "2026-09-04T01:49:04.618Z",
     "foundAt" : "2026-09-04T01:49:04.618Z"
   }, {
-    "serverId" : 2781,
-    "x" : 402,
-    "y" : 410,
-    "uid" : "844671564043",
-    "username" : "geonc",
-    "level" : 100,
-    "allianceId" : "500258965",
-    "allianceTag" : "N0PP",
-    "pointId" : 210122,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4826107623576549893",
-      "players" : [ ],
-      "num" : 43,
-      "endTimeMilli" : 1788485830551
-    },
-    "cityRewardSeenAt" : "2026-09-04T01:34:22.501Z",
-    "foundAt" : "2026-09-04T01:34:22.501Z"
-  }, {
     "serverId" : 3325,
     "x" : 417,
     "y" : 537,
@@ -97,6 +78,37 @@
     },
     "cityRewardSeenAt" : "2026-09-04T01:38:02.939Z",
     "foundAt" : "2026-09-04T01:38:02.939Z"
+  }, {
+    "serverId" : 3800,
+    "x" : 418,
+    "y" : 390,
+    "uid" : "8767762632407",
+    "username" : "DozerIII",
+    "level" : 100,
+    "allianceId" : "500377860",
+    "allianceTag" : "CLX$",
+    "pointId" : 199890,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4826163760359911431",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/625f50a5eb46e9ece193cb10f6228b75_1744202244.jpg?v=1744202247852\",\"https://knight-cdn.akamaized.net/headimg/625f50a5eb46e9ece193cb10f6228b75_1765591072.png?v=1765591075642\",\"https://knight-cdn.akamaized.net/headimg/625f50a5eb46e9ece193cb10f6228b75_1744898481.jpg?v=1744898484057\",\"https://knight-cdn.akamaized.net/headimg/625f50a5eb46e9ece193cb10f6228b75_1766016691.png?v=1766016695146\"],\"nationalflag\":31,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/625f50a5eb46e9ece193cb10f6228b75_1766016691.png?v=1766016695146\",\"username\":\"Zₑᵣₒ₂₇\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"AIR180\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":198,\"gender\":0,\"avatarurl\":\"hero_icon324_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"niwbliw\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/fe3365647d6bb650f88366634b9c2fca_1733542482.jpg?v=1733542483458\",\"https://knight-cdn.akamaized.net/headimg/fe3365647d6bb650f88366634b9c2fca_1751695672.jpg?v=1751695673550\",\"https://knight-cdn.akamaized.net/headimg/fe3365647d6bb650f88366634b9c2fca_1751698825.jpg?v=1751698826514\",\"https://knight-cdn.akamaized.net/headimg/fe3365647d6bb650f88366634b9c2fca_1781368177.png?v=1781368178390\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/fe3365647d6bb650f88366634b9c2fca_1733542482.jpg?v=1733542483458\",\"username\":\"Patrick\"}"
+      } ],
+      "num" : 5,
+      "endTimeMilli" : 1788489176564
+    },
+    "cityRewardSeenAt" : "2026-09-04T02:06:34.219Z",
+    "foundAt" : "2026-09-04T02:06:34.219Z"
   }, {
     "serverId" : 4168,
     "x" : 341,
