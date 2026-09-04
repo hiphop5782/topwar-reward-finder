@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T08:03:56.359649Z",
-  "count" : 7,
+  "updatedAt" : "2026-09-04T08:04:59.763065700Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 1383,
     "x" : 418,
@@ -33,6 +33,25 @@
     },
     "cityRewardSeenAt" : "2026-09-04T07:41:08.870Z",
     "foundAt" : "2026-09-04T07:41:08.870Z"
+  }, {
+    "serverId" : 2315,
+    "x" : 372,
+    "y" : 296,
+    "uid" : "349070345095",
+    "username" : "ChWM",
+    "level" : 100,
+    "allianceId" : "500139986",
+    "allianceTag" : "Ir-n",
+    "pointId" : 151739,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4826515012951610886",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1788510112850
+    },
+    "cityRewardSeenAt" : "2026-09-04T08:01:40.973Z",
+    "foundAt" : "2026-09-04T08:01:40.973Z"
   }, {
     "serverId" : 2781,
     "x" : 426,
@@ -114,44 +133,6 @@
     },
     "cityRewardSeenAt" : "2026-09-04T07:33:12.114Z",
     "foundAt" : "2026-09-04T07:33:12.114Z"
-  }, {
-    "serverId" : 4327,
-    "x" : 453,
-    "y" : 679,
-    "uid" : "9024434868187",
-    "username" : "블랙홀",
-    "level" : 100,
-    "allianceId" : "500437620",
-    "allianceTag" : "x27s",
-    "pointId" : 347875,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4826492006641552902",
-      "players" : [ ],
-      "num" : 4,
-      "endTimeMilli" : 1788508741567
-    },
-    "cityRewardSeenAt" : "2026-09-04T07:29:46.142Z",
-    "foundAt" : "2026-09-04T07:29:46.142Z"
-  }, {
-    "serverId" : 4327,
-    "x" : 455,
-    "y" : 677,
-    "uid" : "930174020301",
-    "username" : "화이트홀",
-    "level" : 100,
-    "allianceId" : "500437620",
-    "allianceTag" : "x27s",
-    "pointId" : 346852,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4826491911296634377",
-      "players" : [ ],
-      "num" : 4,
-      "endTimeMilli" : 1788508735884
-    },
-    "cityRewardSeenAt" : "2026-09-04T07:29:46.142Z",
-    "foundAt" : "2026-09-04T07:29:46.142Z"
   }, {
     "serverId" : 4381,
     "x" : 386,
