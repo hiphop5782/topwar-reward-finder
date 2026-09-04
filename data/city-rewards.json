@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T12:00:59.315824200Z",
-  "count" : 35,
+  "updatedAt" : "2026-09-04T12:02:45.155341900Z",
+  "count" : 37,
   "locations" : [ {
     "serverId" : 285,
     "x" : 246,
@@ -775,5 +775,43 @@
     },
     "cityRewardSeenAt" : "2026-09-04T11:51:00.215Z",
     "foundAt" : "2026-09-04T11:51:00.215Z"
+  }, {
+    "serverId" : 4327,
+    "x" : 446,
+    "y" : 660,
+    "uid" : "9103095304221",
+    "username" : "z",
+    "level" : 100,
+    "allianceId" : "500437620",
+    "allianceTag" : "x27s",
+    "pointId" : 338144,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4826749067547758085",
+      "players" : [ ],
+      "num" : 85,
+      "endTimeMilli" : 1788524063591
+    },
+    "cityRewardSeenAt" : "2026-09-04T12:00:25.933Z",
+    "foundAt" : "2026-09-04T12:00:25.933Z"
+  }, {
+    "serverId" : 4327,
+    "x" : 451,
+    "y" : 669,
+    "uid" : "9026520158171",
+    "username" : "OGA🐗",
+    "level" : 100,
+    "allianceId" : "500437620",
+    "allianceTag" : "x27s",
+    "pointId" : 342754,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4826749957763616257",
+      "players" : [ ],
+      "num" : 81,
+      "endTimeMilli" : 1788524116652
+    },
+    "cityRewardSeenAt" : "2026-09-04T12:00:25.933Z",
+    "foundAt" : "2026-09-04T12:00:25.933Z"
   } ]
 }
