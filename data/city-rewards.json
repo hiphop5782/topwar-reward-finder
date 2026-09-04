@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T03:17:58.988196600Z",
-  "count" : 4,
+  "updatedAt" : "2026-09-04T03:19:56.601081300Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 211,
     "x" : 543,
@@ -21,6 +21,25 @@
     },
     "cityRewardSeenAt" : "2026-09-04T03:02:57.188Z",
     "foundAt" : "2026-09-04T03:02:57.188Z"
+  }, {
+    "serverId" : 1096,
+    "x" : 401,
+    "y" : 295,
+    "uid" : "918923020931",
+    "username" : "Zod",
+    "level" : 100,
+    "allianceId" : "100203625",
+    "allianceTag" : "AtM$",
+    "pointId" : 151241,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4826219305945829383",
+      "players" : [ ],
+      "num" : 22,
+      "endTimeMilli" : 1788492487339
+    },
+    "cityRewardSeenAt" : "2026-09-04T03:17:14.990Z",
+    "foundAt" : "2026-09-04T03:17:14.990Z"
   }, {
     "serverId" : 1389,
     "x" : 257,
@@ -78,5 +97,24 @@
     },
     "cityRewardSeenAt" : "2026-09-04T03:00:43.140Z",
     "foundAt" : "2026-09-04T03:00:43.140Z"
+  }, {
+    "serverId" : 3533,
+    "x" : 316,
+    "y" : 900,
+    "uid" : "8370225122765",
+    "username" : "カーツ",
+    "level" : 100,
+    "allianceId" : "500356000",
+    "allianceTag" : "<>x,",
+    "pointId" : 460959,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4826215611973212681",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1788492267161
+    },
+    "cityRewardSeenAt" : "2026-09-04T03:17:23.880Z",
+    "foundAt" : "2026-09-04T03:17:23.880Z"
   } ]
 }
