@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T13:43:25.647009400Z",
-  "count" : 26,
+  "updatedAt" : "2026-09-04T13:46:14.208094300Z",
+  "count" : 28,
   "locations" : [ {
     "serverId" : 78,
     "x" : 359,
@@ -582,6 +582,47 @@
     },
     "cityRewardSeenAt" : "2026-09-04T13:34:01.268Z",
     "foundAt" : "2026-09-04T13:34:01.268Z"
+  }, {
+    "serverId" : 1378,
+    "x" : 410,
+    "y" : 422,
+    "uid" : "892124330524",
+    "username" : "Seno",
+    "level" : 100,
+    "allianceId" : "300002156",
+    "allianceTag" : "iMTH",
+    "pointId" : 216270,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4826853442667070470",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/f4425178f1f945a9f582e732f91bf12f_1758532840.jpg?v=1758532841417\",\"https://knight-cdn.akamaized.net/headimg/f4425178f1f945a9f582e732f91bf12f_1785213914.png?v=1785213916039\",\"https://knight-cdn.akamaized.net/headimg/f4425178f1f945a9f582e732f91bf12f_1784598783.png?v=1784598785514\",\"https://knight-cdn.akamaized.net/headimg/f4425178f1f945a9f582e732f91bf12f_1750871510.jpg?v=1750871511996\"],\"nationalflag\":218,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/f4425178f1f945a9f582e732f91bf12f_1758532840.jpg?v=1758532841417\",\"username\":\"begin\"}"
+      } ],
+      "num" : 17,
+      "endTimeMilli" : 1788530284833
+    },
+    "cityRewardSeenAt" : "2026-09-04T13:44:13.872Z",
+    "foundAt" : "2026-09-04T13:44:13.872Z"
+  }, {
+    "serverId" : 2253,
+    "x" : 369,
+    "y" : 521,
+    "uid" : "835246921968",
+    "username" : "ろろ",
+    "level" : 100,
+    "allianceId" : "500131378",
+    "allianceTag" : "SNOQ",
+    "pointId" : 266937,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4826842269494647304",
+      "players" : [ ],
+      "num" : 27,
+      "endTimeMilli" : 1788529618860
+    },
+    "cityRewardSeenAt" : "2026-09-04T13:43:28.618Z",
+    "foundAt" : "2026-09-04T13:43:28.618Z"
   }, {
     "serverId" : 4513,
     "x" : 492,
