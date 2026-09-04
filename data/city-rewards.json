@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T15:45:59.815411600Z",
-  "count" : 3,
+  "updatedAt" : "2026-09-04T15:47:26.029178600Z",
+  "count" : 1,
   "locations" : [ {
     "serverId" : 172,
     "x" : 384,
@@ -21,43 +21,5 @@
     },
     "cityRewardSeenAt" : "2026-09-04T15:29:42.239Z",
     "foundAt" : "2026-09-04T15:29:42.239Z"
-  }, {
-    "serverId" : 4455,
-    "x" : 372,
-    "y" : 530,
-    "uid" : "9666310574439",
-    "username" : "Havelock",
-    "level" : 85,
-    "allianceId" : "500470837",
-    "allianceTag" : "RDD5",
-    "pointId" : 271547,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4826945358475218434",
-      "players" : [ ],
-      "num" : 33,
-      "endTimeMilli" : 1788535763442
-    },
-    "cityRewardSeenAt" : "2026-09-04T15:12:18.558Z",
-    "foundAt" : "2026-09-04T15:12:18.558Z"
-  }, {
-    "serverId" : 4455,
-    "x" : 399,
-    "y" : 527,
-    "uid" : "9668269019495",
-    "username" : "Wells",
-    "level" : 84,
-    "allianceId" : "500470837",
-    "allianceTag" : "RDD5",
-    "pointId" : 270024,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4826953519198293510",
-      "players" : [ ],
-      "num" : 25,
-      "endTimeMilli" : 1788536249859
-    },
-    "cityRewardSeenAt" : "2026-09-04T15:12:19.344Z",
-    "foundAt" : "2026-09-04T15:12:19.344Z"
   } ]
 }
