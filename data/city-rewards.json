@@ -1,8 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T00:02:54.439451300Z",
-  "count" : 25,
+  "updatedAt" : "2026-09-04T00:04:32.339319400Z",
+  "count" : 27,
   "locations" : [ {
+    "serverId" : 386,
+    "x" : 373,
+    "y" : 293,
+    "uid" : "605789758086",
+    "username" : "ataw",
+    "level" : 100,
+    "allianceId" : "100021018",
+    "allianceTag" : "JpNU",
+    "pointId" : 150203,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4826030548659143682",
+      "players" : [ ],
+      "num" : 25,
+      "endTimeMilli" : 1788481236528
+    },
+    "cityRewardSeenAt" : "2026-09-04T00:01:29.338Z",
+    "foundAt" : "2026-09-04T00:01:29.338Z"
+  }, {
+    "serverId" : 386,
+    "x" : 438,
+    "y" : 656,
+    "uid" : "452116763273",
+    "username" : "wata",
+    "level" : 100,
+    "allianceId" : "100019033",
+    "allianceTag" : "386s",
+    "pointId" : 336092,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4826030040527602695",
+      "players" : [ ],
+      "num" : 23,
+      "endTimeMilli" : 1788481206241
+    },
+    "cityRewardSeenAt" : "2026-09-04T00:02:12.208Z",
+    "foundAt" : "2026-09-04T00:02:12.208Z"
+  }, {
     "serverId" : 707,
     "x" : 358,
     "y" : 342,
@@ -272,6 +310,28 @@
     "cityRewardSeenAt" : "2026-09-03T23:47:58.239Z",
     "foundAt" : "2026-09-03T23:47:58.239Z"
   }, {
+    "serverId" : 1867,
+    "x" : 416,
+    "y" : 682,
+    "uid" : "493858940497",
+    "username" : "Ретутрон",
+    "level" : 100,
+    "allianceId" : "500032220",
+    "allianceTag" : "FeB2",
+    "pointId" : 349393,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4826017588042438145",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/180a3241b894559e509d4ae6f761aba8_1744484041.jpg?v=1744484043003\",\"https://knight-cdn.akamaized.net/headimg/180a3241b894559e509d4ae6f761aba8_1745405065.jpg?v=1745405066472\"],\"nationalflag\":191,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/180a3241b894559e509d4ae6f761aba8_1745405065.jpg?v=1745405066472\",\"username\":\"Ретутрон\"}"
+      } ],
+      "num" : 1,
+      "endTimeMilli" : 1788480464015
+    },
+    "cityRewardSeenAt" : "2026-09-04T00:01:01.184Z",
+    "foundAt" : "2026-09-04T00:01:01.184Z"
+  }, {
     "serverId" : 2275,
     "x" : 442,
     "y" : 444,
@@ -452,25 +512,6 @@
     },
     "cityRewardSeenAt" : "2026-09-03T23:36:55.487Z",
     "foundAt" : "2026-09-03T23:36:55.487Z"
-  }, {
-    "serverId" : 3355,
-    "x" : 447,
-    "y" : 633,
-    "uid" : "374031078452",
-    "username" : "SPLICER",
-    "level" : 100,
-    "allianceId" : "500327049",
-    "allianceTag" : "-B3-",
-    "pointId" : 324320,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4826007909250512385",
-      "players" : [ ],
-      "num" : 3,
-      "endTimeMilli" : 1788479887114
-    },
-    "cityRewardSeenAt" : "2026-09-03T23:28:14.365Z",
-    "foundAt" : "2026-09-03T23:28:14.365Z"
   }, {
     "serverId" : 3478,
     "x" : 398,
