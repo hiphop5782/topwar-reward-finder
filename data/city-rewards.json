@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T06:02:54.018207900Z",
-  "count" : 25,
+  "updatedAt" : "2026-09-04T06:04:59.695040600Z",
+  "count" : 26,
   "locations" : [ {
     "serverId" : 1397,
     "x" : 396,
@@ -525,5 +525,24 @@
     },
     "cityRewardSeenAt" : "2026-09-04T05:45:54.373Z",
     "foundAt" : "2026-09-04T05:45:54.373Z"
+  }, {
+    "serverId" : 4392,
+    "x" : 793,
+    "y" : 801,
+    "uid" : "9549487903016",
+    "username" : "LaGrimm",
+    "level" : 100,
+    "allianceId" : "500453203",
+    "allianceTag" : ".CW",
+    "pointId" : 410509,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4826385982266721795",
+      "players" : [ ],
+      "num" : 66,
+      "endTimeMilli" : 1788502422021
+    },
+    "cityRewardSeenAt" : "2026-09-04T05:59:53.252Z",
+    "foundAt" : "2026-09-04T05:59:53.252Z"
   } ]
 }
