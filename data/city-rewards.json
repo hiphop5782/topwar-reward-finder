@@ -1,8 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T07:03:39.056015Z",
-  "count" : 9,
+  "updatedAt" : "2026-09-04T07:05:40.692383900Z",
+  "count" : 11,
   "locations" : [ {
+    "serverId" : 466,
+    "x" : 547,
+    "y" : 299,
+    "uid" : "318475784658",
+    "username" : "プチぷよ２",
+    "level" : 100,
+    "allianceId" : "100035482",
+    "allianceTag" : "PEC.",
+    "pointId" : 153362,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4826450130289009666",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1788506245542
+    },
+    "cityRewardSeenAt" : "2026-09-04T07:00:47.850Z",
+    "foundAt" : "2026-09-04T07:00:47.850Z"
+  }, {
     "serverId" : 2373,
     "x" : 459,
     "y" : 661,
@@ -21,6 +40,25 @@
     },
     "cityRewardSeenAt" : "2026-09-04T06:53:55.752Z",
     "foundAt" : "2026-09-04T06:53:55.752Z"
+  }, {
+    "serverId" : 2616,
+    "x" : 529,
+    "y" : 703,
+    "uid" : "901449980472",
+    "username" : "jetfreak",
+    "level" : 100,
+    "allianceId" : "500217146",
+    "allianceTag" : "ViTq",
+    "pointId" : 360201,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4826446028176912392",
+      "players" : [ ],
+      "num" : 25,
+      "endTimeMilli" : 1788506001037
+    },
+    "cityRewardSeenAt" : "2026-09-04T07:03:25.896Z",
+    "foundAt" : "2026-09-04T07:03:25.896Z"
   }, {
     "serverId" : 2781,
     "x" : 426,
