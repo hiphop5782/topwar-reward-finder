@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T11:42:25.079756500Z",
-  "count" : 10,
+  "updatedAt" : "2026-09-04T11:44:29.701185400Z",
+  "count" : 12,
   "locations" : [ {
     "serverId" : 208,
     "x" : 279,
@@ -160,6 +160,28 @@
     "cityRewardSeenAt" : "2026-09-04T11:23:19.588Z",
     "foundAt" : "2026-09-04T11:23:19.588Z"
   }, {
+    "serverId" : 2505,
+    "x" : 208,
+    "y" : 488,
+    "uid" : "908777400906",
+    "username" : "ダッツ",
+    "level" : 100,
+    "allianceId" : "500185409",
+    "allianceTag" : "VuK.",
+    "pointId" : 249961,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4826737621995852296",
+      "players" : [ {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"ダッツ\"}"
+      } ],
+      "num" : 1,
+      "endTimeMilli" : 1788523381383
+    },
+    "cityRewardSeenAt" : "2026-09-04T11:40:32.197Z",
+    "foundAt" : "2026-09-04T11:40:32.197Z"
+  }, {
     "serverId" : 2642,
     "x" : 479,
     "y" : 317,
@@ -197,6 +219,25 @@
     },
     "cityRewardSeenAt" : "2026-09-04T11:13:13.417Z",
     "foundAt" : "2026-09-04T11:13:13.417Z"
+  }, {
+    "serverId" : 3277,
+    "x" : 416,
+    "y" : 386,
+    "uid" : "933458451181",
+    "username" : "미구_Migu",
+    "level" : 100,
+    "allianceId" : "500318711",
+    "allianceTag" : "WwB",
+    "pointId" : 197841,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4826737473316559362",
+      "players" : [ ],
+      "num" : 17,
+      "endTimeMilli" : 1788523372521
+    },
+    "cityRewardSeenAt" : "2026-09-04T11:41:39.792Z",
+    "foundAt" : "2026-09-04T11:41:39.792Z"
   }, {
     "serverId" : 3675,
     "x" : 435,
