@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-04T03:19:56.601081300Z",
-  "count" : 6,
+  "updatedAt" : "2026-09-04T03:21:32.704521500Z",
+  "count" : 8,
   "locations" : [ {
     "serverId" : 211,
     "x" : 543,
@@ -116,5 +116,43 @@
     },
     "cityRewardSeenAt" : "2026-09-04T03:17:23.880Z",
     "foundAt" : "2026-09-04T03:17:23.880Z"
+  }, {
+    "serverId" : 3885,
+    "x" : 465,
+    "y" : 471,
+    "uid" : "835412084975",
+    "username" : "Coopster",
+    "level" : 100,
+    "allianceId" : "500380757",
+    "allianceTag" : "TFMs",
+    "pointId" : 241385,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4826210350101584387",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1788491953529
+    },
+    "cityRewardSeenAt" : "2026-09-04T03:18:58.308Z",
+    "foundAt" : "2026-09-04T03:18:58.308Z"
+  }, {
+    "serverId" : 3885,
+    "x" : 472,
+    "y" : 454,
+    "uid" : "8835423407917",
+    "username" : "Bratista",
+    "level" : 100,
+    "allianceId" : "500380757",
+    "allianceTag" : "TFMs",
+    "pointId" : 232685,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4826217118869379592",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1788492356979
+    },
+    "cityRewardSeenAt" : "2026-09-04T03:18:48.901Z",
+    "foundAt" : "2026-09-04T03:18:48.901Z"
   } ]
 }
