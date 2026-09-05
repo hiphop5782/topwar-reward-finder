@@ -1,39 +1,8 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-05T04:57:59.561294700Z",
-  "count" : 21,
+  "updatedAt" : "2026-09-05T04:59:30.071591400Z",
+  "count" : 20,
   "locations" : [ {
-    "serverId" : 184,
-    "x" : 443,
-    "y" : 639,
-    "uid" : "162091946148",
-    "username" : "マルコス",
-    "level" : 100,
-    "allianceId" : "120006",
-    "allianceTag" : "184R",
-    "pointId" : 327390,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4827732681812963334",
-      "players" : [ {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/78a435fb6751d2607e3463ca6daa363b_1785948153.png?v=1785948154171\",\"https://knight-cdn.akamaized.net/headimg/78a435fb6751d2607e3463ca6daa363b_1782051588.png?v=1782051589876\",\"https://knight-cdn.akamaized.net/headimg/78a435fb6751d2607e3463ca6daa363b_1770815616.png?v=1770815617389\",\"https://knight-cdn.akamaized.net/headimg/78a435fb6751d2607e3463ca6daa363b_1754568791.jpg?v=1754568792208\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":\"wy.183105114296\",\"headimgurl\":\"\",\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/78a435fb6751d2607e3463ca6daa363b_1785948153.png?v=1785948154171\",\"username\":\"水前寺にゃんぱす\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/8c66edb3301af7bc32adcea960535cf3_1783343408.png?v=1783343409051\",\"https://knight-cdn.akamaized.net/headimg/8c66edb3301af7bc32adcea960535cf3_1788267272.png?v=1788267274063\",\"https://knight-cdn.akamaized.net/headimg/8c66edb3301af7bc32adcea960535cf3_1783354304.png?v=1783354304870\",\"https://knight-cdn.akamaized.net/headimg/8c66edb3301af7bc32adcea960535cf3_1783522857.png?v=1783522857672\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"\",\"nickname\":\"wy.201330065613\",\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/8c66edb3301af7bc32adcea960535cf3_1788267272.png?v=1788267274063\",\"username\":\"みけねこ\"}"
-      }, {
-        "frameId" : 8,
-        "playerInfo" : "{\"nationalflag\":218,\"gender\":0,\"avatarurl\":\"hero_icon148\",\"nickname\":\"wy.159667277988\",\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"narukou\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon018_summer\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"にゃおつ\"}"
-      } ],
-      "num" : 16,
-      "endTimeMilli" : 1788582691570
-    },
-    "cityRewardSeenAt" : "2026-09-05T04:24:23.637Z",
-    "foundAt" : "2026-09-05T04:24:23.637Z"
-  }, {
     "serverId" : 1035,
     "x" : 449,
     "y" : 767,
@@ -128,25 +97,6 @@
     },
     "cityRewardSeenAt" : "2026-09-05T04:50:42.971Z",
     "foundAt" : "2026-09-05T04:50:42.971Z"
-  }, {
-    "serverId" : 2147,
-    "x" : 421,
-    "y" : 419,
-    "uid" : "527281620665",
-    "username" : "たぬ吉くん",
-    "level" : 100,
-    "allianceId" : "400254698",
-    "allianceTag" : "NcM",
-    "pointId" : 214739,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4827725337168233984",
-      "players" : [ ],
-      "num" : 41,
-      "endTimeMilli" : 1788582253795
-    },
-    "cityRewardSeenAt" : "2026-09-05T04:23:48.408Z",
-    "foundAt" : "2026-09-05T04:23:48.408Z"
   }, {
     "serverId" : 2275,
     "x" : 359,
@@ -437,5 +387,24 @@
     },
     "cityRewardSeenAt" : "2026-09-05T04:36:42.100Z",
     "foundAt" : "2026-09-05T04:36:42.100Z"
+  }, {
+    "serverId" : 4359,
+    "x" : 412,
+    "y" : 594,
+    "uid" : "9476096135431",
+    "username" : "Aeris",
+    "level" : 100,
+    "allianceId" : "500445157",
+    "allianceTag" : "7DS^",
+    "pointId" : 304335,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4827784340205342213",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1788585770650
+    },
+    "cityRewardSeenAt" : "2026-09-05T04:57:07.583Z",
+    "foundAt" : "2026-09-05T04:57:07.583Z"
   } ]
 }
