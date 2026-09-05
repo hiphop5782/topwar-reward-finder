@@ -1,8 +1,28 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-05T20:43:47.500412800Z",
+  "updatedAt" : "2026-09-05T20:46:41.317696300Z",
   "count" : 31,
   "locations" : [ {
+    "serverId" : 188,
+    "x" : 558,
+    "y" : 316,
+    "uid" : "148270813338",
+    "username" : "ALCYONE",
+    "level" : 100,
+    "allianceId" : "123668",
+    "allianceTag" : "188R",
+    "pointId" : 162072,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4828715038711838721",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1788641244604
+    },
+    "cityRewardCreatedAt" : "2026-09-05T20:17:24.604Z",
+    "cityRewardSeenAt" : "2026-09-05T20:42:52.300Z",
+    "foundAt" : "2026-09-05T20:42:52.300Z"
+  }, {
     "serverId" : 1011,
     "x" : 447,
     "y" : 447,
@@ -582,26 +602,6 @@
     "cityRewardCreatedAt" : "2026-09-05T20:01:37.714Z",
     "cityRewardSeenAt" : "2026-09-05T20:26:16.287Z",
     "foundAt" : "2026-09-05T20:26:16.287Z"
-  }, {
-    "serverId" : 3851,
-    "x" : 365,
-    "y" : 451,
-    "uid" : "8798607937291",
-    "username" : "MH21",
-    "level" : 100,
-    "allianceId" : "500379087",
-    "allianceTag" : "-RoF",
-    "pointId" : 231095,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4828708855755970048",
-      "players" : [ ],
-      "num" : 1,
-      "endTimeMilli" : 1788640876071
-    },
-    "cityRewardCreatedAt" : "2026-09-05T20:11:16.071Z",
-    "cityRewardSeenAt" : "2026-09-05T20:11:25.697Z",
-    "foundAt" : "2026-09-05T20:11:25.697Z"
   }, {
     "serverId" : 4098,
     "x" : 390,
