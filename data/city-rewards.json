@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-05T20:00:06.392651300Z",
-  "count" : 30,
+  "updatedAt" : "2026-09-05T20:02:31.367189200Z",
+  "count" : 29,
   "locations" : [ {
     "serverId" : 819,
     "x" : 568,
@@ -42,6 +42,26 @@
     "cityRewardCreatedAt" : "2026-09-05T19:40:33.023Z",
     "cityRewardSeenAt" : "2026-09-05T19:47:59.147Z",
     "foundAt" : "2026-09-05T19:47:59.147Z"
+  }, {
+    "serverId" : 1866,
+    "x" : 314,
+    "y" : 690,
+    "uid" : "305046622786",
+    "username" : "Aeshma",
+    "level" : 100,
+    "allianceId" : "500031197",
+    "allianceTag" : "P&a",
+    "pointId" : 353438,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4828670286730531842",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1788638577178
+    },
+    "cityRewardCreatedAt" : "2026-09-05T19:32:57.178Z",
+    "cityRewardSeenAt" : "2026-09-05T20:00:14.699Z",
+    "foundAt" : "2026-09-05T20:00:14.699Z"
   }, {
     "serverId" : 2311,
     "x" : 373,
@@ -291,26 +311,6 @@
     "cityRewardCreatedAt" : "2026-09-05T19:28:49.404Z",
     "cityRewardSeenAt" : "2026-09-05T19:54:51.503Z",
     "foundAt" : "2026-09-05T19:54:51.503Z"
-  }, {
-    "serverId" : 2691,
-    "x" : 393,
-    "y" : 553,
-    "uid" : "526775686830",
-    "username" : "DrDeath",
-    "level" : 100,
-    "allianceId" : "500254570",
-    "allianceTag" : "OTWR",
-    "pointId" : 283333,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4828659807631508998",
-      "players" : [ ],
-      "num" : 3,
-      "endTimeMilli" : 1788637952575
-    },
-    "cityRewardCreatedAt" : "2026-09-05T19:22:32.575Z",
-    "cityRewardSeenAt" : "2026-09-05T19:25:59.320Z",
-    "foundAt" : "2026-09-05T19:25:59.320Z"
   }, {
     "serverId" : 2698,
     "x" : 323,
@@ -591,38 +591,6 @@
     "cityRewardCreatedAt" : "2026-09-05T19:49:45.425Z",
     "cityRewardSeenAt" : "2026-09-05T19:52:45.083Z",
     "foundAt" : "2026-09-05T19:52:45.083Z"
-  }, {
-    "serverId" : 4319,
-    "x" : 338,
-    "y" : 460,
-    "uid" : "9373896020191",
-    "username" : "モモンガ",
-    "level" : 100,
-    "allianceId" : "500436053",
-    "allianceTag" : "REXN",
-    "pointId" : 235690,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4828662098410192390",
-      "players" : [ {
-        "frameId" : 1,
-        "playerInfo" : "{\"nationalflag\":105,\"gender\":0,\"avatarurl\":\"icon_alb_male_2\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"cool\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/2bf6b7dce2e3a148ecb75c1869107ea0_1768847552.png?v=1768847554015\",\"https://knight-cdn.akamaized.net/headimg/2bf6b7dce2e3a148ecb75c1869107ea0_1783249815.png?v=1783249815750\",\"https://knight-cdn.akamaized.net/headimg/2bf6b7dce2e3a148ecb75c1869107ea0_1786427012.png?v=1786427015058\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/2bf6b7dce2e3a148ecb75c1869107ea0_1783249815.png?v=1783249815750\",\"username\":\"ANMISTU\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/7b3bec997bf64a3e89799dc11a9749ea_1766860123.png?v=1766860125412\",\"https://knight-cdn.akamaized.net/headimg/7b3bec997bf64a3e89799dc11a9749ea_1766897169.png?v=1766897172172\"],\"nationalflag\":179,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/7b3bec997bf64a3e89799dc11a9749ea_1766897169.png?v=1766897172172\",\"username\":\"Freddy_K\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/945b8fb8c70e1844cd6cc91efe4bf98d_1777292743.png?v=1777292744980\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/945b8fb8c70e1844cd6cc91efe4bf98d_1777292743.png?v=1777292744980\",\"username\":\"モモンガ\"}"
-      } ],
-      "num" : 4,
-      "endTimeMilli" : 1788638089116
-    },
-    "cityRewardCreatedAt" : "2026-09-05T19:24:49.116Z",
-    "cityRewardSeenAt" : "2026-09-05T19:26:31.425Z",
-    "foundAt" : "2026-09-05T19:26:31.425Z"
   }, {
     "serverId" : 4359,
     "x" : 392,
