@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-05T00:47:32.442511100Z",
+  "updatedAt" : "2026-09-05T00:49:07.349960900Z",
   "count" : 21,
   "locations" : [ {
     "serverId" : 262,
@@ -121,25 +121,6 @@
     },
     "cityRewardSeenAt" : "2026-09-05T00:43:07.639Z",
     "foundAt" : "2026-09-05T00:43:07.639Z"
-  }, {
-    "serverId" : 2987,
-    "x" : 410,
-    "y" : 624,
-    "uid" : "7686137580459",
-    "username" : "タイラー",
-    "level" : 100,
-    "allianceId" : "500291090",
-    "allianceTag" : "MtFm",
-    "pointId" : 319694,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4827474083460896259",
-      "players" : [ ],
-      "num" : 43,
-      "endTimeMilli" : 1788567277907
-    },
-    "cityRewardSeenAt" : "2026-09-05T00:13:33.369Z",
-    "foundAt" : "2026-09-05T00:13:33.369Z"
   }, {
     "serverId" : 3016,
     "x" : 419,
@@ -461,5 +442,24 @@
     },
     "cityRewardSeenAt" : "2026-09-05T00:36:02.162Z",
     "foundAt" : "2026-09-05T00:36:02.162Z"
+  }, {
+    "serverId" : 4360,
+    "x" : 420,
+    "y" : 704,
+    "uid" : "9482353774856",
+    "username" : "Loa",
+    "level" : 90,
+    "allianceId" : "500445760",
+    "allianceTag" : "1BDE",
+    "pointId" : 360659,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4827537413358358535",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1788571052663
+    },
+    "cityRewardSeenAt" : "2026-09-05T00:47:41.817Z",
+    "foundAt" : "2026-09-05T00:47:41.817Z"
   } ]
 }
