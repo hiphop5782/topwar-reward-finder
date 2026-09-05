@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-05T02:09:51.577983300Z",
-  "count" : 17,
+  "updatedAt" : "2026-09-05T02:11:55.237979100Z",
+  "count" : 18,
   "locations" : [ {
     "serverId" : 341,
     "x" : 402,
@@ -41,24 +41,55 @@
     "cityRewardSeenAt" : "2026-09-05T01:42:01.960Z",
     "foundAt" : "2026-09-05T01:42:01.960Z"
   }, {
-    "serverId" : 1809,
-    "x" : 357,
-    "y" : 485,
-    "uid" : "448351397327",
-    "username" : "Āpollö🌙",
+    "serverId" : 1337,
+    "x" : 334,
+    "y" : 334,
+    "uid" : "616255468857",
+    "username" : "てとら",
     "level" : 100,
-    "allianceId" : "400146894",
-    "allianceTag" : "809A",
-    "pointId" : 248499,
+    "allianceId" : "682737",
+    "allianceTag" : "@CAT",
+    "pointId" : 171176,
     "cityReward" : {
       "itemId" : 260617004,
-      "instanceId" : "4827562780809634309",
+      "instanceId" : "4827612818201801223",
       "players" : [ ],
       "num" : 6,
-      "endTimeMilli" : 1788572564681
+      "endTimeMilli" : 1788575547142
     },
-    "cityRewardSeenAt" : "2026-09-05T01:36:30.827Z",
-    "foundAt" : "2026-09-05T01:36:30.827Z"
+    "cityRewardSeenAt" : "2026-09-05T02:11:08.596Z",
+    "foundAt" : "2026-09-05T02:11:08.596Z"
+  }, {
+    "serverId" : 1337,
+    "x" : 386,
+    "y" : 640,
+    "uid" : "618949436740",
+    "username" : "conbat",
+    "level" : 100,
+    "allianceId" : "681876",
+    "allianceTag" : "LeeT",
+    "pointId" : 327874,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4827598150016070148",
+      "players" : [ {
+        "frameId" : 63,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon134\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"トラモグ\"}"
+      }, {
+        "frameId" : 60,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon308_summer\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"ハナモグ\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":-1,\"gender\":0,\"avatarurl\":\"hero_icon019\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Chivalry\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon135\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"ぼすざる\"}"
+      } ],
+      "num" : 11,
+      "endTimeMilli" : 1788574672850
+    },
+    "cityRewardSeenAt" : "2026-09-05T02:10:04.200Z",
+    "foundAt" : "2026-09-05T02:10:04.200Z"
   }, {
     "serverId" : 2937,
     "x" : 415,
