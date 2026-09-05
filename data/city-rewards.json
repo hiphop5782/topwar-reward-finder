@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-05T03:44:16.476927500Z",
+  "updatedAt" : "2026-09-05T03:45:53.221410300Z",
   "count" : 7,
   "locations" : [ {
     "serverId" : 341,
@@ -91,6 +91,25 @@
     "cityRewardSeenAt" : "2026-09-05T03:22:54.420Z",
     "foundAt" : "2026-09-05T03:22:54.420Z"
   }, {
+    "serverId" : 4270,
+    "x" : 433,
+    "y" : 545,
+    "uid" : "9302931607726",
+    "username" : "Monmon",
+    "level" : 100,
+    "allianceId" : "500427451",
+    "allianceTag" : "NFL:",
+    "pointId" : 279257,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4827702700191865860",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1788580904526
+    },
+    "cityRewardSeenAt" : "2026-09-05T03:43:56.676Z",
+    "foundAt" : "2026-09-05T03:43:56.676Z"
+  }, {
     "serverId" : 4346,
     "x" : 330,
     "y" : 684,
@@ -140,24 +159,5 @@
     },
     "cityRewardSeenAt" : "2026-09-05T03:11:24.800Z",
     "foundAt" : "2026-09-05T03:11:24.800Z"
-  }, {
-    "serverId" : 4346,
-    "x" : 404,
-    "y" : 598,
-    "uid" : "9349264183507",
-    "username" : "JasonH",
-    "level" : 100,
-    "allianceId" : "500441396",
-    "allianceTag" : "tPL",
-    "pointId" : 306379,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4827671168907604995",
-      "players" : [ ],
-      "num" : 17,
-      "endTimeMilli" : 1788579025115
-    },
-    "cityRewardSeenAt" : "2026-09-05T03:10:48.168Z",
-    "foundAt" : "2026-09-05T03:10:48.168Z"
   } ]
 }
