@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-05T02:19:31.501610Z",
-  "count" : 14,
+  "updatedAt" : "2026-09-05T02:21:57.103004Z",
+  "count" : 12,
   "locations" : [ {
     "serverId" : 1337,
     "x" : 334,
@@ -72,6 +72,25 @@
     "cityRewardSeenAt" : "2026-09-05T02:16:32.125Z",
     "foundAt" : "2026-09-05T02:16:32.125Z"
   }, {
+    "serverId" : 2275,
+    "x" : 359,
+    "y" : 445,
+    "uid" : "336568070988",
+    "username" : "Tonny",
+    "level" : 100,
+    "allianceId" : "500129309",
+    "allianceTag" : "OP75",
+    "pointId" : 228020,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4827622020220044800",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1788576095625
+    },
+    "cityRewardSeenAt" : "2026-09-05T02:20:31.995Z",
+    "foundAt" : "2026-09-05T02:20:31.995Z"
+  }, {
     "serverId" : 2687,
     "x" : 374,
     "y" : 598,
@@ -140,75 +159,6 @@
     },
     "cityRewardSeenAt" : "2026-09-05T01:52:26.721Z",
     "foundAt" : "2026-09-05T01:52:26.721Z"
-  }, {
-    "serverId" : 3051,
-    "x" : 311,
-    "y" : 467,
-    "uid" : "539470096128",
-    "username" : "🫛ₜₒₘₒ🫪",
-    "level" : 100,
-    "allianceId" : "500301121",
-    "allianceTag" : "SH4F",
-    "pointId" : 239260,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4827577490116957705",
-      "players" : [ ],
-      "num" : 31,
-      "endTimeMilli" : 1788573441424
-    },
-    "cityRewardSeenAt" : "2026-09-05T01:46:07.874Z",
-    "foundAt" : "2026-09-05T01:46:07.874Z"
-  }, {
-    "serverId" : 3051,
-    "x" : 396,
-    "y" : 314,
-    "uid" : "423993304467",
-    "username" : "Thicc",
-    "level" : 100,
-    "allianceId" : "500300894",
-    "allianceTag" : "FP4S",
-    "pointId" : 160967,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4827565989385721347",
-      "players" : [ {
-        "frameId" : 159,
-        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/382677017716.jpg?v=1675121444363\",\"username\":\"Rocket\"}"
-      }, {
-        "frameId" : 8,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/6bd0bcf11aa644bd872554ad06614751_1735789726.jpg?v=1735789728169\",\"https://knight-cdn.akamaized.net/headimg/6bd0bcf11aa644bd872554ad06614751_1765758965.png?v=1765758966728\"],\"nationalflag\":68,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/6bd0bcf11aa644bd872554ad06614751_1735789726.jpg?v=1735789728169\",\"username\":\"ꫀꪶꫀꪀꪖ🐾\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/339955487586.jpg?v=1700499455172\",\"username\":\"Carnage\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/6f97da3ae454e08c9cf5149a34820e18_1739513337.jpg?v=1739513338439\",\"https://knight-cdn.akamaized.net/headimg/6f97da3ae454e08c9cf5149a34820e18_1762145091.png?v=1762145093423\",\"https://knight-cdn.akamaized.net/headimg/6f97da3ae454e08c9cf5149a34820e18_1754697211.jpg?v=1754697212295\",\"https://knight-cdn.akamaized.net/headimg/6f97da3ae454e08c9cf5149a34820e18_1762018831.png?v=1762018833833\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/6f97da3ae454e08c9cf5149a34820e18_1754697211.jpg?v=1754697212295\",\"username\":\"CiscoX3\"}"
-      } ],
-      "num" : 22,
-      "endTimeMilli" : 1788572755927
-    },
-    "cityRewardSeenAt" : "2026-09-05T01:45:44.874Z",
-    "foundAt" : "2026-09-05T01:45:44.874Z"
-  }, {
-    "serverId" : 3051,
-    "x" : 408,
-    "y" : 334,
-    "uid" : "536600274650",
-    "username" : "CPLTuna",
-    "level" : 100,
-    "allianceId" : "500300894",
-    "allianceTag" : "FP4S",
-    "pointId" : 171213,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4827578639138149897",
-      "players" : [ ],
-      "num" : 32,
-      "endTimeMilli" : 1788573509911
-    },
-    "cityRewardSeenAt" : "2026-09-05T01:45:44.874Z",
-    "foundAt" : "2026-09-05T01:45:44.874Z"
   }, {
     "serverId" : 3453,
     "x" : 274,
