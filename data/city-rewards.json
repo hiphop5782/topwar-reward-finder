@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-05T03:47:47.624124900Z",
-  "count" : 7,
+  "updatedAt" : "2026-09-05T03:49:33.541461900Z",
+  "count" : 9,
   "locations" : [ {
     "serverId" : 341,
     "x" : 387,
@@ -159,5 +159,43 @@
     },
     "cityRewardSeenAt" : "2026-09-05T03:43:56.676Z",
     "foundAt" : "2026-09-05T03:43:56.676Z"
+  }, {
+    "serverId" : 4299,
+    "x" : 364,
+    "y" : 434,
+    "uid" : "9336992501963",
+    "username" : "BossLady",
+    "level" : 100,
+    "allianceId" : "500431543",
+    "allianceTag" : "OnE!",
+    "pointId" : 222391,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4827712277717292550",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1788581475391
+    },
+    "cityRewardSeenAt" : "2026-09-05T03:46:33.618Z",
+    "foundAt" : "2026-09-05T03:46:33.618Z"
+  }, {
+    "serverId" : 4299,
+    "x" : 371,
+    "y" : 437,
+    "uid" : "9333447364811",
+    "username" : "Jetzstar",
+    "level" : 95,
+    "allianceId" : "500431543",
+    "allianceTag" : "OnE!",
+    "pointId" : 223930,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4827700092291094025",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1788580749083
+    },
+    "cityRewardSeenAt" : "2026-09-05T03:46:33.618Z",
+    "foundAt" : "2026-09-05T03:46:33.618Z"
   } ]
 }
