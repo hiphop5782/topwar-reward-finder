@@ -1,8 +1,28 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-05T23:35:55.331330900Z",
-  "count" : 24,
+  "updatedAt" : "2026-09-05T23:37:51.422592100Z",
+  "count" : 26,
   "locations" : [ {
+    "serverId" : 126,
+    "x" : 498,
+    "y" : 342,
+    "uid" : "163808510119",
+    "username" : "ベニマル",
+    "level" : 100,
+    "allianceId" : "110210",
+    "allianceTag" : "OTA",
+    "pointId" : 175354,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4828903851044174856",
+      "players" : [ ],
+      "num" : 17,
+      "endTimeMilli" : 1788652498696
+    },
+    "cityRewardCreatedAt" : "2026-09-05T23:24:58.696Z",
+    "cityRewardSeenAt" : "2026-09-05T23:37:08.412Z",
+    "foundAt" : "2026-09-05T23:37:08.412Z"
+  }, {
     "serverId" : 211,
     "x" : 268,
     "y" : 206,
@@ -522,6 +542,26 @@
     "cityRewardCreatedAt" : "2026-09-05T23:02:48.728Z",
     "cityRewardSeenAt" : "2026-09-05T23:19:08.181Z",
     "foundAt" : "2026-09-05T23:19:08.181Z"
+  }, {
+    "serverId" : 4239,
+    "x" : 451,
+    "y" : 461,
+    "uid" : "907298908744",
+    "username" : "wy.907298908744",
+    "level" : 100,
+    "allianceId" : "500498666",
+    "allianceTag" : "Dth1",
+    "pointId" : 236258,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4828910706938158593",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1788652907339
+    },
+    "cityRewardCreatedAt" : "2026-09-05T23:31:47.339Z",
+    "cityRewardSeenAt" : "2026-09-05T23:35:40.772Z",
+    "foundAt" : "2026-09-05T23:35:40.772Z"
   }, {
     "serverId" : 4441,
     "x" : 405,
