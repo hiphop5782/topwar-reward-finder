@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-05T23:48:57.734431400Z",
-  "count" : 21,
+  "updatedAt" : "2026-09-05T23:50:58.013796900Z",
+  "count" : 22,
   "locations" : [ {
     "serverId" : 126,
     "x" : 498,
@@ -105,6 +105,38 @@
     "cityRewardCreatedAt" : "2026-09-05T23:44:59.735Z",
     "cityRewardSeenAt" : "2026-09-05T23:46:06.011Z",
     "foundAt" : "2026-09-05T23:46:06.011Z"
+  }, {
+    "serverId" : 836,
+    "x" : 384,
+    "y" : 722,
+    "uid" : "614308967739",
+    "username" : "wiehhh",
+    "level" : 100,
+    "allianceId" : "471545",
+    "allianceTag" : "ZOOF",
+    "pointId" : 369857,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4828918917135501315",
+      "players" : [ {
+        "frameId" : 164,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/c635adc354510930efaa0dc62d83106c_1770764622.png?v=1770764624043\",\"https://knight-cdn.akamaized.net/headimg/c635adc354510930efaa0dc62d83106c_1770785744.png?v=1770785746103\",\"https://knight-cdn.akamaized.net/headimg/c635adc354510930efaa0dc62d83106c_1770819845.png?v=1770819846026\",\"https://knight-cdn.akamaized.net/headimg/c635adc354510930efaa0dc62d83106c_1770831409.png?v=1770831411462\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/c635adc354510930efaa0dc62d83106c_1770819845.png?v=1770819846026\",\"username\":\"Tiffany\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":116,\"gender\":0,\"avatarurl\":\"hero_icon169_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"🛵♎️\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"BK09\"}"
+      }, {
+        "frameId" : 53,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon312\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Sunfish２\"}"
+      } ],
+      "num" : 7,
+      "endTimeMilli" : 1788653396705
+    },
+    "cityRewardCreatedAt" : "2026-09-05T23:39:56.705Z",
+    "cityRewardSeenAt" : "2026-09-05T23:47:59.498Z",
+    "foundAt" : "2026-09-05T23:47:59.498Z"
   }, {
     "serverId" : 1041,
     "x" : 390,
