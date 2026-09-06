@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T04:25:41.094915800Z",
-  "count" : 14,
+  "updatedAt" : "2026-09-06T04:27:37.669255200Z",
+  "count" : 15,
   "locations" : [ {
     "serverId" : 73,
     "x" : 285,
@@ -286,6 +286,38 @@
     "cityRewardCreatedAt" : "2026-09-06T04:06:47.539Z",
     "cityRewardSeenAt" : "2026-09-06T04:11:32.096Z",
     "foundAt" : "2026-09-06T04:11:32.096Z"
+  }, {
+    "serverId" : 4380,
+    "x" : 411,
+    "y" : 589,
+    "uid" : "9521126019356",
+    "username" : "べろりん",
+    "level" : 100,
+    "allianceId" : "500449845",
+    "allianceTag" : "EVND",
+    "pointId" : 301774,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4829194451016628229",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":95,\"gender\":0,\"avatarurl\":\"hero_icon116_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"韭菜\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/f927e495aacad679bd21a292ee737990_1777780068.png?v=1777780070573\",\"https://knight-cdn.akamaized.net/headimg/f927e495aacad679bd21a292ee737990_1777893914.png?v=1777893916435\"],\"nationalflag\":13,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/f927e495aacad679bd21a292ee737990_1777893914.png?v=1777893916435\",\"username\":\"Evilpea\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"icon_felman01_0\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"kohzuyy\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":19,\"gender\":0,\"avatarurl\":\"hero_icon123_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Gefary\"}"
+      } ],
+      "num" : 7,
+      "endTimeMilli" : 1788669819804
+    },
+    "cityRewardCreatedAt" : "2026-09-06T04:13:39.804Z",
+    "cityRewardSeenAt" : "2026-09-06T04:24:15.596Z",
+    "foundAt" : "2026-09-06T04:24:15.596Z"
   }, {
     "serverId" : 4514,
     "x" : 505,
