@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T11:36:41.408260Z",
-  "count" : 66,
+  "updatedAt" : "2026-09-06T11:38:26.072413700Z",
+  "count" : 67,
   "locations" : [ {
     "serverId" : 216,
     "x" : 239,
@@ -294,26 +294,6 @@
     "cityRewardCreatedAt" : "2026-09-06T11:09:42.908Z",
     "cityRewardSeenAt" : "2026-09-06T11:27:40.158Z",
     "foundAt" : "2026-09-06T11:27:40.158Z"
-  }, {
-    "serverId" : 836,
-    "x" : 501,
-    "y" : 337,
-    "uid" : "412556251711",
-    "username" : "伊吹IB",
-    "level" : 100,
-    "allianceId" : "472347",
-    "allianceTag" : "SRJ9",
-    "pointId" : 172795,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4829587671813097479",
-      "players" : [ ],
-      "num" : 15,
-      "endTimeMilli" : 1788693257590
-    },
-    "cityRewardCreatedAt" : "2026-09-06T10:44:17.590Z",
-    "cityRewardSeenAt" : "2026-09-06T11:02:42.567Z",
-    "foundAt" : "2026-09-06T11:02:42.567Z"
   }, {
     "serverId" : 1035,
     "x" : 437,
@@ -1490,5 +1470,57 @@
     "cityRewardCreatedAt" : "2026-09-06T10:54:06.247Z",
     "cityRewardSeenAt" : "2026-09-06T11:09:38.850Z",
     "foundAt" : "2026-09-06T11:09:38.850Z"
+  }, {
+    "serverId" : 4256,
+    "x" : 395,
+    "y" : 625,
+    "uid" : "9275273547936",
+    "username" : "gamaiso",
+    "level" : 100,
+    "allianceId" : "500423768",
+    "allianceTag" : "1.ss",
+    "pointId" : 320198,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4829627727166390280",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1788695645075
+    },
+    "cityRewardCreatedAt" : "2026-09-06T11:24:05.075Z",
+    "cityRewardSeenAt" : "2026-09-06T11:35:51.802Z",
+    "foundAt" : "2026-09-06T11:35:51.802Z"
+  }, {
+    "serverId" : 4256,
+    "x" : 468,
+    "y" : 448,
+    "uid" : "7672820370332",
+    "username" : "PoorMike",
+    "level" : 100,
+    "allianceId" : "500423763",
+    "allianceTag" : "BMG`",
+    "pointId" : 229611,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4829632244582793218",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/07f3cf89000356d5e0f1ad551143c491_1788506170.png?v=1788506174266\",\"https://knight-cdn.akamaized.net/headimg/07f3cf89000356d5e0f1ad551143c491_1788608701.png?v=1788608706856\",\"https://knight-cdn.akamaized.net/headimg/07f3cf89000356d5e0f1ad551143c491_1758513426.jpg?v=1758513427922\",\"https://knight-cdn.akamaized.net/headimg/07f3cf89000356d5e0f1ad551143c491_1769485961.png?v=1769485962143\"],\"nationalflag\":158,\"gender\":0,\"avatarurl\":\"\",\"nickname\":\"LoveAndPeace\",\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/07f3cf89000356d5e0f1ad551143c491_1788608701.png?v=1788608706856\",\"username\":\"RoolTK\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon108_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"カズトゥー\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/933617605357.jpg?v=1700815423947\",\"https://knight-cdn.akamaized.net/headimg/e7e4a47eadf3c775776dadb271350981_1785949751.png?v=1785949751972\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/933617605357.jpg?v=1700815423947\",\"username\":\"Stanley7\"}"
+      }, {
+        "frameId" : 162,
+        "playerInfo" : "{\"nationalflag\":240,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Des\"}"
+      } ],
+      "num" : 8,
+      "endTimeMilli" : 1788695914334
+    },
+    "cityRewardCreatedAt" : "2026-09-06T11:28:34.334Z",
+    "cityRewardSeenAt" : "2026-09-06T11:35:28.740Z",
+    "foundAt" : "2026-09-06T11:35:28.740Z"
   } ]
 }
