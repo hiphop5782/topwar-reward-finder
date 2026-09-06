@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T00:07:30.225047100Z",
-  "count" : 14,
+  "updatedAt" : "2026-09-06T00:09:53.457752Z",
+  "count" : 19,
   "locations" : [ {
     "serverId" : 111,
     "x" : 295,
@@ -158,6 +158,86 @@
     "cityRewardSeenAt" : "2026-09-05T23:56:11.988Z",
     "foundAt" : "2026-09-05T23:56:11.988Z"
   }, {
+    "serverId" : 2622,
+    "x" : 246,
+    "y" : 466,
+    "uid" : "437563954624",
+    "username" : "L0c0",
+    "level" : 100,
+    "allianceId" : "500219447",
+    "allianceTag" : "ZFkG",
+    "pointId" : 238716,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4828920392776449031",
+      "players" : [ ],
+      "num" : 39,
+      "endTimeMilli" : 1788653484660
+    },
+    "cityRewardCreatedAt" : "2026-09-05T23:41:24.660Z",
+    "cityRewardSeenAt" : "2026-09-06T00:07:37.991Z",
+    "foundAt" : "2026-09-06T00:07:37.991Z"
+  }, {
+    "serverId" : 2622,
+    "x" : 269,
+    "y" : 481,
+    "uid" : "512153240340",
+    "username" : "Ngn",
+    "level" : 100,
+    "allianceId" : "500219447",
+    "allianceTag" : "ZFkG",
+    "pointId" : 246407,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4828942419247791109",
+      "players" : [ ],
+      "num" : 14,
+      "endTimeMilli" : 1788654797540
+    },
+    "cityRewardCreatedAt" : "2026-09-06T00:03:17.540Z",
+    "cityRewardSeenAt" : "2026-09-06T00:07:37.991Z",
+    "foundAt" : "2026-09-06T00:07:37.991Z"
+  }, {
+    "serverId" : 2622,
+    "x" : 527,
+    "y" : 497,
+    "uid" : "420820559230",
+    "username" : "M🚀Hadad",
+    "level" : 100,
+    "allianceId" : "500220540",
+    "allianceTag" : "FOXC",
+    "pointId" : 254728,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4828940155682585608",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1788654662621
+    },
+    "cityRewardCreatedAt" : "2026-09-06T00:01:02.621Z",
+    "cityRewardSeenAt" : "2026-09-06T00:06:56.946Z",
+    "foundAt" : "2026-09-06T00:06:56.946Z"
+  }, {
+    "serverId" : 2622,
+    "x" : 541,
+    "y" : 479,
+    "uid" : "904468896318",
+    "username" : "Jules",
+    "level" : 100,
+    "allianceId" : "500220540",
+    "allianceTag" : "FOXC",
+    "pointId" : 245519,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4828918623937788930",
+      "players" : [ ],
+      "num" : 31,
+      "endTimeMilli" : 1788653379229
+    },
+    "cityRewardCreatedAt" : "2026-09-05T23:39:39.229Z",
+    "cityRewardSeenAt" : "2026-09-06T00:06:56.946Z",
+    "foundAt" : "2026-09-06T00:06:56.946Z"
+  }, {
     "serverId" : 3278,
     "x" : 421,
     "y" : 535,
@@ -269,6 +349,38 @@
     "cityRewardCreatedAt" : "2026-09-05T23:40:57.162Z",
     "cityRewardSeenAt" : "2026-09-06T00:01:37.647Z",
     "foundAt" : "2026-09-06T00:01:37.647Z"
+  }, {
+    "serverId" : 4122,
+    "x" : 412,
+    "y" : 632,
+    "uid" : "9099595878428",
+    "username" : "Kovu",
+    "level" : 100,
+    "allianceId" : "500401932",
+    "allianceTag" : "+KB+",
+    "pointId" : 323791,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4828926151053292549",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/391195182284.jpg?v=1723919288032\",\"username\":\"Scar\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"hero_icon019_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Fury\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":95,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"cloman\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":177,\"gender\":0,\"avatarurl\":\"hero_icon215_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Zamurai\"}"
+      } ],
+      "num" : 6,
+      "endTimeMilli" : 1788653827880
+    },
+    "cityRewardCreatedAt" : "2026-09-05T23:47:07.880Z",
+    "cityRewardSeenAt" : "2026-09-06T00:07:19.765Z",
+    "foundAt" : "2026-09-06T00:07:19.765Z"
   }, {
     "serverId" : 4239,
     "x" : 451,
