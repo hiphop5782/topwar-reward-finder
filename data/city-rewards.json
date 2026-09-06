@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T05:46:52.136186600Z",
+  "updatedAt" : "2026-09-06T05:48:18.292787600Z",
   "count" : 25,
   "locations" : [ {
     "serverId" : 174,
@@ -42,35 +42,6 @@
     "cityRewardCreatedAt" : "2026-09-06T05:19:39.271Z",
     "cityRewardSeenAt" : "2026-09-06T05:44:21.960Z",
     "foundAt" : "2026-09-06T05:44:21.960Z"
-  }, {
-    "serverId" : 1219,
-    "x" : 440,
-    "y" : 642,
-    "uid" : "498454079087",
-    "username" : "ぶたさん",
-    "level" : 100,
-    "allianceId" : "634574",
-    "allianceTag" : ">Z0Z",
-    "pointId" : 328925,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4829233449301280265",
-      "players" : [ {
-        "frameId" : 57,
-        "playerInfo" : "{\"nationalflag\":180,\"gender\":0,\"avatarurl\":\"hero_icon129_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"aguamala\"}"
-      }, {
-        "frameId" : 4,
-        "playerInfo" : "{\"nationalflag\":95,\"gender\":0,\"avatarurl\":\"hero_icon174_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"吉吉\"}"
-      }, {
-        "frameId" : 69,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"icon_alb_male_2\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"ニンニン\"}"
-      } ],
-      "num" : 7,
-      "endTimeMilli" : 1788672144283
-    },
-    "cityRewardCreatedAt" : "2026-09-06T04:52:24.283Z",
-    "cityRewardSeenAt" : "2026-09-06T05:13:02.447Z",
-    "foundAt" : "2026-09-06T05:13:02.447Z"
   }, {
     "serverId" : 1251,
     "x" : 419,
@@ -370,6 +341,26 @@
     "cityRewardCreatedAt" : "2026-09-06T04:58:57.436Z",
     "cityRewardSeenAt" : "2026-09-06T05:14:49.304Z",
     "foundAt" : "2026-09-06T05:14:49.304Z"
+  }, {
+    "serverId" : 3345,
+    "x" : 386,
+    "y" : 430,
+    "uid" : "9050967674881",
+    "username" : "monday",
+    "level" : 100,
+    "allianceId" : "500325012",
+    "allianceTag" : "BaMi",
+    "pointId" : 220354,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4829260819954541061",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1788673775701
+    },
+    "cityRewardCreatedAt" : "2026-09-06T05:19:35.701Z",
+    "cityRewardSeenAt" : "2026-09-06T05:46:50.723Z",
+    "foundAt" : "2026-09-06T05:46:50.723Z"
   }, {
     "serverId" : 3355,
     "x" : 429,
