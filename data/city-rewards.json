@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T06:41:49.705716100Z",
-  "count" : 17,
+  "updatedAt" : "2026-09-06T06:44:50.996038600Z",
+  "count" : 16,
   "locations" : [ {
     "serverId" : 158,
     "x" : 363,
@@ -84,26 +84,6 @@
     "foundAt" : "2026-09-06T06:34:15.324Z"
   }, {
     "serverId" : 680,
-    "x" : 360,
-    "y" : 324,
-    "uid" : "255989072303",
-    "username" : "アドン",
-    "level" : 100,
-    "allianceId" : "407983",
-    "allianceTag" : "POK!",
-    "pointId" : 166069,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4829304339380391944",
-      "players" : [ ],
-      "num" : 26,
-      "endTimeMilli" : 1788676369661
-    },
-    "cityRewardCreatedAt" : "2026-09-06T06:02:49.661Z",
-    "cityRewardSeenAt" : "2026-09-06T06:09:33.195Z",
-    "foundAt" : "2026-09-06T06:09:33.195Z"
-  }, {
-    "serverId" : 680,
     "x" : 449,
     "y" : 625,
     "uid" : "470902493864",
@@ -174,26 +154,6 @@
     "cityRewardCreatedAt" : "2026-09-06T06:29:15.357Z",
     "cityRewardSeenAt" : "2026-09-06T06:39:33.463Z",
     "foundAt" : "2026-09-06T06:39:33.463Z"
-  }, {
-    "serverId" : 2197,
-    "x" : 425,
-    "y" : 535,
-    "uid" : "313978503831",
-    "username" : "VcTxSawr",
-    "level" : 100,
-    "allianceId" : "500103024",
-    "allianceTag" : "NNA!",
-    "pointId" : 274133,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4829303263558969861",
-      "players" : [ ],
-      "num" : 0,
-      "endTimeMilli" : 1788676305537
-    },
-    "cityRewardCreatedAt" : "2026-09-06T06:01:45.537Z",
-    "cityRewardSeenAt" : "2026-09-06T06:07:59.226Z",
-    "foundAt" : "2026-09-06T06:07:59.226Z"
   }, {
     "serverId" : 2494,
     "x" : 400,
@@ -367,6 +327,29 @@
     "cityRewardCreatedAt" : "2026-09-06T06:27:17.171Z",
     "cityRewardSeenAt" : "2026-09-06T06:38:35.101Z",
     "foundAt" : "2026-09-06T06:38:35.101Z"
+  }, {
+    "serverId" : 4199,
+    "x" : 559,
+    "y" : 479,
+    "uid" : "9045916880878",
+    "username" : "大锤",
+    "level" : 100,
+    "allianceId" : "500416545",
+    "allianceTag" : "BSVG",
+    "pointId" : 245528,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4829322165107084804",
+      "players" : [ {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon337_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"リース\"}"
+      } ],
+      "num" : 11,
+      "endTimeMilli" : 1788677432157
+    },
+    "cityRewardCreatedAt" : "2026-09-06T06:20:32.157Z",
+    "cityRewardSeenAt" : "2026-09-06T06:41:28.746Z",
+    "foundAt" : "2026-09-06T06:41:28.746Z"
   }, {
     "serverId" : 4349,
     "x" : 420,
