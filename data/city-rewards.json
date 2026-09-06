@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T06:10:03.086894400Z",
-  "count" : 19,
+  "updatedAt" : "2026-09-06T06:12:13.265358400Z",
+  "count" : 22,
   "locations" : [ {
     "serverId" : 233,
     "x" : 550,
@@ -42,6 +42,78 @@
     "cityRewardCreatedAt" : "2026-09-06T05:35:16.827Z",
     "cityRewardSeenAt" : "2026-09-06T05:56:17.533Z",
     "foundAt" : "2026-09-06T05:56:17.533Z"
+  }, {
+    "serverId" : 680,
+    "x" : 360,
+    "y" : 324,
+    "uid" : "255989072303",
+    "username" : "アドン",
+    "level" : 100,
+    "allianceId" : "407983",
+    "allianceTag" : "POK!",
+    "pointId" : 166069,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4829304339380391944",
+      "players" : [ ],
+      "num" : 26,
+      "endTimeMilli" : 1788676369661
+    },
+    "cityRewardCreatedAt" : "2026-09-06T06:02:49.661Z",
+    "cityRewardSeenAt" : "2026-09-06T06:09:33.195Z",
+    "foundAt" : "2026-09-06T06:09:33.195Z"
+  }, {
+    "serverId" : 680,
+    "x" : 449,
+    "y" : 625,
+    "uid" : "470902493864",
+    "username" : "yukinori",
+    "level" : 100,
+    "allianceId" : "396351",
+    "allianceTag" : "AkNc",
+    "pointId" : 320225,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4829297795712503814",
+      "players" : [ ],
+      "num" : 41,
+      "endTimeMilli" : 1788675979628
+    },
+    "cityRewardCreatedAt" : "2026-09-06T05:56:19.628Z",
+    "cityRewardSeenAt" : "2026-09-06T06:10:39.757Z",
+    "foundAt" : "2026-09-06T06:10:39.757Z"
+  }, {
+    "serverId" : 680,
+    "x" : 560,
+    "y" : 326,
+    "uid" : "266712363466",
+    "username" : "Peter",
+    "level" : 100,
+    "allianceId" : "401583",
+    "allianceTag" : "Kafu",
+    "pointId" : 167193,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4829285809649963010",
+      "players" : [ {
+        "frameId" : 22,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon212\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"username\":\"きぃ\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon318\",\"nickname\":\"wy.231261323404\",\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"セフィリア・V\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon134\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"採集バフにゃ～\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_5_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"🐟\"}"
+      } ],
+      "num" : 25,
+      "endTimeMilli" : 1788675265203
+    },
+    "cityRewardCreatedAt" : "2026-09-06T05:44:25.203Z",
+    "cityRewardSeenAt" : "2026-09-06T06:09:55.587Z",
+    "foundAt" : "2026-09-06T06:09:55.587Z"
   }, {
     "serverId" : 1383,
     "x" : 394,
