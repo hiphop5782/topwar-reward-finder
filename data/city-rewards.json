@@ -1,8 +1,48 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T00:46:53.226598800Z",
-  "count" : 30,
+  "updatedAt" : "2026-09-06T00:47:48.175737800Z",
+  "count" : 32,
   "locations" : [ {
+    "serverId" : 225,
+    "x" : 436,
+    "y" : 626,
+    "uid" : "274447507747",
+    "username" : "ぴま",
+    "level" : 100,
+    "allianceId" : "100003583",
+    "allianceTag" : "VIOI",
+    "pointId" : 320731,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4828978575858319880",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1788656952642
+    },
+    "cityRewardCreatedAt" : "2026-09-06T00:39:12.642Z",
+    "cityRewardSeenAt" : "2026-09-06T00:45:59.772Z",
+    "foundAt" : "2026-09-06T00:45:59.772Z"
+  }, {
+    "serverId" : 225,
+    "x" : 445,
+    "y" : 629,
+    "uid" : "272051708195",
+    "username" : "🧊ティー",
+    "level" : 100,
+    "allianceId" : "100003583",
+    "allianceTag" : "VIOI",
+    "pointId" : 322271,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4828974170564051458",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1788656690066
+    },
+    "cityRewardCreatedAt" : "2026-09-06T00:34:50.066Z",
+    "cityRewardSeenAt" : "2026-09-06T00:45:59.772Z",
+    "foundAt" : "2026-09-06T00:45:59.772Z"
+  }, {
     "serverId" : 242,
     "x" : 149,
     "y" : 369,
@@ -110,26 +150,6 @@
     "cityRewardSeenAt" : "2026-09-06T00:25:07.214Z",
     "foundAt" : "2026-09-06T00:25:07.214Z"
   }, {
-    "serverId" : 811,
-    "x" : 311,
-    "y" : 475,
-    "uid" : "520560857918",
-    "username" : "ZICCO",
-    "level" : 100,
-    "allianceId" : "466765",
-    "allianceTag" : "ARWI",
-    "pointId" : 243356,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4828933134970410500",
-      "players" : [ ],
-      "num" : 1,
-      "endTimeMilli" : 1788654244154
-    },
-    "cityRewardCreatedAt" : "2026-09-05T23:54:04.154Z",
-    "cityRewardSeenAt" : "2026-09-06T00:12:17.063Z",
-    "foundAt" : "2026-09-06T00:12:17.063Z"
-  }, {
     "serverId" : 1096,
     "x" : 316,
     "y" : 482,
@@ -218,6 +238,35 @@
     "cityRewardCreatedAt" : "2026-09-06T00:40:53.201Z",
     "cityRewardSeenAt" : "2026-09-06T00:41:24.933Z",
     "foundAt" : "2026-09-06T00:41:24.933Z"
+  }, {
+    "serverId" : 1867,
+    "x" : 434,
+    "y" : 662,
+    "uid" : "311777550967",
+    "username" : "DD",
+    "level" : 100,
+    "allianceId" : "500033835",
+    "allianceTag" : "FeBo",
+    "pointId" : 339162,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4828959662819677705",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"hero_icon229_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"sequin🔴\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/6560b063981bd3181d1fe3689577642c_1741695169.jpg?v=1741695170505\",\"https://knight-cdn.akamaized.net/headimg/6560b063981bd3181d1fe3689577642c_1783997365.png?v=1783997367838\",\"https://knight-cdn.akamaized.net/headimg/6560b063981bd3181d1fe3689577642c_1785509923.png?v=1785509925955\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/6560b063981bd3181d1fe3689577642c_1785509923.png?v=1785509925955\",\"username\":\"IAF\"}"
+      }, {
+        "frameId" : 8,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/563655939915.jpg?v=1723912215485\"],\"nationalflag\":57,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/563655939915.jpg?v=1723912215485\",\"username\":\"Ju💣💣y\"}"
+      } ],
+      "num" : 6,
+      "endTimeMilli" : 1788655825337
+    },
+    "cityRewardCreatedAt" : "2026-09-06T00:20:25.337Z",
+    "cityRewardSeenAt" : "2026-09-06T00:46:23.172Z",
+    "foundAt" : "2026-09-06T00:46:23.172Z"
   }, {
     "serverId" : 2014,
     "x" : 435,
