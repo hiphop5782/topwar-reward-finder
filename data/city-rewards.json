@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T04:27:37.669255200Z",
+  "updatedAt" : "2026-09-06T04:29:54.031112100Z",
   "count" : 15,
   "locations" : [ {
     "serverId" : 73,
@@ -62,6 +62,35 @@
     "cityRewardCreatedAt" : "2026-09-06T04:13:07.545Z",
     "cityRewardSeenAt" : "2026-09-06T04:21:23.703Z",
     "foundAt" : "2026-09-06T04:21:23.703Z"
+  }, {
+    "serverId" : 742,
+    "x" : 404,
+    "y" : 542,
+    "uid" : "499241439974",
+    "username" : "雪風",
+    "level" : 100,
+    "allianceId" : "432642",
+    "allianceTag" : "comi",
+    "pointId" : 277707,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4829179894061976584",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":230,\"gender\":0,\"avatarurl\":\"headIcon_5_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"研修生\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon009\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"プリンくん\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon114\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"ラルフ\"}"
+      } ],
+      "num" : 8,
+      "endTimeMilli" : 1788668952142
+    },
+    "cityRewardCreatedAt" : "2026-09-06T03:59:12.142Z",
+    "cityRewardSeenAt" : "2026-09-06T04:27:35.695Z",
+    "foundAt" : "2026-09-06T04:27:35.695Z"
   }, {
     "serverId" : 1645,
     "x" : 279,
@@ -142,26 +171,6 @@
     "cityRewardCreatedAt" : "2026-09-06T03:56:43.269Z",
     "cityRewardSeenAt" : "2026-09-06T04:07:19.566Z",
     "foundAt" : "2026-09-06T04:07:19.566Z"
-  }, {
-    "serverId" : 2687,
-    "x" : 385,
-    "y" : 611,
-    "uid" : "906978384456",
-    "username" : "Tigo𓅂🍕",
-    "level" : 100,
-    "allianceId" : "500237326",
-    "allianceTag" : "87GR",
-    "pointId" : 313025,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4829167183862234628",
-      "players" : [ ],
-      "num" : 4,
-      "endTimeMilli" : 1788668194555
-    },
-    "cityRewardCreatedAt" : "2026-09-06T03:46:34.555Z",
-    "cityRewardSeenAt" : "2026-09-06T03:53:06.885Z",
-    "foundAt" : "2026-09-06T03:53:06.885Z"
   }, {
     "serverId" : 3053,
     "x" : 430,
