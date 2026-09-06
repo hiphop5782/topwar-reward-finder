@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T08:02:50.481707900Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-06T08:06:21.570262800Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 650,
+    "x" : 125,
+    "y" : 167,
+    "uid" : "453200822922",
+    "username" : "JAWS",
+    "level" : 100,
+    "allianceId" : "375043",
+    "allianceTag" : "MAME",
+    "pointId" : 85567,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4829421437519729665",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1788683349254
+    },
+    "cityRewardCreatedAt" : "2026-09-06T07:59:09.254Z",
+    "cityRewardSeenAt" : "2026-09-06T08:05:38.848Z",
+    "foundAt" : "2026-09-06T08:05:38.848Z"
+  } ]
 }
