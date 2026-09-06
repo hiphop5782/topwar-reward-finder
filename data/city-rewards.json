@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T14:43:45.040939Z",
-  "count" : 63,
+  "updatedAt" : "2026-09-06T14:44:50.992849300Z",
+  "count" : 65,
   "locations" : [ {
     "serverId" : 126,
     "x" : 319,
@@ -158,6 +158,55 @@
     "cityRewardCreatedAt" : "2026-09-06T14:20:53.815Z",
     "cityRewardSeenAt" : "2026-09-06T14:27:58.918Z",
     "foundAt" : "2026-09-06T14:27:58.918Z"
+  }, {
+    "serverId" : 188,
+    "x" : 193,
+    "y" : 383,
+    "uid" : "186145198268",
+    "username" : "プリプリ鳥",
+    "level" : 100,
+    "allianceId" : "122392",
+    "allianceTag" : "krm1",
+    "pointId" : 196193,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4829822730473928708",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"headIcon_15_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"プリtheエース\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon007_summer\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"プリプリマン\"}"
+      }, {
+        "frameId" : 51,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":\"wy.186145198268\",\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/99f6e5bf5e619373ad0027ad367b96a2_1724850013.jpg?v=1724850013549\",\"username\":\"プリプリ鳥\"}"
+      } ],
+      "num" : 3,
+      "endTimeMilli" : 1788707268178
+    },
+    "cityRewardCreatedAt" : "2026-09-06T14:37:48.178Z",
+    "cityRewardSeenAt" : "2026-09-06T14:41:31.439Z",
+    "foundAt" : "2026-09-06T14:41:31.439Z"
+  }, {
+    "serverId" : 188,
+    "x" : 426,
+    "y" : 270,
+    "uid" : "186721525948",
+    "username" : "kknm",
+    "level" : 100,
+    "allianceId" : "122393",
+    "allianceTag" : "MaTe",
+    "pointId" : 138454,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4829806076838901764",
+      "players" : [ ],
+      "num" : 28,
+      "endTimeMilli" : 1788706275544
+    },
+    "cityRewardCreatedAt" : "2026-09-06T14:21:15.544Z",
+    "cityRewardSeenAt" : "2026-09-06T14:43:19.936Z",
+    "foundAt" : "2026-09-06T14:43:19.936Z"
   }, {
     "serverId" : 193,
     "x" : 537,
