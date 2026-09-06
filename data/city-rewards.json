@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T04:40:32.881958900Z",
-  "count" : 17,
+  "updatedAt" : "2026-09-06T04:42:28.775786600Z",
+  "count" : 14,
   "locations" : [ {
     "serverId" : 73,
     "x" : 285,
@@ -172,46 +172,6 @@
     "cityRewardSeenAt" : "2026-09-06T04:12:45.580Z",
     "foundAt" : "2026-09-06T04:12:45.580Z"
   }, {
-    "serverId" : 1692,
-    "x" : 464,
-    "y" : 428,
-    "uid" : "821464160347",
-    "username" : "Magnet",
-    "level" : 100,
-    "allianceId" : "400012080",
-    "allianceTag" : "l692",
-    "pointId" : 219369,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4829177424640817160",
-      "players" : [ ],
-      "num" : 15,
-      "endTimeMilli" : 1788668804953
-    },
-    "cityRewardCreatedAt" : "2026-09-06T03:56:44.953Z",
-    "cityRewardSeenAt" : "2026-09-06T04:07:19.566Z",
-    "foundAt" : "2026-09-06T04:07:19.566Z"
-  }, {
-    "serverId" : 1692,
-    "x" : 466,
-    "y" : 430,
-    "uid" : "833017616475",
-    "username" : "砂袋🍼",
-    "level" : 100,
-    "allianceId" : "400012080",
-    "allianceTag" : "l692",
-    "pointId" : 220394,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4829177396387985417",
-      "players" : [ ],
-      "num" : 15,
-      "endTimeMilli" : 1788668803269
-    },
-    "cityRewardCreatedAt" : "2026-09-06T03:56:43.269Z",
-    "cityRewardSeenAt" : "2026-09-06T04:07:19.566Z",
-    "foundAt" : "2026-09-06T04:07:19.566Z"
-  }, {
     "serverId" : 3453,
     "x" : 266,
     "y" : 530,
@@ -355,37 +315,5 @@
     "cityRewardCreatedAt" : "2026-09-06T04:13:39.804Z",
     "cityRewardSeenAt" : "2026-09-06T04:24:15.596Z",
     "foundAt" : "2026-09-06T04:24:15.596Z"
-  }, {
-    "serverId" : 4514,
-    "x" : 505,
-    "y" : 463,
-    "uid" : "9828093890978",
-    "username" : "Solistra",
-    "level" : 79,
-    "allianceId" : "500493283",
-    "allianceTag" : "spl@",
-    "pointId" : 237309,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4829174441871361032",
-      "players" : [ {
-        "frameId" : 1,
-        "playerInfo" : "{\"nationalflag\":101,\"gender\":0,\"avatarurl\":\"hero_icon010_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"David\"}"
-      }, {
-        "frameId" : 118,
-        "playerInfo" : "{\"nationalflag\":157,\"gender\":0,\"avatarurl\":\"hero_icon009_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"KIDBILL\"}"
-      }, {
-        "frameId" : 118,
-        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"nio\"}"
-      }, {
-        "frameId" : 2,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/a3b3f203857f9f5a3a04949d5eadd5ba_1784191582.png?v=1784191583250\",\"https://knight-cdn.akamaized.net/headimg/a3b3f203857f9f5a3a04949d5eadd5ba_1787079933.png?v=1787079934571\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/a3b3f203857f9f5a3a04949d5eadd5ba_1787079933.png?v=1787079934571\",\"username\":\"Solistra\"}"
-      } ],
-      "num" : 4,
-      "endTimeMilli" : 1788668627166
-    },
-    "cityRewardCreatedAt" : "2026-09-06T03:53:47.166Z",
-    "cityRewardSeenAt" : "2026-09-06T04:06:54.476Z",
-    "foundAt" : "2026-09-06T04:06:54.476Z"
   } ]
 }
