@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T00:44:18.752847200Z",
-  "count" : 28,
+  "updatedAt" : "2026-09-06T00:46:53.226598800Z",
+  "count" : 30,
   "locations" : [ {
     "serverId" : 242,
     "x" : 149,
@@ -402,6 +402,58 @@
     "cityRewardCreatedAt" : "2026-09-06T00:00:22.311Z",
     "cityRewardSeenAt" : "2026-09-06T00:24:39.656Z",
     "foundAt" : "2026-09-06T00:24:39.656Z"
+  }, {
+    "serverId" : 3051,
+    "x" : 386,
+    "y" : 320,
+    "uid" : "818415220888",
+    "username" : "NiNjA🐍",
+    "level" : 100,
+    "allianceId" : "500300894",
+    "allianceTag" : "FP4S",
+    "pointId" : 164034,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4828965133115446790",
+      "players" : [ ],
+      "num" : 22,
+      "endTimeMilli" : 1788656151392
+    },
+    "cityRewardCreatedAt" : "2026-09-06T00:25:51.392Z",
+    "cityRewardSeenAt" : "2026-09-06T00:44:06.252Z",
+    "foundAt" : "2026-09-06T00:44:06.252Z"
+  }, {
+    "serverId" : 3051,
+    "x" : 396,
+    "y" : 314,
+    "uid" : "423993304467",
+    "username" : "Thicc",
+    "level" : 100,
+    "allianceId" : "500300894",
+    "allianceTag" : "FP4S",
+    "pointId" : 160967,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4828970483134748169",
+      "players" : [ {
+        "frameId" : 168,
+        "playerInfo" : "{\"nationalflag\":13,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/77519846d04cf2edd3da4c7d56c1191a_1724844935.jpg?v=1724844937455\",\"username\":\"ѕнєη\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon009_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"NiNjA🐍\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/339955487586.jpg?v=1700499455172\",\"username\":\"Carnage\"}"
+      }, {
+        "frameId" : 150,
+        "playerInfo" : "{\"nationalflag\":49,\"gender\":0,\"avatarurl\":\"hero_icon116_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Vildozin\"}"
+      } ],
+      "num" : 7,
+      "endTimeMilli" : 1788656470278
+    },
+    "cityRewardCreatedAt" : "2026-09-06T00:31:10.278Z",
+    "cityRewardSeenAt" : "2026-09-06T00:42:41.908Z",
+    "foundAt" : "2026-09-06T00:42:41.908Z"
   }, {
     "serverId" : 3342,
     "x" : 397,
