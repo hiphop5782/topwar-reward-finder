@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T01:47:27.574892300Z",
-  "count" : 28,
+  "updatedAt" : "2026-09-06T01:49:48.766463100Z",
+  "count" : 27,
   "locations" : [ {
     "serverId" : 73,
     "x" : 162,
@@ -127,45 +127,31 @@
     "cityRewardSeenAt" : "2026-09-06T01:38:34.536Z",
     "foundAt" : "2026-09-06T01:38:34.536Z"
   }, {
-    "serverId" : 1781,
-    "x" : 363,
-    "y" : 461,
-    "uid" : "908517934748",
-    "username" : "天体観測者☆",
+    "serverId" : 1826,
+    "x" : 427,
+    "y" : 321,
+    "uid" : "551815694116",
+    "username" : "Gollum",
     "level" : 100,
-    "allianceId" : "300110708",
-    "allianceTag" : "SeaP",
-    "pointId" : 236214,
+    "allianceId" : "500017129",
+    "allianceTag" : "D--Z",
+    "pointId" : 164566,
     "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4829005292552186370",
-      "players" : [ ],
-      "num" : 10,
-      "endTimeMilli" : 1788658545081
+      "itemId" : 260617001,
+      "instanceId" : "4829022809492440066",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"Johnny5\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/7c08ef9a14e17d68d66e5934cc64d9bf.jpg?v=1682796623098\",\"username\":\"CiscoKid\"}"
+      } ],
+      "num" : 3,
+      "endTimeMilli" : 1788659589172
     },
-    "cityRewardCreatedAt" : "2026-09-06T01:05:45.081Z",
-    "cityRewardSeenAt" : "2026-09-06T01:14:46.405Z",
-    "foundAt" : "2026-09-06T01:14:46.405Z"
-  }, {
-    "serverId" : 1781,
-    "x" : 363,
-    "y" : 463,
-    "uid" : "9294812219125",
-    "username" : "連盟預かり用☆",
-    "level" : 80,
-    "allianceId" : "300110708",
-    "allianceTag" : "SeaP",
-    "pointId" : 237238,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4829006726970599943",
-      "players" : [ ],
-      "num" : 10,
-      "endTimeMilli" : 1788658630579
-    },
-    "cityRewardCreatedAt" : "2026-09-06T01:07:10.579Z",
-    "cityRewardSeenAt" : "2026-09-06T01:14:46.405Z",
-    "foundAt" : "2026-09-06T01:14:46.405Z"
+    "cityRewardCreatedAt" : "2026-09-06T01:23:09.172Z",
+    "cityRewardSeenAt" : "2026-09-06T01:46:02.451Z",
+    "foundAt" : "2026-09-06T01:46:02.451Z"
   }, {
     "serverId" : 2365,
     "x" : 374,
