@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T21:22:46.388878200Z",
-  "count" : 3,
+  "updatedAt" : "2026-09-06T21:25:35.570246800Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 884,
     "x" : 397,
@@ -62,5 +62,45 @@
     "cityRewardCreatedAt" : "2026-09-06T21:09:41.769Z",
     "cityRewardSeenAt" : "2026-09-06T21:18:27.510Z",
     "foundAt" : "2026-09-06T21:18:27.510Z"
+  }, {
+    "serverId" : 3522,
+    "x" : 397,
+    "y" : 701,
+    "uid" : "7699832507309",
+    "username" : "KanteK",
+    "level" : 100,
+    "allianceId" : "500347969",
+    "allianceTag" : "sBS",
+    "pointId" : 359111,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4830217174316188672",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1788730778863
+    },
+    "cityRewardCreatedAt" : "2026-09-06T21:09:38.863Z",
+    "cityRewardSeenAt" : "2026-09-06T21:22:51.769Z",
+    "foundAt" : "2026-09-06T21:22:51.769Z"
+  }, {
+    "serverId" : 4107,
+    "x" : 373,
+    "y" : 335,
+    "uid" : "342344569714",
+    "username" : "👑Steve",
+    "level" : 100,
+    "allianceId" : "500400349",
+    "allianceTag" : "BAKV",
+    "pointId" : 171707,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4830204216131720705",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1788730006495
+    },
+    "cityRewardCreatedAt" : "2026-09-06T20:56:46.495Z",
+    "cityRewardSeenAt" : "2026-09-06T21:23:49.571Z",
+    "foundAt" : "2026-09-06T21:23:49.571Z"
   } ]
 }
