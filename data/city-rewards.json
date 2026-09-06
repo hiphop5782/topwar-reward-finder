@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-05T23:59:32.908105800Z",
+  "updatedAt" : "2026-09-06T00:01:45.616990600Z",
   "count" : 18,
   "locations" : [ {
     "serverId" : 111,
@@ -293,6 +293,26 @@
     "cityRewardSeenAt" : "2026-09-05T23:28:39.677Z",
     "foundAt" : "2026-09-05T23:28:39.677Z"
   }, {
+    "serverId" : 3452,
+    "x" : 395,
+    "y" : 593,
+    "uid" : "8196368305532",
+    "username" : "Myname",
+    "level" : 100,
+    "allianceId" : "500338380",
+    "allianceTag" : "s52S",
+    "pointId" : 303814,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4828927601611044868",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1788653914340
+    },
+    "cityRewardCreatedAt" : "2026-09-05T23:48:34.340Z",
+    "cityRewardSeenAt" : "2026-09-05T23:59:59.344Z",
+    "foundAt" : "2026-09-05T23:59:59.344Z"
+  }, {
     "serverId" : 3649,
     "x" : 405,
     "y" : 605,
@@ -344,26 +364,6 @@
     "cityRewardCreatedAt" : "2026-09-05T23:40:56.821Z",
     "cityRewardSeenAt" : "2026-09-05T23:44:41.973Z",
     "foundAt" : "2026-09-05T23:44:41.973Z"
-  }, {
-    "serverId" : 3922,
-    "x" : 364,
-    "y" : 338,
-    "uid" : "8859476365118",
-    "username" : "Brown",
-    "level" : 100,
-    "allianceId" : "500382711",
-    "allianceTag" : "<SV>",
-    "pointId" : 173239,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4828881972835034114",
-      "players" : [ ],
-      "num" : 8,
-      "endTimeMilli" : 1788651194653
-    },
-    "cityRewardCreatedAt" : "2026-09-05T23:03:14.653Z",
-    "cityRewardSeenAt" : "2026-09-05T23:26:13.638Z",
-    "foundAt" : "2026-09-05T23:26:13.638Z"
   }, {
     "serverId" : 4239,
     "x" : 451,
