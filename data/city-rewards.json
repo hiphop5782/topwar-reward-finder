@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T06:25:47.461222300Z",
-  "count" : 18,
+  "updatedAt" : "2026-09-06T06:27:46.625601600Z",
+  "count" : 20,
   "locations" : [ {
     "serverId" : 158,
     "x" : 363,
@@ -16,12 +16,12 @@
       "itemId" : 260617003,
       "instanceId" : "4829322311754660864",
       "players" : [ ],
-      "num" : 0,
+      "num" : 5,
       "endTimeMilli" : 1788677440898
     },
     "cityRewardCreatedAt" : "2026-09-06T06:20:40.898Z",
-    "cityRewardSeenAt" : "2026-09-06T06:20:46.002Z",
-    "foundAt" : "2026-09-06T06:20:46.002Z"
+    "cityRewardSeenAt" : "2026-09-06T06:24:53.714Z",
+    "foundAt" : "2026-09-06T06:24:53.714Z"
   }, {
     "serverId" : 158,
     "x" : 437,
@@ -36,12 +36,32 @@
       "itemId" : 260617002,
       "instanceId" : "4829314874834238466",
       "players" : [ ],
-      "num" : 9,
+      "num" : 11,
       "endTimeMilli" : 1788676997623
     },
     "cityRewardCreatedAt" : "2026-09-06T06:13:17.623Z",
-    "cityRewardSeenAt" : "2026-09-06T06:20:24.512Z",
-    "foundAt" : "2026-09-06T06:20:24.512Z"
+    "cityRewardSeenAt" : "2026-09-06T06:24:32.419Z",
+    "foundAt" : "2026-09-06T06:24:32.419Z"
+  }, {
+    "serverId" : 158,
+    "x" : 439,
+    "y" : 317,
+    "uid" : "340604903583",
+    "username" : "要塞要員01",
+    "level" : 100,
+    "allianceId" : "101264",
+    "allianceTag" : "NaSS",
+    "pointId" : 162524,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4829325427350780936",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1788677626602
+    },
+    "cityRewardCreatedAt" : "2026-09-06T06:23:46.602Z",
+    "cityRewardSeenAt" : "2026-09-06T06:24:32.419Z",
+    "foundAt" : "2026-09-06T06:24:32.419Z"
   }, {
     "serverId" : 654,
     "x" : 388,
@@ -226,6 +246,26 @@
     "cityRewardCreatedAt" : "2026-09-06T06:01:45.537Z",
     "cityRewardSeenAt" : "2026-09-06T06:07:59.226Z",
     "foundAt" : "2026-09-06T06:07:59.226Z"
+  }, {
+    "serverId" : 2494,
+    "x" : 400,
+    "y" : 522,
+    "uid" : "780266108958",
+    "username" : "文俊",
+    "level" : 100,
+    "allianceId" : "500176971",
+    "allianceTag" : "Njal",
+    "pointId" : 267465,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4829314301339859972",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1788676963440
+    },
+    "cityRewardCreatedAt" : "2026-09-06T06:12:43.440Z",
+    "cityRewardSeenAt" : "2026-09-06T06:25:59.749Z",
+    "foundAt" : "2026-09-06T06:25:59.749Z"
   }, {
     "serverId" : 2587,
     "x" : 427,
