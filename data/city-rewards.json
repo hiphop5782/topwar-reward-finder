@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T00:13:42.055928200Z",
+  "updatedAt" : "2026-09-06T00:15:52.905653100Z",
   "count" : 22,
   "locations" : [ {
     "serverId" : 111,
@@ -45,6 +45,38 @@
     "cityRewardCreatedAt" : "2026-09-06T00:08:07.523Z",
     "cityRewardSeenAt" : "2026-09-06T00:10:48.846Z",
     "foundAt" : "2026-09-06T00:10:48.846Z"
+  }, {
+    "serverId" : 285,
+    "x" : 437,
+    "y" : 341,
+    "uid" : "268537721117",
+    "username" : "グレミー",
+    "level" : 100,
+    "allianceId" : "100012760",
+    "allianceTag" : "SFGs",
+    "pointId" : 174811,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4828924858618493446",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon004_1yen\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Valkyri\"}"
+      }, {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"niconico_1\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"username\":\"上高地\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon238\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"Ayumi\"}"
+      }, {
+        "frameId" : 94,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"niconico_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"🍄Sasu🍄\"}"
+      } ],
+      "num" : 11,
+      "endTimeMilli" : 1788653750845
+    },
+    "cityRewardCreatedAt" : "2026-09-05T23:45:50.845Z",
+    "cityRewardSeenAt" : "2026-09-06T00:13:59.043Z",
+    "foundAt" : "2026-09-06T00:13:59.043Z"
   }, {
     "serverId" : 341,
     "x" : 384,
@@ -473,25 +505,5 @@
     "cityRewardCreatedAt" : "2026-09-05T23:47:07.880Z",
     "cityRewardSeenAt" : "2026-09-06T00:07:19.765Z",
     "foundAt" : "2026-09-06T00:07:19.765Z"
-  }, {
-    "serverId" : 4434,
-    "x" : 353,
-    "y" : 451,
-    "uid" : "9632121622866",
-    "username" : "shiro",
-    "level" : 89,
-    "allianceId" : "500466280",
-    "allianceTag" : "ACCM",
-    "pointId" : 231089,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4828914846296876033",
-      "players" : [ ],
-      "num" : 12,
-      "endTimeMilli" : 1788653154064
-    },
-    "cityRewardCreatedAt" : "2026-09-05T23:35:54.064Z",
-    "cityRewardSeenAt" : "2026-09-05T23:39:58.422Z",
-    "foundAt" : "2026-09-05T23:39:58.422Z"
   } ]
 }
