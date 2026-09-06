@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-06T16:59:51.232279800Z",
-  "count" : 21,
+  "updatedAt" : "2026-09-06T17:02:51.384128Z",
+  "count" : 20,
   "locations" : [ {
     "serverId" : 1378,
     "x" : 398,
@@ -123,6 +123,26 @@
     "cityRewardSeenAt" : "2026-09-06T16:29:49.656Z",
     "foundAt" : "2026-09-06T16:29:49.656Z"
   }, {
+    "serverId" : 1668,
+    "x" : 618,
+    "y" : 424,
+    "uid" : "340363088732",
+    "username" : "glassy",
+    "level" : 100,
+    "allianceId" : "300091258",
+    "allianceTag" : "A5LM",
+    "pointId" : 217398,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4829946493681862657",
+      "players" : [ ],
+      "num" : 30,
+      "endTimeMilli" : 1788714645040
+    },
+    "cityRewardCreatedAt" : "2026-09-06T16:40:45.040Z",
+    "cityRewardSeenAt" : "2026-09-06T16:59:49.617Z",
+    "foundAt" : "2026-09-06T16:59:49.617Z"
+  }, {
     "serverId" : 1781,
     "x" : 412,
     "y" : 550,
@@ -182,46 +202,6 @@
     "cityRewardCreatedAt" : "2026-09-06T16:19:49.644Z",
     "cityRewardSeenAt" : "2026-09-06T16:46:08.428Z",
     "foundAt" : "2026-09-06T16:46:08.428Z"
-  }, {
-    "serverId" : 2371,
-    "x" : 388,
-    "y" : 518,
-    "uid" : "887802808849",
-    "username" : "Htshpsut",
-    "level" : 100,
-    "allianceId" : "500146433",
-    "allianceTag" : "MsR1",
-    "pointId" : 265411,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4829926569832252931",
-      "players" : [ ],
-      "num" : 14,
-      "endTimeMilli" : 1788713457486
-    },
-    "cityRewardCreatedAt" : "2026-09-06T16:20:57.486Z",
-    "cityRewardSeenAt" : "2026-09-06T16:27:50.197Z",
-    "foundAt" : "2026-09-06T16:27:50.197Z"
-  }, {
-    "serverId" : 2939,
-    "x" : 398,
-    "y" : 324,
-    "uid" : "899300686384",
-    "username" : "YMO",
-    "level" : 100,
-    "allianceId" : "500285869",
-    "allianceTag" : "MtFJ",
-    "pointId" : 166088,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4829907097239352835",
-      "players" : [ ],
-      "num" : 11,
-      "endTimeMilli" : 1788712296829
-    },
-    "cityRewardCreatedAt" : "2026-09-06T16:01:36.829Z",
-    "cityRewardSeenAt" : "2026-09-06T16:26:41.373Z",
-    "foundAt" : "2026-09-06T16:26:41.373Z"
   }, {
     "serverId" : 3145,
     "x" : 392,
