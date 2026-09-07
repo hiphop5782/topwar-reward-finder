@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-07T14:14:20.866598200Z",
+  "updatedAt" : "2026-09-07T14:16:53.762426400Z",
   "count" : 6,
   "locations" : [ {
     "serverId" : 208,
@@ -42,6 +42,26 @@
     "cityRewardCreatedAt" : "2026-09-07T13:46:51.332Z",
     "cityRewardSeenAt" : "2026-09-07T13:52:06.668Z",
     "foundAt" : "2026-09-07T13:52:06.668Z"
+  }, {
+    "serverId" : 271,
+    "x" : 398,
+    "y" : 330,
+    "uid" : "320736604442",
+    "username" : "すん",
+    "level" : 100,
+    "allianceId" : "100001108",
+    "allianceTag" : "jp1",
+    "pointId" : 169160,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4831230449642774017",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1788791174779
+    },
+    "cityRewardCreatedAt" : "2026-09-07T13:56:14.779Z",
+    "cityRewardSeenAt" : "2026-09-07T14:14:47.644Z",
+    "foundAt" : "2026-09-07T14:14:47.644Z"
   }, {
     "serverId" : 3345,
     "x" : 418,
@@ -114,25 +134,5 @@
     "cityRewardCreatedAt" : "2026-09-07T13:40:32.901Z",
     "cityRewardSeenAt" : "2026-09-07T13:47:41.802Z",
     "foundAt" : "2026-09-07T13:47:41.802Z"
-  }, {
-    "serverId" : 4284,
-    "x" : 425,
-    "y" : 535,
-    "uid" : "9144052092987",
-    "username" : "الحوثـي",
-    "level" : 100,
-    "allianceId" : "500429253",
-    "allianceTag" : "S.F!",
-    "pointId" : 274133,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4831192595162036231",
-      "players" : [ ],
-      "num" : 2,
-      "endTimeMilli" : 1788788918476
-    },
-    "cityRewardCreatedAt" : "2026-09-07T13:18:38.476Z",
-    "cityRewardSeenAt" : "2026-09-07T13:40:56.662Z",
-    "foundAt" : "2026-09-07T13:40:56.662Z"
   } ]
 }
