@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-07T08:39:56.846705200Z",
-  "count" : 2,
+  "updatedAt" : "2026-09-07T08:41:51.139913400Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 2842,
     "x" : 325,
@@ -42,5 +42,25 @@
     "cityRewardCreatedAt" : "2026-09-07T08:25:52.591Z",
     "cityRewardSeenAt" : "2026-09-07T08:36:34.374Z",
     "foundAt" : "2026-09-07T08:36:34.374Z"
+  }, {
+    "serverId" : 4356,
+    "x" : 376,
+    "y" : 524,
+    "uid" : "9443599094014",
+    "username" : "Gump",
+    "level" : 100,
+    "allianceId" : "500443583",
+    "allianceTag" : "Xcon",
+    "pointId" : 268477,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4830908361105082376",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1788771976806
+    },
+    "cityRewardCreatedAt" : "2026-09-07T08:36:16.806Z",
+    "cityRewardSeenAt" : "2026-09-07T08:40:03.981Z",
+    "foundAt" : "2026-09-07T08:40:03.981Z"
   } ]
 }
