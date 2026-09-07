@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-07T06:21:58.190137500Z",
-  "count" : 2,
+  "updatedAt" : "2026-09-07T06:23:40.342211200Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 341,
     "x" : 414,
@@ -42,5 +42,25 @@
     "cityRewardCreatedAt" : "2026-09-07T06:00:08.969Z",
     "cityRewardSeenAt" : "2026-09-07T06:02:24.460Z",
     "foundAt" : "2026-09-07T06:02:24.460Z"
+  }, {
+    "serverId" : 3088,
+    "x" : 402,
+    "y" : 428,
+    "uid" : "653374158401",
+    "username" : "조신지니",
+    "level" : 100,
+    "allianceId" : "500303928",
+    "allianceTag" : "UdUn",
+    "pointId" : 219338,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4830759970705776648",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1788763132049
+    },
+    "cityRewardCreatedAt" : "2026-09-07T06:08:52.049Z",
+    "cityRewardSeenAt" : "2026-09-07T06:22:14.034Z",
+    "foundAt" : "2026-09-07T06:22:14.034Z"
   } ]
 }
