@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-07T03:56:27.623689800Z",
-  "count" : 4,
+  "updatedAt" : "2026-09-07T03:58:35.440712800Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 650,
     "x" : 385,
@@ -42,6 +42,46 @@
     "cityRewardCreatedAt" : "2026-09-07T03:27:58.265Z",
     "cityRewardSeenAt" : "2026-09-07T03:52:56.415Z",
     "foundAt" : "2026-09-07T03:52:56.415Z"
+  }, {
+    "serverId" : 3053,
+    "x" : 433,
+    "y" : 307,
+    "uid" : "7835310394416",
+    "username" : "12345678",
+    "level" : 100,
+    "allianceId" : "500301377",
+    "allianceTag" : "ReUN",
+    "pointId" : 157401,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4830604097266113029",
+      "players" : [ ],
+      "num" : 19,
+      "endTimeMilli" : 1788753841268
+    },
+    "cityRewardCreatedAt" : "2026-09-07T03:34:01.268Z",
+    "cityRewardSeenAt" : "2026-09-07T03:55:18.588Z",
+    "foundAt" : "2026-09-07T03:55:18.588Z"
+  }, {
+    "serverId" : 3053,
+    "x" : 442,
+    "y" : 294,
+    "uid" : "7806896737297",
+    "username" : "ヒグマ",
+    "level" : 100,
+    "allianceId" : "500301377",
+    "allianceTag" : "ReUN",
+    "pointId" : 150750,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4830604773538912773",
+      "players" : [ ],
+      "num" : 17,
+      "endTimeMilli" : 1788753881577
+    },
+    "cityRewardCreatedAt" : "2026-09-07T03:34:41.577Z",
+    "cityRewardSeenAt" : "2026-09-07T03:54:06.768Z",
+    "foundAt" : "2026-09-07T03:54:06.768Z"
   }, {
     "serverId" : 3492,
     "x" : 344,
