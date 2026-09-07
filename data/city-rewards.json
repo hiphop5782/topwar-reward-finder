@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-07T09:27:15.204255200Z",
+  "updatedAt" : "2026-09-07T09:29:06.054100400Z",
   "count" : 3,
   "locations" : [ {
     "serverId" : 500,
@@ -23,6 +23,26 @@
     "cityRewardSeenAt" : "2026-09-07T09:15:52.409Z",
     "foundAt" : "2026-09-07T09:15:52.409Z"
   }, {
+    "serverId" : 650,
+    "x" : 363,
+    "y" : 635,
+    "uid" : "534762963594",
+    "username" : "ジョーカー",
+    "level" : 100,
+    "allianceId" : "388335",
+    "allianceTag" : "Nk5",
+    "pointId" : 325302,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4830933366369227780",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1788773467236
+    },
+    "cityRewardCreatedAt" : "2026-09-07T09:01:07.236Z",
+    "cityRewardSeenAt" : "2026-09-07T09:27:40.504Z",
+    "foundAt" : "2026-09-07T09:27:40.504Z"
+  }, {
     "serverId" : 1313,
     "x" : 368,
     "y" : 676,
@@ -42,25 +62,5 @@
     "cityRewardCreatedAt" : "2026-09-07T08:51:26.157Z",
     "cityRewardSeenAt" : "2026-09-07T09:02:12.649Z",
     "foundAt" : "2026-09-07T09:02:12.649Z"
-  }, {
-    "serverId" : 3752,
-    "x" : 416,
-    "y" : 372,
-    "uid" : "505857558118",
-    "username" : "dayne",
-    "level" : 100,
-    "allianceId" : "500373884",
-    "allianceTag" : "@DMS",
-    "pointId" : 190673,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4830923522909753346",
-      "players" : [ ],
-      "num" : 3,
-      "endTimeMilli" : 1788772880520
-    },
-    "cityRewardCreatedAt" : "2026-09-07T08:51:20.520Z",
-    "cityRewardSeenAt" : "2026-09-07T08:52:23.115Z",
-    "foundAt" : "2026-09-07T08:52:23.115Z"
   } ]
 }
