@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-07T13:08:14.082250300Z",
-  "count" : 6,
+  "updatedAt" : "2026-09-07T13:09:53.543914900Z",
+  "count" : 7,
   "locations" : [ {
     "serverId" : 1313,
     "x" : 274,
@@ -102,6 +102,38 @@
     "cityRewardCreatedAt" : "2026-09-07T12:40:21.608Z",
     "cityRewardSeenAt" : "2026-09-07T13:00:55.896Z",
     "foundAt" : "2026-09-07T13:00:55.896Z"
+  }, {
+    "serverId" : 3724,
+    "x" : 339,
+    "y" : 443,
+    "uid" : "8789290618607",
+    "username" : "TanTan",
+    "level" : 100,
+    "allianceId" : "500371769",
+    "allianceTag" : "C#24",
+    "pointId" : 226986,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4831162614796851208",
+      "players" : [ {
+        "frameId" : 150,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon233_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"紫舞之夜\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/dfd29f90948a9ae7156a320e4034eacf_1757308424.jpg?v=1757308425698\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/dfd29f90948a9ae7156a320e4034eacf_1757308424.jpg?v=1757308425698\",\"username\":\"疾風\"}"
+      }, {
+        "frameId" : 133,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/10e86e6e406aa90ea4e7d4d868e9be0f_1725600892.jpg?v=1725600893709\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/10e86e6e406aa90ea4e7d4d868e9be0f_1725600892.jpg?v=1725600893709\",\"username\":\"Vivio\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/031240c20f7772d7bfc5c9a5662e03cd_1782127298.png?v=1782127299110\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/031240c20f7772d7bfc5c9a5662e03cd_1782127298.png?v=1782127299110\",\"username\":\"高町なのは\"}"
+      } ],
+      "num" : 14,
+      "endTimeMilli" : 1788787131507
+    },
+    "cityRewardCreatedAt" : "2026-09-07T12:48:51.507Z",
+    "cityRewardSeenAt" : "2026-09-07T13:08:02.544Z",
+    "foundAt" : "2026-09-07T13:08:02.544Z"
   }, {
     "serverId" : 4124,
     "x" : 628,
