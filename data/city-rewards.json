@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-07T03:46:36.434665400Z",
-  "count" : 4,
+  "updatedAt" : "2026-09-07T03:48:55.419423100Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 650,
     "x" : 385,
@@ -82,5 +82,25 @@
     "cityRewardCreatedAt" : "2026-09-07T03:08:26.774Z",
     "cityRewardSeenAt" : "2026-09-07T03:14:13.842Z",
     "foundAt" : "2026-09-07T03:14:13.842Z"
+  }, {
+    "serverId" : 3800,
+    "x" : 444,
+    "y" : 408,
+    "uid" : "8776564346584",
+    "username" : "Bruzzler",
+    "level" : 100,
+    "allianceId" : "500377860",
+    "allianceTag" : "CLX$",
+    "pointId" : 209119,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4830603124976496640",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1788753783315
+    },
+    "cityRewardCreatedAt" : "2026-09-07T03:33:03.315Z",
+    "cityRewardSeenAt" : "2026-09-07T03:45:36.382Z",
+    "foundAt" : "2026-09-07T03:45:36.382Z"
   } ]
 }
