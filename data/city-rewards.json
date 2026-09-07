@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-07T01:03:48.871355700Z",
-  "count" : 10,
+  "updatedAt" : "2026-09-07T01:05:28.110474400Z",
+  "count" : 11,
   "locations" : [ {
     "serverId" : 341,
     "x" : 412,
@@ -148,6 +148,26 @@
     "cityRewardCreatedAt" : "2026-09-07T00:11:25.427Z",
     "cityRewardSeenAt" : "2026-09-07T00:35:17.941Z",
     "foundAt" : "2026-09-07T00:35:17.941Z"
+  }, {
+    "serverId" : 2864,
+    "x" : 464,
+    "y" : 666,
+    "uid" : "7542499511087",
+    "username" : "Pete",
+    "level" : 100,
+    "allianceId" : "500273604",
+    "allianceTag" : "Dog*",
+    "pointId" : 341225,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4830449967817973768",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1788744654437
+    },
+    "cityRewardCreatedAt" : "2026-09-07T01:00:54.437Z",
+    "cityRewardSeenAt" : "2026-09-07T01:02:29.312Z",
+    "foundAt" : "2026-09-07T01:02:29.312Z"
   }, {
     "serverId" : 3396,
     "x" : 346,
