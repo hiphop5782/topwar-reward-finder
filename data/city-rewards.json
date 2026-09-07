@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-07T02:59:28.082871Z",
-  "count" : 1,
+  "updatedAt" : "2026-09-07T03:02:58.655440200Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 2691,
     "x" : 383,
@@ -22,5 +22,37 @@
     "cityRewardCreatedAt" : "2026-09-07T02:29:17.878Z",
     "cityRewardSeenAt" : "2026-09-07T02:37:09.386Z",
     "foundAt" : "2026-09-07T02:37:09.386Z"
+  }, {
+    "serverId" : 3491,
+    "x" : 445,
+    "y" : 301,
+    "uid" : "778304043003",
+    "username" : "SpaceAce",
+    "level" : 100,
+    "allianceId" : "500343554",
+    "allianceTag" : "RMRD",
+    "pointId" : 154335,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4830559583453529602",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/a2d9920a91a287b971925e9fcf88fcf9_1728251077.jpg?v=1728251078331\",\"https://knight-cdn.akamaized.net/headimg/a2d9920a91a287b971925e9fcf88fcf9_1784722314.png?v=1784722316672\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/a2d9920a91a287b971925e9fcf88fcf9_1728251077.jpg?v=1728251078331\",\"username\":\"Legend\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":46,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/599469258747.jpg?v=1724063250400\",\"username\":\"Canio\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/8e6f63c9387916224599b5284db3199f_1744678062.jpg?v=1744678063911\",\"https://knight-cdn.akamaized.net/headimg/8e6f63c9387916224599b5284db3199f_1783868595.png?v=1783868597045\",\"https://knight-cdn.akamaized.net/headimg/8e6f63c9387916224599b5284db3199f_1744772952.jpg?v=1744772954046\",\"https://knight-cdn.akamaized.net/headimg/8e6f63c9387916224599b5284db3199f_1784944298.png?v=1784944300922\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/8e6f63c9387916224599b5284db3199f_1784944298.png?v=1784944300922\",\"username\":\"BigRod\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/934504618736.jpg?v=1694053346372\",\"username\":\"MAKGUY\"}"
+      } ],
+      "num" : 8,
+      "endTimeMilli" : 1788751188038
+    },
+    "cityRewardCreatedAt" : "2026-09-07T02:49:48.038Z",
+    "cityRewardSeenAt" : "2026-09-07T02:59:26.399Z",
+    "foundAt" : "2026-09-07T02:59:26.399Z"
   } ]
 }
