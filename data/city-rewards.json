@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-07T07:56:14.594849200Z",
-  "count" : 1,
+  "updatedAt" : "2026-09-07T07:59:46.881770100Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 164,
     "x" : 288,
@@ -22,5 +22,25 @@
     "cityRewardCreatedAt" : "2026-09-07T07:43:01.701Z",
     "cityRewardSeenAt" : "2026-09-07T07:51:46.976Z",
     "foundAt" : "2026-09-07T07:51:46.976Z"
+  }, {
+    "serverId" : 2842,
+    "x" : 325,
+    "y" : 319,
+    "uid" : "638054176152",
+    "username" : "五月福利中心",
+    "level" : 100,
+    "allianceId" : "500272088",
+    "allianceTag" : "E$A",
+    "pointId" : 163491,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4830863796943074313",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1788769320575
+    },
+    "cityRewardCreatedAt" : "2026-09-07T07:52:00.575Z",
+    "cityRewardSeenAt" : "2026-09-07T07:56:53.470Z",
+    "foundAt" : "2026-09-07T07:56:53.470Z"
   } ]
 }
