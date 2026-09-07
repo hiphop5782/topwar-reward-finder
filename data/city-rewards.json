@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-07T02:01:49.725939100Z",
-  "count" : 3,
+  "updatedAt" : "2026-09-07T02:03:24.951369400Z",
+  "count" : 4,
   "locations" : [ {
     "serverId" : 386,
     "x" : 449,
@@ -62,5 +62,25 @@
     "cityRewardCreatedAt" : "2026-09-07T01:45:24.233Z",
     "cityRewardSeenAt" : "2026-09-07T01:58:59.401Z",
     "foundAt" : "2026-09-07T01:58:59.401Z"
+  }, {
+    "serverId" : 4270,
+    "x" : 409,
+    "y" : 557,
+    "uid" : "9306641731758",
+    "username" : "DarkMoon",
+    "level" : 100,
+    "allianceId" : "500427451",
+    "allianceTag" : "NFL:",
+    "pointId" : 285389,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4830499146418969605",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1788747585710
+    },
+    "cityRewardCreatedAt" : "2026-09-07T01:49:45.710Z",
+    "cityRewardSeenAt" : "2026-09-07T02:00:38.350Z",
+    "foundAt" : "2026-09-07T02:00:38.350Z"
   } ]
 }
