@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-07T12:50:19.251525400Z",
-  "count" : 8,
+  "updatedAt" : "2026-09-07T12:52:52.715776300Z",
+  "count" : 9,
   "locations" : [ {
     "serverId" : 386,
     "x" : 376,
@@ -180,5 +180,34 @@
     "cityRewardCreatedAt" : "2026-09-07T12:21:48.829Z",
     "cityRewardSeenAt" : "2026-09-07T12:31:44.843Z",
     "foundAt" : "2026-09-07T12:31:44.843Z"
+  }, {
+    "serverId" : 4124,
+    "x" : 628,
+    "y" : 150,
+    "uid" : "9102410027036",
+    "username" : "Peter",
+    "level" : 100,
+    "allianceId" : "500402706",
+    "allianceTag" : "s24*",
+    "pointId" : 77115,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4831148309083076611",
+      "players" : [ {
+        "frameId" : 4,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/68d290f880f9b393367bed862defac11_1788429363.png?v=1788429365058\",\"https://knight-cdn.akamaized.net/headimg/68d290f880f9b393367bed862defac11_1781520813.png?v=1781520815162\",\"https://knight-cdn.akamaized.net/headimg/68d290f880f9b393367bed862defac11_1781534729.png?v=1781534732509\",\"https://knight-cdn.akamaized.net/headimg/68d290f880f9b393367bed862defac11_1782751579.png?v=1782751581322\"],\"nationalflag\":101,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/68d290f880f9b393367bed862defac11_1788429363.png?v=1788429365058\",\"username\":\"PABALAK\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon170_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Amiens\"}"
+      }, {
+        "frameId" : 2,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Peter\"}"
+      } ],
+      "num" : 3,
+      "endTimeMilli" : 1788786278820
+    },
+    "cityRewardCreatedAt" : "2026-09-07T12:34:38.820Z",
+    "cityRewardSeenAt" : "2026-09-07T12:48:49.184Z",
+    "foundAt" : "2026-09-07T12:48:49.184Z"
   } ]
 }
