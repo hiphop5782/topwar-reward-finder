@@ -1,6 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-07T00:02:09.540466800Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-07T00:05:40.194123200Z",
+  "count" : 2,
+  "locations" : [ {
+    "serverId" : 383,
+    "x" : 638,
+    "y" : 460,
+    "uid" : "336120201600",
+    "username" : "TAKASAN",
+    "level" : 100,
+    "allianceId" : "100019275",
+    "allianceTag" : "s383",
+    "pointId" : 235840,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4830374732253822464",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1788740170048
+    },
+    "cityRewardCreatedAt" : "2026-09-06T23:46:10.048Z",
+    "cityRewardSeenAt" : "2026-09-07T00:03:48.604Z",
+    "foundAt" : "2026-09-07T00:03:48.604Z"
+  }, {
+    "serverId" : 4469,
+    "x" : 435,
+    "y" : 625,
+    "uid" : "9709766611317",
+    "username" : "프로글래머",
+    "level" : 77,
+    "allianceId" : "500476618",
+    "allianceTag" : "Hb69",
+    "pointId" : 320218,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4830366469896464905",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1788739677573
+    },
+    "cityRewardCreatedAt" : "2026-09-06T23:37:57.573Z",
+    "cityRewardSeenAt" : "2026-09-07T00:03:43.796Z",
+    "foundAt" : "2026-09-07T00:03:43.796Z"
+  } ]
 }
