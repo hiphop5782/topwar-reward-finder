@@ -1,8 +1,28 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-07T11:38:56.526834400Z",
+  "updatedAt" : "2026-09-07T11:41:53.611388400Z",
   "count" : 10,
   "locations" : [ {
+    "serverId" : 795,
+    "x" : 397,
+    "y" : 591,
+    "uid" : "515815514907",
+    "username" : "老頭⋯Jerom",
+    "level" : 100,
+    "allianceId" : "456333",
+    "allianceTag" : "S795",
+    "pointId" : 302791,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4831065610643715589",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1788781349609
+    },
+    "cityRewardCreatedAt" : "2026-09-07T11:12:29.609Z",
+    "cityRewardSeenAt" : "2026-09-07T11:39:40.098Z",
+    "foundAt" : "2026-09-07T11:39:40.098Z"
+  }, {
     "serverId" : 1733,
     "x" : 395,
     "y" : 319,
@@ -22,26 +42,6 @@
     "cityRewardCreatedAt" : "2026-09-07T11:23:06.659Z",
     "cityRewardSeenAt" : "2026-09-07T11:33:50.232Z",
     "foundAt" : "2026-09-07T11:33:50.232Z"
-  }, {
-    "serverId" : 1803,
-    "x" : 394,
-    "y" : 390,
-    "uid" : "555084293947",
-    "username" : "pepe",
-    "level" : 96,
-    "allianceId" : "500018505",
-    "allianceTag" : "~03~",
-    "pointId" : 199878,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4831055015094130176",
-      "players" : [ ],
-      "num" : 1,
-      "endTimeMilli" : 1788780718065
-    },
-    "cityRewardCreatedAt" : "2026-09-07T11:01:58.065Z",
-    "cityRewardSeenAt" : "2026-09-07T11:06:32.172Z",
-    "foundAt" : "2026-09-07T11:06:32.172Z"
   }, {
     "serverId" : 2442,
     "x" : 491,
