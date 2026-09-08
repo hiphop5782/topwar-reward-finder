@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-08T00:22:49.381146700Z",
-  "count" : 2,
+  "updatedAt" : "2026-09-08T00:24:45.372022400Z",
+  "count" : 1,
   "locations" : [ {
     "serverId" : 1096,
     "x" : 401,
@@ -25,31 +25,5 @@
     "cityRewardCreatedAt" : "2026-09-07T23:44:47.868Z",
     "cityRewardSeenAt" : "2026-09-07T23:57:32.736Z",
     "foundAt" : "2026-09-07T23:57:32.736Z"
-  }, {
-    "serverId" : 4368,
-    "x" : 391,
-    "y" : 657,
-    "uid" : "9488702935312",
-    "username" : "GoodTime",
-    "level" : 100,
-    "allianceId" : "500447073",
-    "allianceTag" : "OP:",
-    "pointId" : 336580,
-    "cityReward" : {
-      "itemId" : 260617001,
-      "instanceId" : "4831819845070888968",
-      "players" : [ {
-        "frameId" : 8,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/b61b3adac7377af66a978259a5bcf5cf_1770681236.png?v=1770681238267\",\"https://knight-cdn.akamaized.net/headimg/b61b3adac7377af66a978259a5bcf5cf_1782154777.png?v=1782154779208\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b61b3adac7377af66a978259a5bcf5cf_1782154777.png?v=1782154779208\",\"username\":\"profgriz\"}"
-      }, {
-        "frameId" : 20,
-        "playerInfo" : "{\"nationalflag\":13,\"gender\":0,\"avatarurl\":\"hero_icon116_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"GoodTime\"}"
-      } ],
-      "num" : 2,
-      "endTimeMilli" : 1788826305484
-    },
-    "cityRewardCreatedAt" : "2026-09-07T23:41:45.484Z",
-    "cityRewardSeenAt" : "2026-09-07T23:48:08.028Z",
-    "foundAt" : "2026-09-07T23:48:08.028Z"
   } ]
 }
