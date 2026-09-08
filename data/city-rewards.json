@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-08T12:58:49.287787700Z",
-  "count" : 39,
+  "updatedAt" : "2026-09-08T13:00:19.289763Z",
+  "count" : 40,
   "locations" : [ {
     "serverId" : 184,
     "x" : 431,
@@ -821,5 +821,25 @@
     "cityRewardCreatedAt" : "2026-09-08T12:33:31.019Z",
     "cityRewardSeenAt" : "2026-09-08T12:51:51.448Z",
     "foundAt" : "2026-09-08T12:51:51.448Z"
+  }, {
+    "serverId" : 3822,
+    "x" : 406,
+    "y" : 600,
+    "uid" : "8779193749230",
+    "username" : "taka",
+    "level" : 100,
+    "allianceId" : "500378104",
+    "allianceTag" : "IOV!",
+    "pointId" : 307404,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4832600003599784961",
+      "players" : [ ],
+      "num" : 28,
+      "endTimeMilli" : 1788872806556
+    },
+    "cityRewardCreatedAt" : "2026-09-08T12:36:46.556Z",
+    "cityRewardSeenAt" : "2026-09-08T12:58:54.458Z",
+    "foundAt" : "2026-09-08T12:58:54.458Z"
   } ]
 }
