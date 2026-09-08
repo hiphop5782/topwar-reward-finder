@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-08T13:13:07.426699800Z",
+  "updatedAt" : "2026-09-08T13:15:46.587332Z",
   "count" : 26,
   "locations" : [ {
     "serverId" : 184,
@@ -122,26 +122,6 @@
     "cityRewardCreatedAt" : "2026-09-08T12:27:39.467Z",
     "cityRewardSeenAt" : "2026-09-08T12:52:38.039Z",
     "foundAt" : "2026-09-08T12:52:38.039Z"
-  }, {
-    "serverId" : 2287,
-    "x" : 266,
-    "y" : 534,
-    "uid" : "835041859823",
-    "username" : "Brad",
-    "level" : 100,
-    "allianceId" : "500144281",
-    "allianceTag" : "gWAR",
-    "pointId" : 273542,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4832578883097320968",
-      "players" : [ ],
-      "num" : 87,
-      "endTimeMilli" : 1788871547676
-    },
-    "cityRewardCreatedAt" : "2026-09-08T12:15:47.676Z",
-    "cityRewardSeenAt" : "2026-09-08T12:40:34.993Z",
-    "foundAt" : "2026-09-08T12:40:34.993Z"
   }, {
     "serverId" : 2287,
     "x" : 583,
@@ -546,5 +526,25 @@
     "cityRewardCreatedAt" : "2026-09-08T12:36:46.556Z",
     "cityRewardSeenAt" : "2026-09-08T12:58:54.458Z",
     "foundAt" : "2026-09-08T12:58:54.458Z"
+  }, {
+    "serverId" : 4504,
+    "x" : 288,
+    "y" : 812,
+    "uid" : "9801296286104",
+    "username" : "CaptJack",
+    "level" : 63,
+    "allianceId" : null,
+    "allianceTag" : null,
+    "pointId" : 415889,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4832624527410409472",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1788874268289
+    },
+    "cityRewardCreatedAt" : "2026-09-08T13:01:08.289Z",
+    "cityRewardSeenAt" : "2026-09-08T13:12:16.354Z",
+    "foundAt" : "2026-09-08T13:12:16.354Z"
   } ]
 }
