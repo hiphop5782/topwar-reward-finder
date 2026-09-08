@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-08T18:38:57.976116200Z",
-  "count" : 1,
+  "updatedAt" : "2026-09-08T18:39:36.059277100Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 2683,
     "x" : 392,
@@ -22,5 +22,37 @@
     "cityRewardCreatedAt" : "2026-09-08T18:31:36.837Z",
     "cityRewardSeenAt" : "2026-09-08T18:36:10.181Z",
     "foundAt" : "2026-09-08T18:36:10.181Z"
+  }, {
+    "serverId" : 4317,
+    "x" : 424,
+    "y" : 584,
+    "uid" : "9264234500242",
+    "username" : "TheHippo",
+    "level" : 100,
+    "allianceId" : "500435486",
+    "allianceTag" : "~x17",
+    "pointId" : 299221,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4832934648006949379",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/01793949218464fd4edd36e1c6108209_1786930378.png?v=1786930379731\",\"https://knight-cdn.akamaized.net/headimg/01793949218464fd4edd36e1c6108209_1786990446.png?v=1786990447485\",\"https://knight-cdn.akamaized.net/headimg/01793949218464fd4edd36e1c6108209_1788118050.png?v=1788118051208\",\"https://knight-cdn.akamaized.net/headimg/01793949218464fd4edd36e1c6108209_1788364302.png?v=1788364304917\"],\"nationalflag\":-1,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/01793949218464fd4edd36e1c6108209_1788364302.png?v=1788364304917\",\"username\":\"TheHippo\"}"
+      }, {
+        "frameId" : 166,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/614c2d60e97cee8d320a6b86fbcc4f79_1775505594.png?v=1775505596461\"],\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/614c2d60e97cee8d320a6b86fbcc4f79_1775505594.png?v=1775505596461\",\"username\":\"Asianice\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"hero_icon169_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"Tam\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"hero_icon333_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"Koko\"}"
+      } ],
+      "num" : 20,
+      "endTimeMilli" : 1788892752917
+    },
+    "cityRewardCreatedAt" : "2026-09-08T18:09:12.917Z",
+    "cityRewardSeenAt" : "2026-09-08T18:37:42.248Z",
+    "foundAt" : "2026-09-08T18:37:42.248Z"
   } ]
 }
