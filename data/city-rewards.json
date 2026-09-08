@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-08T09:50:52.586639600Z",
+  "updatedAt" : "2026-09-08T09:52:41.149252500Z",
   "count" : 4,
   "locations" : [ {
     "serverId" : 341,
@@ -35,6 +35,26 @@
     "cityRewardSeenAt" : "2026-09-08T09:29:46.454Z",
     "foundAt" : "2026-09-08T09:29:46.454Z"
   }, {
+    "serverId" : 594,
+    "x" : 330,
+    "y" : 642,
+    "uid" : "456348611189",
+    "username" : "サブロー",
+    "level" : 100,
+    "allianceId" : "363910",
+    "allianceTag" : "Tanu",
+    "pointId" : 328870,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4832423197897171975",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1788862268115
+    },
+    "cityRewardCreatedAt" : "2026-09-08T09:41:08.115Z",
+    "cityRewardSeenAt" : "2026-09-08T09:50:31.152Z",
+    "foundAt" : "2026-09-08T09:50:31.152Z"
+  }, {
     "serverId" : 2698,
     "x" : 310,
     "y" : 508,
@@ -54,26 +74,6 @@
     "cityRewardCreatedAt" : "2026-09-08T09:38:30.891Z",
     "cityRewardSeenAt" : "2026-09-08T09:47:29.290Z",
     "foundAt" : "2026-09-08T09:47:29.290Z"
-  }, {
-    "serverId" : 2842,
-    "x" : 437,
-    "y" : 645,
-    "uid" : "500475721327",
-    "username" : "SJ",
-    "level" : 100,
-    "allianceId" : "500269694",
-    "allianceTag" : "E$G",
-    "pointId" : 330459,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4832381464707740679",
-      "players" : [ ],
-      "num" : 17,
-      "endTimeMilli" : 1788859780623
-    },
-    "cityRewardCreatedAt" : "2026-09-08T08:59:40.623Z",
-    "cityRewardSeenAt" : "2026-09-08T09:16:39.219Z",
-    "foundAt" : "2026-09-08T09:16:39.219Z"
   }, {
     "serverId" : 3355,
     "x" : 453,
