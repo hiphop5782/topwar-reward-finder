@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-09T05:04:41.471172300Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-09T05:05:58.815062100Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 4243,
+    "x" : 379,
+    "y" : 309,
+    "uid" : "9266215358611",
+    "username" : "세이",
+    "level" : 100,
+    "allianceId" : "500422745",
+    "allianceTag" : "cATS",
+    "pointId" : 158398,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4833576721273923076",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1788931023466
+    },
+    "cityRewardCreatedAt" : "2026-09-09T04:47:03.466Z",
+    "cityRewardSeenAt" : "2026-09-09T05:02:45.295Z",
+    "foundAt" : "2026-09-09T05:02:45.295Z"
+  } ]
 }
