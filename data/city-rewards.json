@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-09T03:31:41.110852400Z",
-  "count" : 4,
+  "updatedAt" : "2026-09-09T03:33:48.793487200Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 2682,
     "x" : 406,
@@ -94,5 +94,25 @@
     "cityRewardCreatedAt" : "2026-09-09T03:16:42.495Z",
     "cityRewardSeenAt" : "2026-09-09T03:29:07.430Z",
     "foundAt" : "2026-09-09T03:29:07.430Z"
+  }, {
+    "serverId" : 4300,
+    "x" : 454,
+    "y" : 484,
+    "uid" : "9344718639308",
+    "username" : "Kaladin",
+    "level" : 100,
+    "allianceId" : "500432082",
+    "allianceTag" : "UA|J",
+    "pointId" : 248036,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4833485772472555521",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1788925602495
+    },
+    "cityRewardCreatedAt" : "2026-09-09T03:16:42.495Z",
+    "cityRewardSeenAt" : "2026-09-09T03:31:27.653Z",
+    "foundAt" : "2026-09-09T03:31:27.653Z"
   } ]
 }
