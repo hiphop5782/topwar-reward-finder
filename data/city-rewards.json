@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-09T03:34:15.095589500Z",
-  "count" : 5,
+  "updatedAt" : "2026-09-09T03:37:27.443227300Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 2682,
     "x" : 406,
@@ -114,5 +114,25 @@
     "cityRewardCreatedAt" : "2026-09-09T03:16:42.495Z",
     "cityRewardSeenAt" : "2026-09-09T03:31:27.653Z",
     "foundAt" : "2026-09-09T03:31:27.653Z"
+  }, {
+    "serverId" : 4511,
+    "x" : 279,
+    "y" : 81,
+    "uid" : "9807855128991",
+    "username" : "Shemo",
+    "level" : 68,
+    "allianceId" : "500490900",
+    "allianceTag" : "A_oJ",
+    "pointId" : 41612,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4833479635249610242",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1788925236688
+    },
+    "cityRewardCreatedAt" : "2026-09-09T03:10:36.688Z",
+    "cityRewardSeenAt" : "2026-09-09T03:33:31.107Z",
+    "foundAt" : "2026-09-09T03:33:31.107Z"
   } ]
 }
