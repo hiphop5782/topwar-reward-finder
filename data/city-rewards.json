@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-10T12:24:58.013843400Z",
-  "count" : 5,
+  "updatedAt" : "2026-09-10T12:27:56.825638200Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 1397,
     "x" : 402,
@@ -114,5 +114,25 @@
     "cityRewardCreatedAt" : "2026-09-10T11:51:55.836Z",
     "cityRewardSeenAt" : "2026-09-10T12:00:34.094Z",
     "foundAt" : "2026-09-10T12:00:34.094Z"
+  }, {
+    "serverId" : 4357,
+    "x" : 449,
+    "y" : 455,
+    "uid" : "9404197146869",
+    "username" : "초록뱀",
+    "level" : 100,
+    "allianceId" : "500444077",
+    "allianceTag" : "SYN-",
+    "pointId" : 233185,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4835483836641053186",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1789044696400
+    },
+    "cityRewardCreatedAt" : "2026-09-10T12:21:36.400Z",
+    "cityRewardSeenAt" : "2026-09-10T12:24:43.461Z",
+    "foundAt" : "2026-09-10T12:24:43.461Z"
   } ]
 }
