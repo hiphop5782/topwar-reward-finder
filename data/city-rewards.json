@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-10T22:56:43.001568300Z",
-  "count" : 1,
+  "updatedAt" : "2026-09-10T22:59:52.353488700Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 707,
     "x" : 396,
@@ -22,5 +22,25 @@
     "cityRewardCreatedAt" : "2026-09-10T22:34:44.431Z",
     "cityRewardSeenAt" : "2026-09-10T22:44:33.030Z",
     "foundAt" : "2026-09-10T22:44:33.030Z"
+  }, {
+    "serverId" : 2699,
+    "x" : 431,
+    "y" : 559,
+    "uid" : "630558442872",
+    "username" : "🐈㌠釣りキチ",
+    "level" : 100,
+    "allianceId" : "500245825",
+    "allianceTag" : "IF.T",
+    "pointId" : 286424,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4836100500276712966",
+      "players" : [ ],
+      "num" : 42,
+      "endTimeMilli" : 1789081452417
+    },
+    "cityRewardCreatedAt" : "2026-09-10T22:34:12.417Z",
+    "cityRewardSeenAt" : "2026-09-10T22:57:04.139Z",
+    "foundAt" : "2026-09-10T22:57:04.139Z"
   } ]
 }
