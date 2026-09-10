@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-10T21:41:46.561101800Z",
-  "count" : 1,
+  "updatedAt" : "2026-09-10T21:43:09.916295400Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 1313,
     "x" : 433,
@@ -22,5 +22,25 @@
     "cityRewardCreatedAt" : "2026-09-10T21:27:23.706Z",
     "cityRewardSeenAt" : "2026-09-10T21:29:20.415Z",
     "foundAt" : "2026-09-10T21:29:20.415Z"
+  }, {
+    "serverId" : 3522,
+    "x" : 422,
+    "y" : 696,
+    "uid" : "323509940985",
+    "username" : "Slick",
+    "level" : 100,
+    "allianceId" : "500347969",
+    "allianceTag" : "sBS",
+    "pointId" : 356564,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4836034407525221376",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1789077512982
+    },
+    "cityRewardCreatedAt" : "2026-09-10T21:28:32.982Z",
+    "cityRewardSeenAt" : "2026-09-10T21:41:17.849Z",
+    "foundAt" : "2026-09-10T21:41:17.849Z"
   } ]
 }
