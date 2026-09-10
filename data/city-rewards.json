@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-10T16:02:02.145773700Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-10T16:04:22.663662800Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 2622,
+    "x" : 541,
+    "y" : 475,
+    "uid" : "586077923264",
+    "username" : "Darkhölm",
+    "level" : 100,
+    "allianceId" : "500220540",
+    "allianceTag" : "FOXC",
+    "pointId" : 243471,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4835697517051280392",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1789057432745
+    },
+    "cityRewardCreatedAt" : "2026-09-10T15:53:52.745Z",
+    "cityRewardSeenAt" : "2026-09-10T16:03:14.862Z",
+    "foundAt" : "2026-09-10T16:03:14.862Z"
+  } ]
 }
