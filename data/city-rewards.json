@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-10T18:26:52.208495100Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-10T18:28:23.698186300Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 4343,
+    "x" : 359,
+    "y" : 471,
+    "uid" : "9409841533175",
+    "username" : "Relax",
+    "level" : 100,
+    "allianceId" : "500439869",
+    "allianceTag" : "BdFg",
+    "pointId" : 241332,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4835847252916432385",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1789066357698
+    },
+    "cityRewardCreatedAt" : "2026-09-10T18:22:37.698Z",
+    "cityRewardSeenAt" : "2026-09-10T18:25:38.546Z",
+    "foundAt" : "2026-09-10T18:25:38.546Z"
+  } ]
 }
