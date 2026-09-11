@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-11T07:42:19.984913100Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-11T07:43:26.447410Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 2501,
+    "x" : 399,
+    "y" : 545,
+    "uid" : "530332427129",
+    "username" : "Soretako",
+    "level" : 100,
+    "allianceId" : "500179702",
+    "allianceTag" : "S7th",
+    "pointId" : 279240,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4836627146851191301",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1789112842999
+    },
+    "cityRewardCreatedAt" : "2026-09-11T07:17:22.999Z",
+    "cityRewardSeenAt" : "2026-09-11T07:42:19.468Z",
+    "foundAt" : "2026-09-11T07:42:19.468Z"
+  } ]
 }
