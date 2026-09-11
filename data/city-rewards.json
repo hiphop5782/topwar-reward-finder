@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-11T01:07:39.792732Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-11T01:09:56.746164500Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 3355,
+    "x" : 445,
+    "y" : 631,
+    "uid" : "376183088200",
+    "username" : "clown",
+    "level" : 100,
+    "allianceId" : "500327049",
+    "allianceTag" : "-B3-",
+    "pointId" : 323295,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4836226311445427718",
+      "players" : [ ],
+      "num" : 44,
+      "endTimeMilli" : 1789088951347
+    },
+    "cityRewardCreatedAt" : "2026-09-11T00:39:11.347Z",
+    "cityRewardSeenAt" : "2026-09-11T01:06:52.101Z",
+    "foundAt" : "2026-09-11T01:06:52.101Z"
+  } ]
 }
