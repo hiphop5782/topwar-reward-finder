@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-11T11:04:56.717694500Z",
-  "count" : 3,
+  "updatedAt" : "2026-09-11T11:06:42.188169600Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 2691,
     "x" : 431,
@@ -62,5 +62,45 @@
     "cityRewardCreatedAt" : "2026-09-11T10:25:40.635Z",
     "cityRewardSeenAt" : "2026-09-11T10:42:17.249Z",
     "foundAt" : "2026-09-11T10:42:17.249Z"
+  }, {
+    "serverId" : 3854,
+    "x" : 341,
+    "y" : 383,
+    "uid" : "8810115305230",
+    "username" : "marius",
+    "level" : 100,
+    "allianceId" : "500380400",
+    "allianceTag" : "Sqrm",
+    "pointId" : 196267,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4836851374545050633",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1789126208011
+    },
+    "cityRewardCreatedAt" : "2026-09-11T11:00:08.011Z",
+    "cityRewardSeenAt" : "2026-09-11T11:05:36.331Z",
+    "foundAt" : "2026-09-11T11:05:36.331Z"
+  }, {
+    "serverId" : 4199,
+    "x" : 549,
+    "y" : 479,
+    "uid" : "9215343530087",
+    "username" : "ǟք🔆ʟǟӄɨ",
+    "level" : 100,
+    "allianceId" : "500416545",
+    "allianceTag" : "BSVG",
+    "pointId" : 245523,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4836834119279234561",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1789125179517
+    },
+    "cityRewardCreatedAt" : "2026-09-11T10:42:59.517Z",
+    "cityRewardSeenAt" : "2026-09-11T11:03:38.822Z",
+    "foundAt" : "2026-09-11T11:03:38.822Z"
   } ]
 }
