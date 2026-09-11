@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-11T04:49:58.455378400Z",
-  "count" : 2,
+  "updatedAt" : "2026-09-11T04:51:47.518500Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 164,
     "x" : 284,
@@ -54,5 +54,25 @@
     "cityRewardCreatedAt" : "2026-09-11T04:06:26.162Z",
     "cityRewardSeenAt" : "2026-09-11T04:20:38.435Z",
     "foundAt" : "2026-09-11T04:20:38.435Z"
+  }, {
+    "serverId" : 3506,
+    "x" : 421,
+    "y" : 323,
+    "uid" : "780553512999",
+    "username" : "아기상어",
+    "level" : 100,
+    "allianceId" : "500346083",
+    "allianceTag" : "n0NE",
+    "pointId" : 165587,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4836467951842059270",
+      "players" : [ ],
+      "num" : 19,
+      "endTimeMilli" : 1789103354237
+    },
+    "cityRewardCreatedAt" : "2026-09-11T04:39:14.237Z",
+    "cityRewardSeenAt" : "2026-09-11T04:48:49.459Z",
+    "foundAt" : "2026-09-11T04:48:49.459Z"
   } ]
 }
