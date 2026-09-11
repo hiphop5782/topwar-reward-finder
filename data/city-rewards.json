@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-11T12:08:49.528472500Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-11T12:11:44.568359900Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 3051,
+    "x" : 404,
+    "y" : 334,
+    "uid" : "834193754363",
+    "username" : "nyasuke",
+    "level" : 100,
+    "allianceId" : "500300894",
+    "allianceTag" : "FP4S",
+    "pointId" : 171211,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4836919200282301952",
+      "players" : [ ],
+      "num" : 26,
+      "endTimeMilli" : 1789130250740
+    },
+    "cityRewardCreatedAt" : "2026-09-11T12:07:30.740Z",
+    "cityRewardSeenAt" : "2026-09-11T12:10:14.489Z",
+    "foundAt" : "2026-09-11T12:10:14.489Z"
+  } ]
 }
