@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-11T12:38:53.170003200Z",
-  "count" : 13,
+  "updatedAt" : "2026-09-11T12:40:59.216866300Z",
+  "count" : 17,
   "locations" : [ {
     "serverId" : 184,
     "x" : 415,
@@ -34,6 +34,38 @@
     "cityRewardCreatedAt" : "2026-09-11T12:03:24.271Z",
     "cityRewardSeenAt" : "2026-09-11T12:13:27.773Z",
     "foundAt" : "2026-09-11T12:13:27.773Z"
+  }, {
+    "serverId" : 485,
+    "x" : 446,
+    "y" : 428,
+    "uid" : "276089901349",
+    "username" : "風呂上がり",
+    "level" : 100,
+    "allianceId" : "100037200",
+    "allianceTag" : "S485",
+    "pointId" : 219360,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4836932571369818624",
+      "players" : [ {
+        "frameId" : 63,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon2181\",\"nickname\":null,\"headimgurl\":null,\"usergender\":2,\"username\":\"シセル光明\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/278426898925.jpg?v=1674221737461\",\"username\":\"鱗滝左近次\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon168\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"ツナマヨ\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon234\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"アイリス\"}"
+      } ],
+      "num" : 35,
+      "endTimeMilli" : 1789131047719
+    },
+    "cityRewardCreatedAt" : "2026-09-11T12:20:47.719Z",
+    "cityRewardSeenAt" : "2026-09-11T12:37:33.669Z",
+    "foundAt" : "2026-09-11T12:37:33.669Z"
   }, {
     "serverId" : 680,
     "x" : 451,
@@ -94,6 +126,66 @@
     "cityRewardCreatedAt" : "2026-09-11T12:16:30.457Z",
     "cityRewardSeenAt" : "2026-09-11T12:30:05.820Z",
     "foundAt" : "2026-09-11T12:30:05.820Z"
+  }, {
+    "serverId" : 2699,
+    "x" : 393,
+    "y" : 389,
+    "uid" : "599493470229",
+    "username" : "まくべと",
+    "level" : 100,
+    "allianceId" : "500246448",
+    "allianceTag" : "AL.T",
+    "pointId" : 199365,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4836948066237224457",
+      "players" : [ ],
+      "num" : 23,
+      "endTimeMilli" : 1789131971285
+    },
+    "cityRewardCreatedAt" : "2026-09-11T12:36:11.285Z",
+    "cityRewardSeenAt" : "2026-09-11T12:38:08.323Z",
+    "foundAt" : "2026-09-11T12:38:08.323Z"
+  }, {
+    "serverId" : 2699,
+    "x" : 408,
+    "y" : 400,
+    "uid" : "892731120156",
+    "username" : "よっしー🍗💨",
+    "level" : 100,
+    "allianceId" : "500246448",
+    "allianceTag" : "AL.T",
+    "pointId" : 205005,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4836947592096323080",
+      "players" : [ ],
+      "num" : 44,
+      "endTimeMilli" : 1789131943024
+    },
+    "cityRewardCreatedAt" : "2026-09-11T12:35:43.024Z",
+    "cityRewardSeenAt" : "2026-09-11T12:38:08.323Z",
+    "foundAt" : "2026-09-11T12:38:08.323Z"
+  }, {
+    "serverId" : 2699,
+    "x" : 414,
+    "y" : 398,
+    "uid" : "455768409579",
+    "username" : "大魔王銀猫Gin",
+    "level" : 100,
+    "allianceId" : "500246448",
+    "allianceTag" : "AL.T",
+    "pointId" : 203984,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4836947156190696966",
+      "players" : [ ],
+      "num" : 36,
+      "endTimeMilli" : 1789131917042
+    },
+    "cityRewardCreatedAt" : "2026-09-11T12:35:17.042Z",
+    "cityRewardSeenAt" : "2026-09-11T12:38:08.323Z",
+    "foundAt" : "2026-09-11T12:38:08.323Z"
   }, {
     "serverId" : 2988,
     "x" : 390,
