@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-11T08:35:54.423082800Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-11T08:37:48.819199200Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 742,
+    "x" : 418,
+    "y" : 262,
+    "uid" : "500009829094",
+    "username" : "たる",
+    "level" : 100,
+    "allianceId" : "448812",
+    "allianceTag" : "ym10",
+    "pointId" : 134354,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4836682252471880712",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1789116127550
+    },
+    "cityRewardCreatedAt" : "2026-09-11T08:12:07.550Z",
+    "cityRewardSeenAt" : "2026-09-11T08:36:01.799Z",
+    "foundAt" : "2026-09-11T08:36:01.799Z"
+  } ]
 }
