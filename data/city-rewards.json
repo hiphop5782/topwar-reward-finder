@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-12T09:24:15.533432700Z",
-  "count" : 1,
+  "updatedAt" : "2026-09-12T09:27:28.303685Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 4359,
     "x" : 392,
@@ -34,5 +34,25 @@
     "cityRewardCreatedAt" : "2026-09-12T08:57:04.910Z",
     "cityRewardSeenAt" : "2026-09-12T09:20:14.519Z",
     "foundAt" : "2026-09-12T09:20:14.519Z"
+  }, {
+    "serverId" : 4380,
+    "x" : 431,
+    "y" : 561,
+    "uid" : "9519103807772",
+    "username" : "Gord",
+    "level" : 79,
+    "allianceId" : "500449852",
+    "allianceTag" : "NMA1",
+    "pointId" : 287448,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4838194834124716032",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1789206284441
+    },
+    "cityRewardCreatedAt" : "2026-09-12T09:14:44.441Z",
+    "cityRewardSeenAt" : "2026-09-12T09:23:45.112Z",
+    "foundAt" : "2026-09-12T09:23:45.112Z"
   } ]
 }
