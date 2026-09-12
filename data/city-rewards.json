@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-12T04:01:55.026726Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-12T04:03:54.185231Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 2147,
+    "x" : 433,
+    "y" : 705,
+    "uid" : "572185601946",
+    "username" : "hageo",
+    "level" : 100,
+    "allianceId" : "400257393",
+    "allianceTag" : "SGSG",
+    "pointId" : 361177,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4837854762874488326",
+      "players" : [ ],
+      "num" : 25,
+      "endTimeMilli" : 1789186014616
+    },
+    "cityRewardCreatedAt" : "2026-09-12T03:36:54.616Z",
+    "cityRewardSeenAt" : "2026-09-12T04:00:24.007Z",
+    "foundAt" : "2026-09-12T04:00:24.007Z"
+  } ]
 }
