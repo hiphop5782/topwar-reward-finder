@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-12T10:12:58.970363200Z",
-  "count" : 1,
+  "updatedAt" : "2026-09-12T10:15:39.033421800Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 930,
     "x" : 437,
@@ -22,5 +22,25 @@
     "cityRewardCreatedAt" : "2026-09-12T09:46:40.417Z",
     "cityRewardSeenAt" : "2026-09-12T09:51:59.864Z",
     "foundAt" : "2026-09-12T09:51:59.864Z"
+  }, {
+    "serverId" : 2442,
+    "x" : 493,
+    "y" : 469,
+    "uid" : "835200436475",
+    "username" : "innocent",
+    "level" : 100,
+    "allianceId" : "500164043",
+    "allianceTag" : "Atwh",
+    "pointId" : 240375,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4838251835017073668",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1789209681960
+    },
+    "cityRewardCreatedAt" : "2026-09-12T10:11:21.960Z",
+    "cityRewardSeenAt" : "2026-09-12T10:13:36.761Z",
+    "foundAt" : "2026-09-12T10:13:36.761Z"
   } ]
 }
