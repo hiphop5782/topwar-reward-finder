@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-12T20:51:55.572060400Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-12T20:53:28.928132800Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 1175,
+    "x" : 448,
+    "y" : 286,
+    "uid" : "486795413029",
+    "username" : "Riot",
+    "level" : 100,
+    "allianceId" : "200143136",
+    "allianceTag" : "GS75",
+    "pointId" : 146657,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4838876325291306501",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1789246904481
+    },
+    "cityRewardCreatedAt" : "2026-09-12T20:31:44.481Z",
+    "cityRewardSeenAt" : "2026-09-12T20:50:47.830Z",
+    "foundAt" : "2026-09-12T20:50:47.830Z"
+  } ]
 }
