@@ -1,8 +1,54 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-12T11:39:56.732844100Z",
-  "count" : 3,
+  "updatedAt" : "2026-09-12T11:41:28.251160400Z",
+  "count" : 5,
   "locations" : [ {
+    "serverId" : 164,
+    "x" : 284,
+    "y" : 616,
+    "uid" : "255519809802",
+    "username" : "こりはゆ",
+    "level" : 100,
+    "allianceId" : "109296",
+    "allianceTag" : "IM11",
+    "pointId" : 315535,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4838310539870423046",
+      "players" : [ ],
+      "num" : 126,
+      "endTimeMilli" : 1789213181042
+    },
+    "cityRewardCreatedAt" : "2026-09-12T11:09:41.042Z",
+    "cityRewardSeenAt" : "2026-09-12T11:38:17.246Z",
+    "foundAt" : "2026-09-12T11:38:17.246Z"
+  }, {
+    "serverId" : 164,
+    "x" : 287,
+    "y" : 615,
+    "uid" : "314637283594",
+    "username" : "ゆう333",
+    "level" : 100,
+    "allianceId" : "109296",
+    "allianceTag" : "IM11",
+    "pointId" : 315024,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4838308775058294792",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/303598a9a83c1ef8b74ad3cd922711cc_1741410006.jpg?v=1741410007081\",\"https://knight-cdn.akamaized.net/headimg/303598a9a83c1ef8b74ad3cd922711cc_1783338492.png?v=1783338493464\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/303598a9a83c1ef8b74ad3cd922711cc_1783338492.png?v=1783338493464\",\"username\":\"トチロー\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"headIcon_5_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"ℒ\"}"
+      } ],
+      "num" : 26,
+      "endTimeMilli" : 1789213075851
+    },
+    "cityRewardCreatedAt" : "2026-09-12T11:07:55.851Z",
+    "cityRewardSeenAt" : "2026-09-12T11:37:48.141Z",
+    "foundAt" : "2026-09-12T11:37:48.141Z"
+  }, {
     "serverId" : 1313,
     "x" : 378,
     "y" : 678,
