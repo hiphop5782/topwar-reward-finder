@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-12T11:49:48.377071Z",
-  "count" : 4,
+  "updatedAt" : "2026-09-12T11:51:56.275735100Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 164,
     "x" : 284,
@@ -88,5 +88,25 @@
     "cityRewardCreatedAt" : "2026-09-12T11:15:33.434Z",
     "cityRewardSeenAt" : "2026-09-12T11:24:25.769Z",
     "foundAt" : "2026-09-12T11:24:25.769Z"
+  }, {
+    "serverId" : 3436,
+    "x" : 365,
+    "y" : 445,
+    "uid" : "8181610974574",
+    "username" : "클라",
+    "level" : 100,
+    "allianceId" : "500336408",
+    "allianceTag" : "SVal",
+    "pointId" : 228023,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4838332324499871753",
+      "players" : [ ],
+      "num" : 14,
+      "endTimeMilli" : 1789214479507
+    },
+    "cityRewardCreatedAt" : "2026-09-12T11:31:19.507Z",
+    "cityRewardSeenAt" : "2026-09-12T11:48:44.811Z",
+    "foundAt" : "2026-09-12T11:48:44.811Z"
   } ]
 }
