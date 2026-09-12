@@ -1,6 +1,38 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-12T01:19:41.653788600Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-12T01:22:39.297750Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 3345,
+    "x" : 386,
+    "y" : 528,
+    "uid" : "436693480890",
+    "username" : "Marmot",
+    "level" : 100,
+    "allianceId" : "500325352",
+    "allianceTag" : "BBQ^",
+    "pointId" : 270530,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4837714563566281221",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/b388d727b92599d1547671df0c8a7214_1749133585.jpg?v=1749133585665\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b388d727b92599d1547671df0c8a7214_1749133585.jpg?v=1749133585665\",\"username\":\"好運🍲湯\"}"
+      }, {
+        "frameId" : 77,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/436693480890.jpg?v=1699955118399\",\"username\":\"Marmot\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/8052352060697.jpg?v=1723913124224\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/8052352060697.jpg?v=1723913124224\",\"username\":\"需要幫忙\"}"
+      }, {
+        "frameId" : 4,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/cfde80b89bd5fe2104fc04d35dced2fa_1745294051.jpg?v=1745294052382\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/cfde80b89bd5fe2104fc04d35dced2fa_1745294051.jpg?v=1745294052382\",\"username\":\"草莓酥餅\"}"
+      } ],
+      "num" : 5,
+      "endTimeMilli" : 1789177658086
+    },
+    "cityRewardCreatedAt" : "2026-09-12T01:17:38.086Z",
+    "cityRewardSeenAt" : "2026-09-12T01:20:51.197Z",
+    "foundAt" : "2026-09-12T01:20:51.197Z"
+  } ]
 }
