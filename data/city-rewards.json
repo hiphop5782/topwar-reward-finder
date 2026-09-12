@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-12T21:59:36.756329600Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-12T22:01:52.388595200Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 3453,
+    "x" : 411,
+    "y" : 351,
+    "uid" : "377006314560",
+    "username" : "Amfortas",
+    "level" : 100,
+    "allianceId" : "500338874",
+    "allianceTag" : "53-N",
+    "pointId" : 179918,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4838958709945858569",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1789251814989
+    },
+    "cityRewardCreatedAt" : "2026-09-12T21:53:34.989Z",
+    "cityRewardSeenAt" : "2026-09-12T21:58:40.824Z",
+    "foundAt" : "2026-09-12T21:58:40.824Z"
+  } ]
 }
