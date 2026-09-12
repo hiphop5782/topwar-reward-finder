@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-12T03:24:37.052091900Z",
-  "count" : 2,
+  "updatedAt" : "2026-09-12T03:26:39.895720100Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 3345,
     "x" : 386,
@@ -42,5 +42,25 @@
     "cityRewardCreatedAt" : "2026-09-12T02:50:25.965Z",
     "cityRewardSeenAt" : "2026-09-12T03:11:51.405Z",
     "foundAt" : "2026-09-12T03:11:51.405Z"
+  }, {
+    "serverId" : 4040,
+    "x" : 383,
+    "y" : 367,
+    "uid" : "8992295456712",
+    "username" : "RIVERS",
+    "level" : 100,
+    "allianceId" : "500390671",
+    "allianceTag" : "R3iN",
+    "pointId" : 188096,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4837819292552499205",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1789183900420
+    },
+    "cityRewardCreatedAt" : "2026-09-12T03:01:40.420Z",
+    "cityRewardSeenAt" : "2026-09-12T03:24:52.227Z",
+    "foundAt" : "2026-09-12T03:24:52.227Z"
   } ]
 }
