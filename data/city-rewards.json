@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-13T20:00:56.704585500Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-13T20:02:38.728601600Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 3885,
+    "x" : 414,
+    "y" : 554,
+    "uid" : "8845142200125",
+    "username" : "Cen10",
+    "level" : 100,
+    "allianceId" : "500380761",
+    "allianceTag" : "TIMs",
+    "pointId" : 283856,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4840263283109681667",
+      "players" : [ ],
+      "num" : 20,
+      "endTimeMilli" : 1789329573609
+    },
+    "cityRewardCreatedAt" : "2026-09-13T19:29:33.609Z",
+    "cityRewardSeenAt" : "2026-09-13T19:59:23.047Z",
+    "foundAt" : "2026-09-13T19:59:23.047Z"
+  } ]
 }
