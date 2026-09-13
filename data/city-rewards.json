@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-13T12:33:47.528117700Z",
-  "count" : 25,
+  "updatedAt" : "2026-09-13T12:35:42.449413Z",
+  "count" : 26,
   "locations" : [ {
     "serverId" : 73,
     "x" : 158,
@@ -272,6 +272,38 @@
     "cityRewardCreatedAt" : "2026-09-13T12:10:20.328Z",
     "cityRewardSeenAt" : "2026-09-13T12:22:37.008Z",
     "foundAt" : "2026-09-13T12:22:37.008Z"
+  }, {
+    "serverId" : 1083,
+    "x" : 414,
+    "y" : 528,
+    "uid" : "566649328722",
+    "username" : "琮",
+    "level" : 100,
+    "allianceId" : "547410",
+    "allianceTag" : "TPAi",
+    "pointId" : 270544,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4839837963452446217",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon125_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"老董\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/596754851060.jpg?v=1713104781537\",\"https://knight-cdn.akamaized.net/headimg/b807bb5659a68318dc7f185903df0ad5_1745675799.jpg?v=1745675800205\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"hero_icon004_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b807bb5659a68318dc7f185903df0ad5_1745675799.jpg?v=1745675800205\",\"username\":\"小程故事多\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/561904985148.jpg?v=1723911269041\",\"username\":\"蕭米克\"}"
+      }, {
+        "frameId" : 64,
+        "playerInfo" : "{\"nationalflag\":228,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/557093200917.jpg?v=1614838478435\",\"username\":\"kkfly\"}"
+      } ],
+      "num" : 22,
+      "endTimeMilli" : 1789304222582
+    },
+    "cityRewardCreatedAt" : "2026-09-13T12:27:02.582Z",
+    "cityRewardSeenAt" : "2026-09-13T12:34:29.764Z",
+    "foundAt" : "2026-09-13T12:34:29.764Z"
   }, {
     "serverId" : 1816,
     "x" : 386,
