@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-13T11:33:58.825369600Z",
-  "count" : 4,
+  "updatedAt" : "2026-09-13T11:35:39.822674800Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 73,
     "x" : 465,
@@ -82,5 +82,25 @@
     "cityRewardCreatedAt" : "2026-09-13T11:10:14.526Z",
     "cityRewardSeenAt" : "2026-09-13T11:18:49.019Z",
     "foundAt" : "2026-09-13T11:18:49.019Z"
+  }, {
+    "serverId" : 3436,
+    "x" : 400,
+    "y" : 544,
+    "uid" : "908666300437",
+    "username" : "GK",
+    "level" : 100,
+    "allianceId" : "500336352",
+    "allianceTag" : "NepL",
+    "pointId" : 278729,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4839757417885128712",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1789299421692
+    },
+    "cityRewardCreatedAt" : "2026-09-13T11:07:01.692Z",
+    "cityRewardSeenAt" : "2026-09-13T11:34:33.189Z",
+    "foundAt" : "2026-09-13T11:34:33.189Z"
   } ]
 }
