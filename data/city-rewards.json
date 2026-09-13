@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-13T07:23:15.346228500Z",
-  "count" : 2,
+  "updatedAt" : "2026-09-13T07:25:35.151595400Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 3436,
     "x" : 400,
@@ -42,5 +42,25 @@
     "cityRewardCreatedAt" : "2026-09-13T07:14:09.221Z",
     "cityRewardSeenAt" : "2026-09-13T07:17:18.614Z",
     "foundAt" : "2026-09-13T07:17:18.614Z"
+  }, {
+    "serverId" : 4002,
+    "x" : 400,
+    "y" : 596,
+    "uid" : "8822864908074",
+    "username" : "Casion",
+    "level" : 100,
+    "allianceId" : "500387219",
+    "allianceTag" : "B1$",
+    "pointId" : 305353,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4839518681121637379",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1789285191872
+    },
+    "cityRewardCreatedAt" : "2026-09-13T07:09:51.872Z",
+    "cityRewardSeenAt" : "2026-09-13T07:24:29.741Z",
+    "foundAt" : "2026-09-13T07:24:29.741Z"
   } ]
 }
