@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-13T09:55:34.095794700Z",
-  "count" : 2,
+  "updatedAt" : "2026-09-13T09:57:36.215745200Z",
+  "count" : 4,
   "locations" : [ {
     "serverId" : 485,
     "x" : 436,
@@ -23,6 +23,26 @@
     "cityRewardSeenAt" : "2026-09-13T09:45:00.304Z",
     "foundAt" : "2026-09-13T09:45:00.304Z"
   }, {
+    "serverId" : 680,
+    "x" : 326,
+    "y" : 326,
+    "uid" : "468576408232",
+    "username" : "ぴくる",
+    "level" : 100,
+    "allianceId" : "393268",
+    "allianceTag" : "Kins",
+    "pointId" : 167076,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4839658718813835264",
+      "players" : [ ],
+      "num" : 13,
+      "endTimeMilli" : 1789293538769
+    },
+    "cityRewardCreatedAt" : "2026-09-13T09:28:58.769Z",
+    "cityRewardSeenAt" : "2026-09-13T09:55:18.795Z",
+    "foundAt" : "2026-09-13T09:55:18.795Z"
+  }, {
     "serverId" : 1677,
     "x" : 433,
     "y" : 637,
@@ -42,5 +62,25 @@
     "cityRewardCreatedAt" : "2026-09-13T09:10:38.687Z",
     "cityRewardSeenAt" : "2026-09-13T09:38:22.088Z",
     "foundAt" : "2026-09-13T09:38:22.088Z"
+  }, {
+    "serverId" : 3223,
+    "x" : 416,
+    "y" : 400,
+    "uid" : "933624896237",
+    "username" : "💐루크",
+    "level" : 100,
+    "allianceId" : "500314562",
+    "allianceTag" : "KID:",
+    "pointId" : 205009,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4839676726304386567",
+      "players" : [ ],
+      "num" : 14,
+      "endTimeMilli" : 1789294612099
+    },
+    "cityRewardCreatedAt" : "2026-09-13T09:46:52.099Z",
+    "cityRewardSeenAt" : "2026-09-13T09:56:30.556Z",
+    "foundAt" : "2026-09-13T09:56:30.556Z"
   } ]
 }
