@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-13T13:13:56.356565700Z",
-  "count" : 24,
+  "updatedAt" : "2026-09-13T13:15:35.122642700Z",
+  "count" : 25,
   "locations" : [ {
     "serverId" : 172,
     "x" : 348,
@@ -518,5 +518,25 @@
     "cityRewardCreatedAt" : "2026-09-13T12:49:20.773Z",
     "cityRewardSeenAt" : "2026-09-13T13:01:51.502Z",
     "foundAt" : "2026-09-13T13:01:51.502Z"
+  }, {
+    "serverId" : 3885,
+    "x" : 416,
+    "y" : 552,
+    "uid" : "841458882824",
+    "username" : "Ashlpark",
+    "level" : 100,
+    "allianceId" : "500380761",
+    "allianceTag" : "TIMs",
+    "pointId" : 282833,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4839858366142372356",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1789305438677
+    },
+    "cityRewardCreatedAt" : "2026-09-13T12:47:18.677Z",
+    "cityRewardSeenAt" : "2026-09-13T13:13:14.696Z",
+    "foundAt" : "2026-09-13T13:13:14.696Z"
   } ]
 }
