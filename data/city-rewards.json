@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-14T06:27:23.483569400Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-14T06:28:56.045929600Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 4122,
+    "x" : 350,
+    "y" : 84,
+    "uid" : "9091572011034",
+    "username" : "bunkface",
+    "level" : 100,
+    "allianceId" : "500409701",
+    "allianceTag" : "hit*",
+    "pointId" : 43184,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4840909577155261445",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1789368095736
+    },
+    "cityRewardCreatedAt" : "2026-09-14T06:11:35.736Z",
+    "cityRewardSeenAt" : "2026-09-14T06:28:32.100Z",
+    "foundAt" : "2026-09-14T06:28:32.100Z"
+  } ]
 }
