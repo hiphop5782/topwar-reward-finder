@@ -1,8 +1,40 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-14T07:42:17.986858100Z",
-  "count" : 1,
+  "updatedAt" : "2026-09-14T07:44:42.683206500Z",
+  "count" : 2,
   "locations" : [ {
+    "serverId" : 619,
+    "x" : 373,
+    "y" : 649,
+    "uid" : "73910779977",
+    "username" : "D4C",
+    "level" : 100,
+    "allianceId" : "368552",
+    "allianceTag" : "NBRK",
+    "pointId" : 332475,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4840990560221451784",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"hero_icon2097\",\"nickname\":\"wy.141866234004\",\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/836976ce37e6bb41291eb2f767874e65.jpg?v=1714846200332\",\"username\":\"ジェド豪士\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":57,\"gender\":0,\"avatarurl\":\"hero_icon135_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"Topcomm\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/508923e566695fb14da52ece66f91cb1_1786815312.png?v=1786815314001\"],\"nationalflag\":114,\"gender\":0,\"avatarurl\":\"\",\"nickname\":\"wy.166261964967\",\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/508923e566695fb14da52ece66f91cb1_1786815312.png?v=1786815314001\",\"username\":\"凸レンズ\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":149,\"gender\":0,\"avatarurl\":\"hero_icon018_summer\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"username\":\"びーこ・綺麗な空\"}"
+      } ],
+      "num" : 18,
+      "endTimeMilli" : 1789372922703
+    },
+    "cityRewardCreatedAt" : "2026-09-14T07:32:02.703Z",
+    "cityRewardSeenAt" : "2026-09-14T07:43:13.995Z",
+    "foundAt" : "2026-09-14T07:43:13.995Z"
+  }, {
     "serverId" : 3355,
     "x" : 363,
     "y" : 367,
