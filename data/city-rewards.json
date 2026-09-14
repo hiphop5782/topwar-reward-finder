@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-14T13:35:54.910558100Z",
-  "count" : 5,
+  "updatedAt" : "2026-09-14T13:37:29.199144800Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 158,
     "x" : 292,
@@ -102,5 +102,25 @@
     "cityRewardCreatedAt" : "2026-09-14T12:57:16.251Z",
     "cityRewardSeenAt" : "2026-09-14T13:26:53.023Z",
     "foundAt" : "2026-09-14T13:26:53.023Z"
+  }, {
+    "serverId" : 4359,
+    "x" : 406,
+    "y" : 596,
+    "uid" : "8027385433358",
+    "username" : "Oh_Ping",
+    "level" : 100,
+    "allianceId" : "500445157",
+    "allianceTag" : "7DS^",
+    "pointId" : 305356,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4841354347778543107",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1789394606131
+    },
+    "cityRewardCreatedAt" : "2026-09-14T13:33:26.131Z",
+    "cityRewardSeenAt" : "2026-09-14T13:35:11.370Z",
+    "foundAt" : "2026-09-14T13:35:11.370Z"
   } ]
 }
