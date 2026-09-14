@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-14T15:40:52.998093300Z",
-  "count" : 1,
+  "updatedAt" : "2026-09-14T15:42:26.837670200Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 4347,
     "x" : 457,
@@ -22,5 +22,25 @@
     "cityRewardCreatedAt" : "2026-09-14T15:29:10.022Z",
     "cityRewardSeenAt" : "2026-09-14T15:35:16.197Z",
     "foundAt" : "2026-09-14T15:35:16.197Z"
+  }, {
+    "serverId" : 4360,
+    "x" : 403,
+    "y" : 701,
+    "uid" : "9483231695112",
+    "username" : "Shinto3",
+    "level" : 97,
+    "allianceId" : "500445760",
+    "allianceTag" : "1BDE",
+    "pointId" : 359114,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4841464648628834304",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1789401180574
+    },
+    "cityRewardCreatedAt" : "2026-09-14T15:23:00.574Z",
+    "cityRewardSeenAt" : "2026-09-14T15:41:48.138Z",
+    "foundAt" : "2026-09-14T15:41:48.138Z"
   } ]
 }
