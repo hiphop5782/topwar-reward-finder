@@ -1,8 +1,48 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-15T16:02:46.821334500Z",
-  "count" : 10,
+  "updatedAt" : "2026-09-15T16:04:38.333325600Z",
+  "count" : 12,
   "locations" : [ {
+    "serverId" : 2287,
+    "x" : 420,
+    "y" : 562,
+    "uid" : "900111268402",
+    "username" : "Shackz",
+    "level" : 100,
+    "allianceId" : "500131304",
+    "allianceTag" : "bWAR",
+    "pointId" : 287955,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4842953151400238597",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1789489902253
+    },
+    "cityRewardCreatedAt" : "2026-09-15T16:01:42.253Z",
+    "cityRewardSeenAt" : "2026-09-15T16:02:13.932Z",
+    "foundAt" : "2026-09-15T16:02:13.932Z"
+  }, {
+    "serverId" : 2287,
+    "x" : 573,
+    "y" : 329,
+    "uid" : "333276304179",
+    "username" : "MiniFlo",
+    "level" : 100,
+    "allianceId" : "500132199",
+    "allianceTag" : "yWar",
+    "pointId" : 168735,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4842951737198370305",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1789489817960
+    },
+    "cityRewardCreatedAt" : "2026-09-15T16:00:17.960Z",
+    "cityRewardSeenAt" : "2026-09-15T16:01:38.162Z",
+    "foundAt" : "2026-09-15T16:01:38.162Z"
+  }, {
     "serverId" : 3223,
     "x" : 404,
     "y" : 384,
