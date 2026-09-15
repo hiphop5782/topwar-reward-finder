@@ -1,6 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-15T07:28:56.413556100Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-15T07:30:52.324888900Z",
+  "count" : 2,
+  "locations" : [ {
+    "serverId" : 2682,
+    "x" : 398,
+    "y" : 404,
+    "uid" : "8938162687872",
+    "username" : "Chiii",
+    "level" : 100,
+    "allianceId" : "500234439",
+    "allianceTag" : "DAKZ",
+    "pointId" : 207048,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4842428174393734152",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1789458611185
+    },
+    "cityRewardCreatedAt" : "2026-09-15T07:20:11.185Z",
+    "cityRewardSeenAt" : "2026-09-15T07:28:11.783Z",
+    "foundAt" : "2026-09-15T07:28:11.783Z"
+  }, {
+    "serverId" : 2682,
+    "x" : 400,
+    "y" : 406,
+    "uid" : "689844512512",
+    "username" : "DLxTera",
+    "level" : 100,
+    "allianceId" : "500234439",
+    "allianceTag" : "DAKZ",
+    "pointId" : 208073,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4842431193302758401",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1789458791126
+    },
+    "cityRewardCreatedAt" : "2026-09-15T07:23:11.126Z",
+    "cityRewardSeenAt" : "2026-09-15T07:28:11.783Z",
+    "foundAt" : "2026-09-15T07:28:11.783Z"
+  } ]
 }
