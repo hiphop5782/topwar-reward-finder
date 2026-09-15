@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-15T11:16:19.318136700Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-15T11:19:51.599911Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 3223,
+    "x" : 400,
+    "y" : 420,
+    "uid" : "908164237898",
+    "username" : "홍시",
+    "level" : 100,
+    "allianceId" : "500314562",
+    "allianceTag" : "KID:",
+    "pointId" : 215241,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4842648071417966087",
+      "players" : [ ],
+      "num" : 76,
+      "endTimeMilli" : 1789471718069
+    },
+    "cityRewardCreatedAt" : "2026-09-15T10:58:38.069Z",
+    "cityRewardSeenAt" : "2026-09-15T11:17:07.454Z",
+    "foundAt" : "2026-09-15T11:17:07.454Z"
+  } ]
 }
