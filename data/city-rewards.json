@@ -1,8 +1,48 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-15T16:04:38.333325600Z",
-  "count" : 12,
+  "updatedAt" : "2026-09-15T16:06:44.837362800Z",
+  "count" : 15,
   "locations" : [ {
+    "serverId" : 619,
+    "x" : 406,
+    "y" : 614,
+    "uid" : "298209489444",
+    "username" : "ヤン",
+    "level" : 100,
+    "allianceId" : "368552",
+    "allianceTag" : "NBRK",
+    "pointId" : 314572,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4842953294525814279",
+      "players" : [ ],
+      "num" : 284,
+      "endTimeMilli" : 1789489910784
+    },
+    "cityRewardCreatedAt" : "2026-09-15T16:01:50.784Z",
+    "cityRewardSeenAt" : "2026-09-15T16:06:04.883Z",
+    "foundAt" : "2026-09-15T16:06:04.883Z"
+  }, {
+    "serverId" : 619,
+    "x" : 406,
+    "y" : 622,
+    "uid" : "227334947053",
+    "username" : "Artemis",
+    "level" : 100,
+    "allianceId" : "368552",
+    "allianceTag" : "NBRK",
+    "pointId" : 318668,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4842954370733889029",
+      "players" : [ ],
+      "num" : 285,
+      "endTimeMilli" : 1789489974931
+    },
+    "cityRewardCreatedAt" : "2026-09-15T16:02:54.931Z",
+    "cityRewardSeenAt" : "2026-09-15T16:06:04.883Z",
+    "foundAt" : "2026-09-15T16:06:04.883Z"
+  }, {
     "serverId" : 2287,
     "x" : 420,
     "y" : 562,
@@ -42,6 +82,26 @@
     "cityRewardCreatedAt" : "2026-09-15T16:00:17.960Z",
     "cityRewardSeenAt" : "2026-09-15T16:01:38.162Z",
     "foundAt" : "2026-09-15T16:01:38.162Z"
+  }, {
+    "serverId" : 3051,
+    "x" : 404,
+    "y" : 334,
+    "uid" : "834193754363",
+    "username" : "nyasuke",
+    "level" : 100,
+    "allianceId" : "500300894",
+    "allianceTag" : "FP4S",
+    "pointId" : 171211,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4842949569045583369",
+      "players" : [ ],
+      "num" : 49,
+      "endTimeMilli" : 1789489688728
+    },
+    "cityRewardCreatedAt" : "2026-09-15T15:58:08.728Z",
+    "cityRewardSeenAt" : "2026-09-15T16:05:10.581Z",
+    "foundAt" : "2026-09-15T16:05:10.581Z"
   }, {
     "serverId" : 3223,
     "x" : 404,
