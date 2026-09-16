@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-16T00:06:32.658512200Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-16T00:08:57.352969400Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 3800,
+    "x" : 430,
+    "y" : 394,
+    "uid" : "8774408277720",
+    "username" : "Masha",
+    "level" : 100,
+    "allianceId" : "500377860",
+    "allianceTag" : "CLX$",
+    "pointId" : 201944,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4843417842652917764",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1789517600010
+    },
+    "cityRewardCreatedAt" : "2026-09-15T23:43:20.010Z",
+    "cityRewardSeenAt" : "2026-09-16T00:05:59.222Z",
+    "foundAt" : "2026-09-16T00:05:59.222Z"
+  } ]
 }
