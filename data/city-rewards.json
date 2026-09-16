@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-16T13:05:59.929690500Z",
-  "count" : 5,
+  "updatedAt" : "2026-09-16T13:08:47.357765200Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 184,
     "x" : 403,
@@ -114,5 +114,25 @@
     "cityRewardCreatedAt" : "2026-09-16T12:21:42.861Z",
     "cityRewardSeenAt" : "2026-09-16T12:34:42.420Z",
     "foundAt" : "2026-09-16T12:34:42.420Z"
+  }, {
+    "serverId" : 3646,
+    "x" : 394,
+    "y" : 542,
+    "uid" : "864601401759",
+    "username" : "Yokko",
+    "level" : 100,
+    "allianceId" : "500363011",
+    "allianceTag" : "UNT,",
+    "pointId" : 277702,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4844213258449353734",
+      "players" : [ ],
+      "num" : 79,
+      "endTimeMilli" : 1789565010486
+    },
+    "cityRewardCreatedAt" : "2026-09-16T12:53:30.486Z",
+    "cityRewardSeenAt" : "2026-09-16T13:06:50.553Z",
+    "foundAt" : "2026-09-16T13:06:50.553Z"
   } ]
 }
