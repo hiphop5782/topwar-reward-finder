@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-17T13:08:13.032013400Z",
-  "count" : 5,
+  "updatedAt" : "2026-09-17T13:11:42.940857100Z",
+  "count" : 7,
   "locations" : [ {
     "serverId" : 1397,
     "x" : 388,
@@ -107,6 +107,26 @@
     "cityRewardSeenAt" : "2026-09-17T12:42:28.505Z",
     "foundAt" : "2026-09-17T12:42:28.505Z"
   }, {
+    "serverId" : 2501,
+    "x" : 416,
+    "y" : 538,
+    "uid" : "532560627420",
+    "username" : "🩲㌠kimau",
+    "level" : 100,
+    "allianceId" : "500179702",
+    "allianceTag" : "S7th",
+    "pointId" : 275665,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4845677752152721924",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1789652301113
+    },
+    "cityRewardCreatedAt" : "2026-09-17T13:08:21.113Z",
+    "cityRewardSeenAt" : "2026-09-17T13:08:34.249Z",
+    "foundAt" : "2026-09-17T13:08:34.249Z"
+  }, {
     "serverId" : 3223,
     "x" : 400,
     "y" : 420,
@@ -126,5 +146,25 @@
     "cityRewardCreatedAt" : "2026-09-17T12:21:59.935Z",
     "cityRewardSeenAt" : "2026-09-17T12:37:59.700Z",
     "foundAt" : "2026-09-17T12:37:59.700Z"
+  }, {
+    "serverId" : 3396,
+    "x" : 418,
+    "y" : 542,
+    "uid" : "529333179257",
+    "username" : "JCCY",
+    "level" : 100,
+    "allianceId" : "500330742",
+    "allianceTag" : "96Y",
+    "pointId" : 277714,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4845667137946814472",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1789651668457
+    },
+    "cityRewardCreatedAt" : "2026-09-17T12:57:48.457Z",
+    "cityRewardSeenAt" : "2026-09-17T13:09:16.761Z",
+    "foundAt" : "2026-09-17T13:09:16.761Z"
   } ]
 }
