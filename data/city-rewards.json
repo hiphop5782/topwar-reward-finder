@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-17T13:46:55.730910300Z",
-  "count" : 8,
+  "updatedAt" : "2026-09-17T13:48:00.929123700Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 73,
     "x" : 147,
@@ -102,65 +102,5 @@
     "cityRewardCreatedAt" : "2026-09-17T12:53:22.927Z",
     "cityRewardSeenAt" : "2026-09-17T13:16:09.031Z",
     "foundAt" : "2026-09-17T13:16:09.031Z"
-  }, {
-    "serverId" : 680,
-    "x" : 362,
-    "y" : 326,
-    "uid" : "494811108052",
-    "username" : "くまで",
-    "level" : 100,
-    "allianceId" : "407983",
-    "allianceTag" : "POK!",
-    "pointId" : 167094,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4845654015041949704",
-      "players" : [ ],
-      "num" : 139,
-      "endTimeMilli" : 1789650886271
-    },
-    "cityRewardCreatedAt" : "2026-09-17T12:44:46.271Z",
-    "cityRewardSeenAt" : "2026-09-17T13:12:17.802Z",
-    "foundAt" : "2026-09-17T13:12:17.802Z"
-  }, {
-    "serverId" : 680,
-    "x" : 364,
-    "y" : 328,
-    "uid" : "8075320593707",
-    "username" : "そら",
-    "level" : 100,
-    "allianceId" : "407983",
-    "allianceTag" : "POK!",
-    "pointId" : 168119,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4845654079382573063",
-      "players" : [ ],
-      "num" : 142,
-      "endTimeMilli" : 1789650890106
-    },
-    "cityRewardCreatedAt" : "2026-09-17T12:44:50.106Z",
-    "cityRewardSeenAt" : "2026-09-17T13:12:17.802Z",
-    "foundAt" : "2026-09-17T13:12:17.802Z"
-  }, {
-    "serverId" : 680,
-    "x" : 366,
-    "y" : 326,
-    "uid" : "493048578772",
-    "username" : "仙台",
-    "level" : 100,
-    "allianceId" : "407983",
-    "allianceTag" : "POK!",
-    "pointId" : 167096,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4845654142532014084",
-      "players" : [ ],
-      "num" : 133,
-      "endTimeMilli" : 1789650893870
-    },
-    "cityRewardCreatedAt" : "2026-09-17T12:44:53.870Z",
-    "cityRewardSeenAt" : "2026-09-17T13:12:17.802Z",
-    "foundAt" : "2026-09-17T13:12:17.802Z"
   } ]
 }
