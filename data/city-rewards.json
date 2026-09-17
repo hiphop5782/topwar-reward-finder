@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-17T17:04:58.775849400Z",
-  "count" : 14,
+  "updatedAt" : "2026-09-17T17:06:38.403366100Z",
+  "count" : 15,
   "locations" : [ {
     "serverId" : 1816,
     "x" : 400,
@@ -291,5 +291,37 @@
     "cityRewardCreatedAt" : "2026-09-17T16:44:39.327Z",
     "cityRewardSeenAt" : "2026-09-17T17:00:31.288Z",
     "foundAt" : "2026-09-17T17:00:31.288Z"
+  }, {
+    "serverId" : 4359,
+    "x" : 388,
+    "y" : 582,
+    "uid" : "8268001447332",
+    "username" : "Huang",
+    "level" : 100,
+    "allianceId" : "500445157",
+    "allianceTag" : "7DS^",
+    "pointId" : 298179,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4845894773646691843",
+      "players" : [ {
+        "frameId" : 128,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/0dcedd0edcea1cfb31c2e11ac9b00c61_1734620992.jpg?v=1734620993330\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":null,\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/0dcedd0edcea1cfb31c2e11ac9b00c61_1734620992.jpg?v=1734620993330\",\"username\":\"雷龍閃\"}"
+      }, {
+        "frameId" : 1,
+        "playerInfo" : "{\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"vnn\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"nationalflag\":59,\"gender\":0,\"avatarurl\":\"icon_man02_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"Armani\"}"
+      }, {
+        "frameId" : 115,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/893988096549.jpg?v=1712303532637\",\"https://knight-cdn.akamaized.net/headimg/faf20746680303bd75ae65fe78d664f1_1761579477.png?v=1761579478569\",\"https://knight-cdn.akamaized.net/headimg/faf20746680303bd75ae65fe78d664f1_1761715035.png?v=1761715036612\",\"https://knight-cdn.akamaized.net/headimg/faf20746680303bd75ae65fe78d664f1_1780301923.png?v=1780301924237\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/faf20746680303bd75ae65fe78d664f1_1780301923.png?v=1780301924237\",\"username\":\"kitty㊗️\"}"
+      } ],
+      "num" : 19,
+      "endTimeMilli" : 1789665236602
+    },
+    "cityRewardCreatedAt" : "2026-09-17T16:43:56.602Z",
+    "cityRewardSeenAt" : "2026-09-17T17:05:46.516Z",
+    "foundAt" : "2026-09-17T17:05:46.516Z"
   } ]
 }
