@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-18T17:43:49.824803700Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-18T17:45:56.178751500Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 2287,
+    "x" : 593,
+    "y" : 321,
+    "uid" : "334423049016",
+    "username" : "Rush",
+    "level" : 100,
+    "allianceId" : "500132199",
+    "allianceTag" : "yWar",
+    "pointId" : 164649,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4847381465871277570",
+      "players" : [ ],
+      "num" : 25,
+      "endTimeMilli" : 1789753850364
+    },
+    "cityRewardCreatedAt" : "2026-09-18T17:20:50.364Z",
+    "cityRewardSeenAt" : "2026-09-18T17:43:08.651Z",
+    "foundAt" : "2026-09-18T17:43:08.651Z"
+  } ]
 }
