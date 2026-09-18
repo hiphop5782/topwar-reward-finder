@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-18T16:43:57.276218500Z",
-  "count" : 56,
+  "updatedAt" : "2026-09-18T16:45:59.972245100Z",
+  "count" : 57,
   "locations" : [ {
     "serverId" : 184,
     "x" : 419,
@@ -114,6 +114,26 @@
     "cityRewardCreatedAt" : "2026-09-18T16:15:49.540Z",
     "cityRewardSeenAt" : "2026-09-18T16:35:28.495Z",
     "foundAt" : "2026-09-18T16:35:28.495Z"
+  }, {
+    "serverId" : 476,
+    "x" : 446,
+    "y" : 460,
+    "uid" : "271738278364",
+    "username" : "ICHIRO51",
+    "level" : 100,
+    "allianceId" : "100033208",
+    "allianceTag" : "7sss",
+    "pointId" : 235744,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4847328477684414467",
+      "players" : [ ],
+      "num" : 58,
+      "endTimeMilli" : 1789750692022
+    },
+    "cityRewardCreatedAt" : "2026-09-18T16:28:12.022Z",
+    "cityRewardSeenAt" : "2026-09-18T16:43:43.748Z",
+    "foundAt" : "2026-09-18T16:43:43.748Z"
   }, {
     "serverId" : 619,
     "x" : 432,
@@ -598,26 +618,6 @@
     "cityRewardCreatedAt" : "2026-09-18T16:28:35.494Z",
     "cityRewardSeenAt" : "2026-09-18T16:39:32.782Z",
     "foundAt" : "2026-09-18T16:39:32.782Z"
-  }, {
-    "serverId" : 2842,
-    "x" : 449,
-    "y" : 629,
-    "uid" : "938940381964",
-    "username" : "OWL鴞🦉",
-    "level" : 100,
-    "allianceId" : "500269694",
-    "allianceTag" : "E$G",
-    "pointId" : 322273,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4847305602119382016",
-      "players" : [ ],
-      "num" : 1395,
-      "endTimeMilli" : 1789749328532
-    },
-    "cityRewardCreatedAt" : "2026-09-18T16:05:28.532Z",
-    "cityRewardSeenAt" : "2026-09-18T16:25:16.906Z",
-    "foundAt" : "2026-09-18T16:25:16.906Z"
   }, {
     "serverId" : 2864,
     "x" : 470,
@@ -1182,5 +1182,25 @@
     "cityRewardCreatedAt" : "2026-09-18T16:13:09.915Z",
     "cityRewardSeenAt" : "2026-09-18T16:17:06.385Z",
     "foundAt" : "2026-09-18T16:17:06.385Z"
+  }, {
+    "serverId" : 4317,
+    "x" : 390,
+    "y" : 424,
+    "uid" : "9134705512506",
+    "username" : "Besho",
+    "level" : 100,
+    "allianceId" : "500435486",
+    "allianceTag" : "~x17",
+    "pointId" : 217284,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4847336988868721157",
+      "players" : [ ],
+      "num" : 22,
+      "endTimeMilli" : 1789751199328
+    },
+    "cityRewardCreatedAt" : "2026-09-18T16:36:39.328Z",
+    "cityRewardSeenAt" : "2026-09-18T16:43:16.026Z",
+    "foundAt" : "2026-09-18T16:43:16.026Z"
   } ]
 }
