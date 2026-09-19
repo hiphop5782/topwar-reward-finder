@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-19T18:42:23.688101Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-19T18:44:46.665182500Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 3453,
+    "x" : 395,
+    "y" : 339,
+    "uid" : "322311422322",
+    "username" : "shack",
+    "level" : 100,
+    "allianceId" : "500338874",
+    "allianceTag" : "53-N",
+    "pointId" : 173766,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4848905223564622336",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1789844673400
+    },
+    "cityRewardCreatedAt" : "2026-09-19T18:34:33.400Z",
+    "cityRewardSeenAt" : "2026-09-19T18:40:31.435Z",
+    "foundAt" : "2026-09-19T18:40:31.435Z"
+  } ]
 }
