@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-19T17:18:55.345454300Z",
-  "count" : 7,
+  "updatedAt" : "2026-09-19T17:20:34.424600100Z",
+  "count" : 4,
   "locations" : [ {
     "serverId" : 1173,
     "x" : 425,
@@ -63,26 +63,6 @@
     "cityRewardSeenAt" : "2026-09-19T16:59:14.499Z",
     "foundAt" : "2026-09-19T16:59:14.499Z"
   }, {
-    "serverId" : 2952,
-    "x" : 408,
-    "y" : 546,
-    "uid" : "548453103403",
-    "username" : "フォイ🩲",
-    "level" : 100,
-    "allianceId" : "500287174",
-    "allianceTag" : "AXBX",
-    "pointId" : 279757,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4848782542655393799",
-      "players" : [ ],
-      "num" : 237,
-      "endTimeMilli" : 1789837361047
-    },
-    "cityRewardCreatedAt" : "2026-09-19T16:32:41.047Z",
-    "cityRewardSeenAt" : "2026-09-19T16:44:05.142Z",
-    "foundAt" : "2026-09-19T16:44:05.142Z"
-  }, {
     "serverId" : 3452,
     "x" : 401,
     "y" : 577,
@@ -102,45 +82,5 @@
     "cityRewardCreatedAt" : "2026-09-19T17:11:13.953Z",
     "cityRewardSeenAt" : "2026-09-19T17:17:01.724Z",
     "foundAt" : "2026-09-19T17:17:01.724Z"
-  }, {
-    "serverId" : 3453,
-    "x" : 387,
-    "y" : 327,
-    "uid" : "537172317939",
-    "username" : "Ruthless",
-    "level" : 100,
-    "allianceId" : "500338874",
-    "allianceTag" : "53-N",
-    "pointId" : 167618,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4848783002368145924",
-      "players" : [ ],
-      "num" : 388,
-      "endTimeMilli" : 1789837388449
-    },
-    "cityRewardCreatedAt" : "2026-09-19T16:33:08.449Z",
-    "cityRewardSeenAt" : "2026-09-19T16:44:45.178Z",
-    "foundAt" : "2026-09-19T16:44:45.178Z"
-  }, {
-    "serverId" : 3453,
-    "x" : 411,
-    "y" : 351,
-    "uid" : "377006314560",
-    "username" : "Amfortas",
-    "level" : 100,
-    "allianceId" : "500338874",
-    "allianceTag" : "53-N",
-    "pointId" : 179918,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4848794304205486595",
-      "players" : [ ],
-      "num" : 8,
-      "endTimeMilli" : 1789838062091
-    },
-    "cityRewardCreatedAt" : "2026-09-19T16:44:22.091Z",
-    "cityRewardSeenAt" : "2026-09-19T16:44:46.545Z",
-    "foundAt" : "2026-09-19T16:44:46.545Z"
   } ]
 }
