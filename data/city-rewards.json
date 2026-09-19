@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-19T19:40:43.440205600Z",
-  "count" : 2,
+  "updatedAt" : "2026-09-19T19:42:37.268605800Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 2147,
     "x" : 419,
@@ -42,5 +42,25 @@
     "cityRewardCreatedAt" : "2026-09-19T19:10:15.136Z",
     "cityRewardSeenAt" : "2026-09-19T19:10:38.312Z",
     "foundAt" : "2026-09-19T19:10:38.312Z"
+  }, {
+    "serverId" : 4057,
+    "x" : 355,
+    "y" : 509,
+    "uid" : "520018421381",
+    "username" : "ᵗʳᵒᵍᵈᵒʳ",
+    "level" : 100,
+    "allianceId" : "500392415",
+    "allianceTag" : "MtSF",
+    "pointId" : 260786,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4848959590401815049",
+      "players" : [ ],
+      "num" : 43,
+      "endTimeMilli" : 1789847913916
+    },
+    "cityRewardCreatedAt" : "2026-09-19T19:28:33.916Z",
+    "cityRewardSeenAt" : "2026-09-19T19:41:32.246Z",
+    "foundAt" : "2026-09-19T19:41:32.246Z"
   } ]
 }
