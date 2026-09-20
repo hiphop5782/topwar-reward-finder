@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-20T13:22:28.991043600Z",
-  "count" : 6,
+  "updatedAt" : "2026-09-20T13:24:45.294885200Z",
+  "count" : 7,
   "locations" : [ {
     "serverId" : 184,
     "x" : 379,
@@ -122,5 +122,25 @@
     "cityRewardCreatedAt" : "2026-09-20T12:41:15.353Z",
     "cityRewardSeenAt" : "2026-09-20T13:00:39.721Z",
     "foundAt" : "2026-09-20T13:00:39.721Z"
+  }, {
+    "serverId" : 3223,
+    "x" : 406,
+    "y" : 418,
+    "uid" : "591702304749",
+    "username" : "polenta",
+    "level" : 100,
+    "allianceId" : "500314562",
+    "allianceTag" : "KID:",
+    "pointId" : 214220,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4850039125481958917",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1789912259221
+    },
+    "cityRewardCreatedAt" : "2026-09-20T13:20:59.221Z",
+    "cityRewardSeenAt" : "2026-09-20T13:23:22.944Z",
+    "foundAt" : "2026-09-20T13:23:22.944Z"
   } ]
 }
