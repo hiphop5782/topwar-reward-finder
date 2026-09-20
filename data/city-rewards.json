@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-20T22:16:36.606518600Z",
-  "count" : 1,
+  "updatedAt" : "2026-09-20T22:18:54.543164400Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 341,
     "x" : 539,
@@ -16,11 +16,31 @@
       "itemId" : 260617002,
       "instanceId" : "4850551188812376582",
       "players" : [ ],
-      "num" : 2,
+      "num" : 132,
       "endTimeMilli" : 1789942780574
     },
     "cityRewardCreatedAt" : "2026-09-20T21:49:40.574Z",
-    "cityRewardSeenAt" : "2026-09-20T21:50:11.796Z",
-    "foundAt" : "2026-09-20T21:50:11.796Z"
+    "cityRewardSeenAt" : "2026-09-20T22:17:19.693Z",
+    "foundAt" : "2026-09-20T22:17:19.693Z"
+  }, {
+    "serverId" : 341,
+    "x" : 549,
+    "y" : 491,
+    "uid" : "392525546016",
+    "username" : "🦖Mago🍀",
+    "level" : 100,
+    "allianceId" : "100010641",
+    "allianceTag" : "V341",
+    "pointId" : 251667,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4850556952440384001",
+      "players" : [ ],
+      "num" : 115,
+      "endTimeMilli" : 1789943124113
+    },
+    "cityRewardCreatedAt" : "2026-09-20T21:55:24.113Z",
+    "cityRewardSeenAt" : "2026-09-20T22:17:19.693Z",
+    "foundAt" : "2026-09-20T22:17:19.693Z"
   } ]
 }
