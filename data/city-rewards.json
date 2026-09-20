@@ -1,6 +1,46 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-20T15:59:53.194653Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-20T16:02:11.743021500Z",
+  "count" : 2,
+  "locations" : [ {
+    "serverId" : 864,
+    "x" : 413,
+    "y" : 321,
+    "uid" : "525648532320",
+    "username" : "Only魚🐟",
+    "level" : 100,
+    "allianceId" : "476339",
+    "allianceTag" : "Hcsc",
+    "pointId" : 164559,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4850198597163466755",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1789921764474
+    },
+    "cityRewardCreatedAt" : "2026-09-20T15:59:24.474Z",
+    "cityRewardSeenAt" : "2026-09-20T16:00:26.375Z",
+    "foundAt" : "2026-09-20T16:00:26.375Z"
+  }, {
+    "serverId" : 864,
+    "x" : 447,
+    "y" : 315,
+    "uid" : "561019086698",
+    "username" : "檸檬綠半糖少冰",
+    "level" : 100,
+    "allianceId" : "476339",
+    "allianceTag" : "Hcsc",
+    "pointId" : 161504,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4850199575040278528",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1789921822760
+    },
+    "cityRewardCreatedAt" : "2026-09-20T16:00:22.760Z",
+    "cityRewardSeenAt" : "2026-09-20T16:00:26.375Z",
+    "foundAt" : "2026-09-20T16:00:26.375Z"
+  } ]
 }
