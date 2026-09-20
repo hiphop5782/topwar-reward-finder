@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-20T16:02:11.743021500Z",
-  "count" : 2,
+  "updatedAt" : "2026-09-20T16:04:38.846777500Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 864,
     "x" : 413,
@@ -42,5 +42,25 @@
     "cityRewardCreatedAt" : "2026-09-20T16:00:22.760Z",
     "cityRewardSeenAt" : "2026-09-20T16:00:26.375Z",
     "foundAt" : "2026-09-20T16:00:26.375Z"
+  }, {
+    "serverId" : 3453,
+    "x" : 529,
+    "y" : 435,
+    "uid" : "893909826084",
+    "username" : "VicZ",
+    "level" : 100,
+    "allianceId" : "500338883",
+    "allianceTag" : "53~E",
+    "pointId" : 222985,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4850200357933611528",
+      "players" : [ ],
+      "num" : 74,
+      "endTimeMilli" : 1789921869424
+    },
+    "cityRewardCreatedAt" : "2026-09-20T16:01:09.424Z",
+    "cityRewardSeenAt" : "2026-09-20T16:03:00.084Z",
+    "foundAt" : "2026-09-20T16:03:00.084Z"
   } ]
 }
