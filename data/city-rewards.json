@@ -1,6 +1,29 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-21T08:52:30.019217700Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-21T08:55:56.465585300Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 4441,
+    "x" : 411,
+    "y" : 667,
+    "uid" : "9640352289113",
+    "username" : "David690",
+    "level" : 87,
+    "allianceId" : "500466652",
+    "allianceTag" : "LTDO",
+    "pointId" : 341710,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4851218413024096771",
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"nationalflag\":95,\"gender\":0,\"avatarurl\":\"icon_man01_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"David690\"}"
+      } ],
+      "num" : 1,
+      "endTimeMilli" : 1789982550236
+    },
+    "cityRewardCreatedAt" : "2026-09-21T08:52:30.236Z",
+    "cityRewardSeenAt" : "2026-09-21T08:53:20.162Z",
+    "foundAt" : "2026-09-21T08:53:20.162Z"
+  } ]
 }
