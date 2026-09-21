@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-21T16:24:35.834947500Z",
-  "count" : 8,
+  "updatedAt" : "2026-09-21T16:26:43.732135400Z",
+  "count" : 13,
   "locations" : [ {
     "serverId" : 341,
     "x" : 414,
@@ -22,6 +22,86 @@
     "cityRewardCreatedAt" : "2026-09-21T16:12:44.941Z",
     "cityRewardSeenAt" : "2026-09-21T16:22:39.090Z",
     "foundAt" : "2026-09-21T16:22:39.090Z"
+  }, {
+    "serverId" : 619,
+    "x" : 404,
+    "y" : 616,
+    "uid" : "180670894260",
+    "username" : "みんと",
+    "level" : 100,
+    "allianceId" : "368552",
+    "allianceTag" : "NBRK",
+    "pointId" : 315595,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4851648665783424520",
+      "players" : [ ],
+      "num" : 4896,
+      "endTimeMilli" : 1790008195299
+    },
+    "cityRewardCreatedAt" : "2026-09-21T15:59:55.299Z",
+    "cityRewardSeenAt" : "2026-09-21T16:26:00.673Z",
+    "foundAt" : "2026-09-21T16:26:00.673Z"
+  }, {
+    "serverId" : 619,
+    "x" : 406,
+    "y" : 614,
+    "uid" : "298209489444",
+    "username" : "ヤン",
+    "level" : 100,
+    "allianceId" : "368552",
+    "allianceTag" : "NBRK",
+    "pointId" : 314572,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4851647774443492868",
+      "players" : [ ],
+      "num" : 5020,
+      "endTimeMilli" : 1790008142171
+    },
+    "cityRewardCreatedAt" : "2026-09-21T15:59:02.171Z",
+    "cityRewardSeenAt" : "2026-09-21T16:26:00.673Z",
+    "foundAt" : "2026-09-21T16:26:00.673Z"
+  }, {
+    "serverId" : 619,
+    "x" : 406,
+    "y" : 622,
+    "uid" : "227334947053",
+    "username" : "Artemis",
+    "level" : 100,
+    "allianceId" : "368552",
+    "allianceTag" : "NBRK",
+    "pointId" : 318668,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4851648391341725192",
+      "players" : [ ],
+      "num" : 4856,
+      "endTimeMilli" : 1790008178941
+    },
+    "cityRewardCreatedAt" : "2026-09-21T15:59:38.941Z",
+    "cityRewardSeenAt" : "2026-09-21T16:26:00.673Z",
+    "foundAt" : "2026-09-21T16:26:00.673Z"
+  }, {
+    "serverId" : 619,
+    "x" : 434,
+    "y" : 626,
+    "uid" : "316011217440",
+    "username" : "Harvest",
+    "level" : 100,
+    "allianceId" : "368433",
+    "allianceTag" : "adpt",
+    "pointId" : 320730,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4851673857175901699",
+      "players" : [ ],
+      "num" : 125,
+      "endTimeMilli" : 1790009696823
+    },
+    "cityRewardCreatedAt" : "2026-09-21T16:24:56.823Z",
+    "cityRewardSeenAt" : "2026-09-21T16:26:00.673Z",
+    "foundAt" : "2026-09-21T16:26:00.673Z"
   }, {
     "serverId" : 836,
     "x" : 509,
@@ -162,5 +242,25 @@
     "cityRewardCreatedAt" : "2026-09-21T16:03:32.578Z",
     "cityRewardSeenAt" : "2026-09-21T16:17:22.000Z",
     "foundAt" : "2026-09-21T16:17:22.000Z"
+  }, {
+    "serverId" : 4357,
+    "x" : 425,
+    "y" : 443,
+    "uid" : "9451806265605",
+    "username" : "Pokémon",
+    "level" : 100,
+    "allianceId" : "500444077",
+    "allianceTag" : "SYN-",
+    "pointId" : 227029,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4851654010016500228",
+      "players" : [ ],
+      "num" : 4404,
+      "endTimeMilli" : 1790008513840
+    },
+    "cityRewardCreatedAt" : "2026-09-21T16:05:13.840Z",
+    "cityRewardSeenAt" : "2026-09-21T16:23:52.730Z",
+    "foundAt" : "2026-09-21T16:23:52.730Z"
   } ]
 }
