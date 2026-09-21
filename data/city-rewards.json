@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-21T08:07:20.852303400Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-21T08:09:52.434864800Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 2494,
+    "x" : 417,
+    "y" : 521,
+    "uid" : "8488660307518",
+    "username" : "BNI",
+    "level" : 100,
+    "allianceId" : "500176971",
+    "allianceTag" : "Njal",
+    "pointId" : 266961,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4851151165042424836",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1789978541944
+    },
+    "cityRewardCreatedAt" : "2026-09-21T07:45:41.944Z",
+    "cityRewardSeenAt" : "2026-09-21T08:07:51.259Z",
+    "foundAt" : "2026-09-21T08:07:51.259Z"
+  } ]
 }
