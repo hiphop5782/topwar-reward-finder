@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-21T13:16:13.625342100Z",
-  "count" : 4,
+  "updatedAt" : "2026-09-21T13:18:59.186004200Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 1816,
     "x" : 392,
@@ -94,5 +94,25 @@
     "cityRewardCreatedAt" : "2026-09-21T12:35:10.324Z",
     "cityRewardSeenAt" : "2026-09-21T13:00:45.255Z",
     "foundAt" : "2026-09-21T13:00:45.255Z"
+  }, {
+    "serverId" : 3396,
+    "x" : 396,
+    "y" : 536,
+    "uid" : "923397733036",
+    "username" : "Cion2",
+    "level" : 100,
+    "allianceId" : "500330742",
+    "allianceTag" : "96Y",
+    "pointId" : 274631,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4851483586149910533",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1789998355786
+    },
+    "cityRewardCreatedAt" : "2026-09-21T13:15:55.786Z",
+    "cityRewardSeenAt" : "2026-09-21T13:17:49.711Z",
+    "foundAt" : "2026-09-21T13:17:49.711Z"
   } ]
 }
