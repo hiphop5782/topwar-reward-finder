@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-23T11:30:25.921404700Z",
-  "count" : 2,
+  "updatedAt" : "2026-09-23T11:33:59.581810700Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 1816,
     "x" : 392,
@@ -54,5 +54,25 @@
     "cityRewardCreatedAt" : "2026-09-23T11:03:06.562Z",
     "cityRewardSeenAt" : "2026-09-23T11:24:31.497Z",
     "foundAt" : "2026-09-23T11:24:31.497Z"
+  }, {
+    "serverId" : 4199,
+    "x" : 551,
+    "y" : 475,
+    "uid" : "9216722473063",
+    "username" : "Monaster",
+    "level" : 100,
+    "allianceId" : "500416545",
+    "allianceTag" : "BSVG",
+    "pointId" : 243476,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4854256500100615682",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1790163634337
+    },
+    "cityRewardCreatedAt" : "2026-09-23T11:10:34.337Z",
+    "cityRewardSeenAt" : "2026-09-23T11:30:27.471Z",
+    "foundAt" : "2026-09-23T11:30:27.471Z"
   } ]
 }
