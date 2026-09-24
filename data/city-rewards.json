@@ -1,8 +1,28 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-24T16:33:14.852868400Z",
-  "count" : 43,
+  "updatedAt" : "2026-09-24T16:35:17.677880200Z",
+  "count" : 42,
   "locations" : [ {
+    "serverId" : 184,
+    "x" : 383,
+    "y" : 309,
+    "uid" : "499207807140",
+    "username" : "🍋桜れもん🍋",
+    "level" : 100,
+    "allianceId" : "144113",
+    "allianceTag" : "184S",
+    "pointId" : 158400,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4856031026100662277",
+      "players" : [ ],
+      "num" : 18,
+      "endTimeMilli" : 1790269404329
+    },
+    "cityRewardCreatedAt" : "2026-09-24T16:33:24.329Z",
+    "cityRewardSeenAt" : "2026-09-24T16:33:33.567Z",
+    "foundAt" : "2026-09-24T16:33:33.567Z"
+  }, {
     "serverId" : 184,
     "x" : 387,
     "y" : 321,
@@ -16,12 +36,12 @@
       "itemId" : 260617002,
       "instanceId" : "4856006846995066889",
       "players" : [ ],
-      "num" : 3936,
+      "num" : 4765,
       "endTimeMilli" : 1790267963142
     },
     "cityRewardCreatedAt" : "2026-09-24T16:09:23.142Z",
-    "cityRewardSeenAt" : "2026-09-24T16:28:48.577Z",
-    "foundAt" : "2026-09-24T16:28:48.577Z"
+    "cityRewardSeenAt" : "2026-09-24T16:33:44.721Z",
+    "foundAt" : "2026-09-24T16:33:44.721Z"
   }, {
     "serverId" : 184,
     "x" : 401,
@@ -36,12 +56,12 @@
       "itemId" : 260617003,
       "instanceId" : "4856020514302423047",
       "players" : [ ],
-      "num" : 3115,
+      "num" : 4654,
       "endTimeMilli" : 1790268777777
     },
     "cityRewardCreatedAt" : "2026-09-24T16:22:57.777Z",
-    "cityRewardSeenAt" : "2026-09-24T16:28:49.981Z",
-    "foundAt" : "2026-09-24T16:28:49.981Z"
+    "cityRewardSeenAt" : "2026-09-24T16:33:46.072Z",
+    "foundAt" : "2026-09-24T16:33:46.072Z"
   }, {
     "serverId" : 341,
     "x" : 396,
@@ -56,72 +76,32 @@
       "itemId" : 260617003,
       "instanceId" : "4856012620152613382",
       "players" : [ ],
-      "num" : 309,
+      "num" : 6076,
       "endTimeMilli" : 1790268307249
     },
     "cityRewardCreatedAt" : "2026-09-24T16:15:07.249Z",
-    "cityRewardSeenAt" : "2026-09-24T16:16:17.313Z",
-    "foundAt" : "2026-09-24T16:16:17.313Z"
-  }, {
-    "serverId" : 341,
-    "x" : 414,
-    "y" : 344,
-    "uid" : "821005895866",
-    "username" : "Anya🖤",
-    "level" : 100,
-    "allianceId" : "100010610",
-    "allianceTag" : "W341",
-    "pointId" : 176336,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4855998797001697797",
-      "players" : [ ],
-      "num" : 2492,
-      "endTimeMilli" : 1790267483325
-    },
-    "cityRewardCreatedAt" : "2026-09-24T16:01:23.325Z",
-    "cityRewardSeenAt" : "2026-09-24T16:16:17.313Z",
-    "foundAt" : "2026-09-24T16:16:17.313Z"
+    "cityRewardSeenAt" : "2026-09-24T16:33:24.863Z",
+    "foundAt" : "2026-09-24T16:33:24.863Z"
   }, {
     "serverId" : 619,
     "x" : 404,
-    "y" : 616,
-    "uid" : "180670894260",
-    "username" : "みんと",
+    "y" : 612,
+    "uid" : "217160163552",
+    "username" : "猫猫",
     "level" : 100,
     "allianceId" : "368552",
     "allianceTag" : "NBRK",
-    "pointId" : 315595,
+    "pointId" : 313547,
     "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4855999592896189954",
+      "itemId" : 260617003,
+      "instanceId" : "4856031330137593345",
       "players" : [ ],
-      "num" : 5537,
-      "endTimeMilli" : 1790267530764
+      "num" : 101,
+      "endTimeMilli" : 1790269422451
     },
-    "cityRewardCreatedAt" : "2026-09-24T16:02:10.764Z",
-    "cityRewardSeenAt" : "2026-09-24T16:29:37.419Z",
-    "foundAt" : "2026-09-24T16:29:37.419Z"
-  }, {
-    "serverId" : 619,
-    "x" : 406,
-    "y" : 622,
-    "uid" : "227334947053",
-    "username" : "Artemis",
-    "level" : 100,
-    "allianceId" : "368552",
-    "allianceTag" : "NBRK",
-    "pointId" : 318668,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4855998538599159303",
-      "players" : [ ],
-      "num" : 5308,
-      "endTimeMilli" : 1790267467923
-    },
-    "cityRewardCreatedAt" : "2026-09-24T16:01:07.923Z",
-    "cityRewardSeenAt" : "2026-09-24T16:29:37.419Z",
-    "foundAt" : "2026-09-24T16:29:37.419Z"
+    "cityRewardCreatedAt" : "2026-09-24T16:33:42.451Z",
+    "cityRewardSeenAt" : "2026-09-24T16:34:41.166Z",
+    "foundAt" : "2026-09-24T16:34:41.166Z"
   }, {
     "serverId" : 836,
     "x" : 402,
@@ -516,12 +496,12 @@
       "itemId" : 260617002,
       "instanceId" : "4856022486130087427",
       "players" : [ ],
-      "num" : 49,
+      "num" : 235,
       "endTimeMilli" : 1790268895307
     },
     "cityRewardCreatedAt" : "2026-09-24T16:24:55.307Z",
-    "cityRewardSeenAt" : "2026-09-24T16:25:49.751Z",
-    "foundAt" : "2026-09-24T16:25:49.751Z"
+    "cityRewardSeenAt" : "2026-09-24T16:33:38.424Z",
+    "foundAt" : "2026-09-24T16:33:38.424Z"
   }, {
     "serverId" : 3051,
     "x" : 410,
@@ -536,12 +516,12 @@
       "itemId" : 260617004,
       "instanceId" : "4856022543659161088",
       "players" : [ ],
-      "num" : 20,
+      "num" : 91,
       "endTimeMilli" : 1790268898736
     },
     "cityRewardCreatedAt" : "2026-09-24T16:24:58.736Z",
-    "cityRewardSeenAt" : "2026-09-24T16:26:20.125Z",
-    "foundAt" : "2026-09-24T16:26:20.125Z"
+    "cityRewardSeenAt" : "2026-09-24T16:34:15.572Z",
+    "foundAt" : "2026-09-24T16:34:15.572Z"
   }, {
     "serverId" : 3223,
     "x" : 402,
