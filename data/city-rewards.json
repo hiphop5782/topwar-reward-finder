@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-25T13:33:10.400229300Z",
-  "count" : 3,
+  "updatedAt" : "2026-09-25T13:35:45.188597100Z",
+  "count" : 1,
   "locations" : [ {
     "serverId" : 111,
     "x" : 511,
@@ -22,45 +22,5 @@
     "cityRewardCreatedAt" : "2026-09-25T12:48:14.352Z",
     "cityRewardSeenAt" : "2026-09-25T13:11:15.170Z",
     "foundAt" : "2026-09-25T13:11:15.170Z"
-  }, {
-    "serverId" : 200,
-    "x" : 243,
-    "y" : 631,
-    "uid" : "203139096781",
-    "username" : "☆あゆ☆",
-    "level" : 100,
-    "allianceId" : "129517",
-    "allianceTag" : "MaRo",
-    "pointId" : 323194,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4857243420994932742",
-      "players" : [ ],
-      "num" : 27,
-      "endTimeMilli" : 1790341668696
-    },
-    "cityRewardCreatedAt" : "2026-09-25T12:37:48.696Z",
-    "cityRewardSeenAt" : "2026-09-25T13:00:44.975Z",
-    "foundAt" : "2026-09-25T13:00:44.975Z"
-  }, {
-    "serverId" : 200,
-    "x" : 531,
-    "y" : 297,
-    "uid" : "236800037064",
-    "username" : "五つ星",
-    "level" : 100,
-    "allianceId" : "129870",
-    "allianceTag" : "Nak",
-    "pointId" : 152330,
-    "cityReward" : {
-      "itemId" : 260617003,
-      "instanceId" : "4857243911627837449",
-      "players" : [ ],
-      "num" : 22,
-      "endTimeMilli" : 1790341697940
-    },
-    "cityRewardCreatedAt" : "2026-09-25T12:38:17.940Z",
-    "cityRewardSeenAt" : "2026-09-25T13:00:23.439Z",
-    "foundAt" : "2026-09-25T13:00:23.439Z"
   } ]
 }
