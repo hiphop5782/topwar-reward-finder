@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-26T15:39:15.276825Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-26T15:40:46.715901800Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 341,
+    "x" : 543,
+    "y" : 485,
+    "uid" : "334866125634",
+    "username" : "StLTr",
+    "level" : 100,
+    "allianceId" : "100010641",
+    "allianceTag" : "V341",
+    "pointId" : 248592,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4858857476348619272",
+      "players" : [ ],
+      "num" : 23,
+      "endTimeMilli" : 1790437873892
+    },
+    "cityRewardCreatedAt" : "2026-09-26T15:21:13.892Z",
+    "cityRewardSeenAt" : "2026-09-26T15:39:44.546Z",
+    "foundAt" : "2026-09-26T15:39:44.546Z"
+  } ]
 }
