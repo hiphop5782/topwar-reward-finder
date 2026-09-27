@@ -1,8 +1,28 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-27T16:05:17.465736Z",
-  "count" : 4,
+  "updatedAt" : "2026-09-27T16:07:47.014918500Z",
+  "count" : 6,
   "locations" : [ {
+    "serverId" : 619,
+    "x" : 406,
+    "y" : 614,
+    "uid" : "298209489444",
+    "username" : "ヤン",
+    "level" : 100,
+    "allianceId" : "368552",
+    "allianceTag" : "NBRK",
+    "pointId" : 314572,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4860346537332758022",
+      "players" : [ ],
+      "num" : 1334,
+      "endTimeMilli" : 1790526628843
+    },
+    "cityRewardCreatedAt" : "2026-09-27T16:00:28.843Z",
+    "cityRewardSeenAt" : "2026-09-27T16:07:04.558Z",
+    "foundAt" : "2026-09-27T16:07:04.558Z"
+  }, {
     "serverId" : 836,
     "x" : 362,
     "y" : 408,
@@ -22,6 +42,26 @@
     "cityRewardCreatedAt" : "2026-09-27T15:58:14.464Z",
     "cityRewardSeenAt" : "2026-09-27T16:03:53.873Z",
     "foundAt" : "2026-09-27T16:03:53.873Z"
+  }, {
+    "serverId" : 864,
+    "x" : 387,
+    "y" : 433,
+    "uid" : "611453982001",
+    "username" : "niral",
+    "level" : 100,
+    "allianceId" : "478980",
+    "allianceTag" : "wHw2",
+    "pointId" : 221890,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4860351202455896065",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1790526906906
+    },
+    "cityRewardCreatedAt" : "2026-09-27T16:05:06.906Z",
+    "cityRewardSeenAt" : "2026-09-27T16:05:13.414Z",
+    "foundAt" : "2026-09-27T16:05:13.414Z"
   }, {
     "serverId" : 3453,
     "x" : 403,
@@ -76,11 +116,11 @@
       "itemId" : 260617004,
       "instanceId" : "4860336410120555014",
       "players" : [ ],
-      "num" : 9,
+      "num" : 424,
       "endTimeMilli" : 1790526025214
     },
     "cityRewardCreatedAt" : "2026-09-27T15:50:25.214Z",
-    "cityRewardSeenAt" : "2026-09-27T15:56:40.647Z",
-    "foundAt" : "2026-09-27T15:56:40.647Z"
+    "cityRewardSeenAt" : "2026-09-27T16:04:48.893Z",
+    "foundAt" : "2026-09-27T16:04:48.893Z"
   } ]
 }
