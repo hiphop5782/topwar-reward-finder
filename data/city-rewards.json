@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-27T15:16:45.625178900Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-27T15:20:31.171823200Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 4199,
+    "x" : 551,
+    "y" : 475,
+    "uid" : "9216722473063",
+    "username" : "Monaster",
+    "level" : 100,
+    "allianceId" : "500416545",
+    "allianceTag" : "BSVG",
+    "pointId" : 243476,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4860297311187684867",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1790523694736
+    },
+    "cityRewardCreatedAt" : "2026-09-27T15:11:34.736Z",
+    "cityRewardSeenAt" : "2026-09-27T15:18:08.843Z",
+    "foundAt" : "2026-09-27T15:18:08.843Z"
+  } ]
 }
