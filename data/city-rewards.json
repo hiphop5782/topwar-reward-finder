@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-27T15:34:59.866197700Z",
-  "count" : 1,
+  "updatedAt" : "2026-09-27T15:36:00.082190700Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 4199,
     "x" : 551,
@@ -22,5 +22,25 @@
     "cityRewardCreatedAt" : "2026-09-27T15:11:34.736Z",
     "cityRewardSeenAt" : "2026-09-27T15:18:08.843Z",
     "foundAt" : "2026-09-27T15:18:08.843Z"
+  }, {
+    "serverId" : 4349,
+    "x" : 343,
+    "y" : 475,
+    "uid" : "9442657997053",
+    "username" : "GOAWAY",
+    "level" : 100,
+    "allianceId" : "500442518",
+    "allianceTag" : "FoW-",
+    "pointId" : 243372,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4860312397713373703",
+      "players" : [ ],
+      "num" : 7,
+      "endTimeMilli" : 1790524593963
+    },
+    "cityRewardCreatedAt" : "2026-09-27T15:26:33.963Z",
+    "cityRewardSeenAt" : "2026-09-27T15:34:04.713Z",
+    "foundAt" : "2026-09-27T15:34:04.713Z"
   } ]
 }
