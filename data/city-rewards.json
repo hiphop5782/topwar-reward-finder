@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-27T16:37:40.680836600Z",
-  "count" : 42,
+  "updatedAt" : "2026-09-27T16:39:43.085988400Z",
+  "count" : 36,
   "locations" : [ {
     "serverId" : 184,
     "x" : 379,
@@ -516,12 +516,32 @@
       "itemId" : 260617002,
       "instanceId" : "4860355878032053763",
       "players" : [ ],
-      "num" : 2345,
+      "num" : 3543,
       "endTimeMilli" : 1790527185592
     },
     "cityRewardCreatedAt" : "2026-09-27T16:09:45.592Z",
-    "cityRewardSeenAt" : "2026-09-27T16:25:58.620Z",
-    "foundAt" : "2026-09-27T16:25:58.620Z"
+    "cityRewardSeenAt" : "2026-09-27T16:37:16.199Z",
+    "foundAt" : "2026-09-27T16:37:16.199Z"
+  }, {
+    "serverId" : 2699,
+    "x" : 413,
+    "y" : 375,
+    "uid" : "563459753845",
+    "username" : "🔍HIRO🔎",
+    "level" : 100,
+    "allianceId" : "500246448",
+    "allianceTag" : "AL.T",
+    "pointId" : 192207,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4860373320431113730",
+      "players" : [ ],
+      "num" : 879,
+      "endTimeMilli" : 1790528225240
+    },
+    "cityRewardCreatedAt" : "2026-09-27T16:27:05.240Z",
+    "cityRewardSeenAt" : "2026-09-27T16:37:16.199Z",
+    "foundAt" : "2026-09-27T16:37:16.199Z"
   }, {
     "serverId" : 3051,
     "x" : 394,
@@ -544,146 +564,6 @@
     "foundAt" : "2026-09-27T16:34:10.595Z"
   }, {
     "serverId" : 3223,
-    "x" : 404,
-    "y" : 384,
-    "uid" : "544251155411",
-    "username" : "서버수호대원7",
-    "level" : 100,
-    "allianceId" : "500315481",
-    "allianceTag" : "1%|",
-    "pointId" : 196811,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4860346749414878726",
-      "players" : [ ],
-      "num" : 7984,
-      "endTimeMilli" : 1790526641484
-    },
-    "cityRewardCreatedAt" : "2026-09-27T16:00:41.484Z",
-    "cityRewardSeenAt" : "2026-09-27T16:29:47.656Z",
-    "foundAt" : "2026-09-27T16:29:47.656Z"
-  }, {
-    "serverId" : 3223,
-    "x" : 406,
-    "y" : 382,
-    "uid" : "918762314370",
-    "username" : "서버수호대원3",
-    "level" : 100,
-    "allianceId" : "500315481",
-    "allianceTag" : "1%|",
-    "pointId" : 195788,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4860346749146443266",
-      "players" : [ ],
-      "num" : 7977,
-      "endTimeMilli" : 1790526641468
-    },
-    "cityRewardCreatedAt" : "2026-09-27T16:00:41.468Z",
-    "cityRewardSeenAt" : "2026-09-27T16:29:47.656Z",
-    "foundAt" : "2026-09-27T16:29:47.656Z"
-  }, {
-    "serverId" : 3223,
-    "x" : 406,
-    "y" : 386,
-    "uid" : "919274822274",
-    "username" : "서버수호대원4",
-    "level" : 100,
-    "allianceId" : "500315481",
-    "allianceTag" : "1%|",
-    "pointId" : 197836,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4860346749179997699",
-      "players" : [ ],
-      "num" : 8014,
-      "endTimeMilli" : 1790526641470
-    },
-    "cityRewardCreatedAt" : "2026-09-27T16:00:41.470Z",
-    "cityRewardSeenAt" : "2026-09-27T16:30:00.777Z",
-    "foundAt" : "2026-09-27T16:30:00.777Z"
-  }, {
-    "serverId" : 3223,
-    "x" : 408,
-    "y" : 384,
-    "uid" : "918751521410",
-    "username" : "서버수호대원5",
-    "level" : 100,
-    "allianceId" : "500315481",
-    "allianceTag" : "1%|",
-    "pointId" : 196813,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4860346748978671106",
-      "players" : [ ],
-      "num" : 8001,
-      "endTimeMilli" : 1790526641458
-    },
-    "cityRewardCreatedAt" : "2026-09-27T16:00:41.458Z",
-    "cityRewardSeenAt" : "2026-09-27T16:29:47.656Z",
-    "foundAt" : "2026-09-27T16:29:47.656Z"
-  }, {
-    "serverId" : 3223,
-    "x" : 408,
-    "y" : 388,
-    "uid" : "7640625384138",
-    "username" : "서버수호대원1",
-    "level" : 100,
-    "allianceId" : "500315481",
-    "allianceTag" : "1%|",
-    "pointId" : 198861,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4860346748978671105",
-      "players" : [ ],
-      "num" : 8078,
-      "endTimeMilli" : 1790526641458
-    },
-    "cityRewardCreatedAt" : "2026-09-27T16:00:41.458Z",
-    "cityRewardSeenAt" : "2026-09-27T16:30:00.777Z",
-    "foundAt" : "2026-09-27T16:30:00.777Z"
-  }, {
-    "serverId" : 3223,
-    "x" : 410,
-    "y" : 382,
-    "uid" : "569470674834",
-    "username" : "서버수호대원6",
-    "level" : 100,
-    "allianceId" : "500315481",
-    "allianceTag" : "1%|",
-    "pointId" : 195790,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4860346749398101505",
-      "players" : [ ],
-      "num" : 8072,
-      "endTimeMilli" : 1790526641483
-    },
-    "cityRewardCreatedAt" : "2026-09-27T16:00:41.483Z",
-    "cityRewardSeenAt" : "2026-09-27T16:29:47.656Z",
-    "foundAt" : "2026-09-27T16:29:47.656Z"
-  }, {
-    "serverId" : 3223,
-    "x" : 412,
-    "y" : 384,
-    "uid" : "918210370178",
-    "username" : "서버수호대원8",
-    "level" : 100,
-    "allianceId" : "500315481",
-    "allianceTag" : "1%|",
-    "pointId" : 196815,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4860346749230329347",
-      "players" : [ ],
-      "num" : 7977,
-      "endTimeMilli" : 1790526641473
-    },
-    "cityRewardCreatedAt" : "2026-09-27T16:00:41.473Z",
-    "cityRewardSeenAt" : "2026-09-27T16:29:47.656Z",
-    "foundAt" : "2026-09-27T16:29:47.656Z"
-  }, {
-    "serverId" : 3223,
     "x" : 412,
     "y" : 412,
     "uid" : "756561905580",
@@ -696,12 +576,12 @@
       "itemId" : 260617002,
       "instanceId" : "4860371082082332163",
       "players" : [ ],
-      "num" : 1314,
+      "num" : 2699,
       "endTimeMilli" : 1790528091824
     },
     "cityRewardCreatedAt" : "2026-09-27T16:24:51.824Z",
-    "cityRewardSeenAt" : "2026-09-27T16:30:00.777Z",
-    "foundAt" : "2026-09-27T16:30:00.777Z"
+    "cityRewardSeenAt" : "2026-09-27T16:35:29.254Z",
+    "foundAt" : "2026-09-27T16:35:29.254Z"
   }, {
     "serverId" : 3223,
     "x" : 414,
@@ -716,12 +596,12 @@
       "itemId" : 260617002,
       "instanceId" : "4860371081092476425",
       "players" : [ ],
-      "num" : 1329,
+      "num" : 2456,
       "endTimeMilli" : 1790528091765
     },
     "cityRewardCreatedAt" : "2026-09-27T16:24:51.765Z",
-    "cityRewardSeenAt" : "2026-09-27T16:30:00.777Z",
-    "foundAt" : "2026-09-27T16:30:00.777Z"
+    "cityRewardSeenAt" : "2026-09-27T16:35:29.254Z",
+    "foundAt" : "2026-09-27T16:35:29.254Z"
   }, {
     "serverId" : 3453,
     "x" : 395,
