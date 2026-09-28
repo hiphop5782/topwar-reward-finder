@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-28T16:15:51.303019700Z",
-  "count" : 11,
+  "updatedAt" : "2026-09-28T16:17:50.539361800Z",
+  "count" : 12,
   "locations" : [ {
     "serverId" : 341,
     "x" : 396,
@@ -42,6 +42,26 @@
     "cityRewardCreatedAt" : "2026-09-28T15:59:16.098Z",
     "cityRewardSeenAt" : "2026-09-28T16:07:40.928Z",
     "foundAt" : "2026-09-28T16:07:40.928Z"
+  }, {
+    "serverId" : 2698,
+    "x" : 430,
+    "y" : 328,
+    "uid" : "474686260778",
+    "username" : "Arwyn",
+    "level" : 100,
+    "allianceId" : "500245787",
+    "allianceTag" : "698N",
+    "pointId" : 168152,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4861795354340037639",
+      "players" : [ ],
+      "num" : 3864,
+      "endTimeMilli" : 1790612985066
+    },
+    "cityRewardCreatedAt" : "2026-09-28T15:59:45.066Z",
+    "cityRewardSeenAt" : "2026-09-28T16:14:53.574Z",
+    "foundAt" : "2026-09-28T16:14:53.574Z"
   }, {
     "serverId" : 3223,
     "x" : 404,
@@ -213,14 +233,14 @@
     "allianceTag" : "2BDE",
     "pointId" : 203982,
     "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4861777052747042816",
+      "itemId" : 260617004,
+      "instanceId" : "4861808719977123846",
       "players" : [ ],
-      "num" : 1476,
-      "endTimeMilli" : 1790611894206
+      "num" : 196,
+      "endTimeMilli" : 1790613781720
     },
-    "cityRewardCreatedAt" : "2026-09-28T15:41:34.206Z",
-    "cityRewardSeenAt" : "2026-09-28T16:07:02.824Z",
-    "foundAt" : "2026-09-28T16:07:02.824Z"
+    "cityRewardCreatedAt" : "2026-09-28T16:13:01.720Z",
+    "cityRewardSeenAt" : "2026-09-28T16:16:32.788Z",
+    "foundAt" : "2026-09-28T16:16:32.788Z"
   } ]
 }
