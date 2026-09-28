@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-28T22:36:57.411122700Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-28T22:37:59.173341500Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 3478,
+    "x" : 423,
+    "y" : 395,
+    "uid" : "547949422348",
+    "username" : "whiskey",
+    "level" : 100,
+    "allianceId" : "500342860",
+    "allianceTag" : "CBW*",
+    "pointId" : 202452,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4862183478237277189",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1790636119053
+    },
+    "cityRewardCreatedAt" : "2026-09-28T22:25:19.053Z",
+    "cityRewardSeenAt" : "2026-09-28T22:35:57.810Z",
+    "foundAt" : "2026-09-28T22:35:57.810Z"
+  } ]
 }
