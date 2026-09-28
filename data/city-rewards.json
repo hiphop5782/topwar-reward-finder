@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-28T20:01:32.225494500Z",
-  "count" : 1,
+  "updatedAt" : "2026-09-28T20:03:57.338117600Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 2610,
     "x" : 380,
@@ -22,5 +22,25 @@
     "cityRewardCreatedAt" : "2026-09-28T19:30:30.313Z",
     "cityRewardSeenAt" : "2026-09-28T19:53:22.967Z",
     "foundAt" : "2026-09-28T19:53:22.967Z"
+  }, {
+    "serverId" : 4124,
+    "x" : 370,
+    "y" : 582,
+    "uid" : "9098312650780",
+    "username" : "Roz79",
+    "level" : 79,
+    "allianceId" : "500402706",
+    "allianceTag" : "s24*",
+    "pointId" : 298170,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4862023659786614791",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1790626593131
+    },
+    "cityRewardCreatedAt" : "2026-09-28T19:46:33.131Z",
+    "cityRewardSeenAt" : "2026-09-28T20:02:24.268Z",
+    "foundAt" : "2026-09-28T20:02:24.268Z"
   } ]
 }
