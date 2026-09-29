@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-29T15:59:57.860280600Z",
-  "count" : 9,
+  "updatedAt" : "2026-09-29T16:01:59.603690800Z",
+  "count" : 12,
   "locations" : [ {
     "serverId" : 619,
     "x" : 447,
@@ -182,5 +182,65 @@
     "cityRewardCreatedAt" : "2026-09-29T15:50:41.105Z",
     "cityRewardSeenAt" : "2026-09-29T15:58:23.672Z",
     "foundAt" : "2026-09-29T15:58:23.672Z"
+  }, {
+    "serverId" : 4357,
+    "x" : 431,
+    "y" : 437,
+    "uid" : "9463273820422",
+    "username" : "AG",
+    "level" : 100,
+    "allianceId" : "500444077",
+    "allianceTag" : "SYN-",
+    "pointId" : 223960,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4863242635829185029",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1790699249765
+    },
+    "cityRewardCreatedAt" : "2026-09-29T15:57:29.765Z",
+    "cityRewardSeenAt" : "2026-09-29T16:00:05.766Z",
+    "foundAt" : "2026-09-29T16:00:05.766Z"
+  }, {
+    "serverId" : 4357,
+    "x" : 439,
+    "y" : 457,
+    "uid" : "9419537846520",
+    "username" : "Foxtrot",
+    "level" : 100,
+    "allianceId" : "500444077",
+    "allianceTag" : "SYN-",
+    "pointId" : 234204,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4863237189273782788",
+      "players" : [ ],
+      "num" : 20,
+      "endTimeMilli" : 1790698925125
+    },
+    "cityRewardCreatedAt" : "2026-09-29T15:52:05.125Z",
+    "cityRewardSeenAt" : "2026-09-29T16:00:05.766Z",
+    "foundAt" : "2026-09-29T16:00:05.766Z"
+  }, {
+    "serverId" : 4357,
+    "x" : 445,
+    "y" : 447,
+    "uid" : "9435083084027",
+    "username" : "クライフ🦅",
+    "level" : 100,
+    "allianceId" : "500444077",
+    "allianceTag" : "SYN-",
+    "pointId" : 229087,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4863236910520338946",
+      "players" : [ ],
+      "num" : 21,
+      "endTimeMilli" : 1790698908510
+    },
+    "cityRewardCreatedAt" : "2026-09-29T15:51:48.510Z",
+    "cityRewardSeenAt" : "2026-09-29T16:00:05.766Z",
+    "foundAt" : "2026-09-29T16:00:05.766Z"
   } ]
 }
