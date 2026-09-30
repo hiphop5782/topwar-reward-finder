@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-30T16:21:40.231416Z",
-  "count" : 34,
+  "updatedAt" : "2026-09-30T16:23:47.153824800Z",
+  "count" : 35,
   "locations" : [ {
     "serverId" : 82,
     "x" : 487,
@@ -283,6 +283,26 @@
     "cityRewardSeenAt" : "2026-09-30T16:19:59.925Z",
     "foundAt" : "2026-09-30T16:19:59.925Z"
   }, {
+    "serverId" : 2147,
+    "x" : 439,
+    "y" : 711,
+    "uid" : "555313693713",
+    "username" : "mimi密蜜🧸",
+    "level" : 100,
+    "allianceId" : "400257393",
+    "allianceTag" : "SGSG",
+    "pointId" : 364252,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4864707813069342213",
+      "players" : [ ],
+      "num" : 3388,
+      "endTimeMilli" : 1790786581134
+    },
+    "cityRewardCreatedAt" : "2026-09-30T16:13:01.134Z",
+    "cityRewardSeenAt" : "2026-09-30T16:23:15.681Z",
+    "foundAt" : "2026-09-30T16:23:15.681Z"
+  }, {
     "serverId" : 2442,
     "x" : 489,
     "y" : 465,
@@ -384,26 +404,6 @@
     "foundAt" : "2026-09-30T16:17:03.469Z"
   }, {
     "serverId" : 2952,
-    "x" : 417,
-    "y" : 563,
-    "uid" : "8341007207371",
-    "username" : "まるこ",
-    "level" : 100,
-    "allianceId" : "500287174",
-    "allianceTag" : "AXBX",
-    "pointId" : 288465,
-    "cityReward" : {
-      "itemId" : 260617002,
-      "instanceId" : "4864711505684664325",
-      "players" : [ ],
-      "num" : 1933,
-      "endTimeMilli" : 1790786801231
-    },
-    "cityRewardCreatedAt" : "2026-09-30T16:16:41.231Z",
-    "cityRewardSeenAt" : "2026-09-30T16:20:45.363Z",
-    "foundAt" : "2026-09-30T16:20:45.363Z"
-  }, {
-    "serverId" : 2952,
     "x" : 424,
     "y" : 546,
     "uid" : "7660572248970",
@@ -416,12 +416,32 @@
       "itemId" : 260617002,
       "instanceId" : "4864710416407138308",
       "players" : [ ],
-      "num" : 1602,
+      "num" : 3230,
       "endTimeMilli" : 1790786736305
     },
     "cityRewardCreatedAt" : "2026-09-30T16:15:36.305Z",
-    "cityRewardSeenAt" : "2026-09-30T16:20:45.363Z",
-    "foundAt" : "2026-09-30T16:20:45.363Z"
+    "cityRewardSeenAt" : "2026-09-30T16:22:55.181Z",
+    "foundAt" : "2026-09-30T16:22:55.181Z"
+  }, {
+    "serverId" : 2952,
+    "x" : 417,
+    "y" : 563,
+    "uid" : "8341007207371",
+    "username" : "まるこ",
+    "level" : 100,
+    "allianceId" : "500287174",
+    "allianceTag" : "AXBX",
+    "pointId" : 288465,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4864711505684664325",
+      "players" : [ ],
+      "num" : 3410,
+      "endTimeMilli" : 1790786801231
+    },
+    "cityRewardCreatedAt" : "2026-09-30T16:16:41.231Z",
+    "cityRewardSeenAt" : "2026-09-30T16:22:55.181Z",
+    "foundAt" : "2026-09-30T16:22:55.181Z"
   }, {
     "serverId" : 3223,
     "x" : 392,
