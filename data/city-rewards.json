@@ -1,6 +1,66 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-30T12:03:44.398429100Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-30T12:06:36.639798600Z",
+  "count" : 3,
+  "locations" : [ {
+    "serverId" : 680,
+    "x" : 368,
+    "y" : 320,
+    "uid" : "494811108052",
+    "username" : "くまで",
+    "level" : 100,
+    "allianceId" : "407983",
+    "allianceTag" : "POK!",
+    "pointId" : 164025,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4864454560774967299",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1790771486121
+    },
+    "cityRewardCreatedAt" : "2026-09-30T12:01:26.121Z",
+    "cityRewardSeenAt" : "2026-09-30T12:03:36.650Z",
+    "foundAt" : "2026-09-30T12:03:36.650Z"
+  }, {
+    "serverId" : 680,
+    "x" : 368,
+    "y" : 324,
+    "uid" : "493048578772",
+    "username" : "仙台",
+    "level" : 100,
+    "allianceId" : "407983",
+    "allianceTag" : "POK!",
+    "pointId" : 166073,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4864454586125340680",
+      "players" : [ ],
+      "num" : 15,
+      "endTimeMilli" : 1790771487632
+    },
+    "cityRewardCreatedAt" : "2026-09-30T12:01:27.632Z",
+    "cityRewardSeenAt" : "2026-09-30T12:03:36.650Z",
+    "foundAt" : "2026-09-30T12:03:36.650Z"
+  }, {
+    "serverId" : 680,
+    "x" : 556,
+    "y" : 302,
+    "uid" : "432867504738",
+    "username" : "トコトコ",
+    "level" : 100,
+    "allianceId" : "401583",
+    "allianceTag" : "Kafu",
+    "pointId" : 154903,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4864453863597756422",
+      "players" : [ ],
+      "num" : 8,
+      "endTimeMilli" : 1790771444566
+    },
+    "cityRewardCreatedAt" : "2026-09-30T12:00:44.566Z",
+    "cityRewardSeenAt" : "2026-09-30T12:02:19.953Z",
+    "foundAt" : "2026-09-30T12:02:19.953Z"
+  } ]
 }
