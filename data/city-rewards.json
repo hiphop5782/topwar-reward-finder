@@ -1,6 +1,26 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-30T03:41:05.011504500Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-30T03:42:35.887499600Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 184,
+    "x" : 389,
+    "y" : 315,
+    "uid" : "184926437560",
+    "username" : "ヒメマス",
+    "level" : 100,
+    "allianceId" : "144113",
+    "allianceTag" : "184S",
+    "pointId" : 161475,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4863943126202544131",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1790741002245
+    },
+    "cityRewardCreatedAt" : "2026-09-30T03:33:22.245Z",
+    "cityRewardSeenAt" : "2026-09-30T03:40:48.826Z",
+    "foundAt" : "2026-09-30T03:40:48.826Z"
+  } ]
 }
