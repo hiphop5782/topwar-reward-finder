@@ -1,6 +1,66 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-09-30T23:47:54.412215800Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-09-30T23:49:15.155774400Z",
+  "count" : 3,
+  "locations" : [ {
+    "serverId" : 616,
+    "x" : 450,
+    "y" : 464,
+    "uid" : "487908311656",
+    "username" : "ぴろ騎士",
+    "level" : 100,
+    "allianceId" : "368103",
+    "allianceTag" : "616s",
+    "pointId" : 237794,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4865145234868457477",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1790812653505
+    },
+    "cityRewardCreatedAt" : "2026-09-30T23:27:33.505Z",
+    "cityRewardSeenAt" : "2026-09-30T23:47:22.586Z",
+    "foundAt" : "2026-09-30T23:47:22.586Z"
+  }, {
+    "serverId" : 940,
+    "x" : 318,
+    "y" : 522,
+    "uid" : "586275804117",
+    "username" : "Maetel",
+    "level" : 100,
+    "allianceId" : "514272",
+    "allianceTag" : "`?sa",
+    "pointId" : 267424,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4865140576439719943",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1790812375841
+    },
+    "cityRewardCreatedAt" : "2026-09-30T23:22:55.841Z",
+    "cityRewardSeenAt" : "2026-09-30T23:47:38.370Z",
+    "foundAt" : "2026-09-30T23:47:38.370Z"
+  }, {
+    "serverId" : 940,
+    "x" : 318,
+    "y" : 526,
+    "uid" : "544409207765",
+    "username" : "am͜a͉zon",
+    "level" : 100,
+    "allianceId" : "514272",
+    "allianceTag" : "`?sa",
+    "pointId" : 269472,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4865140378955110405",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1790812364070
+    },
+    "cityRewardCreatedAt" : "2026-09-30T23:22:44.070Z",
+    "cityRewardSeenAt" : "2026-09-30T23:47:38.370Z",
+    "foundAt" : "2026-09-30T23:47:38.370Z"
+  } ]
 }
