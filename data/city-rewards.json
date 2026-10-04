@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-04T16:09:38.813904200Z",
-  "count" : 24,
+  "updatedAt" : "2026-10-04T16:11:55.882308200Z",
+  "count" : 26,
   "locations" : [ {
     "serverId" : 619,
     "x" : 398,
@@ -482,5 +482,45 @@
     "cityRewardCreatedAt" : "2026-10-04T16:05:50.339Z",
     "cityRewardSeenAt" : "2026-10-04T16:08:36.465Z",
     "foundAt" : "2026-10-04T16:08:36.465Z"
+  }, {
+    "serverId" : 4359,
+    "x" : 422,
+    "y" : 600,
+    "uid" : "9472796954887",
+    "username" : "Afuroman",
+    "level" : 100,
+    "allianceId" : "500445157",
+    "allianceTag" : "7DS^",
+    "pointId" : 307412,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4870503808203099648",
+      "players" : [ ],
+      "num" : 262,
+      "endTimeMilli" : 1791132049365
+    },
+    "cityRewardCreatedAt" : "2026-10-04T16:10:49.365Z",
+    "cityRewardSeenAt" : "2026-10-04T16:11:51.658Z",
+    "foundAt" : "2026-10-04T16:11:51.658Z"
+  }, {
+    "serverId" : 4360,
+    "x" : 418,
+    "y" : 390,
+    "uid" : "9221852827758",
+    "username" : "lolazote",
+    "level" : 100,
+    "allianceId" : "500446117",
+    "allianceTag" : "2BDE",
+    "pointId" : 199890,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4870502882973192194",
+      "players" : [ ],
+      "num" : 37,
+      "endTimeMilli" : 1791131994217
+    },
+    "cityRewardCreatedAt" : "2026-10-04T16:09:54.217Z",
+    "cityRewardSeenAt" : "2026-10-04T16:10:40.927Z",
+    "foundAt" : "2026-10-04T16:10:40.927Z"
   } ]
 }
