@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-04T16:27:52.475556800Z",
-  "count" : 52,
+  "updatedAt" : "2026-10-04T16:29:40.994640700Z",
+  "count" : 51,
   "locations" : [ {
     "serverId" : 341,
     "x" : 396,
@@ -703,6 +703,26 @@
     "cityRewardSeenAt" : "2026-10-04T16:26:45.841Z",
     "foundAt" : "2026-10-04T16:26:45.841Z"
   }, {
+    "serverId" : 3436,
+    "x" : 361,
+    "y" : 449,
+    "uid" : "940870314780",
+    "username" : "옥이❄️",
+    "level" : 100,
+    "allianceId" : "500336408",
+    "allianceTag" : "SVal",
+    "pointId" : 230069,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4870521289004734467",
+      "players" : [ ],
+      "num" : 401,
+      "endTimeMilli" : 1791133091302
+    },
+    "cityRewardCreatedAt" : "2026-10-04T16:28:11.302Z",
+    "cityRewardSeenAt" : "2026-10-04T16:29:36.067Z",
+    "foundAt" : "2026-10-04T16:29:36.067Z"
+  }, {
     "serverId" : 3453,
     "x" : 403,
     "y" : 617,
@@ -842,46 +862,6 @@
     "cityRewardCreatedAt" : "2026-10-04T16:01:45.863Z",
     "cityRewardSeenAt" : "2026-10-04T16:16:25.869Z",
     "foundAt" : "2026-10-04T16:16:25.869Z"
-  }, {
-    "serverId" : 4267,
-    "x" : 388,
-    "y" : 318,
-    "uid" : "9297395290283",
-    "username" : "Actant",
-    "level" : 100,
-    "allianceId" : "500426287",
-    "allianceTag" : "K0Cs",
-    "pointId" : 163011,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4870490962392077831",
-      "players" : [ ],
-      "num" : 2357,
-      "endTimeMilli" : 1791131283695
-    },
-    "cityRewardCreatedAt" : "2026-10-04T15:58:03.695Z",
-    "cityRewardSeenAt" : "2026-10-04T16:07:23.392Z",
-    "foundAt" : "2026-10-04T16:07:23.392Z"
-  }, {
-    "serverId" : 4267,
-    "x" : 383,
-    "y" : 331,
-    "uid" : "9309911388345",
-    "username" : "Vandelay",
-    "level" : 100,
-    "allianceId" : "500426287",
-    "allianceTag" : "K0Cs",
-    "pointId" : 169664,
-    "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4870491262888793602",
-      "players" : [ ],
-      "num" : 1707,
-      "endTimeMilli" : 1791131301606
-    },
-    "cityRewardCreatedAt" : "2026-10-04T15:58:21.606Z",
-    "cityRewardSeenAt" : "2026-10-04T16:07:23.392Z",
-    "foundAt" : "2026-10-04T16:07:23.392Z"
   }, {
     "serverId" : 4327,
     "x" : 442,
