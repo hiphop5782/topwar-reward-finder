@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-05T17:04:52.009205200Z",
-  "count" : 1,
+  "updatedAt" : "2026-10-05T17:06:25.698940200Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 864,
     "x" : 405,
@@ -23,5 +23,38 @@
     "cityRewardSeenAt" : "2026-10-05T16:38:35.788Z",
     "foundAt" : "2026-10-05T16:38:35.788Z",
     "lastSeenAt" : "2026-10-05T16:38:39.680413200Z"
+  }, {
+    "serverId" : 4298,
+    "x" : 451,
+    "y" : 643,
+    "uid" : "9328981250250",
+    "username" : "Leo",
+    "level" : 100,
+    "allianceId" : "500431462",
+    "allianceTag" : "R.w!",
+    "pointId" : 329442,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4872004968562922498",
+      "players" : [ {
+        "frameId" : 154,
+        "playerInfo" : "{\"nationalflag\":38,\"gender\":0,\"avatarurl\":\"hero_icon170_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"leomessi\"}"
+      }, {
+        "frameId" : 20,
+        "playerInfo" : "{\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"hero_icon019_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Jazzy\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/a356fa606d8989a3a1206d2581fb70e2_1770189802.png?v=1770189803228\"],\"nationalflag\":228,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/a356fa606d8989a3a1206d2581fb70e2_1770189802.png?v=1770189803228\",\"username\":\"Leo\"}"
+      }, {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/89f5906618022d2a0b2f4d1bea6d9c76_1779013576.png?v=1779013578227\",\"https://knight-cdn.akamaized.net/headimg/89f5906618022d2a0b2f4d1bea6d9c76_1775559041.png?v=1775559043111\"],\"nationalflag\":198,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/89f5906618022d2a0b2f4d1bea6d9c76_1779013576.png?v=1779013578227\",\"username\":\"▪️𝓜𝓩▪️\"}"
+      } ],
+      "num" : 5,
+      "endTimeMilli" : 1791221525495
+    },
+    "cityRewardCreatedAt" : "2026-10-05T17:02:05.495Z",
+    "cityRewardSeenAt" : "2026-10-05T17:03:56.552Z",
+    "foundAt" : "2026-10-05T17:03:56.552Z",
+    "lastSeenAt" : "2026-10-05T17:05:44.956506200Z"
   } ]
 }
