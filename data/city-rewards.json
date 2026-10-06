@@ -1,6 +1,48 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-06T15:46:59.565322400Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-10-06T15:48:59.983984500Z",
+  "count" : 2,
+  "locations" : [ {
+    "serverId" : 4360,
+    "x" : 407,
+    "y" : 591,
+    "uid" : "9224689029231",
+    "username" : "Mr0",
+    "level" : 100,
+    "allianceId" : "500445760",
+    "allianceTag" : "1BDE",
+    "pointId" : 302796,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4873377463429894153",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1791303332564
+    },
+    "cityRewardCreatedAt" : "2026-10-06T15:45:32.564Z",
+    "cityRewardSeenAt" : "2026-10-06T15:47:18.583Z",
+    "foundAt" : "2026-10-06T15:47:18.583Z",
+    "lastSeenAt" : "2026-10-06T15:47:23.732784500Z"
+  }, {
+    "serverId" : 4360,
+    "x" : 410,
+    "y" : 398,
+    "uid" : "9233332539505",
+    "username" : "YukeFeld",
+    "level" : 100,
+    "allianceId" : "500446117",
+    "allianceTag" : "2BDE",
+    "pointId" : 203982,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4873375936518688771",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1791303241553
+    },
+    "cityRewardCreatedAt" : "2026-10-06T15:44:01.553Z",
+    "cityRewardSeenAt" : "2026-10-06T15:47:17.379Z",
+    "foundAt" : "2026-10-06T15:47:17.379Z",
+    "lastSeenAt" : "2026-10-06T15:47:23.732784500Z"
+  } ]
 }
