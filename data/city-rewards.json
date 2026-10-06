@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-06T11:43:20.972286900Z",
-  "count" : 1,
+  "updatedAt" : "2026-10-06T11:45:31.980399300Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 1812,
     "x" : 407,
@@ -23,5 +23,47 @@
     "cityRewardSeenAt" : "2026-10-06T11:24:59.312Z",
     "foundAt" : "2026-10-06T11:24:59.312Z",
     "lastSeenAt" : "2026-10-06T11:26:49.344121Z"
+  }, {
+    "serverId" : 2988,
+    "x" : 402,
+    "y" : 542,
+    "uid" : "570524891026",
+    "username" : "choki",
+    "level" : 100,
+    "allianceId" : "500292665",
+    "allianceTag" : ".GFC",
+    "pointId" : 277706,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4873130756632172547",
+      "players" : [ ],
+      "num" : 9,
+      "endTimeMilli" : 1791288627693
+    },
+    "cityRewardCreatedAt" : "2026-10-06T11:40:27.693Z",
+    "cityRewardSeenAt" : "2026-10-06T11:42:48.436Z",
+    "foundAt" : "2026-10-06T11:42:48.436Z",
+    "lastSeenAt" : "2026-10-06T11:44:39.513508800Z"
+  }, {
+    "serverId" : 2988,
+    "x" : 408,
+    "y" : 530,
+    "uid" : "797153499241",
+    "username" : "Ryuᒼᑋªⁿ☆",
+    "level" : 100,
+    "allianceId" : "500292665",
+    "allianceTag" : ".GFC",
+    "pointId" : 271565,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4873123338653227015",
+      "players" : [ ],
+      "num" : 19,
+      "endTimeMilli" : 1791288185547
+    },
+    "cityRewardCreatedAt" : "2026-10-06T11:33:05.547Z",
+    "cityRewardSeenAt" : "2026-10-06T11:42:48.436Z",
+    "foundAt" : "2026-10-06T11:42:48.436Z",
+    "lastSeenAt" : "2026-10-06T11:44:39.513508800Z"
   } ]
 }
