@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-08T15:17:59.357088800Z",
-  "count" : 5,
+  "updatedAt" : "2026-10-08T15:19:59.361208600Z",
+  "count" : 6,
   "locations" : [ {
     "serverId" : 341,
     "x" : 425,
@@ -131,5 +131,26 @@
     "cityRewardSeenAt" : "2026-10-08T15:01:49.525Z",
     "foundAt" : "2026-10-08T15:01:49.525Z",
     "lastSeenAt" : "2026-10-08T15:01:51.714932200Z"
+  }, {
+    "serverId" : 4486,
+    "x" : 450,
+    "y" : 334,
+    "uid" : "9737345732998",
+    "username" : "IronDawg",
+    "level" : 75,
+    "allianceId" : "500480748",
+    "allianceTag" : "BERQ",
+    "pointId" : 171234,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4876236133532634119",
+      "players" : [ ],
+      "num" : 12,
+      "endTimeMilli" : 1791473722580
+    },
+    "cityRewardCreatedAt" : "2026-10-08T15:05:22.580Z",
+    "cityRewardSeenAt" : "2026-10-08T15:19:40.274Z",
+    "foundAt" : "2026-10-08T15:19:40.274Z",
+    "lastSeenAt" : "2026-10-08T15:19:42.082017100Z"
   } ]
 }
