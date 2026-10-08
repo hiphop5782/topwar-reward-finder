@@ -1,6 +1,90 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-08T15:56:59.873614Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-10-08T15:58:59.637850200Z",
+  "count" : 4,
+  "locations" : [ {
+    "serverId" : 341,
+    "x" : 255,
+    "y" : 211,
+    "uid" : "420740395599",
+    "username" : "tonriki",
+    "level" : 100,
+    "allianceId" : "100010872",
+    "allianceTag" : "Y341",
+    "pointId" : 108160,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4876284551015606784",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1791476608487
+    },
+    "cityRewardCreatedAt" : "2026-10-08T15:53:28.487Z",
+    "cityRewardSeenAt" : "2026-10-08T15:57:21.099Z",
+    "foundAt" : "2026-10-08T15:57:21.099Z",
+    "lastSeenAt" : "2026-10-08T15:57:27.483517400Z"
+  }, {
+    "serverId" : 341,
+    "x" : 279,
+    "y" : 209,
+    "uid" : "190100066471",
+    "username" : "怪盗猫の手",
+    "level" : 100,
+    "allianceId" : "100010872",
+    "allianceTag" : "Y341",
+    "pointId" : 107148,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4876288330167396865",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1791476833742
+    },
+    "cityRewardCreatedAt" : "2026-10-08T15:57:13.742Z",
+    "cityRewardSeenAt" : "2026-10-08T15:57:21.099Z",
+    "foundAt" : "2026-10-08T15:57:21.099Z",
+    "lastSeenAt" : "2026-10-08T15:57:27.483517400Z"
+  }, {
+    "serverId" : 4267,
+    "x" : 388,
+    "y" : 318,
+    "uid" : "9297395290283",
+    "username" : "Actant",
+    "level" : 100,
+    "allianceId" : "500426287",
+    "allianceTag" : "K0Cs",
+    "pointId" : 163011,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4876287230188017157",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1791476768178
+    },
+    "cityRewardCreatedAt" : "2026-10-08T15:56:08.178Z",
+    "cityRewardSeenAt" : "2026-10-08T15:57:52.063Z",
+    "foundAt" : "2026-10-08T15:57:52.063Z",
+    "lastSeenAt" : "2026-10-08T15:57:55.961479800Z"
+  }, {
+    "serverId" : 4267,
+    "x" : 388,
+    "y" : 322,
+    "uid" : "9309420884153",
+    "username" : "Cami",
+    "level" : 100,
+    "allianceId" : "500426287",
+    "allianceTag" : "K0Cs",
+    "pointId" : 165059,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4876286546399024642",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1791476727421
+    },
+    "cityRewardCreatedAt" : "2026-10-08T15:55:27.421Z",
+    "cityRewardSeenAt" : "2026-10-08T15:57:52.063Z",
+    "foundAt" : "2026-10-08T15:57:52.063Z",
+    "lastSeenAt" : "2026-10-08T15:57:55.961479800Z"
+  } ]
 }
