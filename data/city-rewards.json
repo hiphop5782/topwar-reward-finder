@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-09T23:32:59.345972700Z",
+  "updatedAt" : "2026-10-09T23:34:59.501341500Z",
   "count" : 1,
   "locations" : [ {
     "serverId" : 2698,
@@ -16,6 +16,9 @@
       "itemId" : 260617001,
       "instanceId" : "4878188648498271234",
       "players" : [ {
+        "frameId" : 140,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/352343491501.jpg?v=1680030711807\",\"https://knight-cdn.akamaized.net/headimg/8db4d92b8f6b2a09d0cffd2e930954e7_1746169001.jpg?v=1746169004194\",\"https://knight-cdn.akamaized.net/headimg/8db4d92b8f6b2a09d0cffd2e930954e7_1764713255.png?v=1764713257365\",\"https://knight-cdn.akamaized.net/headimg/8db4d92b8f6b2a09d0cffd2e930954e7_1791552593.png?v=1791552595671\"],\"nationalflag\":77,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/8db4d92b8f6b2a09d0cffd2e930954e7_1791552593.png?v=1791552595671\",\"username\":\"Myth\"}"
+      }, {
         "frameId" : 0,
         "playerInfo" : "{\"nationalflag\":101,\"gender\":0,\"avatarurl\":\"hero_icon119_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"Jojo99\"}"
       }, {
@@ -24,16 +27,13 @@
       }, {
         "frameId" : 4,
         "playerInfo" : "{\"nationalflag\":189,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/388236113073.jpg?v=1625692980171\",\"username\":\"MNG\"}"
-      }, {
-        "frameId" : 0,
-        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/b4b690ec6a0ceca4448893e313ca42cb_1787853487.png?v=1787853490262\",\"https://knight-cdn.akamaized.net/headimg/b4b690ec6a0ceca4448893e313ca42cb_1744245505.jpg?v=1744245507029\",\"https://knight-cdn.akamaized.net/headimg/b4b690ec6a0ceca4448893e313ca42cb_1748319312.jpg?v=1748319313647\",\"https://knight-cdn.akamaized.net/headimg/b4b690ec6a0ceca4448893e313ca42cb_1763336182.png?v=1763336183694\"],\"nationalflag\":233,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/b4b690ec6a0ceca4448893e313ca42cb_1787853487.png?v=1787853490262\",\"username\":\"JoKeen\"}"
       } ],
-      "num" : 7,
+      "num" : 8,
       "endTimeMilli" : 1791590101541
     },
     "cityRewardCreatedAt" : "2026-10-09T23:25:01.541Z",
     "cityRewardSeenAt" : "2026-10-09T23:31:59.462Z",
     "foundAt" : "2026-10-09T23:31:59.462Z",
-    "lastSeenAt" : "2026-10-09T23:32:29.530652100Z"
+    "lastSeenAt" : "2026-10-09T23:33:11.656708100Z"
   } ]
 }
