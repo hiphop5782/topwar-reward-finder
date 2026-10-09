@@ -1,6 +1,69 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-09T15:57:59.594474700Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-10-09T15:59:59.559832800Z",
+  "count" : 3,
+  "locations" : [ {
+    "serverId" : 2826,
+    "x" : 361,
+    "y" : 503,
+    "uid" : "9297418621099",
+    "username" : "すえぞう",
+    "level" : 100,
+    "allianceId" : "500267270",
+    "allianceTag" : "z826",
+    "pointId" : 257717,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4877737839503479815",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1791563231231
+    },
+    "cityRewardCreatedAt" : "2026-10-09T15:57:11.231Z",
+    "cityRewardSeenAt" : "2026-10-09T15:58:02.756Z",
+    "foundAt" : "2026-10-09T15:58:02.756Z",
+    "lastSeenAt" : "2026-10-09T15:58:04.591373900Z"
+  }, {
+    "serverId" : 4267,
+    "x" : 383,
+    "y" : 331,
+    "uid" : "9309911388345",
+    "username" : "Vandelay",
+    "level" : 100,
+    "allianceId" : "500426287",
+    "allianceTag" : "K0Cs",
+    "pointId" : 169664,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4877737736307561984",
+      "players" : [ ],
+      "num" : 11,
+      "endTimeMilli" : 1791563225080
+    },
+    "cityRewardCreatedAt" : "2026-10-09T15:57:05.080Z",
+    "cityRewardSeenAt" : "2026-10-09T15:58:21.698Z",
+    "foundAt" : "2026-10-09T15:58:21.698Z",
+    "lastSeenAt" : "2026-10-09T15:58:25.604059400Z"
+  }, {
+    "serverId" : 4267,
+    "x" : 388,
+    "y" : 322,
+    "uid" : "9309420884153",
+    "username" : "Cami",
+    "level" : 100,
+    "allianceId" : "500426287",
+    "allianceTag" : "K0Cs",
+    "pointId" : 165059,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4877737380680914435",
+      "players" : [ ],
+      "num" : 10,
+      "endTimeMilli" : 1791563203883
+    },
+    "cityRewardCreatedAt" : "2026-10-09T15:56:43.883Z",
+    "cityRewardSeenAt" : "2026-10-09T15:58:21.698Z",
+    "foundAt" : "2026-10-09T15:58:21.698Z",
+    "lastSeenAt" : "2026-10-09T15:58:25.604059400Z"
+  } ]
 }
