@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-10T15:58:57.976623Z",
-  "count" : 1,
+  "updatedAt" : "2026-10-10T16:00:59.985577800Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 2147,
     "x" : 433,
@@ -23,5 +23,47 @@
     "cityRewardSeenAt" : "2026-10-10T15:57:04.517Z",
     "foundAt" : "2026-10-10T15:57:04.517Z",
     "lastSeenAt" : "2026-10-10T15:57:06.370814200Z"
+  }, {
+    "serverId" : 4267,
+    "x" : 388,
+    "y" : 322,
+    "uid" : "9309420884153",
+    "username" : "Cami",
+    "level" : 100,
+    "allianceId" : "500426287",
+    "allianceTag" : "K0Cs",
+    "pointId" : 165059,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4879189566484993539",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1791649760902
+    },
+    "cityRewardCreatedAt" : "2026-10-10T15:59:20.902Z",
+    "cityRewardSeenAt" : "2026-10-10T16:00:39.386Z",
+    "foundAt" : "2026-10-10T16:00:39.386Z",
+    "lastSeenAt" : "2026-10-10T16:00:43.407768Z"
+  }, {
+    "serverId" : 4347,
+    "x" : 457,
+    "y" : 441,
+    "uid" : "615305639234",
+    "username" : "不要問你會怕",
+    "level" : 100,
+    "allianceId" : "500442349",
+    "allianceTag" : "NH47",
+    "pointId" : 226021,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4879175491625547266",
+      "players" : [ ],
+      "num" : 40,
+      "endTimeMilli" : 1791648921975
+    },
+    "cityRewardCreatedAt" : "2026-10-10T15:45:21.975Z",
+    "cityRewardSeenAt" : "2026-10-10T15:59:06.246Z",
+    "foundAt" : "2026-10-10T15:59:06.246Z",
+    "lastSeenAt" : "2026-10-10T15:59:08.315208200Z"
   } ]
 }
