@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-11T13:50:58.312309400Z",
-  "count" : 3,
+  "updatedAt" : "2026-10-11T13:52:57.121072300Z",
+  "count" : 4,
   "locations" : [ {
     "serverId" : 164,
     "x" : 647,
@@ -71,5 +71,26 @@
     "cityRewardSeenAt" : "2026-10-11T13:48:30.045Z",
     "foundAt" : "2026-10-11T13:48:30.045Z",
     "lastSeenAt" : "2026-10-11T13:48:35.504432100Z"
+  }, {
+    "serverId" : 3307,
+    "x" : 387,
+    "y" : 435,
+    "uid" : "856597256546",
+    "username" : "DaXIII",
+    "level" : 100,
+    "allianceId" : "500320440",
+    "allianceTag" : "~SIN",
+    "pointId" : 222914,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4880510597459465733",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1791728500484
+    },
+    "cityRewardCreatedAt" : "2026-10-11T13:51:40.484Z",
+    "cityRewardSeenAt" : "2026-10-11T13:52:42.893Z",
+    "foundAt" : "2026-10-11T13:52:42.893Z",
+    "lastSeenAt" : "2026-10-11T13:52:48.922101600Z"
   } ]
 }
