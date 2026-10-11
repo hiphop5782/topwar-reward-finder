@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-11T03:01:59.252432600Z",
-  "count" : 1,
+  "updatedAt" : "2026-10-11T03:03:59.251845800Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 3700,
     "x" : 388,
@@ -23,5 +23,26 @@
     "cityRewardSeenAt" : "2026-10-11T02:58:06.181Z",
     "foundAt" : "2026-10-11T02:58:06.181Z",
     "lastSeenAt" : "2026-10-11T02:58:09.665437700Z"
+  }, {
+    "serverId" : 4345,
+    "x" : 465,
+    "y" : 447,
+    "uid" : "9059274723330",
+    "username" : "YUKI😴勇気",
+    "level" : 100,
+    "allianceId" : "500442036",
+    "allianceTag" : "ef@@",
+    "pointId" : 229097,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4879852503042224646",
+      "players" : [ ],
+      "num" : 6,
+      "endTimeMilli" : 1791689275000
+    },
+    "cityRewardCreatedAt" : "2026-10-11T02:57:55.000Z",
+    "cityRewardSeenAt" : "2026-10-11T03:02:57.008Z",
+    "foundAt" : "2026-10-11T03:02:57.008Z",
+    "lastSeenAt" : "2026-10-11T03:03:00.522067600Z"
   } ]
 }
