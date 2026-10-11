@@ -1,6 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-11T15:08:59.516530500Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-10-11T15:10:00.987186600Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 680,
+    "x" : 554,
+    "y" : 356,
+    "uid" : "536494908137",
+    "username" : "こーくん",
+    "level" : 100,
+    "allianceId" : "401583",
+    "allianceTag" : "Kafu",
+    "pointId" : 182550,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4880584721631105027",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1791732918629
+    },
+    "cityRewardCreatedAt" : "2026-10-11T15:05:18.629Z",
+    "cityRewardSeenAt" : "2026-10-11T15:09:52.357Z",
+    "foundAt" : "2026-10-11T15:09:52.357Z",
+    "lastSeenAt" : "2026-10-11T15:09:59.915345500Z"
+  } ]
 }
