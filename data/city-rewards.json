@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-11T23:11:00.885898700Z",
-  "count" : 2,
+  "updatedAt" : "2026-10-11T23:12:59.134117400Z",
+  "count" : 3,
   "locations" : [ {
     "serverId" : 1175,
     "x" : 458,
@@ -44,5 +44,26 @@
     "cityRewardSeenAt" : "2026-10-11T22:51:43.850Z",
     "foundAt" : "2026-10-11T22:51:43.850Z",
     "lastSeenAt" : "2026-10-11T23:07:14.482106300Z"
+  }, {
+    "serverId" : 2622,
+    "x" : 253,
+    "y" : 489,
+    "uid" : "905222765118",
+    "username" : "Muhammed",
+    "level" : 100,
+    "allianceId" : "500219447",
+    "allianceTag" : "ZFkG",
+    "pointId" : 250495,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4881073698306817026",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1791762063910
+    },
+    "cityRewardCreatedAt" : "2026-10-11T23:11:03.910Z",
+    "cityRewardSeenAt" : "2026-10-11T23:11:39.858Z",
+    "foundAt" : "2026-10-11T23:11:39.858Z",
+    "lastSeenAt" : "2026-10-11T23:11:47.452304400Z"
   } ]
 }
