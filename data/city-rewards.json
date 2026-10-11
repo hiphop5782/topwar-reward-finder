@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-11T12:30:58.780338100Z",
-  "count" : 4,
+  "updatedAt" : "2026-10-11T12:32:59.109904600Z",
+  "count" : 5,
   "locations" : [ {
     "serverId" : 73,
     "x" : 603,
@@ -57,6 +57,27 @@
     "foundAt" : "2026-10-11T12:28:25.879Z",
     "lastSeenAt" : "2026-10-11T12:28:29.763482600Z"
   }, {
+    "serverId" : 211,
+    "x" : 410,
+    "y" : 340,
+    "uid" : "222385393891",
+    "username" : "カズさん",
+    "level" : 100,
+    "allianceId" : "152684",
+    "allianceTag" : "eopp",
+    "pointId" : 174286,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4880428578698798594",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1791723611785
+    },
+    "cityRewardCreatedAt" : "2026-10-11T12:30:11.785Z",
+    "cityRewardSeenAt" : "2026-10-11T12:31:03.440Z",
+    "foundAt" : "2026-10-11T12:31:03.440Z",
+    "lastSeenAt" : "2026-10-11T12:31:09.242286Z"
+  }, {
     "serverId" : 1816,
     "x" : 396,
     "y" : 588,
@@ -78,25 +99,25 @@
     "foundAt" : "2026-10-11T12:18:52.094Z",
     "lastSeenAt" : "2026-10-11T12:24:32.938126400Z"
   }, {
-    "serverId" : 1816,
-    "x" : 398,
-    "y" : 594,
-    "uid" : "897635695144",
-    "username" : "ウルド",
+    "serverId" : 3396,
+    "x" : 340,
+    "y" : 474,
+    "uid" : "627301885290",
+    "username" : "golfer",
     "level" : 100,
-    "allianceId" : "400073952",
-    "allianceTag" : "Ygg7",
-    "pointId" : 304328,
+    "allianceId" : "500331117",
+    "allianceTag" : "96Z",
+    "pointId" : 242859,
     "cityReward" : {
-      "itemId" : 260617004,
-      "instanceId" : "4880400136503439360",
+      "itemId" : 260617002,
+      "instanceId" : "4880404962453653512",
       "players" : [ ],
-      "num" : 300,
-      "endTimeMilli" : 1791721916498
+      "num" : 50,
+      "endTimeMilli" : 1791722204147
     },
-    "cityRewardCreatedAt" : "2026-10-11T12:01:56.498Z",
-    "cityRewardSeenAt" : "2026-10-11T12:18:52.094Z",
-    "foundAt" : "2026-10-11T12:18:52.094Z",
-    "lastSeenAt" : "2026-10-11T12:24:32.938126400Z"
+    "cityRewardCreatedAt" : "2026-10-11T12:06:44.147Z",
+    "cityRewardSeenAt" : "2026-10-11T12:32:36.764Z",
+    "foundAt" : "2026-10-11T12:32:36.764Z",
+    "lastSeenAt" : "2026-10-11T12:32:42.694439800Z"
   } ]
 }
