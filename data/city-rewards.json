@@ -1,8 +1,29 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-11T23:06:59.838089100Z",
-  "count" : 1,
+  "updatedAt" : "2026-10-11T23:08:59.892139Z",
+  "count" : 2,
   "locations" : [ {
+    "serverId" : 1175,
+    "x" : 458,
+    "y" : 300,
+    "uid" : "527428462254",
+    "username" : "DrTodd",
+    "level" : 100,
+    "allianceId" : "200143136",
+    "allianceTag" : "GS75",
+    "pointId" : 153830,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4881060512957804035",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1791761278002
+    },
+    "cityRewardCreatedAt" : "2026-10-11T22:57:58.002Z",
+    "cityRewardSeenAt" : "2026-10-11T23:07:45.362Z",
+    "foundAt" : "2026-10-11T23:07:45.362Z",
+    "lastSeenAt" : "2026-10-11T23:08:47.736446500Z"
+  }, {
     "serverId" : 2610,
     "x" : 387,
     "y" : 531,
@@ -22,6 +43,6 @@
     "cityRewardCreatedAt" : "2026-10-11T22:49:29.962Z",
     "cityRewardSeenAt" : "2026-10-11T22:51:43.850Z",
     "foundAt" : "2026-10-11T22:51:43.850Z",
-    "lastSeenAt" : "2026-10-11T23:03:41.149912Z"
+    "lastSeenAt" : "2026-10-11T23:07:14.482106300Z"
   } ]
 }
