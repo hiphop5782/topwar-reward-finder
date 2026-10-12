@@ -1,6 +1,6 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-12T05:02:59.973067600Z",
+  "updatedAt" : "2026-10-12T05:04:59.337814500Z",
   "count" : 1,
   "locations" : [ {
     "serverId" : 836,
@@ -15,13 +15,19 @@
     "cityReward" : {
       "itemId" : 260617001,
       "instanceId" : "4881418731701831683",
-      "players" : [ ],
-      "num" : 4,
+      "players" : [ {
+        "frameId" : 159,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/fa069d649c64f7a0487297a73bd7185e_1743414324.jpg?v=1743414326559\",\"https://knight-cdn.akamaized.net/headimg/fa069d649c64f7a0487297a73bd7185e_1749119894.jpg?v=1749119896920\"],\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/fa069d649c64f7a0487297a73bd7185e_1743414324.jpg?v=1743414326559\",\"username\":\"Cavalni\"}"
+      }, {
+        "frameId" : 157,
+        "playerInfo" : "{\"nationalflag\":105,\"gender\":0,\"avatarurl\":\"headIcon_1_1\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"username\":\"SHINCHAN\"}"
+      } ],
+      "num" : 6,
       "endTimeMilli" : 1791782629503
     },
     "cityRewardCreatedAt" : "2026-10-12T04:53:49.503Z",
     "cityRewardSeenAt" : "2026-10-12T04:58:43.654Z",
     "foundAt" : "2026-10-12T04:58:43.654Z",
-    "lastSeenAt" : "2026-10-12T04:58:49.774442300Z"
+    "lastSeenAt" : "2026-10-12T05:03:57.873129700Z"
   } ]
 }
