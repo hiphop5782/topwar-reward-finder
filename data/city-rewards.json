@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-12T11:22:59.438390200Z",
-  "count" : 1,
+  "updatedAt" : "2026-10-12T11:24:59.663492200Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 1313,
     "x" : 459,
@@ -23,5 +23,26 @@
     "cityRewardSeenAt" : "2026-10-12T11:16:23.548Z",
     "foundAt" : "2026-10-12T11:16:23.548Z",
     "lastSeenAt" : "2026-10-12T11:16:29.001131200Z"
+  }, {
+    "serverId" : 2747,
+    "x" : 433,
+    "y" : 661,
+    "uid" : "803846174831",
+    "username" : "Niba",
+    "level" : 100,
+    "allianceId" : "500251922",
+    "allianceTag" : "747S",
+    "pointId" : 338649,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4881795443418560005",
+      "players" : [ ],
+      "num" : 3,
+      "endTimeMilli" : 1791805083271
+    },
+    "cityRewardCreatedAt" : "2026-10-12T11:08:03.271Z",
+    "cityRewardSeenAt" : "2026-10-12T11:23:19.694Z",
+    "foundAt" : "2026-10-12T11:23:19.694Z",
+    "lastSeenAt" : "2026-10-12T11:23:20.577439100Z"
   } ]
 }
