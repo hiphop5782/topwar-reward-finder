@@ -1,8 +1,29 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-12T16:02:56.867771400Z",
-  "count" : 1,
+  "updatedAt" : "2026-10-12T16:04:58.689197300Z",
+  "count" : 4,
   "locations" : [ {
+    "serverId" : 2147,
+    "x" : 433,
+    "y" : 693,
+    "uid" : "924959771311",
+    "username" : "パンᒼᑋªⁿ🍞",
+    "level" : 100,
+    "allianceId" : "400257393",
+    "allianceTag" : "SGSG",
+    "pointId" : 355033,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4882092701577692677",
+      "players" : [ ],
+      "num" : 78,
+      "endTimeMilli" : 1791822801238
+    },
+    "cityRewardCreatedAt" : "2026-10-12T16:03:21.238Z",
+    "cityRewardSeenAt" : "2026-10-12T16:04:50.707Z",
+    "foundAt" : "2026-10-12T16:04:50.707Z",
+    "lastSeenAt" : "2026-10-12T16:04:53.146204700Z"
+  }, {
     "serverId" : 2826,
     "x" : 361,
     "y" : 503,
@@ -23,5 +44,47 @@
     "cityRewardSeenAt" : "2026-10-12T15:58:46.940Z",
     "foundAt" : "2026-10-12T15:58:46.940Z",
     "lastSeenAt" : "2026-10-12T15:59:33.769710600Z"
+  }, {
+    "serverId" : 4360,
+    "x" : 405,
+    "y" : 579,
+    "uid" : "9224689029231",
+    "username" : "Mr0",
+    "level" : 100,
+    "allianceId" : "500445760",
+    "allianceTag" : "1BDE",
+    "pointId" : 296651,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4882081786221432837",
+      "players" : [ ],
+      "num" : 117,
+      "endTimeMilli" : 1791822150632
+    },
+    "cityRewardCreatedAt" : "2026-10-12T15:52:30.632Z",
+    "cityRewardSeenAt" : "2026-10-12T16:04:05.495Z",
+    "foundAt" : "2026-10-12T16:04:05.495Z",
+    "lastSeenAt" : "2026-10-12T16:04:08.001312300Z"
+  }, {
+    "serverId" : 4360,
+    "x" : 410,
+    "y" : 398,
+    "uid" : "9233332539505",
+    "username" : "YukeFeld",
+    "level" : 100,
+    "allianceId" : "500446117",
+    "allianceTag" : "2BDE",
+    "pointId" : 203982,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4882081994929999879",
+      "players" : [ ],
+      "num" : 532,
+      "endTimeMilli" : 1791822163072
+    },
+    "cityRewardCreatedAt" : "2026-10-12T15:52:43.072Z",
+    "cityRewardSeenAt" : "2026-10-12T16:04:03.866Z",
+    "foundAt" : "2026-10-12T16:04:03.866Z",
+    "lastSeenAt" : "2026-10-12T16:04:08.001312300Z"
   } ]
 }
