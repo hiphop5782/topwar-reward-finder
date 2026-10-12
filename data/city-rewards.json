@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-12T05:20:59.715074Z",
-  "count" : 1,
+  "updatedAt" : "2026-10-12T05:22:59.591606200Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 836,
     "x" : 354,
@@ -35,5 +35,26 @@
     "cityRewardSeenAt" : "2026-10-12T04:58:43.654Z",
     "foundAt" : "2026-10-12T04:58:43.654Z",
     "lastSeenAt" : "2026-10-12T05:12:43.525957100Z"
+  }, {
+    "serverId" : 2610,
+    "x" : 387,
+    "y" : 531,
+    "uid" : "903579200060",
+    "username" : "WarGabbo",
+    "level" : 100,
+    "allianceId" : "500213604",
+    "allianceTag" : "DWA~",
+    "pointId" : 272066,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4881443916753429505",
+      "players" : [ ],
+      "num" : 1,
+      "endTimeMilli" : 1791784130649
+    },
+    "cityRewardCreatedAt" : "2026-10-12T05:18:50.649Z",
+    "cityRewardSeenAt" : "2026-10-12T05:21:44.669Z",
+    "foundAt" : "2026-10-12T05:21:44.669Z",
+    "lastSeenAt" : "2026-10-12T05:21:52.693836200Z"
   } ]
 }
