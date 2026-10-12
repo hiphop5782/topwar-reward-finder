@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-12T05:28:59.975216Z",
-  "count" : 1,
+  "updatedAt" : "2026-10-12T05:30:59.918123700Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 2610,
     "x" : 387,
@@ -23,5 +23,26 @@
     "cityRewardSeenAt" : "2026-10-12T05:21:44.669Z",
     "foundAt" : "2026-10-12T05:21:44.669Z",
     "lastSeenAt" : "2026-10-12T05:25:15.863929100Z"
+  }, {
+    "serverId" : 3016,
+    "x" : 404,
+    "y" : 590,
+    "uid" : "7728210283464",
+    "username" : "Stones🦍",
+    "level" : 100,
+    "allianceId" : "500303376",
+    "allianceTag" : "WA-1",
+    "pointId" : 302283,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4881447123349377029",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1791784321777
+    },
+    "cityRewardCreatedAt" : "2026-10-12T05:22:01.777Z",
+    "cityRewardSeenAt" : "2026-10-12T05:30:15.647Z",
+    "foundAt" : "2026-10-12T05:30:15.647Z",
+    "lastSeenAt" : "2026-10-12T05:30:26.103960800Z"
   } ]
 }
