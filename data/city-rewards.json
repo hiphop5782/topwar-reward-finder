@@ -1,8 +1,41 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-13T12:23:59.735163300Z",
-  "count" : 2,
+  "updatedAt" : "2026-10-13T12:25:57.956499100Z",
+  "count" : 3,
   "locations" : [ {
+    "serverId" : 836,
+    "x" : 354,
+    "y" : 436,
+    "uid" : "492223514202",
+    "username" : "CLOUD⛅",
+    "level" : 100,
+    "allianceId" : "471545",
+    "allianceTag" : "ZOOF",
+    "pointId" : 223410,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4883317261982926851",
+      "players" : [ {
+        "frameId" : 52,
+        "playerInfo" : "{\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"hero_icon017_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":0,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/589883348168.jpg?v=1681467962204\",\"username\":\"BNHoan\"}"
+      }, {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/5cc2859973cdecb2f08f8455feaacc7f_1752164289.jpg?v=1752164291567\",\"https://knight-cdn.akamaized.net/headimg/5cc2859973cdecb2f08f8455feaacc7f_1744299794.jpg?v=1744299796041\",\"https://knight-cdn.akamaized.net/headimg/5cc2859973cdecb2f08f8455feaacc7f_1744715836.jpg?v=1744715838225\",\"https://knight-cdn.akamaized.net/headimg/5cc2859973cdecb2f08f8455feaacc7f_1752131540.jpg?v=1752131542736\"],\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/5cc2859973cdecb2f08f8455feaacc7f_1752164289.jpg?v=1752164291567\",\"username\":\"MARVEL\"}"
+      }, {
+        "frameId" : 114,
+        "playerInfo" : "{\"nationalflag\":225,\"gender\":0,\"avatarurl\":\"hero_icon215_global\",\"nickname\":null,\"headimgurl\":null,\"usergender\":1,\"username\":\"Yesni\"}"
+      }, {
+        "frameId" : 128,
+        "playerInfo" : "{\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"hero_icon335_global\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"username\":\"SonGoku\"}"
+      } ],
+      "num" : 16,
+      "endTimeMilli" : 1791895790726
+    },
+    "cityRewardCreatedAt" : "2026-10-13T12:19:50.726Z",
+    "cityRewardSeenAt" : "2026-10-13T12:24:15.303Z",
+    "foundAt" : "2026-10-13T12:24:15.303Z",
+    "lastSeenAt" : "2026-10-13T12:24:20.894204900Z"
+  }, {
     "serverId" : 1816,
     "x" : 396,
     "y" : 588,
