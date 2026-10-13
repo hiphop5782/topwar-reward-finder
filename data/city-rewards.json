@@ -1,8 +1,29 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-13T16:24:57.555866300Z",
-  "count" : 32,
+  "updatedAt" : "2026-10-13T16:26:57.318041300Z",
+  "count" : 34,
   "locations" : [ {
+    "serverId" : 247,
+    "x" : 572,
+    "y" : 644,
+    "uid" : "246783516933",
+    "username" : "3104",
+    "level" : 100,
+    "allianceId" : "100000089",
+    "allianceTag" : "nuko",
+    "pointId" : 330015,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4883564227601755650",
+      "players" : [ ],
+      "num" : 5,
+      "endTimeMilli" : 1791910511024
+    },
+    "cityRewardCreatedAt" : "2026-10-13T16:25:11.024Z",
+    "cityRewardSeenAt" : "2026-10-13T16:25:50.365Z",
+    "foundAt" : "2026-10-13T16:25:50.365Z",
+    "lastSeenAt" : "2026-10-13T16:25:55.179238900Z"
+  }, {
     "serverId" : 341,
     "x" : 410,
     "y" : 344,
@@ -583,13 +604,34 @@
       "itemId" : 260617002,
       "instanceId" : "4883548295069882370",
       "players" : [ ],
-      "num" : 4275,
+      "num" : 5779,
       "endTimeMilli" : 1791909561371
     },
     "cityRewardCreatedAt" : "2026-10-13T16:09:21.371Z",
     "cityRewardSeenAt" : "2026-10-13T16:17:24.656Z",
     "foundAt" : "2026-10-13T16:17:24.656Z",
-    "lastSeenAt" : "2026-10-13T16:17:31.619219800Z"
+    "lastSeenAt" : "2026-10-13T16:25:59.948865100Z"
+  }, {
+    "serverId" : 3885,
+    "x" : 420,
+    "y" : 528,
+    "uid" : "8209605528959",
+    "username" : "MrCrabby",
+    "level" : 100,
+    "allianceId" : "500380761",
+    "allianceTag" : "TIMs",
+    "pointId" : 270547,
+    "cityReward" : {
+      "itemId" : 260617003,
+      "instanceId" : "4883563899122506241",
+      "players" : [ ],
+      "num" : 205,
+      "endTimeMilli" : 1791910491445
+    },
+    "cityRewardCreatedAt" : "2026-10-13T16:24:51.445Z",
+    "cityRewardSeenAt" : "2026-10-13T16:26:12.311Z",
+    "foundAt" : "2026-10-13T16:26:12.311Z",
+    "lastSeenAt" : "2026-10-13T16:26:17.174361100Z"
   }, {
     "serverId" : 4122,
     "x" : 440,
