@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-13T05:20:59.987863200Z",
-  "count" : 1,
+  "updatedAt" : "2026-10-13T05:22:58.950981400Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 193,
     "x" : 348,
@@ -23,5 +23,26 @@
     "cityRewardSeenAt" : "2026-10-13T05:14:56.849Z",
     "foundAt" : "2026-10-13T05:14:56.849Z",
     "lastSeenAt" : "2026-10-13T05:15:00.184165400Z"
+  }, {
+    "serverId" : 2682,
+    "x" : 492,
+    "y" : 526,
+    "uid" : "914833631866",
+    "username" : "THOR⚡",
+    "level" : 100,
+    "allianceId" : "500233439",
+    "allianceTag" : "YB82",
+    "pointId" : 269559,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4882877324826309639",
+      "players" : [ ],
+      "num" : 4,
+      "endTimeMilli" : 1791869568428
+    },
+    "cityRewardCreatedAt" : "2026-10-13T05:02:48.428Z",
+    "cityRewardSeenAt" : "2026-10-13T05:22:01.374Z",
+    "foundAt" : "2026-10-13T05:22:01.374Z",
+    "lastSeenAt" : "2026-10-13T05:22:07.068959800Z"
   } ]
 }
