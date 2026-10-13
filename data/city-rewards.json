@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-13T16:14:59.560276200Z",
-  "count" : 23,
+  "updatedAt" : "2026-10-13T16:16:57.672913900Z",
+  "count" : 25,
   "locations" : [ {
     "serverId" : 341,
     "x" : 410,
@@ -191,6 +191,27 @@
     "cityRewardSeenAt" : "2026-10-13T16:14:09.952Z",
     "foundAt" : "2026-10-13T16:14:09.952Z",
     "lastSeenAt" : "2026-10-13T16:14:14.812267400Z"
+  }, {
+    "serverId" : 2501,
+    "x" : 418,
+    "y" : 556,
+    "uid" : "548925260776",
+    "username" : "フーテンの鷹🦅",
+    "level" : 100,
+    "allianceId" : "500179702",
+    "allianceTag" : "S7th",
+    "pointId" : 284882,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4883545061596563974",
+      "players" : [ ],
+      "num" : 24,
+      "endTimeMilli" : 1791909368641
+    },
+    "cityRewardCreatedAt" : "2026-10-13T16:06:08.641Z",
+    "cityRewardSeenAt" : "2026-10-13T16:16:41.762Z",
+    "foundAt" : "2026-10-13T16:16:41.762Z",
+    "lastSeenAt" : "2026-10-13T16:16:47.470096Z"
   }, {
     "serverId" : 2826,
     "x" : 361,
@@ -469,13 +490,34 @@
       "itemId" : 260617004,
       "instanceId" : "4883536562377283081",
       "players" : [ ],
-      "num" : 0,
+      "num" : 6438,
       "endTimeMilli" : 1791908862048
     },
     "cityRewardCreatedAt" : "2026-10-13T15:57:42.048Z",
     "cityRewardSeenAt" : "2026-10-13T15:57:58.426Z",
     "foundAt" : "2026-10-13T15:57:58.426Z",
-    "lastSeenAt" : "2026-10-13T15:58:06.245979800Z"
+    "lastSeenAt" : "2026-10-13T16:16:12.464895Z"
+  }, {
+    "serverId" : 4267,
+    "x" : 383,
+    "y" : 331,
+    "uid" : "9309911388345",
+    "username" : "Vandelay",
+    "level" : 100,
+    "allianceId" : "500426287",
+    "allianceTag" : "K0Cs",
+    "pointId" : 169664,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4883537956815590913",
+      "players" : [ ],
+      "num" : 6511,
+      "endTimeMilli" : 1791908945163
+    },
+    "cityRewardCreatedAt" : "2026-10-13T15:59:05.163Z",
+    "cityRewardSeenAt" : "2026-10-13T16:16:04.636Z",
+    "foundAt" : "2026-10-13T16:16:04.636Z",
+    "lastSeenAt" : "2026-10-13T16:16:12.464895Z"
   }, {
     "serverId" : 4317,
     "x" : 382,
