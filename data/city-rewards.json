@@ -1,6 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-13T05:14:56.868932500Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-10-13T05:16:56.420167800Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 193,
+    "x" : 348,
+    "y" : 696,
+    "uid" : "260707832001",
+    "username" : "二等兵",
+    "level" : 100,
+    "allianceId" : "127358",
+    "allianceTag" : "-193",
+    "pointId" : 356527,
+    "cityReward" : {
+      "itemId" : 260617002,
+      "instanceId" : "4882871163627340291",
+      "players" : [ ],
+      "num" : 2,
+      "endTimeMilli" : 1791869201192
+    },
+    "cityRewardCreatedAt" : "2026-10-13T04:56:41.192Z",
+    "cityRewardSeenAt" : "2026-10-13T05:14:56.849Z",
+    "foundAt" : "2026-10-13T05:14:56.849Z",
+    "lastSeenAt" : "2026-10-13T05:15:00.184165400Z"
+  } ]
 }
