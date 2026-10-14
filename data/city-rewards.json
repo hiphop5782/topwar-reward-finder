@@ -1,8 +1,29 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-14T16:04:59.901198100Z",
-  "count" : 5,
+  "updatedAt" : "2026-10-14T16:06:59.986845100Z",
+  "count" : 7,
   "locations" : [ {
+    "serverId" : 680,
+    "x" : 554,
+    "y" : 332,
+    "uid" : "133534257292",
+    "username" : "ルヴァン",
+    "level" : 100,
+    "allianceId" : "401583",
+    "allianceTag" : "Kafu",
+    "pointId" : 170262,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4884990514283499523",
+      "players" : [ ],
+      "num" : 314,
+      "endTimeMilli" : 1791995524335
+    },
+    "cityRewardCreatedAt" : "2026-10-14T16:02:04.335Z",
+    "cityRewardSeenAt" : "2026-10-14T16:05:16.475Z",
+    "foundAt" : "2026-10-14T16:05:16.475Z",
+    "lastSeenAt" : "2026-10-14T16:06:46.503349400Z"
+  }, {
     "serverId" : 2826,
     "x" : 361,
     "y" : 503,
@@ -16,13 +37,13 @@
       "itemId" : 260617004,
       "instanceId" : "4884985571850982408",
       "players" : [ ],
-      "num" : 1036,
+      "num" : 2327,
       "endTimeMilli" : 1791995229743
     },
     "cityRewardCreatedAt" : "2026-10-14T15:57:09.743Z",
     "cityRewardSeenAt" : "2026-10-14T16:03:27.167Z",
     "foundAt" : "2026-10-14T16:03:27.167Z",
-    "lastSeenAt" : "2026-10-14T16:04:23.324503900Z"
+    "lastSeenAt" : "2026-10-14T16:06:23.759043Z"
   }, {
     "serverId" : 4267,
     "x" : 383,
@@ -86,6 +107,27 @@
     "cityRewardSeenAt" : "2026-10-14T16:00:53.474Z",
     "foundAt" : "2026-10-14T16:00:53.474Z",
     "lastSeenAt" : "2026-10-14T16:00:55.348671600Z"
+  }, {
+    "serverId" : 4359,
+    "x" : 392,
+    "y" : 586,
+    "uid" : "8517916757584",
+    "username" : "Minke🐳",
+    "level" : 100,
+    "allianceId" : "500445157",
+    "allianceTag" : "7DS^",
+    "pointId" : 300229,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4884989637558406659",
+      "players" : [ ],
+      "num" : 2426,
+      "endTimeMilli" : 1791995472078
+    },
+    "cityRewardCreatedAt" : "2026-10-14T16:01:12.078Z",
+    "cityRewardSeenAt" : "2026-10-14T16:06:03.700Z",
+    "foundAt" : "2026-10-14T16:06:03.700Z",
+    "lastSeenAt" : "2026-10-14T16:06:25.961161500Z"
   }, {
     "serverId" : 4360,
     "x" : 404,
