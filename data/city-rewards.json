@@ -1,6 +1,27 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-14T12:15:58.402610100Z",
-  "count" : 0,
-  "locations" : [ ]
+  "updatedAt" : "2026-10-14T12:17:55.973213200Z",
+  "count" : 1,
+  "locations" : [ {
+    "serverId" : 1816,
+    "x" : 398,
+    "y" : 594,
+    "uid" : "897635695144",
+    "username" : "ウルド",
+    "level" : 100,
+    "allianceId" : "400073952",
+    "allianceTag" : "Ygg7",
+    "pointId" : 304328,
+    "cityReward" : {
+      "itemId" : 260617004,
+      "instanceId" : "4884750310705082368",
+      "players" : [ ],
+      "num" : 162,
+      "endTimeMilli" : 1791981207086
+    },
+    "cityRewardCreatedAt" : "2026-10-14T12:03:27.086Z",
+    "cityRewardSeenAt" : "2026-10-14T12:16:27.777Z",
+    "foundAt" : "2026-10-14T12:16:27.777Z",
+    "lastSeenAt" : "2026-10-14T12:16:29.938555800Z"
+  } ]
 }
