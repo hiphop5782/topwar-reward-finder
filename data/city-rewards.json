@@ -1,7 +1,7 @@
 {
   "version" : 3,
-  "updatedAt" : "2026-10-17T04:34:56.153338600Z",
-  "count" : 1,
+  "updatedAt" : "2026-10-17T04:36:59.400405300Z",
+  "count" : 2,
   "locations" : [ {
     "serverId" : 680,
     "x" : 451,
@@ -23,5 +23,32 @@
     "cityRewardSeenAt" : "2026-10-17T04:13:03.571Z",
     "foundAt" : "2026-10-17T04:13:03.571Z",
     "lastSeenAt" : "2026-10-17T04:26:52.623543300Z"
+  }, {
+    "serverId" : 836,
+    "x" : 354,
+    "y" : 436,
+    "uid" : "492223514202",
+    "username" : "CLOUD⛅",
+    "level" : 100,
+    "allianceId" : "471545",
+    "allianceTag" : "ZOOF",
+    "pointId" : 223410,
+    "cityReward" : {
+      "itemId" : 260617001,
+      "instanceId" : "4888646921679702017",
+      "players" : [ {
+        "frameId" : 0,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/5cc2859973cdecb2f08f8455feaacc7f_1752164289.jpg?v=1752164291567\",\"https://knight-cdn.akamaized.net/headimg/5cc2859973cdecb2f08f8455feaacc7f_1744299794.jpg?v=1744299796041\",\"https://knight-cdn.akamaized.net/headimg/5cc2859973cdecb2f08f8455feaacc7f_1744715836.jpg?v=1744715838225\",\"https://knight-cdn.akamaized.net/headimg/5cc2859973cdecb2f08f8455feaacc7f_1752131540.jpg?v=1752131542736\"],\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":2,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/5cc2859973cdecb2f08f8455feaacc7f_1752164289.jpg?v=1752164291567\",\"username\":\"MARVEL\"}"
+      }, {
+        "frameId" : 167,
+        "playerInfo" : "{\"moreHeadImgs\":[\"https://knight-cdn.akamaized.net/headimg/41bca015291e16c552556cf3f97b411e_1744698862.jpg?v=1744698864627\",\"https://knight-cdn.akamaized.net/headimg/41bca015291e16c552556cf3f97b411e_1744871894.jpg?v=1744871895482\",\"https://knight-cdn.akamaized.net/headimg/41bca015291e16c552556cf3f97b411e_1791811523.png?v=1791811525681\",\"https://knight-cdn.akamaized.net/headimg/41bca015291e16c552556cf3f97b411e_1791894826.png?v=1791894827802\"],\"nationalflag\":241,\"gender\":0,\"avatarurl\":\"\",\"nickname\":null,\"headimgurl\":null,\"cn\":0,\"usergender\":1,\"headimgurl_custom\":\"https://knight-cdn.akamaized.net/headimg/41bca015291e16c552556cf3f97b411e_1791894826.png?v=1791894827802\",\"username\":\"CLOUD⛅\"}"
+      } ],
+      "num" : 2,
+      "endTimeMilli" : 1792213463199
+    },
+    "cityRewardCreatedAt" : "2026-10-17T04:34:23.199Z",
+    "cityRewardSeenAt" : "2026-10-17T04:35:01.703Z",
+    "foundAt" : "2026-10-17T04:35:01.703Z",
+    "lastSeenAt" : "2026-10-17T04:36:24.193756200Z"
   } ]
 }
